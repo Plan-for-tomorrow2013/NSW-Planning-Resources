@@ -51,6 +51,15 @@ already well-scoped; splitting finer fragments cross-references unnecessarily).
   listing.
 - Keep the slug short but unambiguous — drop filler words ("in Residential Zones" →
   omit if the parent folder already scopes to residential).
+- **Cap slugs at ~50 characters**, even when the source section title is long. Several
+  folder levels deep (`dcp/{council}/{chapter}/{scope}/{sub-document}/{file}.md`) plus a
+  user's own local repo path can exceed Windows' 260-character path limit, causing
+  "Path too long" errors on extract/copy. Long section titles should be shortened to
+  their key terms rather than transcribed in full — e.g. "Incentives for Conversion of
+  First Floor Space to Residential Accommodation in Hurlstone Park Village Centre"
+  → `19-hurlstone-park-first-floor-incentives.md`, not a verbatim slug of the whole
+  title. The full title still belongs in the file's front matter and its `# Heading`,
+  where length doesn't cause filesystem problems — only the filename needs trimming.
 
 ### When to nest a document in its own folder vs keep it as a flat file
 
