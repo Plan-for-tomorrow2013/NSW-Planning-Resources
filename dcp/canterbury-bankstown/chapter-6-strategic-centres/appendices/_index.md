@@ -1,9 +1,9 @@
----
+﻿---
 title: "Canterbury-Bankstown DCP 2023 — Chapter 6 Strategic Centres — Appendices / Figures Log"
 council: Canterbury-Bankstown
 document_type: DCP
 chapter: "6"
-last_verified: 2026-08-22
+last_verified: 2026-08-31
 ---
 
 ## Figures and maps not yet converted to image assets
@@ -39,7 +39,7 @@ None of these are separate PDF appendices — they are figures embedded within t
 
 ### From Chapter 6.2 — Bankstown City Centre (`../bankstown-city-centre/`)
 
-Conversion in progress, working through in document order. Figures logged as each section is converted.
+All textual content in Chapter 6.2 is converted. This central log retains the figures recorded during conversion; the complete 97-entry source figures list is in `../bankstown-city-centre/appendix-1-definitions-figures.md`.
 
 | Figure | Referenced in | Description |
 |---|---|---|
@@ -55,7 +55,7 @@ Conversion in progress, working through in document order. Figures logged as eac
 | 10 | [section-2-understanding-place/08-high-density.md](../bankstown-city-centre/section-2-understanding-place/08-high-density.md) | Axonometric view of High Density character area |
 | 11 | [section-2-understanding-place/09-terraces-and-apartments.md](../bankstown-city-centre/section-2-understanding-place/09-terraces-and-apartments.md) | Axonometric view of Terraces and Apartments character area |
 
-Remaining figures for Sections 5-6, Part 5 and Appendix 1 not yet logged — that content hasn't been converted yet (221-page document, see `../bankstown-city-centre/_index.md`).
+Figures from Sections 5—6, Part 5, and Appendix 1 are documented inline in their converted files and in the 6.2 Appendix 1 figures list; they have not yet been converted to image assets.
 
 ### From Chapter 6.2 Section 4 — Built Form (`../bankstown-city-centre/section-4-built-form/`)
 
@@ -94,3 +94,7 @@ Remaining figures for Sections 5-6, Part 5 and Appendix 1 not yet logged — tha
 | 66 | [4.5.3](../bankstown-city-centre/section-4-built-form/13-active-frontage-design.md) | Active street frontage design guidance table (transcribed in full) |
 
 > Note: Figures 55, 58–61, 63, and 65 were not encountered/referenced in the text extracted for Section 4 subsections 4.1–4.8 as converted — likely embedded as unnumbered images or belonging to figure numbers not directly cited in body text. Not a gap in conversion per se, but flagged in case a future pass over the raw PDF pages turns up a missed citation.
+
+
+
+

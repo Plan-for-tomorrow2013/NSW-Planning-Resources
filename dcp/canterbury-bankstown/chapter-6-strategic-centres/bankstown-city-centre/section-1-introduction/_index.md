@@ -1,9 +1,9 @@
----
+﻿---
 title: "Canterbury-Bankstown DCP 2023 — Chapter 6.2 Bankstown City Centre — Section 1 Introduction — Index"
 council: Canterbury-Bankstown
 document_type: DCP
 chapter: "6.2"
-last_verified: 2026-08-22
+last_verified: 2026-08-31
 ---
 
 ## Section 1 — Introduction
@@ -17,5 +17,8 @@ last_verified: 2026-08-22
 ### Notes
 
 - Contains no numbered clauses (C1, C2...) — purely explanatory/framework content, so no `clause_range` front matter on any of these three files.
-- 1.3 introduces the **Objectives / Principles / Controls** three-tier structure used throughout the rest of 6.2 — this is a structural departure from 6.1 and 6.3, which only use Objectives and Controls (no Principles tier). Flagged in `03-how-to-read-this-dcp.md` since it affects how every remaining section of 6.2 needs to be transcribed.
+- 1.3 introduces the **Objectives / Principles / Controls** three-tier structure used throughout the rest of 6.2 — this is a structural departure from 6.1 and 6.3, which only use Objectives and Controls (no Principles tier). Flagged in `03-how-to-read-this-dcp.md` and is reflected across the completed conversion.
 - Figure 1 (Bankstown City Centre Boundary map) logged in the chapter-level [`appendices/_index.md`](../../appendices/_index.md).
+
+
+

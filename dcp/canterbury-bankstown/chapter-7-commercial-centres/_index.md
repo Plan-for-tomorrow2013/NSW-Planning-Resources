@@ -1,9 +1,9 @@
----
+﻿---
 title: "Chapter 7 — Commercial Centres"
 council: Canterbury-Bankstown
 document_type: DCP
 chapter: "7"
-last_verified: 2026-08-27
+last_verified: 2026-08-31
 tags: [commercial-centres, chapter-index, complete]
 ---
 
@@ -55,4 +55,7 @@ Council's own Contents screenshot lists seven numbered sub-chapters:
 
 1. **Chapter 7 is complete** — no sub-chapters remain outstanding. Recommend a final cross-chapter reconciliation pass (not yet done) covering: the 7.6/7.7 amendment-date discrepancies, the 7.5/7.6 shared B2/E1 zone-name mismatch, and the 7.5/7.6 shared duplicated-controls pattern in the sustainability sections — these look like genuine Council document-production errors that recur across independently-issued chapters, worth raising with Council as a batch rather than three unrelated one-offs.
 2. **One outstanding filename fix remains in 7.5**: `06-connecting-to-country.md` needs renaming to `10-connecting-to-country.md` due to a numbering collision — see `canterbury-local-centre/_index.md`. This could not be actioned without that file's actual content.
-3. With Chapter 7 done, attention can move to the other in-progress chapters in this repo: Chapter 2 (1 of 4 sub-chapters), Chapter 6 (6.2 Bankstown City Centre in progress), per the top-level `../_index.md`.
+3. With Chapter 7 done, the remaining unstarted work is Chapters 1 and 8—11, plus Supporting Guides. Chapter 2 has 4 of 4 sub-chapters converted pending source-set verification; Chapter 6 is complete.
+
+
+

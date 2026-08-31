@@ -1,9 +1,9 @@
----
+﻿---
 title: "Canterbury-Bankstown DCP 2023 — Chapter 6.2 Bankstown City Centre — Section 2 Understanding Place — Index"
 council: Canterbury-Bankstown
 document_type: DCP
 chapter: "6.2"
-last_verified: 2026-08-22
+last_verified: 2026-08-31
 ---
 
 ## Section 2 — Understanding Place
@@ -30,3 +30,6 @@ last_verified: 2026-08-22
 - **Undefined acronym**: "CWCF" (used in 2.2, clearly = Connecting with Country Framework per O1's full name) is not spelt out inline in the pages converted for this subsection. May be defined in Appendix 1 (Definitions) — not yet converted.
 - **Key Sites (KS1–KS9)** are referenced throughout these figures but Section 6 (Key Sites) has not been converted yet — cross-references are noted but not yet resolvable to full key site descriptions.
 - **Figures**: all figures (2, 3 [caption not fully captured — recommend spot-checking against source], 4–11) logged in the chapter-level [`appendices/_index.md`](../../appendices/_index.md).
+
+
+
