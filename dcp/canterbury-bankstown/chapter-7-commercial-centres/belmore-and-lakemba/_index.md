@@ -6,7 +6,7 @@ chapter: "7.6"
 effective_date: 2026-06-22
 amended_date: 2026-06-22
 last_verified: 2026-08-26
-tags: [belmore, lakemba, area-specific-dcp, key-sites, in-progress, supersedes-7-3-sections-3-and-8]
+tags: [belmore, lakemba, area-specific-dcp, key-sites, complete, supersedes-7-3-sections-3-and-8, tree-canopy, public-domain, flood-controls, sustainability]
 ---
 
 ## Chapter 7.6 — Belmore and Lakemba Precinct
@@ -15,68 +15,57 @@ Standalone, area-specific DCP chapter for the Belmore and Lakemba Precinct — i
 
 **Clause 1.1 (Application of this Chapter)** confirms the Precinct is comprised of the two local centres Belmore and Lakemba, and that this chapter **prevails over other CBDCP 2023 chapters to the extent of any inconsistency, except Chapter 4 Heritage** — the same precedence pattern confirmed directly in Chapter 7.7 (Punchbowl and Wiley Park) and (presumably, by template similarity) Chapter 7.5 (Canterbury).
 
-**Status: in progress — 2 of 7 sections converted (Introduction; Understanding Place). Sections 3–7 (Public domain design, Building design, General provisions, Key Sites, Appendix — pages 40–142) remain outstanding.**
+**Status: complete — 7 of 7 sections converted.**
 
-### Converted so far
+### Converted sections
 
 | Section | Folder | Pages | Status |
 |---|---|---|---|
 | 1 — Introduction | [introduction/](introduction/_index.md) | 5–9 | **done** (3 of 3 sub-sections) |
 | 2 — Understanding Place | [understanding-place/](understanding-place/_index.md) | 10–39 | **done** (10 of 10 files — 2.2 Character Areas split into overview + 7 per-area files) |
-| 3 — Public domain design | `public-domain-design/` | 40–67 | not started |
-| 4 — Building design | `building-design/` | 68–101 | not started |
-| 5 — General provisions | `general-provisions/` | 102–120 | not started |
-| 6 — Key Sites | `key-sites/` | 121–133 | not started |
-| 7 — Appendix | [appendices/](appendices/_index.md) | 134–142 | not started (placeholder index only, logging figures found in Sections 1–2) |
-
-### Page map for resuming (Sections 3–7, from source Contents page)
-
-| Section | Sub-section | Page |
-|---|---|---|
-| 3 | Public domain design | 40 |
-| 3.1 | Public domain strategy | 41 |
-| 3.2 | Public open space and publicly accessible open space | 46 |
-| 3.3 | Streets, shared lanes, pedestrian links and arcades | 48 |
-| 3.4 | Tree canopy, green cover and deep soil | 60 |
-| 3.5 | Solar access to open space | 63 |
-| 3.6 | Shade and the reduction of urban heat | 65 |
-| 4 | Building design | 68 |
-| 4.1 | Minimum lot sizes | 70 |
-| 4.2 | The building envelope | 71 |
-| 4.3 | Building interface | 90 |
-| 4.4 | Visual diversity, articulation and fine grain | 96 |
-| 4.5 | Material and finishes | 98 |
-| 4.6 | Rooftop and podium communal open space | 100 |
-| 5 | General provisions | 102 |
-| 5.1 | Dwelling mix and flexible housing | 103 |
-| 5.2 | Parking | 104 |
-| 5.3 | Underground floor space | 107 |
-| 5.4 | Sustainability | 108 |
-| 5.5 | Flood development controls | 116 |
-| 6 | Key Sites | 121 |
-| 6.1 | Key sites overview | 122 |
-| 6.2 | KS-1 Jubilee Reserve, Lakemba | 126 |
-| 6.3 | KS-2 Quigg Street, Lakemba | 128 |
-| 6.4 | KS-3 Leagues Club, Belmore | 130 |
-| 6.5 | KS-4 Burwood Road North, Belmore | 132 |
-| 7 | Appendix | 134 |
-| 7.1 | Definitions | 135 |
-| 7.2 | Figures List | 138 |
-| 7.3 | Table list | 141 |
-
-Source file: `2026_06_22_-_DCP_2023_-_AMENDMENT_13_-_Chapter_7_6_-_Belmore_and_Lakemba_-_website.pdf`. Text layer is clean (fonts embedded, `pdftotext -layout` extracts cleanly) — no OCR needed for the remaining sections.
+| 3 — Public domain design | [public-domain-design/](public-domain-design/_index.md) | 40–67 | **done** (6 of 6 sub-sections) |
+| 4 — Building design | [building-design/](building-design/_index.md) | 68–101 | **done** (6 of 6 sub-sections — 4.2 The building envelope split into overview + 7 per-sub-section files) |
+| 5 — General provisions | [general-provisions/](general-provisions/_index.md) | 102–120 | **done** (5 of 5 sub-sections — 5.4 Sustainability split into overview + 6 per-sub-section files) |
+| 6 — Key Sites | [key-sites/](key-sites/_index.md) | 121–133 | **done** (5 of 5 sub-sections — overview + 4 named key sites) |
+| 7 — Appendix | [appendices/](appendices/_index.md) | 134–142 | **done** (3 of 3 sub-sections — Definitions, Figures List, Table list) |
 
 ### Confirmed anomaly: amendment-date discrepancy (same pattern as 7.7)
 
 The title page reads **"March 2026 Final"**, but the source filename indicates **Amendment 13, dated 22 June 2026**. This mirrors the confirmed-unresolved discrepancy in Chapter 7.7 (title page "March 2026 Final" vs. filename Amendment 14, dated April 2026). Not resolved here either — front matter above uses the filename date (2026-06-22) pending Council confirmation of which date is authoritative for citation purposes.
 
-### Confirmed anomaly: Figure 9 missing from Sections 1–2
+### Resolved: Figure 9 was never missing
 
-Figures are numbered sequentially 1–8 across Section 1 and the start of Section 2.2, then jump to Figure 10 (page 16) — no Figure 9 appears in pages 1–39. See `appendices/_index.md` for the figures log. Check whether Figure 9 exists somewhere in the unconverted Sections 3–7, or whether it's a genuine numbering gap in the source, once those sections are read.
+An earlier session flagged a suspected gap ("Figures numbered sequentially 1–8 ... then jump to Figure 10 (page 16) — no Figure 9 appears in pages 1–39"). Cross-checking against the source's own Figures List (Section 7.2, converted in this session) and the page 15 caption directly confirms **Figure 9 ("Character areas map") does exist**, on page 15, within Section 2.2. This was a scanning miss in the earlier session, not a genuine numbering gap. See `appendices/02-figures-list.md` for the full, authoritative figure list (all 63 figures, cross-checked page by page).
 
-### Notes for resuming
+### Confirmed anomaly: zone-name mismatch in Section 3.4, Control C10
 
-- Same recommended part-by-part conversion approach as `canterbury-local-centre/_index.md` (Chapter 7.5) — Section 4 (Building Design, pages 68–101) and Section 6 (Key Sites, 5 sub-sections across 4 named sites) are the largest/most structurally distinct remaining chunks.
-- Section 2.2 Character Areas **did** warrant per-character-area splitting (confirmed during this session) — there are seven named character areas (Lakemba High Street, Belmore High Street, Urban Living, Mid-rise Living, Low-rise Living, Canterbury Road, Industrial Lands), each with its own objectives/principles/controls, not just a Belmore/Lakemba split as originally guessed.
-- Section 6 Key Sites will need the same numbering check that 7.7's Key Sites needed (7.7's Contents page numbered KS-4/5/6 one higher than the body headings) — confirm 7.6's Contents-page numbering (6.2–6.5 for KS-1 to KS-4) matches the body headings once that section is read.
-- To resume: re-attach `CONVERSION_GUIDE.md`, this file, and the source PDF in a fresh chat, and continue from Section 3 (page 40) using the page map above.
+Control C10 (green cover requirement for local centre development) refers to the **"B2 Local Centre zone"**, while the rest of Section 3.4 — including Table 2's canopy-coverage requirements — refers to the **"E1 Local Centre Zone"**. B2 is an older Standard Instrument LEP zone name; E1 is its current equivalent under the reformed commercial zone framework. Not resolved here — flagged in `public-domain-design/04-tree-canopy-green-cover-deep-soil.md` rather than silently corrected. Confirm with Council which zone C10 is meant to apply to before relying on it.
+
+### Confirmed anomaly: duplicated controls, Section 5.4.3 vs 5.4.4
+
+Section 5.4.4 (Water efficiency) Controls C5–C6 are verbatim duplicates of Section 5.4.3's Controls C4–C5, incorrectly referencing "energy target achievement" and NABERS inside a water-efficiency clause. Verified against the source page image (p.113) — the duplication exists in the source PDF itself, not a conversion artifact. Flagged in `general-provisions/sustainability/04-water-efficiency.md`, not silently corrected.
+
+### Confirmed: Key Sites numbering matches Contents page (no anomaly)
+
+An earlier session flagged this as needing a check, by analogy with Chapter 7.7 (where the Contents page numbered KS-4/5/6 one higher than the body headings). For 7.6, the Contents-page numbering (6.2–6.5 for KS-1 to KS-4) **matches** the body section headings exactly — no renumbering anomaly here. See `key-sites/_index.md`.
+
+### Notable structural decisions
+
+- **Sections split into their own subfolders** (each with a full internal Objectives/Principles/Controls treatment per sub-section, mirroring the precedent set by Section 2.2 Character Areas): `understanding-place/character-areas/` (2.2, 7 areas), `building-design/building-envelope/` (4.2, 7 sub-sections), `general-provisions/sustainability/` (5.4, 6 sub-sections).
+- **Sections kept as single flat files despite having internal sub-headings** (because the sub-headings are short and/or tightly interdependent, and splitting further would fragment cross-references without adding retrieval value): 3.3 Streets/shared lanes/pedestrian links/arcades (8 named street visions), 4.3 Building interface (4.3.1 + 4.3.2), 5.5 Flood development controls (5.5.1–5.5.7).
+- **Section 6 Key Sites**: each of the 4 named key-site files (6.2–6.5) contains only a Vision + Design Principles — no separate Objectives/Controls, since those are the general ones set out once in 6.1 and stated to apply to all key sites.
+- **Section 7 Appendix**: 7.2 Figures List and 7.3 Table list were converted as their own files (not just folded into `appendices/_index.md`) since they are genuine numbered sub-sections of the source document, not just a conversion-repo index.
+
+### Tables and complex content verified against page images
+
+Tables 7–10 (5.4.2 — shading requirements and sun-angle tables) were cross-checked against rasterized page images (pp.110–111) because the raw PDF text layer mis-renders degree symbols (°) as trailing zero digits and merges some table columns. All other tables (1–6, 11) converted directly from the clean text layer.
+
+Source file: `2026_06_22_-_DCP_2023_-_AMENDMENT_13_-_Chapter_7_6_-_Belmore_and_Lakemba_-_website.pdf`. Text layer is clean (fonts embedded, `pdftotext -layout` extracts cleanly) — no OCR needed.
+
+### Quality check (per Conversion Guide)
+
+- [x] Every clause number from the source appears in the output (Objectives, Principles, Controls numbered O/P/C throughout; anomalous/duplicated numbering preserved and flagged, not silently renumbered)
+- [x] Every table converted, not summarised (11 of 11 tables, per Section 7.3's own table list)
+- [x] Front matter zones match what the section's setback/height clauses actually say (zones populated only where a section names specific zones — e.g. 3.4, 5.1)
+- [x] Appendices/figures noted, not silently dropped (all 63 figures logged inline per-section and consolidated in `appendices/02-figures-list.md`)
+- [x] `_index.md` tables link to every section file at each folder level, and links use relative paths within the converted tree
