@@ -32,13 +32,28 @@ deciding its folder shape — Chapter 5 splitting by former LGA doesn't mean Cha
 
 Examples:
 - `/dcp/canterbury-bankstown/former-bankstown-lga/`
+- `/dcp/canterbury-bankstown/general/` (chapter applies council-wide, no former-LGA split)
 - `/dcp/cumberland/`  (single LGA, no former-LGA split needed)
 - `/lep/parramatta/`
 - `/sepp/sepp-exempt-complying/` (state-wide, no council folder)
 
-Use `former-lga-or-scope` only where the source document itself splits by former LGA
-(common post-amalgamation, e.g. Canterbury-Bankstown, Cumberland, Georges River). If the
-document applies council-wide, omit that folder level.
+Every chapter folder gets a `{former-lga-or-scope}` level — always present, never omitted,
+so the folder shape is predictable without checking each chapter individually:
+- Where the source document splits by former LGA (common post-amalgamation, e.g.
+  Canterbury-Bankstown, Cumberland, Georges River), name it after the former LGA, e.g.
+  `former-bankstown-lga/`, `former-canterbury-lga/`.
+- Where the document applies council-wide with no former-LGA split, use the literal
+  folder name `general/` rather than omitting the level. This keeps every chapter's path
+  the same shape (`{chapter}/{scope}/{sub-document}/{file}.md`) whether or not that
+  chapter happens to split by LGA, and gives a place to note *why* it's council-wide (in
+  that folder's own `_index.md`) rather than leaving the absence of a scope folder to be
+  read as "nobody checked yet." Established by Chapter 4 (Heritage) and followed by
+  Chapter 8 (Employment Lands, including its corridor-specific sub-chapters 8.2 and 8.3,
+  which are scoped to a named road corridor rather than a former LGA but still council-wide
+  in the LGA sense).
+
+Use `former-lga-or-scope` only where the source document itself splits by former LGA, or
+use `general/` where it applies council-wide — never omit this folder level.
 
 ## File naming
 
@@ -68,8 +83,8 @@ Councils often publish DCP chapters as separate numbered sub-documents (e.g. "Ch
 sub-document (X.Y) as the conversion unit.
 
 - **If the sub-document has 2+ internal sections** (like Chapter 5.1's 15 sections), give it
-  its own folder named after the LGA/scope (e.g. `former-bankstown-lga/`), with one file per
-  section inside, plus `_index.md`.
+  its own folder named after the LGA/scope (e.g. `former-bankstown-lga/`, or `general/`
+  where council-wide), with one file per section inside, plus `_index.md`.
 - **If the sub-document has only 1 internal section** (like Chapter 2.1's single "Site
   analysis plans" section), don't wrap it in its own folder — keep it as a single flat file
   named `{X.Y}-{kebab-case-title}.md` directly inside the LGA/scope folder (or `general/` if
@@ -79,6 +94,12 @@ sub-document (X.Y) as the conversion unit.
   "Chapter 2 — Site Considerations") share a chapter grouping but don't need a shared
   subfolder unless the scope folder is getting crowded — a shared `_index.md` noting they're
   siblings is enough.
+- **The same "2+ internal sections gets its own folder" logic applies recursively** where a
+  single numbered section is itself large and multi-part enough to function as its own
+  mini sub-document (e.g. a site-specific precinct DCP embedded as one section of a larger
+  chapter). Give that section its own folder with one file per subsection, rather than
+  forcing a large multi-part section into a single file. See Chapter 8.3 Section 6 (167
+  Hume Highway) for a worked example.
 
 Every chapter/document folder also gets:
 - `_index.md` — one-paragraph summary + a table linking every section file. This is what
@@ -86,7 +107,9 @@ Every chapter/document folder also gets:
   drilling into content.
 - `appendices/_index.md` — if the source has maps, plans, or other non-text appendices,
   note what they are and what clauses reference them, even before they're converted to
-  image assets. Never silently drop an appendix.
+  image assets. Never silently drop an appendix. If an appendix is genuine tabular/text
+  data (e.g. a species list) rather than an image, convert it in full as its own file
+  instead of only logging it here.
 
 ## Front matter schema
 
@@ -111,7 +134,10 @@ tags: [topic keywords, lowercase, kebab-case]
 ```
 
 If a date or field genuinely isn't available in the source, omit the field rather than
-guessing — a missing field is safer than a wrong one.
+guessing — a missing field is safer than a wrong one. This includes partial dates: if the
+source only gives a month/year (e.g. "Amended April 2025") with no day and no amendment
+table to cross-check against, omit `effective_date`/`amended_date` entirely rather than
+guessing a day.
 
 ## Content rules
 
@@ -129,6 +155,13 @@ guessing — a missing field is safer than a wrong one.
   or a `## Figures` section at the end of the file if they're referenced by specific clauses.
 - **Cross-reference related sections** where the source does (e.g. Section 6 → Section 15 on
   basements) using relative markdown links.
+- **Preserve source typos verbatim, flagged inline** (e.g. "will not be support[ed]",
+  duplicated words like "from the from the") rather than silently correcting them —
+  correct where it aids readability but always note that the source had an error.
+- **Where a document's own clauses restart local numbering** (e.g. "C1" repeating inside
+  every numbered subsection, rather than one sequential count for the whole document),
+  flag this explicitly in the sub-document's `_index.md` so cross-references always cite
+  the subsection along with the clause label.
 
 ## Quality check before committing
 
@@ -137,3 +170,6 @@ guessing — a missing field is safer than a wrong one.
 - [ ] Front matter zones match what the section's setback/height clauses actually say
 - [ ] Appendices/figures noted, not silently dropped
 - [ ] `_index.md` table links to every section file and the links aren't broken
+- [ ] Scope folder (`former-{lga}/` or `general/`) is present and justified in that folder's
+      own `_index.md`, based on the source's own wording rather than assumed from a
+      sibling chapter
