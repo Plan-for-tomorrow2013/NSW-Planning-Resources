@@ -1,0 +1,18 @@
+---
+title: "Clause 6.9 Essential services"
+council: "Upper Lachlan"
+document_type: LEP
+part: "6 — Local provisions"
+clause: "6.9"
+last_verified: 2026-07-01
+tags: [essential-services]
+---
+
+# 6.9 Essential services
+
+Development consent must not be granted to development unless the consent authority is satisfied that those of the following services that are essential for the proposed development are available or that adequate arrangements have been make to make them available when required—
+- (a) the supply of water,
+- (b) the supply of electricity,
+- (c) the disposal and management of sewage,
+- (d) stormwater drainage or on-site conservation,
+- (e) suitable road access.

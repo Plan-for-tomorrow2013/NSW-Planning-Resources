@@ -1,0 +1,12 @@
+---
+title: "Clause 1.1 Name of Plan"
+council: "Ryde"
+document_type: LEP
+part: "1 — Preliminary"
+clause: "1.1"
+last_verified: 2026-09-18
+---
+
+# 1.1 Name of Plan
+
+This Plan is *Ryde Local Environmental Plan 2014*.

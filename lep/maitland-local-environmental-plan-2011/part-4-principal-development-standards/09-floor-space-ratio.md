@@ -1,0 +1,19 @@
+---
+title: "Clause 4.4 Floor space ratio"
+council: "Maitland"
+document_type: LEP
+part: "4 — Principal development standards"
+clause: "4.4"
+last_verified: 2026-07-01
+tags: [floor-space-ratio]
+defined_terms: ["floor space ratio", "Floor Space Ratio Map"]
+---
+
+# 4.4 Floor space ratio
+
+**(1)**
+The objectives of this clause are as follows—
+- (a) to ensure development is compatible with the streetscape and character of the area by providing an appropriate correlation between the size of a site and the extent of any development on that site.
+
+**(2)**
+The maximum floor space ratio for a building on any land is not to exceed the floor space ratio shown for the land on the *Floor Space Ratio Map*.

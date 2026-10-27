@@ -1,0 +1,74 @@
+---
+title: "Clause 7.13 Contribution for purpose of affordable housing"
+council: "Sydney"
+document_type: LEP
+part: "7 — Local provisions—general / Division 3 Affordable housing"
+clause: "7.13"
+last_verified: 2026-10-09
+zones: [E4]
+tags: [affordable-housing, tourist-accommodation]
+defined_terms: ["affordable housing", "Central Sydney", "City of Sydney", "dwelling", "Green Square", "gross floor area", "Locality and Site Identification Map", "residential accommodation", "southern employment land", "tourist and visitor accommodation", "Ultimo-Pyrmont"]
+---
+
+# 7.13 Contribution for purpose of affordable housing
+
+**(1)**
+This clause applies to the following development—
+- (a) development on land at Green Square or Ultimo-Pyrmont, or on southern employment land or residual land that involves—
+  - (i) the erection of a new building the gross floor area of which is more than 200 square metres, or
+  - (ii) alterations to an existing building that will result in the creation of more than 200 square metres of gross floor area that is intended to be used for the purpose of residential accommodation, or
+  - (iii) alterations to an existing building that will result in the creation of more than 60 square metres of gross floor area that is intended to be used for a purpose other than residential accommodation, or
+  - (iv) the demolition of existing floor area and the subsequent creation, whether for the same or a different purpose, of more than 200 square metres of gross floor area,
+- (b) development on land at Green Square or Ultimo-Pyrmont, or on southern employment land, that involves a change of use of more than 60 square metres of existing floor area of a building,
+- (c) development on residual land that involves a change of use of existing floor area from other than residential accommodation to residential accommodation or tourist and visitor accommodation,
+- (d) development on land at Central Sydney that involves—
+  - (i) the creation of more than 100 square metres of gross floor area, or
+  - (ii) the demolition of existing floor area and the subsequent creation, whether for the same or a different purpose, of more than 100 square metres of gross floor area, or
+  - (iii) a change of use of existing floor area from other than residential accommodation to residential accommodation or tourist and visitor accommodation.
+
+**(2)**
+The consent authority may, when granting development consent to development to which this clause applies, impose a condition requiring a contribution not exceeding the applicable *affordable housing levy contribution* for the development provided for in subclause (2A) or (2C).
+
+**(2A)**
+The affordable housing levy contribution for development on land at Green Square or Ultimo-Pyrmont or on southern employment land is—
+- (a) 3% of the total floor area of the development that is intended to be used for residential purposes, and
+- (b) 1% of the total floor area of the development that is not intended to be used for residential purposes.
+
+**(2B)** (Repealed)
+
+**(2C)**
+The affordable housing levy contribution for development on land at Central Sydney or on residual land is as follows—
+- (a) for development applications lodged before 1 July 2022—
+  - (i) 1.5% of the total floor area of the development that is intended to be used for residential purposes, and
+  - (ii) 0.5% of the total floor area of the development that is not intended to be used for residential purposes,
+- (b) for development applications lodged on or after 1 July 2022—
+  - (i) 3% of the total floor area of the development that is intended to be used for residential purposes, and
+  - (ii) 1% of the total floor area of the development that is not intended to be used for residential purposes.
+
+**(3)**
+A condition imposed under this clause must permit a person to satisfy the affordable housing levy contribution—
+- (a) by way of a dedication in favour of the Council of land comprising one or more dwellings (each having a total floor area of not less than 35 square metres and not more than 90 square metres) with any remainder being paid as a monetary contribution to the Council, or
+- (b) if the person so chooses, by way of a monetary contribution to the Council.
+
+**(4)**
+The rate at which a monetary contribution is to be taken to be equivalent to floor area for the purposes of this clause is to be calculated in accordance with the *City of Sydney Affordable Housing Program* adopted by the Council on 26 June 2023.
+
+**(4A)** (Repealed)
+
+**(5)**
+To avoid doubt—
+- (a) it does not matter whether the floor area, to which a condition under this clause relates, was in existence before, or is created after, the commencement of this clause, or whether or not the floor area concerned replaces a previously existing area, and
+- (b) the demolition of a building, or a change in the use of land, does not give rise to a claim for a refund of any contribution.
+
+**(6)**
+In this clause—
+*residual land* means the land identified as "Residual Land" on the *Locality and Site Identification Map*.
+*total floor area* means the total of the areas of each floor of a building within the outer face of the external enclosing walls and including balconies, but excluding the following—
+- (a) columns, fins, sun control devices, awnings and other elements, projections or works outside the general lines of the outer face of the external walls,
+- (b) that part of a balcony that exceeds the minimum area required by the consent authority in respect of the balcony,
+- (c) ancillary car parking permitted by the consent authority and associated internal vehicular and pedestrian access to that car parking,
+- (d) space for the loading and unloading of goods,
+- (e) the floor area of a building, including balconies, that is—
+  - (i) on land in Zone E4 General Industrial, or
+  - (ii) used to provide affordable housing or public housing, or
+  - (iii) used for the purpose of community facilities.

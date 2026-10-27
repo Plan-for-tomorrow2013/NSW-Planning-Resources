@@ -1,0 +1,149 @@
+---
+title: "Canterbury-Bankstown Development Control Plan 2023 - Chapter 11.3 Roberts Road"
+document_id: dcp-canterbury-bankstown-2023-ch11.3
+current_from: 2024-08-06
+council: "Canterbury-Bankstown"
+source_file: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.3 - Roberts Road.pdf"
+---
+
+## SECTION 1–DEVELOPMENT SITE AT 52–60 ROBERTS ROAD, GREENACRE
+
+#### Explanation
+
+Connective City 2036 recognises the importance of employment lands in the economy. Employment lands are well-connected to Sydney’s major road routes and freight network, and support the delivery of jobs and urban services to meet community needs. Key actions of Connective City 2036 are to protect and enhance employment lands to provide a greater range of jobs, and to boost these places as quality locations to do business.
+
+The Canterbury-Bankstown Local Environmental Plan 2023 and Canterbury-Bankstown Development Control Plan 2023 combine to regulate effective and orderly development, consistent with Connective City 2036.
+
+The Canterbury-Bankstown Local Environmental Plan 2023 is Council's principal planning document. It provides objectives, zones and development standards such as lot sizes, floor space ratios and building heights.
+
+The Canterbury-Bankstown Development Control Plan 2023 supports the LEP by providing additional objectives and development controls to enhance the function, design and amenity of the key development site at 52–60 Roberts Road, Greenacre. Note: If applicable to an application, the development controls of Chapter 11.3 of this DCP will prevail if there is an inconsistency with any other development controls in this DCP.
+
+#### Objectives
+
+O1 To ensure development is compatible with the desired character of the employment lands.
+
+O2 To achieve good design in terms of building form, bulk and landscape.
+
+O3 To enhance the amenity for people who work in and visit the employment lands.
+
+O4 To facilitate ecologically sustainable development.
+
+O5 To ensure development is compatible with the prevailing suburban character and amenity of neighbouring residential areas.
+
+#### Land to which chapter applies
+
+Chapter 11.3 of this DCP applies to 52–60 Roberts Road, Greenacre as shown in Figure 1.
+
+#### Desired character
+
+Development in the form of a modern, architecturally attractive and functional high technology industry will be compatible with the prevailing suburban character and amenity of the neighbouring Zone R2 Low Density Residential.
+
+> [Picture on page 4, not reproduced as text; see the original PDF.]
+
+Figure 1: Land Application Map
+
+#### Development controls
+
+#### Site cover
+
+1.1 The total area of building(s) on the ground floor level (including external walls) must not exceed:
+
+(a) 60% of the site area; and
+
+(b) where a first floor space is provided, part of such floor area may be cantilevered or supported to project beyond the front or side walls of the factory buildings, over a car parking area, provided that such projection must not exceed 10% of the ground floor area and must observe any minimum building alignment as specified below.
+
+#### Storey limit
+
+1.2 The storey limit for development is two storeys.
+
+#### Setbacks
+
+1.3 The buildings must be built in a continuous form, to provide a linear barrier to the traffic noise generated from Roberts Road.
+
+1.4 The minimum setback to Roberts Road is 6m. Despite this clause, Council will not consent to an application involving a continuous 6m setback to Roberts Road. Building siting also will need to accommodate servicing, access, parking and landscaping requirements.
+
+1.5 The minimum setback to the western boundary is 3m.
+
+1.6 The minimum setback to Rebecca Road and Lawford Street is 5.5m.
+
+1.7 In the case of Lot 1 where the site adjoins land used for commercial purposes (service station), a zero setback is permissible.
+
+#### Vehicle access and off-street parking
+
+1.8 No direct vehicle access must be provided to or from Roberts Road.
+
+1.9 Car parking must be provided at the rate of one car parking space per 60m2 for high technology industry floor space and one space per 60m2 for mezzanine floor space where mezzanine floor space does not exceed 20% of gross floor area of the unit. Mezzanine floor space exceeding 20% of gross floor area will be assessed at a rate of one car space per 40m2 of gross floor area.
+
+1.10 Where parking is provided in a basement, the design must demonstrate that visitor parking is freely available and accessible during business operating hours.
+
+1.11 No high walls or landscaping must be provided at the Rebecca Road and Roberts Road intersection that impede sight distances at this intersection.
+
+1.12 The width of the road reserve in Rebecca Road and the size of the splay corners at the Rebecca Road and Roberts Road intersection must be increased in size to the satisfaction of Council's Traffic Engineer.
+
+#### Commercial vehicle access, loading and circulation
+
+1.13 All units are to be provided with a designated loading bay and manoeuvring area to accommodate a small rigid truck pursuant to the design requirements in the Australian Standard AS 2890.2–2018, Off-street commercial vehicle facilities.
+
+1.14 Access and manoeuvring areas must be designed so that vehicles can enter and exit the site in a forward direction.
+
+#### Open space
+
+1.15 The minimum landscape setback to Roberts Road is 2m. This landscaped area is to be densely planted with small native trees and shrubs.
+
+1.16 The area within the building setback to the western boundary, Rebecca Road and Lawford Street must be predominantly landscaped.
+
+1.17 Landscaping along the western boundary of the site is to comprise at least one tree every 6m. The selected species should be native (and therefore non-deciduous) and should achieve a mature height of at least 8m.
+
+#### Building design
+
+1.18 Building materials should provide a mix of masonry and glass. Glazed elements should be massed together in locations appropriate to building symmetry and rhythm. Note: The reflectivity index of glazed components must not exceed 20%.
+
+1.19 The design should provide a degree of modulation and articulation to the building alignment to establish angles and interest in building line and roof form when viewed from varying vantage points.
+
+1.20 The building must provide openings and appropriate fenestration to all road frontages to ensure a satisfactory presentation to all areas of the public domain.
+
+1.21 Colours of masonry materials should generally be of muted block colours with minimal variation. If variation in colour is proposed, it will be necessary for the overall colour scheme to ensure that individual units are visually connected subsequent to advertising signage and corporate logos of different colours and materials being fixed to the elevations.
+
+1.22 The roof form of the development should be punctuated at the eastern elevation by one or more design features to break up the visual massing and length of the roof form.
+
+1.23 Fenestration detail should seek to be compatible with the modern design of the building. The use of fixed or operable louvres to selected windows, awnings to define building entries and recessed balconies to mezzanine levels may be considered in the context of the overall design.
+
+#### Site contamination
+
+1.24 Prior to any construction occurring on the land, the recommendations contained with the report prepared by EIA and titled ‘Report to Austar Australia Pty Limited on Phase 1 Contamination Report for Proposed Commercial/Industrial Development at 60–69 Roberts Road in Greenacre’ dated April 2002, Ref: E16721FKRPT shall be fulfilled to Council’s satisfaction.
+
+1.25 Findings from all future site testing, analyses and validation shall be submitted to Council.
+
+#### Business and building identification signs
+
+1.26 Business and building identification signs must comply with the following controls:
+
+(a) One building identification sign on each separate lot, describing the building as high technology industry. Minimum or maximum dimensions for this sign are not specified, however the sign must present to Roberts Road. Size and positioning of the building identification sign must relate to the overall building form.
+
+Details of these signs, including wording and layout are to be provided with the application for the erection of the building.
+
+Council will assess the suitability of the proposed signs on merit having regard to the level of integration with the proposed elevations. In undertaking this assessment, Council must be satisfied that the sign does not dominate the building elevation.
+
+(b) One business identification sign per proposed unit identifying the occupant of a particular unit being in the form of a name plate not exceeding 1200mm x 600mm.
+
+(c) One index board at the front of the property having an area of no greater than 2.25m2.
+
+(d) No advertising of products or goods manufactured or stored on the site must be permitted on or in conjunction with the proposed use of any premises or the site.
+
+#### Acoustic privacy
+
+1.27 All applications for the use of this land must be accompanied by suitable environmental reports demonstrating that the proposed use does not create any adverse environmental impact, including air, noise or odour impact on the surrounding residential area. These reports should make reference to the relevant industry guidelines, including the requirements of the Noise Policy for Industry and the NSW Road Noise Policy.
+
+1.28 All noise generating equipment, including roof level dust collectors, air conditioning and car park ventilation unit must be acoustically treated to ensure this equipment complies with the Noise Policy for Industry. This equipment must be sited on the Roberts Road side of the development.
+
+1.29 The use of the premises must be restricted to the following hours of operation:
+
+(a) 7.00am to 7.00pm Monday to Friday;
+
+(b) 7.00am to 12noon Saturday; with
+
+(c) no work on Sundays and Public Holidays.
+
+#### Storage
+
+1.30 All storage associated with the use of buildings erected on the sites is to take place wholly within the confines of the building. Council will not consent to the use of side or rear setback areas for storage purposes.

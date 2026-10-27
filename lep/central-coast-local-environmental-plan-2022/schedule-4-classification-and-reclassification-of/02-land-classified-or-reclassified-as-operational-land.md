@@ -1,0 +1,26 @@
+---
+title: "Schedule 4, Part 2 — Land classified, or reclassified, as operational land—interests changed"
+council: "Central Coast"
+document_type: LEP
+clause: "Schedule 4 (Clause 5.2)"
+last_verified: 2026-07-01
+tags: [airports-and-airspace, public-land-classification]
+---
+
+# Schedule 4, Part 2 — Land classified, or reclassified, as operational land—interests changed
+
+*(Clause 5.2)*
+
+| Locality | Description | Any trusts etc not discharged |
+|---|---|---|
+| 48W Wallarah Road, Gorokan | Lot 2, DP 733448 | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 2/733448 Easement for drainage (G584564) as noted on Certificate of Title Folio Identifier 2/733448 Right of way (DP733448) as noted on Certificate of Title Folio Identifier 2/733448 |
+| 18 Dane Drive, Gosford | Lot 2, DP 1011876 | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 2/1011876 Right of carriageway and easement (A) (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement for services variable width (B) appurtenant to the land (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement for services variable width (C) (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement for support variable width (C) (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement for support variable width (C) appurtenant to the land (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement for air duct 1 wide (D) (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement to occupy airspace variable width (E) (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Easement to occupy airspace variable width (E) appurtenant to the land (DP1011876) as noted on Certificate of Title Folio Identifier 2/1011876 Lease to Central Coast Leagues Club (AB891211) as noted on Certificate of Title Folio Identifier 2/1011876 |
+| 49-51 Mann Street, Gosford | Lot 1, DP 251476 | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 1/251476 |
+| Part of 50W Parraweena Road, Gwandalan | Part of Lot 1, DP 1043151, identified as "Operational Land" on the *Land Reclassification (Part Lots) Map* | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 1/1043151 Restriction(s) on the use of land (DP740701) as noted on Certificate of Title Folio Identifier 1/1043151 |
+| 191 Wallarah Road, Kanwal | Lot 21, DP 813270 | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 21/813270 Right of carriageway (DP266960) as noted on Certificate of Title Folio Identifier 21/813270 |
+| Part of 6W Kemira Road, Lake Munmorah | Part of Lot 79, DP 217918, identified as "Operational Land" on the *Land Reclassification (Part Lots) Map* | Nil |
+| 75 Bungary Road, Norah Head | Lot 5, Section 24, DP 758779 and Lot 1, DP 860696 | Nil |
+| Part of 20 Summerland Road, Summerland Point | Part of Lot 4, DP 263812, identified as "Operational Land" on the *Land Reclassification (Part Lots) Map* | Nil |
+| Part of 2-4 Park Road, The Entrance | Part of Lot 1, DP 406038 identified as "Operational Land" on the *Land Reclassification (Part Lots) Map* | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 1/406038 Easement for encroaching structure (DP1285777) as noted on Certificate of Title Folio Identifier 1/406038 Easement for overhang (DP1285777) as noted on Certificate of Title Folio Identifier 1/406038 Easement for encroaching structure (DP1290369) as noted on Certificate of Title Folio Identifier 1/406038 Right of way and easement for parking (DP1290369) as noted on Certificate of Title Folio Identifier 1/406038 Positive covenant affecting whole of the land (DP1290369) as noted on Certificate of Title Folio Identifier 1/406038 Plan for lease purposes (DP806508) as noted on Certificate of Title Folio Identifier 1/406038 |
+| Part of 2-4 Park Road, The Entrance | Part of Lot 10, DP 1285833 identified as "Operational Land" on the *Land Reclassification (Part Lots) Map* | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifier 10/1285833 Easement for encroaching structure (DP1285777) as noted on Certificate of Title Folio Identifier 10/1285833 Easement for overhang (DP1285777) as noted on Certificate of Title Folio Identifier 10/1285833 Easement for encroaching structure (DP1290369) as noted on Certificate of Title Folio Identifier 10/1285833 Right of way and easement for parking (DP1290369) as noted on Certificate of Title Folio Identifier 10/1285833 Plan for lease purposes (DP806508) as noted on Certificate of Title Folio Identifier 10/1285833 Plan for lease purposes (DP867209) as noted on Certificate of Title Folio Identifier 10/1285833 Right of way and easement for parking (DP1290370) as noted on Certificate of Title Folio Identifier 10/1285833 |
+| 13-15 Yaralla Road, Toukley | Lots 78 and 79, DP 20493 | Reservations and conditions in the Crown Grant as noted on Certificate of Title Folio Identifiers 78/20493 and 79/20493 |

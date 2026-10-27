@@ -1,0 +1,83 @@
+---
+title: "Canterbury-Bankstown Development Control Plan 2023 - Chapter 2.1 Site Analysis"
+document_id: dcp-canterbury-bankstown-2023-ch2.1
+current_from: 2025-08-01
+council: "Canterbury-Bankstown"
+source_file: "2025_08_01_-_DCP_2023_-_AMENDMENT_8_-_Chapter_2_1_-_Site_Analysis_pdf.pdf"
+---
+
+## SECTION 1–SITE ANALYSIS PLANS
+
+#### Explanation
+
+The Canterbury-Bankstown Local Environmental Plan 2023 and Canterbury-Bankstown Development Control Plan 2023 combine to regulate effective and orderly development, consistent with Connective City 2036.
+
+The Canterbury-Bankstown Local Environmental Plan 2023 is Council's principal planning document. It provides objectives, zones and development standards such as lot sizes, floor space ratios and building heights.
+
+The Canterbury-Bankstown Development Control Plan 2023 supports the LEP by requiring site analysis plans for certain development. Understanding the site is the first step in designing a development and is a mandatory part of the assessment process. The purpose of a site analysis is to identify how a development responds to the opportunities and constraints of a site and the surrounding streetscape.
+
+#### Objectives
+
+O1 To ensure site analysis plans identify the site features (opportunities and constraints).
+
+O2 To ensure site layouts:
+
+(a) provide a pleasant, attractive, and resource-efficient living environment,
+
+(b) provide buildings, front fences, and landscaped areas that contribute positively to the streetscape,
+
+(c) retain any item of identified conservation or heritage value, and
+
+(d) take into account site features such as topography, views, landmarks, trees, vegetation, structures, drainage, services, access, orientation and microclimate.
+
+#### Development controls
+
+1.1 Development for the following purposes must submit a site analysis plan:
+
+(a) attached dwellings
+
+(b) boarding houses
+
+(c) manor houses
+
+(d) multi dwelling housing
+
+(e) multi dwelling housing (terraces)
+
+(f) residential flat buildings
+
+(g) serviced apartments
+
+(h) shop top housing
+
+(i) housing estates
+
+(j) mixed use development containing dwellings
+
+(k) Torrens Title subdivision that proposes three or more lots
+
+(l) co-living housing.
+
+1.2 The results of the site analysis must illustrate the following principles in the form of a site analysis plan:
+
+Principle 1: Context Good design responds and contributes to its context. Responding to context involves identifying risks from natural hazards and potential impacts from surrounding land
+
+uses. Responding to context also involves identifying the desirable elements of a location’s current character or, in the case of precincts undergoing a transition, the desired future character as stated in planning and design policies. This will help a new building to contribute to the quality and identity of an area.
+
+Principle 2: Scale Good design provides an appropriate scale in terms of the bulk and height that suits the scale of the street and the surrounding buildings. Establishing an appropriate scale requires a considered response to the scale of existing development in the street. In precincts undergoing a transition, the proposed bulk and height needs to achieve the scale identified for the desired future character of the area.
+
+Principle 3: Built form Good design achieves an appropriate built form for a site and the building’s purpose in terms of building alignments, proportions, building type, and building elements. Appropriate built form defines the public domain, contributes to the character of streetscapes and parks, and provides internal amenity and outlook.
+
+Principle 4: Density Good design has a density appropriate for a site and its context in terms of floor space yields (or number of units). Appropriate densities are sustainable and consistent with the existing density in an area or, in precincts undergoing a transition, are consistent with the stated desired future density. In some cases, a sustainable density may mean a development will not achieve the maximum floor space ratio or density if it is to provide an environmental quality appropriate to the site.
+
+Principle 5: Resource, energy, and water efficiency Good design makes efficient use of natural resources, energy, and water throughout its full life cycle. Sustainability is integral to the design process. Aspects include selection of appropriate and sustainable materials, layouts and built form, passive solar design principles, soil zones for vegetation, and reuse of water.
+
+Principle 6: Landscape Good design recognises the integration of landscape and buildings results in greater aesthetic quality and amenity for occupants and the adjoining public domain. Landscape design builds on the existing site’s natural and cultural features in responsible and creative ways. It enhances microclimate, tree canopy and habitat values, positive image to the streetscape and neighbourhood character, privacy, and respect for neighbours’ amenity.
+
+Principle 7: Amenity Good design provides amenity through the physical, spatial and environmental quality of a development. Optimising amenity requires appropriate room dimensions and shapes, access to sunlight, natural ventilation, visual and acoustic privacy, storage, indoor and outdoor space, efficient layouts and service areas, outlook, and ease of access for all age groups and degrees of mobility.
+
+Principle 8: Safety and security Good design optimises safety and security, both internal to the development and for the public domain. This is achieved by maximising overlooking of public and communal spaces while maintaining internal privacy, maximising activity on streets, providing clear access, providing quality public spaces that cater for desired recreational uses, providing lighting appropriate to the location, and clear definition between public and private spaces.
+
+Principle 9: Social dimensions Good design responds to the social context and needs of the local community in terms of lifestyles, affordability, and access to social facilities. New developments should optimise the provision of housing to suit the social mix and needs in the neighbourhood or, in the case of precincts undergoing transition, provide for the desired future community.
+
+Principle 10: Aesthetics Good design achieves a built form that has good proportions and a balanced composition of elements, reflecting the internal layout and structure. Good design uses a variety of materials, colours and textures. The visual appearance of well-designed development responds to the desirable elements of the existing streetscape or, in precincts undergoing transition, contribute to the desired character of the area.

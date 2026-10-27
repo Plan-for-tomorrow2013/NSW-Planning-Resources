@@ -1,0 +1,20 @@
+---
+title: "Clause 6.11 Converting serviced apartments to residential flat buildings"
+council: "North Sydney"
+document_type: LEP
+part: "6 — Additional local provisions / Division 2 General provisions"
+clause: "6.11"
+last_verified: 2026-07-01
+tags: [strata-title, subdivision]
+defined_terms: ["residential accommodation", "residential flat building", "serviced apartment"]
+---
+
+# 6.11 Converting serviced apartments to residential flat buildings
+
+**(1)**
+The objective of this clause is to prevent substandard residential accommodation occurring through the conversion of serviced apartments to residential flat buildings.
+
+**(2)**
+Development consent must not be granted for the strata subdivision of a building that is or has been used for serviced apartments for use as a residential flat building unless the consent authority has considered the following in relation to the residential flat building—
+- (a) the design principles for residential apartment development within the meaning of *State Environmental Planning Policy (Housing) 2021*,
+- (b) the Apartment Design Guide within the meaning of that policy.

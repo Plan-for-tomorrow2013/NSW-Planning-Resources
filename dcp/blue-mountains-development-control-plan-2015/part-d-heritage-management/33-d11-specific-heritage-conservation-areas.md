@@ -1,0 +1,16 @@
+---
+title: "D11 Specific heritage conservation areas"
+document_id: blue-mountains-development-control-plan-2015/part-d-heritage-management/d11-specific-heritage-conservation-areas
+register_id: DCP-NSW-BLUE-MOUNTAINS-2015
+current_from: 2025-11
+authoritative_url: "https://www.bmcc.nsw.gov.au/documents/dcp-2015-part-d-heritage-management"
+---
+### Part D11	Specific heritage conservation areas
+
+#### Explanation
+
+The historic character of Blue Mountains towns and villages, particularly in the upper Mountains, is an integral part of the Blue Mountains’ identity as a unique community and as a major tourist destination. Heritage and character values are based around historic towns and older housing set within the spectacular and scenic natural environment and established garden settings. Despite the initially remote setting of Mountains towns, national and international architectural styles of the twentieth century are represented in a myriad variety of forms. Many heritage conservation areas contain extensive areas of Late Victorian, Federation, Edwardian, Inter-War and Post-War housing that are linked with the early development of the Mountains and the subsequent boom periods. These areas have high representative and aesthetic value and contribute a character that is rare due to the consistency of building scale, lot size and streetscape. Although individual houses may sometimes be inconsistent with the historic character, overall the streetscape rhythms and coherence of these areas has been maintained. Single-storey dwelling forms are generally retained at a consistent scale and density, and an established mixture of native and exotic plantings create a soft and pleasing setting for many streetscapes and building frontages.
+
+Part D: Heritage
+
+The City of the Blue Mountains has thirty-six heritage conservation areas. Most of the heritage conservation areas are groups and areas of residential buildings. Some of these heritage conservation areas are new, and were created in July 2019 by the conversion of what were known as Period Housing Areas into heritage conservation areas. Heritage conservation areas are relevant not just to private properties within the conservation area but also to the public domain of streets, parks, and so on, and to properties adjacent or within the vicinity of the conservation area. Larger conservation areas usually contain a diversity of building types or styles with varying degrees of heritage significance, intactness and physical condition. In most cases, these features are to be conserved and their values protected. Should any inconsistency arise, the specific controls in this section prevail over the general conservation area controls. Refer to Part L1 Heritage Contributions Maps for the contributory value of each property within a heritage conservation area. The contributions are identified as contributory, neutral or uncharacteristic. Reference should also be made to the heritage inventory sheets Council has prepared for each conservation area. These are available on the Heritage NSW website. Where no specific heritage provisions apply in this section for an identified heritage conservation area, the general development controls in D9 Development controls for heritage properties will apply.

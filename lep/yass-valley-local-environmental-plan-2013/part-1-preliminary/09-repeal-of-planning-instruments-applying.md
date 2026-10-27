@@ -1,0 +1,23 @@
+---
+title: "Clause 1.8 Repeal of planning instruments applying to land"
+council: "Yass Valley"
+document_type: LEP
+part: "1 — Preliminary"
+clause: "1.8"
+last_verified: 2026-07-01
+---
+
+# 1.8 Repeal of planning instruments applying to land
+
+**(1)**
+All local environmental plans and deemed environmental planning instruments applying only to the land to which this Plan applies are repealed.
+
+> Note: The following local environmental plans are repealed under this provision—
+> - *Yass Local Environmental Plan 1987*
+
+**(2)**
+All local environmental plans and deemed environmental planning instruments applying to the land to which this Plan applies and to other land cease to apply to the land to which this Plan applies.
+
+> Note: The following local environmental plans no longer apply to the land to which this Plan applies—
+> - *Gunning Local Environmental Plan 1997*
+> - *Yarrowlumla Local Environmental Plan 2002*

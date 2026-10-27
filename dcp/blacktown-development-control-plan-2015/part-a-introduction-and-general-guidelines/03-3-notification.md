@@ -1,0 +1,358 @@
+---
+title: "3 Notification"
+document_id: blacktown-development-control-plan-2015/part-a-introduction-and-general-guidelines/3-notification
+register_id: DCP-NSW-BLACKTOWN-2015
+current_from: 2026-02-01
+authoritative_url: "https://www.blacktown.nsw.gov.au/files/assets/public/v/1/part-a-introduction-and-general-guidelines-01-02-2026.pdf"
+---
+## 3 Notification
+
+### 3.1 Objectives
+
+Recognising the importance of public consultation, the following section has been prepared
+
+to:
+
+(a) Provide for public participation in the development assessment process where
+
+it is considered that the proposed activity may have an effect upon the
+
+enjoyment of other property
+
+(b) Set out the matters for which Council will have regard when forming its opinion
+
+as to whether or not the enjoyment of adjoining land may be detrimentally
+
+affected by a proposed development
+
+(c) Set out the criteria for notifying potentially affected persons
+
+(d) Specify the circumstances when notification is not required
+
+(e) Detail the form that notification will take and an applicant's responsibility to
+
+provide a notification plan.
+
+### 3.2 Definitions
+
+Adjoining land means land which abuts an Application site or is separated from it only by a
+
+pathway, driveway or similar thoroughfare. Affected person means a person who owns or occupies adjoining land or neighbouring
+
+land, the enjoyment of which may be detrimentally affected by a proposed development. Application site means the parcel of land to which a Development Application relates. Building includes any building, part of a building and any structure or part of a structure. Development Application means an Application for consent under Division 1 of Part 4 of
+
+the Environmental Planning and Assessment Act 1979 to carry out development. Neighbouring land means any land, other than adjoining land, which is nearby a
+
+development site (and may include land in a neighbouring local Council area). Notification plan means the plan showing the height and external configuration of buildings
+
+which accompanies a Development Application and includes such detail as described in this
+
+section. Land includes any building or part of a building erected on the land. Owner means:
+
+(a) The person or persons who appear on Council's records to be the owner of
+
+the land at the date of notification
+
+(b) In the case of land that is the subject of a strata scheme under the Strata
+
+Schemes (Freehold Development) Act 1973, or a leasehold strata scheme
+
+under the Strata Schemes (Leasehold Development) Act 1986, the Owners’
+
+Corporation
+
+(c) In the case of land that is a community, precinct or neighbourhood parcel within
+
+the meaning of the Community Land Development Act 1989, the Association
+
+for the parcel.
+
+### 3.3 When does notification apply
+
+Notification is required for the majority of Development Applications in accordance with the
+
+relevant provisions of the Environmental Planning and Assessment Act 1979. Examples
+
+include:
+
+(a) Development Applications for approval to erect a building
+
+(b) Amendments to an undetermined Application to erect a building
+
+(c) Certain Development Applications involving the use of a building or another
+
+specified work
+
+(d) Modifications to Development Approvals.
+
+### 3.4 Persons to be notified
+
+Written notice of a Development Application will be sent to those persons who appear to
+
+Council to own or occupy adjoining land and neighbouring land if, in Council's opinion, the
+
+enjoyment of that land may be detrimentally affected or impacted by the development
+
+proposal. This could include land opposite or otherwise distanced from the Application site. Where adjoining or neighbouring land comprises a strata titled or community titled
+
+development, Council may notify, in addition to the relevant Owners’ Corporation or
+
+Association, those individual owners / occupiers of land within the complex which may, in
+
+Council’s opinion, be detrimentally affected by the development proposal. Upon the lodgment of a Development Application, Council will determine who may be
+
+detrimentally affected in terms of the matters to be considered. Council may also broaden the extent of notification following any inspection of the
+
+development site.
+
+### 3.5 What types of impacts are of concern
+
+Council will give notice of an Application to affected persons where, in its opinion, the
+
+enjoyment of land may be detrimentally affected by or in relation to:
+
+(a) The views to and the view from the land
+
+(b) Overshadowing
+
+(c) Privacy
+
+(d) Noise, odour or any other potential polluting emission
+
+(e) The visual quality of the development in relation to the streetscape
+
+(f) The scale or bulk of the proposed development
+
+(g) The siting of the proposed development in relation to site boundaries
+
+(h) The proposed hours of use for the development
+
+(i) Light spillage or reflection
+
+(j) Means of access to or provision of parking on the proposed development site
+
+(k) The amount of traffic likely to be generated by the proposed development
+
+(l) Drainage
+
+(m) The social and economic impacts of the proposal.
+
+### 3.6 Notice to be given to amended applications
+
+An applicant may make an amendment to an application at any time prior to the determination
+
+of the Application. Council will re-notify amendments which either alter the external
+
+configuration or siting of a development and which, in Council's opinion, cause a greater or
+
+more serious impact on any affected person.
+
+### 3.7 Notice to be given for applications for modified approvals
+
+An applicant may lodge an Application to modify an approval (under Section 4.55 of the
+
+Environmental Planning and Assessment Amendment Act 1979) if Council is satisfied that
+
+the development as proposed to be modified remains substantially the same development as
+
+that originally approved and that the proposed modification is of minimal environmental
+
+impact consistent with Section 4.55(1A) of the EP&A Act. Council will re-notify those affected persons who were notified of the original Application and
+
+any other person it considers relevant, inviting comment on the amendments. Submissions received in relation to the modified proposal will be considered in Council's
+
+assessment of the Application.
+
+### 3.8 Applications which will not be notified
+
+Notification is not required where, in the opinion of Council, the enjoyment of land will not be
+
+detrimentally affected in terms of the matters listed under Clause 3.5 of this Part of the DCP. Notification will not be made of a Development Application if it is exempt or complying
+
+development as set out in State Environmental Planning Policy (Exempt and Complying
+
+Development) 2008. Examples of Development Applications which do not require notification include:
+
+(a) Strata subdivision proposals
+
+(b) Subdivisions involving adjustments to property boundaries
+
+(c) Land subdivisions, except where they depart in a significant way from Council's
+
+adopted DCP road pattern and where the development expectations of
+
+adjoining land are affected
+
+(d) Uses of buildings, except at Council's discretion
+
+(e) Single rural dwellings on properties with an area greater than 4000sq.m, where
+
+the proposed dwelling is located a minimum of 20m from the boundaries of the
+
+site.
+
+### 3.9 Information to be included in written notice and notification
+
+#### plan
+
+The written notice to be forwarded by Council to any potentially affected person will contain
+
+the following information:
+
+(a) A description and address of the site
+
+(b) The proposed use of any building
+
+(c) The name of the applicant
+
+(d) The time period within which written submissions are to be made
+
+(e) A notification plan.
+
+For the purposes of this section, the notification plan shall:
+
+(a) Be provided on an A4 or A3 size sheet
+
+(b) Be of a scale which will clearly delineate the features of any proposed
+
+building
+
+(c) Show the height and external configuration of any proposed building in
+
+relation to the site on which it is proposed to be erected
+
+(d) Include a site plan showing the relationship of any proposed building to the
+
+boundaries of the land
+
+(e) Clearly define any new building or additions to existing buildings by
+
+appropriate means of cross hatching
+
+(f) Be appropriately dimensioned to indicate size, height and position of any
+
+proposed building in relation to the site.
+
+Further to the written notification required above, and in addition to the form of notification
+
+that may be legally specified in certain circumstances, Council also requires that other types
+
+of development, as listed in Table 3.1, be advertised in a local newspaper. Table 3.1 specifies, in part, the minimum advertising period required for particular
+
+development types.
+
+![Picture on page 16](images/part-a-introduction-and-general-guidelines-page-16-1.gif)
+
+> [Picture on page 16: a picture, saved as a picture (images/part-a-introduction-and-general-guidelines-page-16-1.gif, 150 dpi).]
+
+### Introduction and General Guidelines
+
+| Category | Development type | Adjoining land | Neighbouring land | Local newspaper | Public authority | Notification period (where applicable) |
+|---|---|---|---|---|---|---|
+| Residential | Small scale ancillary residential (Building Code of Australia, Class 10 Buildings) Construction of single storey and 2 storey dwelling houses and ancillary development Dwelling houses (3 storeys) Dual occupancy Multi dwelling housing and attached dwellings Residential flat building Development under the provisions of SEPP (Housing for Seniors or People with a Disability) 2004 | ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ | ∗ ∗ ∗ ✔□ ✔□ ✔□ ✔□ | × × × × ✔□ (where 10 or more dwellings) ✔□ ✔□ | × ∗ ∗ ∗ ∗ ∗ ∗ | 7 7 14 14 14 14 14 |
+| Commercial | New development Additions / alterations to commercial buildings Change of use / internal alterations | ✔□ ✔□ × | ∗ ∗ × | × × × | ∗ ∗ ∗ | 14 14 × |
+
+![Picture on page 17](images/part-a-introduction-and-general-guidelines-page-17-1.gif)
+
+> [Picture on page 17: a picture, saved as a picture (images/part-a-introduction-and-general-guidelines-page-17-1.gif, 150 dpi).]
+
+### Introduction and General Guidelines
+
+| Category | Development type | Adjoining land | Neighbouring land | Local newspaper | Public authority | Notification period (where applicable) |
+|---|---|---|---|---|---|---|
+| Industrial | New development Additions / alterations to industrial buildings Change of use / internal alterations Potentially offensive or hazardous industries | ✔□ ✔□ ∗ ✔□ | ∗ ∗ × ✔□ | × × × ✔□ | ∗ ∗ ∗ ∗ | 14 14 ∗ 14 |
+| Subdivision | Community title subdivision Subdivision, except for the categories below Strata subdivision Boundary adjustment | ✔□ ✔□ × × | ∗ ∗ × × | × × × × | ∗ ∗ ∗ ∗ | 14 14 × × |
+
+![Picture on page 18](images/part-a-introduction-and-general-guidelines-page-18-1.gif)
+
+> [Picture on page 18: a picture, saved as a picture (images/part-a-introduction-and-general-guidelines-page-18-1.gif, 150 dpi).]
+
+### Introduction and General Guidelines
+
+| Category | Development type | Adjoining land | Neighbouring land | Local newspaper | Public authority | Notification period (where applicable) |
+|---|---|---|---|---|---|---|
+| Other | Any land use in the RU4 Zone Major modification to Development Consent Demolition Professional consulting rooms, home industry, boarding houses, place of public worship, child care centres Education establishments Change of use of a dwelling to a non-residential use Sex services premises, premises seeking consent to extend trading beyond 10pm, entertainment facilities, pubs, night clubs, bars, amusement centres and the like Applications involving heritage items Local Environmental Plan Development Control Plan Section 94 Plans | ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ | ∗ ∗ ∗ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ ✔□ | × × × ∗ ✔□ × ✔□ ∗ ✔□ ✔□ ✔□ | ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ ∗ | 14 14 7 14 14 14 14 14 28 (or as directed by DoPHI) 28 28 |
+
+![Picture on page 19](images/part-a-introduction-and-general-guidelines-page-19-1.gif)
+
+> [Picture on page 19: a picture, saved as a picture (images/part-a-introduction-and-general-guidelines-page-19-1.gif, 150 dpi).]
+
+### Introduction and General Guidelines
+
+| Category | Development type Designated development | Adjoining land ✔□ | Neighbouring land ✔□ | Local newspaper ✔□ | Public authority ∗ | Notification period (where applicable) Min 30 days after 1st day of notice |
+|---|---|---|---|---|---|---|
+
+#### Table 3.1 Notification policy for different classes of development
+
+An application for a major modification to a Development Consent is also to be notified to those persons who previously objected or were previously notified
+
+at the initial Development Application stage.
+
+![Picture on page 19](images/part-a-introduction-and-general-guidelines-page-19-7.gif)
+
+> [Picture on page 19: a picture, saved as a picture (images/part-a-introduction-and-general-guidelines-page-19-7.gif, 150 dpi).]
+> Words printed on the picture (title and legend, copied from the PDF):
+> LEGEND
+> Required
+> Not required
+> At officer’s discretion
+
+#### ✔ × ∗
+
+### 3.10 Submissions
+
+#### 3.10.1 Period during which a person may inspect a plan relating to an application
+
+and make a submission
+
+A person may inspect a plan and make a submission within the period specified in Table 3.1.
+
+The notification, where necessary, varies depending on the type of development, but all
+
+submissions must be received by Council within the specified period from the
+
+commencement of the notification. A copy of the notification plan will be available for inspection at Council's Information Centre
+
+during the notification period.
+
+#### 3.10.2 Form of submissions from persons notified and the general public
+
+Submissions made in respect of applications must be in writing (hard or soft copy) and
+
+addressed to the General Manager. Submissions must clearly indicate the name and address of the person making the
+
+submission and details of the proposal to which the submission relates. Should an objection be part of the submission, the reasons for the objection are to be
+
+provided. Any information included in submissions may be made available to third parties in
+
+accordance with relevant legislation. A Disclosure Statement must be lodged by any person making a submission where a
+
+reportable political donation or gift has been made to certain people or organisations within
+
+2 years before the submission is made. Further information in relation to when a Disclosure
+
+Statement is required, and a copy of the required form to make such a Statement, are
+
+available from Council’s website www.blacktown.nsw.gov.au or from the Blacktown City
+
+Information Centre on telephone number 9839 6000.
+
+#### 3.10.3 Consideration of submissions
+
+Council will consider all submissions received within the specified time period before
+
+determining a Development Application. Council is not bound to adopt or support any objection that may be made in response to its
+
+notification of potentially affected persons in its determination of an Application. Each
+
+Application will be assessed on its merits. As Council is keen to ensure that all Development Applications are processed in a timely
+
+manner, it is imperative that all submissions be lodged with and received by Council within
+
+the notification period.
+
+#### 3.10.4 Notification of determination
+
+Each person who made a submission will be informed of the final decision in determining an
+
+Application.

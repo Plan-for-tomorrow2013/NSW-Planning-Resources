@@ -1,0 +1,15 @@
+---
+title: "Division 1 General"
+council: "Great Lakes"
+document_type: LEP
+last_verified: 2026-07-01
+---
+
+# Division 1 General
+
+| No | Title | File |
+|---|---|---|
+| 6.1 | *(Repealed)* | — |
+| 6.2 | Public utility infrastructure | [01-public-utility-infrastructure.md](01-public-utility-infrastructure.md) |
+| 6.3 | Development control plan | [02-development-control-plan.md](02-development-control-plan.md) |
+| 6.4 | Relationship between Part and remainder of Plan | [03-relationship-between-part-and-remainder.md](03-relationship-between-part-and-remainder.md) |

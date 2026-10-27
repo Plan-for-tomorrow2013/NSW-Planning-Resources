@@ -1,0 +1,165 @@
+---
+title: "Schedule 8 — Land referred to in clause 29"
+council: "Byron"
+document_type: LEP
+clause: "Schedule 8 (Clause 29)"
+last_verified: 2025-02-14
+tags: [biodiversity, bush-fire, coastal, community-title, flood, subdivision, waterways-and-wetlands]
+defined_terms: ["agriculture", "bus depot", "bus station", "commercial premises", "community building", "dwelling", "dwelling-house", "educational establishment", "environmental facilities", "flood liable land", "food shop", "gross floor area", "holiday cabin", "light industry", "private college", "recreation area", "restaurant", "service station", "the council", "the map", "tourist facilities"]
+---
+
+# Schedule 8 Land referred to in clause 29
+
+*(Clause 29)*
+
+- 1 Lot 6 in DP 619293, Parish of Byron, Assessment No 2469.500000, for the purpose of dwellings for the Buttery Accommodation Scheme.
+- 2 Lot 2 in DP 603535, Parish of Whian Whian, Assessment No 7632.00000, for the purpose of Rural Tourist Facilities.
+- 3 Lot 4 in DP 38724, Redgate Road, Parish of Brunswick, Assessment No 6062.00000, for the purpose of Tourist Facilities.
+- 4 Lot 1 in DP 584473, Manse Road, Myocum, Parish of Brunswick, for the purpose of a garbage depot.
+- 4A (Repealed)
+- 5 Lot 10, DP 708338, Broken Head Road, Parish of Byron, for the purpose of a dwelling-house.
+- 6 Lots 1 and 2, Section 20, DP 758207, Shirley Street, Byron Bay, for the purpose of a service station.
+- 7 Lot 2, DP 31814, Bangalow Road, Byron Bay, use of the existing building for the purposes of shops or commercial premises (or both), not to exceed 431 square metres gross floor area.
+- 8 Lot B, Vol 2280 Folio 503, Shirley Street, Byron Bay, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 29)*" for the purpose of an office ancillary to the adjoining service station.
+- 10 Lot 318, DP 755695, Skinners Shoot Road, Byron Bay, for the purpose of a dwelling-house.
+- 11 Lot 5, DP 832186, Lots 180 and 182, DP 728174, Main Arm Road, Mullumbimby, as shown edged heavy on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 41)*", for the purpose of a market.
+- 12 Lot 25, DP 808062, corner of Byron Street and Ballina Road, Bangalow, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 44)*" for the purpose of a medical and health centre.
+- 13 Lot 11, DP 627139, Goremans Road, Eureka, as shown edged in heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 50)*", for the purpose of a bus depot to garage four buses and their minor servicing.
+- 15 Part Lot 2, DP 514338, Old New Brighton Road, New Brighton, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 52)*", for the purpose of a dwelling-house, but only if all buildings are within the building envelopes shown on that map.
+- 16 (Repealed)
+- 17 Lot 3, DP 599728, for the purpose of four dwelling-houses for a multiple occupancy, but only if all buildings are within the building envelope shown for that lot on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 53)*".
+- 18 Lot 5, DP 860179, for the purpose of a road, but only in the position shown on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 53)*".
+- 19 Lot 52, DP 559900, for the purpose of a dwelling-house, but only if the building is within the building envelope shown for that lot on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 53)*".
+- 20 Lot 5, DP 607705, Federal Road, Federal, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 56)*", for the purpose of a dwelling-house, but only if buildings are within the building envelope for that lot shown on that map.
+- 21 Lot 6, DP 607705, Federal Road, Federal, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 116)*", for the purpose of a dwelling-house, but only if buildings are within the building envelope for that lot shown on that map.
+- 22 Lot 7, DP 607705, Repentance Creek Road, Federal, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 93)*", for the purpose of a dwelling-house, but only if buildings are within the building envelope for that lot shown on that map.
+- 24 Lot 1, DP 394452, for the purpose of a dwelling-house.
+- 25 Lot 1, DP 589613, for the purpose of a dwelling-house.
+- 26 Lot 2, DP 589613, for the purpose of a dwelling-house.
+- 27 Lot 1, DP 584476, for the purpose of a dwelling-house.
+- 28 Part Lot 1, DP 842300, Jubilee Avenue, Mullumbimby, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 60)*" for the purpose of a shop with a floor area of up to 330 square metres for the sale of timber products, with no sawmilling, manufacturing or processing of timber to take place on the site.
+- 29 Part of Lot 449, DP 812102, part of Lots 10, 11, 12 and 13, DP 243218 and part of Lot 1, DP 780243, Byron Bay, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 63)*", for the purpose of a golf course.
+- 30 Part Lot 390, DP 728163 and part Lot 378, DP 704236, Mullumbimby, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 76)*", for the purpose of an educational establishment for a maximum period of seven (7) years from the date of gazettal of *Byron Local Environmental Plan 1988 (Amendment No 76)*.
+- 31 Lot 10, DP 854466, Tyagarah and Pinegroves Roads, Tyagarah—
+  - (a) a subdivision creating two allotments, the boundaries of which are generally in accordance with those shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 77)*", and
+  - (b) development on those allotments for the purpose of dwellings.
+- 32 Lot 2, DP 748585, Grays Lane, Tyagarah, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 77)*"—
+  - (a) a subdivision creating two allotments, and
+  - (b) development on the smaller of those allotments for the purpose of a dwelling, and
+  - (c) a subdivision of the larger allotment under the *Community Land Development Act 1989* to create a neighbourhood scheme under which four neighbourhood lots and one allotment of neighbourhood property are created, and
+  - (d) development on the four neighbourhood lots for rural residential purposes, and development on the one allotment of neighbourhood property for the purposes of open space, environmental facilities and agriculture.
+- 33 Lot 1, DP 727923 and Lot 1, DP 185915—
+  - (a) a subdivision creating two allotments, the boundaries of which are generally in accordance with those shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 80)*", and
+  - (b) development on those allotments for the purpose of dwellings.
+- 34 Lot 1, DP 502255, Lot 1, DP 127114 and Lot 1, DP 404238—
+  - (a) a subdivision creating three allotments, the boundaries of which are generally in accordance with those shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 80)*", and
+  - (b) development on two of those allotments for the purpose of dwellings and development on the residual allotment for the purpose of community use.
+- 35 Lot 29, DP 826128, Avocado Crescent, Ewingsdale, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 83)*", a subdivision creating four allotments and development of those allotments for the purpose of dwellings.
+- 36 Lot 102, DP 857692, Parkway Drive, Ewingsdale, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 83)*", a subdivision creating four allotments and development of those allotments for the purpose of dwellings.
+- 37 Lot 18, DP 790776, Parkway Drive, Ewingsdale, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 83)*", a subdivision creating two allotments and development of those allotments for the purpose of dwellings.
+- 38 Lot 1, DP 569916, Dingo Lane, Myocum, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 83)*"—
+  - (a) a subdivision under the *Community Land Development Act 1989* to create a neighbourhood scheme under which four neighbourhood lots and one allotment of neighbourhood property are created, and
+  - (b) development of the four neighbourhood lots for rural residential purposes, and development of the one allotment of neighbourhood property for the purposes of open space, environmental facilities and agriculture.
+- 39 Lot 5, DP 707671, Fowlers Lane, Bangalow, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 85)*"—
+  - (a) a subdivision under the *Community Land Development Act 1989* to create a neighbourhood scheme under which ten neighbourhood lots and one allotment of neighbourhood property are created, and
+  - (b) development on the ten neighbourhood lots for rural residential purposes, and development on the one allotment of neighbourhood property for the purposes of open space, environmental facilities and agriculture.
+- 40 Lot 300, DP 839554, Coopers Shoot Road, Coopers Shoot, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 84)*", a subdivision creating two allotments and development on those allotments for the purpose of dwellings.
+- 41 Lot B, DP 326871, Burringbar Street, Mullumbimby, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 88)*", for the purposes of light industry, a shop and commercial premises for the use of the Mullumbimby Community Enterprise Centre.
+- 42 Lots 1 and 11, Sec 2, DP 11632 and Lot 1, DP 41649, Clifford Street, Suffolk Park, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 94)*", for the purposes of a professional medical centre containing up to 3 medical practitioners, dentists or health care professionals (as defined in the *Environmental Planning and Assessment Model Provisions 1980*) with at least 10 additional car parking spaces provided on site. The medical centre may be operated only from the existing building on Lot 1, Sec 2, DP 11632, or within a replacement building that does not exceed the site coverage, setbacks or height of the existing building.
+- 43 That part of Lot 2, DP 549394, Broken Head Road, Suffolk Park, that was zoned to Zone No 7 (b) (the Coastal Habitat Zone) by *Byron Local Environmental Plan 1988 (Amendment No 75)* (*the land*), for the purposes of that part of the tourist facility approved by the consent for construction on the land, subject to the following conditions—
+  - (a) the development complies with the conditions of the consent,
+  - (b) the consent does not lapse before the development is carried out.
+In this item, *the consent* means the development consent issued by the Land and Environment Court in proceedings No 10114 of 2000 on 20 December 2000 (Development Application No DA 99/0898).
+- 45 Lots 6 and 7, DP 874010, Boogarem Road, Koonyum Range, Mullumbimby, no more than two holiday cabins which are to be positioned in a cluster formation, where development is carried out in accordance with sections 7.2 (Holiday cabins) and 8 (Rural settlement performance standards) of *Byron Rural Settlement Strategy 1998*, as in force at the commencement of *Byron Local Environmental Plan 1988 (Amendment No 99)*.
+- 46 Lot 7 and so much of Lot 8, DP 605958 and so much of Lot 4, DP 820621, Ewingsdale Road, Byron Bay, as is shown coloured yellow and lettered "5 (a) (Private College)" on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 98)*", for the following purposes—
+  - (a) boarding accommodation for a maximum of 100 students attending the private college erected on the land,
+  - (b) video and sound recording studios,
+provided the Council is satisfied that the carrying out of the development will be consistent with the State Government's coastal policy as set out in the publication *NSW Coastal Policy 1997: A Sustainable Future for the New South Wales Coast*, a copy of which is available for inspection at the office of the Council.
+- 47 Lot 4, DP 820621 and Lots 7-9, DP 605958, Ewingsdale Road, Byron Bay, for the purpose of on-site effluent disposal associated with the operations of the private college erected on part of the land, provided the Council is satisfied that the carrying out of the development will be consistent with the State Government's coastal policy as set out in the publication *NSW Coastal Policy 1997: A Sustainable Future for the New South Wales Coast*, a copy of which is available for inspection at the office of the Council.
+- 48 Lot 2, DP 1005689, Coorabell Road, Coorabell, in the local government area of Byron as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 105)*", for the purpose of a community title (village catchment) settlement that complies with the provisions of section 6.3 of the *Byron Rural Settlement Strategy 1998* adopted by the council, as in force at the commencement of *Byron Local Environmental Plan 1988 (Amendment No 105)*, but only if—
+  - (a) the council is satisfied that—
+    - (i) the land is to be subdivided under the *Community Land Development Act 1989* to create a neighbourhood scheme that includes no more than 13 neighbourhood lots and one lot that is neighbourhood property, and
+    - (ii) no more than one dwelling is to be erected on each of the neighbourhood lots, and
+    - (iii) no part of the property is to be developed for the purpose of holiday cabins or tourist facilities, and
+    - (iv) use and development of the land is in accordance with a neighbourhood management statement that includes provision for environmental management and enhancement, and
+  - (b) the following infrastructure and matters necessary and incidental to the provision of that infrastructure are provided without any cost to the council—
+    - (i) new access to the land, including appropriate slip lanes and bus bays, in a manner that complies with the standards set by the council,
+    - (ii) widening of the pavement at the frontage of the land alongside Coorabell Road in a manner that complies with the standards set by the council,
+    - (iii) widening of the pavement and culvert along Coorabell Road at the bend south of Keyes Bridge in a manner that complies with the standards set by the council,
+    - (iv) widening of the pavement at the bend south of the travelling stock reserve south of Keyes Bridge in a manner that complies with the standards set by the council,
+    - (v) culvert and bend widening of Coorabell Road 200 metres from the Binna Burra Road intersection in a manner that complies with the standards set by the council,
+    - (vi) 230 metres of paved footway in Federal village connecting the preschool to the shop and park, and
+  - (c) the cost of any survey or resumption required to correct any existing deviation of Coorabell Road along the frontage of the land is borne by the applicant.
+- 49 Lot 1, DP 189704, Blackbutt Road and Lot 7, DP 718014, Broken Head Road, Broken Head, for the purpose of a rural community title (town catchment) settlement that complies with the provisions of section 6.2 of the *Byron Rural Settlement Strategy 1998* adopted by the council, as in force at the commencement of *Byron Local Environmental Plan 1988 (Amendment No 117)*, but only if—
+  - (a) the council is satisfied that—
+    - (i) the land is to be subdivided under the *Community Land Development Act 1989* to create a neighbourhood scheme under which a maximum of 12 neighbourhood lots and one lot that is neighbourhood property are created on each property, being both Lot 1, DP 189704 and Lot 7, DP 718014, and
+    - (ii) the neighbourhood lots are to be developed for rural residential purposes, and no more than one dwelling is to be erected on each of the neighbourhood lots, and
+    - (iii) the neighbourhood property is to be developed for the purpose of agriculture, environmental repair and ancillary utilities or community facilities, and
+    - (iv) no part of the neighbourhood property is to be developed (including by further subdivision) for the purpose of holiday cabins or rural tourist facilities, and
+    - (v) development of the land is in accordance with a neighbourhood management statement that includes provision for environmental management and enhancement, and
+  - (b) an application for development consent pursuant to this item is made to the council within the period of 5 years immediately after the commencement of *Byron Local Environmental Plan 1988 (Amendment No 117)*.
+- 50 Lot 4, DP 608468, Old Bangalow Road, Byron Bay, for the purpose of a rural community title (town catchment) settlement that complies with the provisions of section 6.2 of the *Byron Rural Settlement Strategy 1998* adopted by the council, as in force at the commencement of *Byron Local Environmental Plan 1988 (Amendment No 121)*, but only if—
+  - (a) the council is satisfied that—
+    - (i) the land is to be subdivided under the *Community Land Development Act 1989* to create a neighbourhood scheme under which a maximum of 13 neighbourhood lots and one lot that is neighbourhood property are created, and
+    - (ii) the neighbourhood lots are to be developed for rural residential purposes, and no more than one dwelling is to be erected on each of the neighbourhood lots, and
+    - (iii) the neighbourhood property is to be developed for the purpose of environmental repair and ancillary utilities or community facilities, and
+    - (iv) no part of the neighbourhood property is to be developed (including by further subdivision) for the purpose of holiday cabins or rural tourist facilities, and
+    - (v) development of the land is in accordance with a neighbourhood management statement that includes provision for environmental management and enhancement, and
+  - (b) an application for development consent pursuant to this item is made to the council within the period of 5 years immediately after the commencement of *Byron Local Environmental Plan 1988 (Amendment No 121)*.
+- 51 Lot 452, DP 48493, Lighthouse Road, Byron Bay, as shown edged heavy black, coloured yellow and lettered "Cultural Centre and Offices" on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 126)*", the purpose of any of the following: Aboriginal cultural centre, visitors centre, museum, meeting rooms, training rooms, restaurant, shops, light industrial workshops, tourist information office, offices, outdoor cooking area, open air theatre, bus station, food shop, dwelling-house for the purposes of an onsite caretaker, car parking and uses ancillary to those purposes, but only if—
+  - (a) a precinct plan for the development of the land has been submitted to the council and adopted and notified by the council pursuant to clause 39, and
+  - (b) the precinct plan referred to in paragraph (a) has, as its key objective, the establishment on the land of an integrated facility—
+    - (i) consistent with the Indigenous Land Use Agreement between the Arakwal Aboriginal Corporation and the New South Wales Government, and
+    - (ii) the dominant use of which is as an Aboriginal cultural centre, and
+  - (c) the consent authority is satisfied that the development of the land is to be consistent with the provisions of the precinct plan referred to in paragraph (a), and
+  - (d) the consent authority is satisfied that, in accordance with clause 39A, the land has been remediated and is suitable for development for the purpose for which the consent is being sought, and
+  - (e) if a site audit is required under clause 39B in respect of the land, the site audit report and site audit statement relating to the site audit have been approved by the council.
+- 52 Lot 377, DP 47409, Old Pacific Highway, Ewingsdale, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 119)*", for the purpose of a recreation area.
+- 53 Lot 21, DP 866871, Blindmouth Road and Lot 2, DP 1074823, Main Arm Road, Main Arm, for the purpose of a rural community title (village catchment) settlement that complies with the provisions of section 6.3 of the *Byron Rural Settlement Strategy 1998*, as in force at the commencement of *Byron Local Environmental Plan 1988 (Amendment No 128)*, but only if—
+  - (a) the council is satisfied that—
+    - (i) the land is to be subdivided under the *Community Land Development Act 1989* to create a neighbourhood scheme under which a maximum of—
+      - (A) 13 neighbourhood lots and one lot that is neighbourhood property are created on Lot 21, DP 866871, Blindmouth Road, Main Arm, and
+      - (B) 13 neighbourhood lots and one lot that is neighbourhood property are created on Lot 2, DP 1074823, Main Arm Road, Main Arm, and
+    - (ii) the neighbourhood lots are to be developed for rural residential purposes, and no more than one dwelling is to be erected on each of the neighbourhood lots, and
+    - (iii) the neighbourhood property is to be developed for the purpose of agriculture, environmental repair and ancillary utilities or community facilities, and
+    - (iv) no part of the neighbourhood property is to be developed (including by further subdivision) for the purpose of holiday cabins or rural tourist facilities, and
+    - (v) development of the land is in accordance with a neighbourhood management statement that includes provisions for environmental management and enhancement, and
+  - (b) an application for development consent pursuant to this item is made to the council within the period of 5 years immediately after the commencement of *Byron Local Environmental Plan 1988 (Amendment No 128)*.
+- 54 Part of Lot 2, DP 614621, Main Arm Road, Main Arm, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 128)*", a subdivision creating not more than 11 lots, but only if the council is satisfied that—
+  - (a) not more than 11 dwellings are to be erected on the land, and
+  - (b) no dwelling is to be erected on any flood liable land, and
+  - (c) the land is to be used only for residential purposes.
+- 55 Lot 2, DP 606347, Natural Lane, Broken Head, for the purpose of a rural community title settlement that complies with the provisions of the *Byron Rural Settlement Strategy 1998*, as in force at the commencement of *Byron Local Environmental Plan 1988 (Amendment No 127)*, but only if—
+  - (a) the council is satisfied that—
+    - (i) the land is to be subdivided under the *Community Land Development Act 1989* to create a neighbourhood scheme under which a maximum of 6 neighbourhood lots and one lot that is neighbourhood property are created, and
+    - (ii) the neighbourhood lots are to be developed for rural residential purposes, and no more than one dwelling is to be erected on each of the neighbourhood lots, and
+    - (iii) the neighbourhood property is to be developed for the purpose of agriculture, environmental repair and ancillary utilities or community facilities, and
+    - (iv) no part of the neighbourhood property is to be developed (including by further subdivision) for the purpose of holiday cabins or rural tourist facilities, and
+    - (v) development of the land is in accordance with a neighbourhood management statement that includes provisions for environmental management and enhancement, and
+  - (b) the provisions for environmental management and enhancement to be included in the neighbourhood management statement address the following—
+    - (i) the aims and objectives of environmental rehabilitation as they relate to flora and fauna communities and habitats,
+    - (ii) the objectives and provisions of the *Byron Biodiversity Conservation Strategy 2004*, and
+  - (c) the provisions for environmental management and enhancement to be included in the neighbourhood management statement require the following—
+    - (i) all plantings to be undertaken in priority areas for environmental repair to ensure the expansion of the following—
+      - (A) wildlife corridors and connecting areas between vegetation remnants,
+      - (B) existing vegetation remnants,
+      - (C) habitats for threatened species and plant communities,
+      - (D) riparian areas adjoining watercourses,
+    - (ii) all plantings to be based on locally sourced species, and
+  - (d) the provisions for environmental management and enhancement to be included in the neighbourhood management statement include the following—
+    - (i) a detailed planting strategy incorporating the following—
+      - (A) planting site preparation,
+      - (B) specific locations,
+      - (C) spacing and density,
+      - (D) a species list,
+      - (E) mature heights of tree and shrub species to be planted,
+      - (F) establishment of planting areas,
+      - (G) expected completion date for planting activities,
+      - (H) a weed maintenance program,
+    - (ii) a detailed regeneration and rehabilitation strategy incorporating the following—
+      - (A) areas for regeneration and rehabilitation work,
+      - (B) the activities proposed in each area,
+      - (C) priority areas and timeframes for implementation in those areas.
+- 56 Lot 456, DP 1126388, corner of Lawson and Middleton Streets, Byron Bay, as shown edged heavy black on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 136)*", for the purposes of commercial premises, a community building and a shop.
+- 57 So much of Lot 3, DP 706286, 249 Ewingsdale Road, Byron Bay as is shown distinctively coloured, edged heavy black and lettered "6 (a)" on the map marked "*Byron Local Environmental Plan 1988 (Amendment No 140)*", for the purposes of community events and festivals.
+- 58 Lot 2, DP 537488, 2 Tickles Road, Upper Coopers Creek, for the purposes of a dwelling-house, but only if the council is satisfied that the radiant heat exposure from a bushfire in relation to the house will not exceed 29 kW per square metre.

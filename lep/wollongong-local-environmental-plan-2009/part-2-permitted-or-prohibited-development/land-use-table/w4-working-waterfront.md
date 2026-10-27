@@ -1,0 +1,33 @@
+---
+title: "Zone W4 — Working Waterfront"
+council: "Wollongong"
+document_type: LEP
+zone_code: W4
+zone: "Working Waterfront"
+last_verified: 2026-10-02
+zones: [W4]
+tags: [land-use-table, waterway-zones]
+---
+
+# Zone W4 Working Waterfront
+
+## 1 Objectives of zone
+
+- To retain and encourage industrial and maritime activities on foreshores.
+- To identify sites for maritime purposes and for activities requiring direct foreshore access.
+- To ensure that development does not have an adverse impact on the environment and visual qualities of the foreshore.
+- To encourage employment opportunities.
+- To minimise any adverse effect of development on land uses in other zones.
+- To encourage development that is compatible with the characteristics of Wollongong Harbour and Belmore Basin.
+
+## 2 Permitted without consent
+
+Nil
+
+## 3 Permitted with consent
+
+Aquaculture; Boat building and repair facilities; Boat launching ramps; Charter and tourism boating facilities; Food and drink premises; Information and education facilities; Jetties; Kiosks; Light industries; Marinas; Markets; Mooring pens; Roads; Signage
+
+## 4 Prohibited
+
+Any development not specified in item 2 or 3

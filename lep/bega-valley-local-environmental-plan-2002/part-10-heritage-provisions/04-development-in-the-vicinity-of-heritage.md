@@ -1,0 +1,26 @@
+---
+title: "Clause 61 Development in the vicinity of heritage items"
+council: "Bega Valley"
+document_type: LEP
+part: "10 — Heritage provisions"
+clause: "61"
+last_verified: 2026-07-01
+tags: [heritage, heritage-items]
+---
+
+# 61 Development in the vicinity of heritage items
+
+**(1)**
+Before granting consent to development in the vicinity of a heritage item, the consent authority must assess the impact of the proposed development on the heritage significance of the heritage item.
+
+**(2)**
+This clause extends to development—
+- (a) that may have an impact on the setting of a heritage item, for example, by affecting a significant view to or from the item or by overshadowing, or
+- (b) that may undermine or otherwise cause physical damage to a heritage item, or
+- (c) if the heritage item is a place, that will otherwise have any adverse impact on the heritage significance of the place within which it is situated.
+
+**(3)**
+The consent authority may refuse to grant any such consent unless it has considered a heritage impact statement that will help it assess the impact of the proposed development on the heritage significance, visual curtilage and setting of the heritage item.
+
+**(4)**
+The heritage impact statement should include details of the size, shape and scale of, setbacks for, and the materials to be used in, any proposed buildings or works and details of any modification that would reduce the impact of the proposed development on the heritage significance of the heritage item.

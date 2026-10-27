@@ -1,0 +1,25 @@
+---
+title: "Clause 4.2A Exceptions to minimum lot sizes for certain rural subdivisions"
+council: "Moree Plains"
+document_type: LEP
+part: "4 — Principal development standards"
+clause: "4.2A"
+last_verified: 2026-07-01
+tags: [dual-occupancy, dwelling-houses, lot-size, subdivision]
+defined_terms: ["agriculture", "dual occupancy", "dwelling house", "Lot Size Map"]
+---
+
+# 4.2A Exceptions to minimum lot sizes for certain rural subdivisions
+
+**(1)**
+The objective of this clause is to enable the subdivision of land in rural areas to create lots of an appropriate size to meet the needs of permissible uses other than for the purpose of dwelling houses or dual occupancies.
+
+**(2)**
+Land in a zone to which clause 4.2 applies may, with development consent, be subdivided to create a lot of a size that is less than the minimum size shown on the *Lot Size Map* in relation to that land, where the consent authority is satisfied that the use of the land after the subdivision will be the same use permitted under the existing development consent for the land (other than for the purpose of a dwelling house or a dual occupancy).
+
+**(3)**
+Development consent must not be granted for the subdivision of land to which this clause applies unless the consent authority is satisfied that—
+- (a) the subdivision will not adversely affect the use of the surrounding land for agriculture, and
+- (b) the subdivision is necessary for the ongoing operation of the permissible use, and
+- (c) the subdivision will not increase rural land use conflict in the locality, and
+- (d) the subdivision is appropriate having regard to the natural and physical constraints affecting the land.

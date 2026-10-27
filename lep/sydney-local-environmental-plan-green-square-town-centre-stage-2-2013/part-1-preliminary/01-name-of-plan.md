@@ -1,0 +1,13 @@
+---
+title: "Clause 1.1 Name of Plan"
+council: "Sydney"
+document_type: LEP
+part: "1 — Preliminary"
+clause: "1.1"
+last_verified: 2026-07-01
+defined_terms: ["Green Square Town Centre"]
+---
+
+# 1.1 Name of Plan
+
+This Plan is *Sydney Local Environmental Plan (Green Square Town Centre—Stage 2) 2013*.

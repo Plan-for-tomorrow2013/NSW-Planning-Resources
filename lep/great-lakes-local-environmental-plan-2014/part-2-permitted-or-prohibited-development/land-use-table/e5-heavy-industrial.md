@@ -1,0 +1,32 @@
+---
+title: "Zone E5 — Heavy Industrial"
+council: "Great Lakes"
+document_type: LEP
+zone_code: E5
+zone: "Heavy Industrial"
+last_verified: 2026-07-01
+zones: [E5]
+tags: [employment-zones, land-use-table]
+---
+
+# Zone E5 Heavy Industrial
+
+## 1 Objectives of zone
+
+- To provide areas for industries that need to be separated from other land uses.
+- To ensure the efficient and viable use of land for industrial uses.
+- To minimise any adverse effect of industry on other land uses.
+- To encourage employment opportunities.
+- To support and create opportunities for heavy industrial development with access to transport and infrastructure networks.
+
+## 2 Permitted without consent
+
+Nil
+
+## 3 Permitted with consent
+
+Agriculture; Boat building and repair facilities; Car parks; Crematoria; Data centres; Depots; Electricity generating works; Environmental protection works; Extractive industries; Flood mitigation works; Freight transport facilities; General industries; Hazardous storage establishments; Heavy industrial storage establishments; Heavy industries; Helipads; Industrial training facilities; Light industries; Mortuaries; Offensive storage establishments; Oyster aquaculture; Port facilities; Research stations; Roads; Rural industries; Signage; Service stations; Tank-based aquaculture; Transport depots; Truck depots; Vehicle body repair workshops; Vehicle repair stations; Warehouse or distribution centres; Water supply systems
+
+## 4 Prohibited
+
+Any development not specified in item 2 or 3

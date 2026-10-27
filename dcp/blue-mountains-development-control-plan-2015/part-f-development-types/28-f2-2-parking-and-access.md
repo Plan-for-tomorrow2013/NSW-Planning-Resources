@@ -1,0 +1,72 @@
+---
+title: "F2.2 Parking and Access"
+document_id: blue-mountains-development-control-plan-2015/part-f-development-types/f2-2-parking-and-access
+register_id: DCP-NSW-BLUE-MOUNTAINS-2015
+current_from: 2025-11
+authoritative_url: "https://www.bmcc.nsw.gov.au/documents/dcp-2015-part-f-development-types"
+---
+### F2.2. Parking and Access
+
+#### Explanation
+
+Development for commercial and retail purposes is often by nature located within main streets and more densely developed areas in the centre of town. In the Blue Mountains, these centres often have heritage value and a development pattern that has been in place since the early commercial development of these areas. The provision of onsite parking within these locations is often difficult, as existing buildings are generally built to the property boundary, particularly within Heritage Conservation Areas and other established areas. While onsite parking is important to ensure that development does not impact on adjoining neighbours and the local street network, this part of the DCP provides some flexibility for the provision of onsite parking in locations (particularly within town centres) where physical site constraints mean it is not possible or aesthetically desirable to provide onsite parking (e.g. the site is fully developed, or provision of off street parking in the frontage of a heritage item or in areas of significant streetscape value). This section also provides controls for the location and design of parking areas for larger commercial and retail development.
+
+Part F2: Retail and Commercial Development
+
+#### Objectives
+
+O1. To ensure that commercial and retail development provide onsite parking that is adequate for the land use, without compromising streetscape appearance or traffic safety and function.
+
+O2. To provide flexibility where compliance with parking rates may not be possible due to physical site constraints, or may result in an adverse impact on streetscape, amenity or character.
+
+#### Controls
+
+Driveways
+
+C1. Only one driveway is to be provided at each road frontage of an allotment.
+
+C2. Notwithstanding C1, Council may consider a second driveway where it can be demonstrated that:
+
+(a) an allotment has a frontage of substantial width, and
+
+(b) it is required for manoeuvrability within the site (due to the operation of the commercial use or the size of vehicle required to access the site), and
+
+(c) sufficient on-street parking is available in the locality, and
+
+(d) traffic and pedestrian safety will not be compromised.
+
+C3. The alignment of driveways shall be located at least 2m from any side boundary to provide space for landscaping and pervious area, except in town centres where building site cover precludes that outcome.
+
+C4. Driveways are to be positioned so that on-street parking and landscaping on the site is maximised, and removal or damage to existing street trees is avoided.
+
+C5. Driveway widths are to comply with Australian Standard 2890.2 Parking facilities – Off-street commercial parking facilities and be a minimum of 3m wide and no wider than the parking structure to which the driveway relates other than as necessary to enable vehicles to access car parking spaces.
+
+C6. Driveways associated with large scale commercial development shall be designed to:
+
+(a) enable vehicles to enter and leave the site in a forward direction, and
+
+Part F2: Retail and Commercial Development
+
+(b) be capable of accommodating the entry and exit manoeuvres of the largest vehicle expected to enter the site.
+
+Parking
+
+C7. On-site parking is to be provided in accordance with the parking rates table provided at Part E2 Traffic, Parking and Access of this DCP, Part E2: Table 1.
+
+C8. Car parking areas should preferably be located behind the front alignment of buildings and are not to form a visually prominent element of the streetscape.
+
+C9. Where parking cannot be located behind the front building alignment, parking areas are to be designed to provide appropriate space for landscaping; both on the boundaries and along street frontages, as well as at regular intervals between parking spaces.
+
+Basement parking
+
+C10. Basement car parking shall:
+
+(a) be located within the limits of the building footprint and project no more than 1m above finished ground level, and
+
+(b) facilitate natural ventilation, and
+
+(c) incorporate lighting in accordance with the Australian Standard
+
+1680.2.1 Interior and workplace lighting – Specific applications – Circulation spaces and other general areas.
+
+C11. Separate pedestrian access to buildings is to be provided.

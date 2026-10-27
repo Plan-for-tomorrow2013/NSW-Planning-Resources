@@ -1,0 +1,36 @@
+---
+title: "Clause 2.3 Zone objectives and Land Use Table"
+council: "Tumbarumba"
+document_type: LEP
+part: "2 — Permitted or prohibited development"
+clause: "2.3"
+last_verified: 2026-07-01
+tags: [additional-permitted-uses, complying-development, exempt-development, subdivision]
+defined_terms: ["the Act"]
+---
+
+# 2.3 Zone objectives and Land Use Table
+
+**(1)**
+The Land Use Table at the end of this Part specifies for each zone—
+- (a) the objectives for development, and
+- (b) development that may be carried out without development consent, and
+- (c) development that may be carried out only with development consent, and
+- (d) development that is prohibited.
+
+**(2)**
+The consent authority must have regard to the objectives for development in a zone when determining a development application in respect of land within the zone.
+
+**(3)**
+In the Land Use Table at the end of this Part—
+- (a) a reference to a type of building or other thing is a reference to development for the purposes of that type of building or other thing, and
+- (b) a reference to a type of building or other thing does not include (despite any definition in this Plan) a reference to a type of building or other thing referred to separately in the Land Use Table in relation to the same zone.
+
+**(4)**
+This clause is subject to the other provisions of this Plan.
+
+> Note: Schedule 1 sets out additional permitted uses for particular land.
+> Schedule 2 sets out exempt development (which is generally exempt from both Parts 4 and 5 of the Act). Development in the land use table that may be carried out without consent is nevertheless subject to the environmental assessment and approval requirements of Part 5 of the Act.
+> Schedule 3 sets out complying development (for which a complying development certificate may be issued as an alternative to obtaining development consent).
+> Clause 2.6 requires consent for subdivision of land.
+> Part 5 contains other provisions which require consent for particular development.

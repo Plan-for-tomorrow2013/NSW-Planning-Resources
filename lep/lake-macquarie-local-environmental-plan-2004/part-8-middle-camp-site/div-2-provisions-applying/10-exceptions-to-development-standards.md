@@ -1,0 +1,37 @@
+---
+title: "Clause 76 Exceptions to development standards"
+council: "Lake Macquarie"
+document_type: LEP
+part: "8 — Middle Camp site / Division 2 Provisions applying to development in Middle Camp site"
+clause: "76"
+last_verified: 2023-11-10
+tags: [complying-development]
+defined_terms: ["complying development", "the Act"]
+---
+
+# 76 Exceptions to development standards
+
+**(1)**
+The objectives of this clause are—
+- (a) to provide an appropriate degree of flexibility in applying certain development standards to particular development, and
+- (b) to achieve better outcomes for and from development by allowing flexibility in particular circumstances.
+
+**(2)**
+Development consent may, subject to this clause, be granted for development even though the development would contravene a development standard imposed by this or any other environmental planning instrument. However, this clause does not apply to a development standard that is expressly excluded from the operation of this clause.
+
+**(3)**
+Development consent must not be granted to development that contravenes a development standard unless the consent authority is satisfied the applicant for development consent has demonstrated that—
+- (a) compliance with the development standard is unreasonable or unnecessary in the circumstances, and
+- (b) there are sufficient environmental planning grounds to justify the contravention of the development standard.
+
+> Note: The *Environmental Planning and Assessment Regulation 2021* requires the development application to be accompanied by a document setting out the grounds on which the applicant seeks to demonstrate the matters in paragraphs (a) and (b).
+
+**(4)**
+The consent authority must keep a record of its assessment carried out under subclause (3).
+
+**(5), (6)** (Repealed)
+
+**(7)**
+This clause does not allow development consent to be granted for development that would contravene any of the following—
+- (a) a development standard for complying development,
+- (b) a development standard that arises, under the regulations under the Act, in connection with a commitment set out in a BASIX certificate for a building to which *State Environmental Planning Policy (Building Sustainability Index: BASIX) 2004* applies or for the land on which such a building is situated.
