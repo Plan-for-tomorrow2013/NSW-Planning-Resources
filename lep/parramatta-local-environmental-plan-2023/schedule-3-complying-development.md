@@ -3,7 +3,7 @@ title: "Schedule 3 — Complying development"
 council: "City of Parramatta Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [complying-development]
 defined_terms: ["the Act"]
 ---

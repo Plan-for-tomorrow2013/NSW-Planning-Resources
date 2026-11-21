@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.6"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["Parramatta North Precinct", "Sun Access Protection Map"]
 ---
 

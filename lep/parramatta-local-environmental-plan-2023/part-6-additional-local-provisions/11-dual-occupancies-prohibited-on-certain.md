@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [complying-development, dual-occupancy, heritage, heritage-items]
 defined_terms: ["Dual Occupancy Prohibition Map", "heritage item", "Heritage Map"]
 ---

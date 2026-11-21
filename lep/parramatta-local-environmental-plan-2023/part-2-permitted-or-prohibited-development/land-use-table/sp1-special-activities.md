@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [SP1]
 tags: [land-use-table, special-purpose-zones]
 ---

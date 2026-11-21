@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.31"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [design-excellence, height-of-buildings]
 defined_terms: ["building height", "car park", "competitive design process", "enclosed communal area", "gross floor area", "maximum permissible FSR", "maximum permissible HOB", "Special Provisions Area Map"]
 ---

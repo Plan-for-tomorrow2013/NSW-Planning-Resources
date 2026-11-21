@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.4"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # 2.4 Unzoned land

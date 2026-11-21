@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.5"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, public-land-classification, strata-title, subdivision]
 defined_terms: ["community land", "floor space ratio", "gross floor area", "public land", "site area"]
 ---

@@ -4,9 +4,9 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [biodiversity]
-defined_terms: ["biodiversity", "native fauna", "Natural Resources Map"]
+defined_terms: ["biodiversity", "Biodiversity Map", "native fauna"]
 ---
 
 # 6.3 Biodiversity
@@ -18,7 +18,7 @@ The objective of this clause is to maintain terrestrial and aquatic biodiversity
 - (c) encouraging the conservation and recovery of native fauna and flora and their habitats.
 
 **(2)**
-This clause applies to land identified as "Biodiversity" on the *Natural Resources Map*.
+This clause applies to land identified on the *Biodiversity Map*.
 
 **(3)**
 In deciding whether to grant development consent to development on the land, the consent authority must consider—

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.45"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [coastal, design-excellence, floor-space-ratio, height-of-buildings]
 defined_terms: ["building height", "floor space ratio", "mixed use development", "Special Provisions Area Map"]
 ---

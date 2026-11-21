@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 5 Provisions for Parramatta City Centre other than \"Area A\""
 clause: "7.22"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [heritage, heritage-conservation-areas, heritage-items]
 defined_terms: ["heritage conservation area", "heritage conservation management plan", "heritage impact statement", "heritage item", "heritage significance", "Parramatta City Centre", "Special Provisions Area Map"]
 ---

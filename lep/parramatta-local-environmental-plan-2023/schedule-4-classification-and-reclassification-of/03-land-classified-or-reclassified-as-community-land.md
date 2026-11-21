@@ -3,7 +3,7 @@ title: "Schedule 4, Part 3 — Land classified, or reclassified, as community la
 council: "City of Parramatta Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 5.2)"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [public-land-classification]
 ---
 

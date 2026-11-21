@@ -3,7 +3,7 @@ title: "Dictionary — F"
 council: "City of Parramatta Council"
 document_type: LEP
 dictionary_range: "F"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [dictionary]
 ---
 

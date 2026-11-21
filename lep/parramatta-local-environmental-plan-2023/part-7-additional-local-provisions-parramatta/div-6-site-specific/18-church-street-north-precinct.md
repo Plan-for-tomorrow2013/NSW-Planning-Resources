@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.46"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, heritage, heritage-conservation-areas, heritage-items]
 defined_terms: ["applicable FSR", "car parking space", "floor space ratio", "gross floor area", "ground level (existing)", "heritage conservation area", "heritage item", "site area", "Special Provisions Area Map"]
 ---

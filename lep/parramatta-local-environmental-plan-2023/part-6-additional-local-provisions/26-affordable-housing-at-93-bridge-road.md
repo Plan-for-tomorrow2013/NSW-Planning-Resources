@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.28"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [affordable-housing]
 defined_terms: ["affordable housing", "dwelling", "gross floor area", "Key Sites Map", "registered community housing provider", "residential accommodation"]
 ---

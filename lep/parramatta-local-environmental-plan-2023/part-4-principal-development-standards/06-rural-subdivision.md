@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [subdivision]
 ---
 

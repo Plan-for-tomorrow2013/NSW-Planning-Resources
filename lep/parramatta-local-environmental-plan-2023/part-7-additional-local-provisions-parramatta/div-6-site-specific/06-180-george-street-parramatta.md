@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.34"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, tourist-accommodation]
 defined_terms: ["car parking space", "commercial premises", "floor space ratio", "gross floor area", "serviced apartment", "Special Provisions Area Map", "tourist and visitor accommodation"]
 ---

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["dwelling", "hospital", "recreation area", "residential accommodation", "school", "sex services premises"]
 ---
 

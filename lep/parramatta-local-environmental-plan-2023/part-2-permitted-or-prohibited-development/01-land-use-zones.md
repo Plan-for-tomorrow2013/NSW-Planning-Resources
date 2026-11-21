@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.1"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2, R3, R4, E1, E2, E3, E4, E5, MU1, SP1, SP2, RE1, RE2, C2, W1, W2]
 tags: [waterways-and-wetlands]
 defined_terms: ["waterway"]

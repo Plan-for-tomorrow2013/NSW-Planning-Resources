@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.42"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, heritage, heritage-conservation-areas, heritage-items]
 defined_terms: ["additional GFA", "applicable FSR", "BASIX target", "commercial premises", "dwelling", "floor space ratio", "gross floor area", "heritage conservation area", "heritage item", "mixed use development", "Parramatta City Centre", "residential accommodation", "retail premises", "Special Provisions Area Map"]
 ---

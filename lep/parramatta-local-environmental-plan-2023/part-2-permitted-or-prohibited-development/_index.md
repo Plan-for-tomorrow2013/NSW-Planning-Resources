@@ -2,7 +2,7 @@
 title: "Part 2 — Permitted or prohibited development"
 council: "City of Parramatta Council"
 document_type: LEP
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # Part 2 — Permitted or prohibited development

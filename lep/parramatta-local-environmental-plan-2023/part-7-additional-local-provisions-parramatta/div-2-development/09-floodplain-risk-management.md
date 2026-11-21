@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 2 Development standards generally"
 clause: "7.11"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [flood]
 defined_terms: ["Floodplain Risk Management Map"]
 ---

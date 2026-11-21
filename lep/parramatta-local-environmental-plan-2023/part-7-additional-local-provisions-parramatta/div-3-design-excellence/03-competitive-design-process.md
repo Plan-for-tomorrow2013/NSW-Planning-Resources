@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 3 Design excellence"
 clause: "7.14"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, heritage-items]
 defined_terms: ["competitive design process", "estimated development cost", "floor space ratio", "gross floor area", "ground level (existing)", "heritage item", "Key Sites Map", "maximum permissible FSR", "Parramatta City Centre", "site area", "Special Provisions Area Map"]
 ---

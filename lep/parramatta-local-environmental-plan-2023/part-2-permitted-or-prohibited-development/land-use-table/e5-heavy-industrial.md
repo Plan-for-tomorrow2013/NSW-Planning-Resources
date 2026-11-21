@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: E5
 zone: "Heavy Industrial"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [E5]
 tags: [employment-zones, land-use-table]
 ---

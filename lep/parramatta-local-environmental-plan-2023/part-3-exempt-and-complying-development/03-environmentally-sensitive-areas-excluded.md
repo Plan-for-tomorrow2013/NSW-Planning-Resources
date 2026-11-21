@@ -4,9 +4,9 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.3"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [biodiversity, coastal, complying-development, heritage, waterways-and-wetlands]
-defined_terms: ["biodiversity", "coastal lake", "coastal waters of the State", "Natural Resources Map", "wetland"]
+defined_terms: ["biodiversity", "Biodiversity Map", "coastal lake", "coastal waters of the State", "wetland"]
 ---
 
 # 3.3 Environmentally sensitive areas excluded
@@ -27,4 +27,4 @@ For the purposes of this clause—
 - (h) land reserved under the *National Parks and Wildlife Act 1974* or land acquired under Part 11 of that Act,
 - (i) land reserved or dedicated under the *Crown Land Management Act 2016* for the preservation of flora, fauna, geological formations or for other environmental protection purposes,
 - (j) land that is a declared area of outstanding biodiversity value under the *Biodiversity Conservation Act 2016* or declared critical habitat under Part 7A of the *Fisheries Management Act 1994*,
-- (ja) land identified as "Biodiversity" on the *Natural Resources Map*.
+- (ja) land identified on the *Biodiversity Map*.

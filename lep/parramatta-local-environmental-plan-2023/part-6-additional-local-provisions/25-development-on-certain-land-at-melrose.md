@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.27"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [MU1]
 tags: [affordable-housing, floor-space-ratio]
 defined_terms: ["affordable housing", "floor space ratio", "gross floor area", "residential accommodation"]

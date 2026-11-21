@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.1"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [acid-sulfate-soils]
 defined_terms: ["acid sulfate soils", "Acid Sulfate Soils Manual", "Acid Sulfate Soils Map", "public authority"]
 ---

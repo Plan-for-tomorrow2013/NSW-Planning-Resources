@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "9 — Additional local provisions—Melrose Park Precinct"
 clause: "9.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R4, E1, MU1]
 defined_terms: ["gross floor area", "Key Sites Map", "Melrose Park North", "Melrose Park South", "residential accommodation", "residential flat building"]
 ---

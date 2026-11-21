@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [bush-fire, bushland, flood, groundwater, waterways-and-wetlands]
 defined_terms: ["ecologically sustainable development", "Parramatta City Centre", "the Act", "waterway"]
 ---

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.26"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio]
 defined_terms: ["Additional Local Provisions Map", "commercial premises", "floor space ratio", "Floor Space Ratio Map", "gross floor area"]
 ---

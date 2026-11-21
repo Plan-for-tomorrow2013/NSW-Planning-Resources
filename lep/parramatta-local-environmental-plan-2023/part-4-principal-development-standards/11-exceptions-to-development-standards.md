@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.6"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R4, E1, C2]
 tags: [boarding-houses, complying-development, dual-occupancy, dwelling-houses, floor-space-ratio, seniors-housing, subdivision, tourist-accommodation]
 defined_terms: ["attached dwelling", "boarding house", "dwelling house", "floor space ratio", "Floor Space Ratio Map", "hostel", "multi dwelling housing", "Parramatta City Centre", "residential flat building", "semi-detached dwelling", "seniors housing", "shop top housing", "the Act", "tourist and visitor accommodation"]

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [E2]
 tags: [employment-zones, land-use-table]
 ---

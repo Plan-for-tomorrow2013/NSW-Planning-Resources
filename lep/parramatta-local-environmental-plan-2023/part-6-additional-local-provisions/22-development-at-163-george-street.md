@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.24"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [height-of-buildings, heritage-items]
 defined_terms: ["car park", "Height of Buildings Map", "heritage item"]
 ---

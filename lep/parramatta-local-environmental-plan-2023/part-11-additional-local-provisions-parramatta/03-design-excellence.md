@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.3"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [design-excellence, height-of-buildings, heritage]
 defined_terms: ["building height", "competitive design process", "design advisory panel", "estimated development cost", "gross floor area", "ground level (existing)", "Parramatta North Precinct", "Special Provisions Area Map", "waterway"]
 ---

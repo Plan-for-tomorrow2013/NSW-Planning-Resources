@@ -2,17 +2,17 @@
 title: "Dictionary"
 council: "City of Parramatta Council"
 document_type: LEP
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # Dictionary
 
-345 defined terms, split one file per starting letter.
+346 defined terms, split one file per starting letter.
 
 | Letter | Terms | File |
 |---|---|---|
 | A | 27 | [a.md](a.md) |
-| B | 22 | [b.md](b.md) |
+| B | 23 | [b.md](b.md) |
 | C | 31 | [c.md](c.md) |
 | D | 15 | [d.md](d.md) |
 | E | 21 | [e.md](e.md) |

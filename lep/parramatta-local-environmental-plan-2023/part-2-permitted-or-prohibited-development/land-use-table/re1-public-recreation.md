@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: RE1
 zone: "Public Recreation"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RE1]
 tags: [land-use-table, recreation-zones]
 ---

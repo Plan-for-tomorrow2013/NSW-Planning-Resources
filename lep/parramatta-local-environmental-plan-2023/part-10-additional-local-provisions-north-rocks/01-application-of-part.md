@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "10 — Additional local provisions—North Rocks Village Precinct"
 clause: "10.1"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["North Rocks Village Precinct"]
 ---
 

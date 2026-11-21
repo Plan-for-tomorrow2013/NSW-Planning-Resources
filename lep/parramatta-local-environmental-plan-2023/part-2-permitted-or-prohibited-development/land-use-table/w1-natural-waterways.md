@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: W1
 zone: "Natural Waterways"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [W1]
 tags: [land-use-table, waterway-zones]
 ---

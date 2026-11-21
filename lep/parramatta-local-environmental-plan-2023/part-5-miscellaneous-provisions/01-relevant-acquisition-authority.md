@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.1"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2, E1, E2, E3, MU1, SP2, RE1, C2]
 tags: [land-acquisition]
 defined_terms: ["Land Reservation Acquisition Map", "the Act"]
@@ -25,11 +25,9 @@ The authority of the State that will be the relevant authority to acquire land, 
 | Zone RE1 Public Recreation and marked "Regional open space" | The corporation constituted under section 2.5 of the Act |
 | Zone SP2 Infrastructure and marked "Classified road" | Transport for NSW |
 | Zone C1 National Parks and Nature Reserves and marked "National Park" | Minister administering the *National Parks and Wildlife Act 1974* |
-| Zone SP2 Infrastructure and marked "Local road" | Council |
 | Zone SP2 Infrastructure and marked "Carpark" | Council |
 | Zone SP2 Infrastructure and marked "Drainage" | Sydney Water Corporation |
 | Zone SP2 Infrastructure and marked "Educational establishment" | Department of Education |
-| Zone SP2 Infrastructure and marked "School" | Department of Education |
 | Zone SP2 Infrastructure and marked "Public Transport Corridor" | Transport for NSW |
 | Zone R2 Low Density Residential and marked "Local road widening" | Council |
 | Zone E1 Local Centre and marked "Local road widening" | Council |

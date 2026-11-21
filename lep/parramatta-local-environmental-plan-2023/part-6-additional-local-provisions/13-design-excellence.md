@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [bushland, design-excellence, heritage]
 defined_terms: ["competitive design process", "design advisory panel", "Design Excellence Map", "ecologically sustainable development", "estimated development cost", "ground level (existing)", "waterway"]
 ---

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.47"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [affordable-housing, floor-space-ratio]
 defined_terms: ["affordable housing", "build-to-rent housing", "co-living housing", "floor space ratio", "gross floor area", "registered community housing provider", "residential accommodation", "shop top housing"]
 ---

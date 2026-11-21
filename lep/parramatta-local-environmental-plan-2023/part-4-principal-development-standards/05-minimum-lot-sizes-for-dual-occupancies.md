@@ -1,16 +1,16 @@
 ---
-title: "Clause 4.1C Minimum subdivision lot size for dual occupancies and manor houses"
+title: "Clause 4.1C Minimum lot sizes for dual occupancies and manor houses"
 council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2, R3, R4]
-tags: [complying-development, dual-occupancy, lot-size, subdivision]
+tags: [complying-development, dual-occupancy, lot-size]
 defined_terms: ["private open space"]
 ---
 
-# 4.1C Minimum subdivision lot size for dual occupancies and manor houses
+# 4.1C Minimum lot sizes for dual occupancies and manor houses
 
 **(1)**
 The objectives of this clause are as follows—

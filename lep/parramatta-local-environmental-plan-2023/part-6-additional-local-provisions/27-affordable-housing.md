@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.29"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [affordable-housing, boarding-houses]
 defined_terms: ["affordable housing", "Affordable Housing Map", "boarding house", "build-to-rent housing", "co-living housing", "dwelling", "gross floor area", "group home", "hostel", "residential accommodation"]
 ---

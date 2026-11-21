@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AA"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2]
 tags: [community-title, lot-size, strata-title, subdivision]
 defined_terms: ["dwelling", "Lot Size Map"]

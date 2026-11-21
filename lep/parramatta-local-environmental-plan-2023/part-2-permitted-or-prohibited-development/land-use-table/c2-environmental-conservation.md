@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: C2
 zone: "Environmental Conservation"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [C2]
 tags: [conservation-zones, land-use-table]
 ---

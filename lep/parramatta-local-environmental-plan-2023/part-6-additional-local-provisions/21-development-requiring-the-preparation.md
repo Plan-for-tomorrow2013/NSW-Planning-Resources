@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.23"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [acid-sulfate-soils, biodiversity, dual-occupancy, dwelling-houses, flood, heritage, secondary-dwellings, waterways-and-wetlands]
 defined_terms: ["acid sulfate soils", "dwelling house", "ecologically sustainable development", "Key Sites Map", "native flora", "secondary dwelling", "storey", "watercourse", "wetland"]
 ---

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.43"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio]
 defined_terms: ["additional GFA", "floor space ratio", "hotel or motel accommodation", "residential accommodation", "serviced apartment", "Special Provisions Area Map"]
 ---

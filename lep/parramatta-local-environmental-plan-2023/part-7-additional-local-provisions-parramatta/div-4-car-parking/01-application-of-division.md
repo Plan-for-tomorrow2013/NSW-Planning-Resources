@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 4 Car parking"
 clause: "7.16"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["car park", "car parking space", "gross floor area", "mixed use development"]
 ---
 

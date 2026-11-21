@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 5 Provisions for Parramatta City Centre other than \"Area A\""
 clause: "7.25"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [height-of-buildings]
 defined_terms: ["additional GFA", "BASIX target", "building line", "dwelling", "estimated development cost", "gross floor area", "hotel or motel accommodation", "maximum permissible FSR", "mixed use development", "office premises", "residential accommodation", "residential flat building", "retail premises", "serviced apartment", "site area", "storey"]
 ---
@@ -65,8 +65,8 @@ Development consent must not be granted to development specified in subclause (2
   - (i) a maximum energy target of 63.8kg CO2e/m2 per year,
   - (ii) a maximum water target of 0.5kL/m2 per year,
 - (c) the part of a building used for the purposes of hotel or motel accommodation or serviced apartments is capable of achieving the following—
-  - (i) a maximum energy target of 5,220kg CO2e per room each year,
-  - (ii) a maximum water target of 76.1kL per room each year.
+  - (i) a maximum energy target of 5,220kg CO2e per hotel or motel room or serviced apartment each year,
+  - (ii) a maximum water target of 76.1kL per hotel or motel room or serviced apartment each year.
 
 **(5)**
 This clause does not apply to development to which *State Environmental Planning Policy (Housing) 2021*, Chapter 2, Part 2, Division 1 applies.

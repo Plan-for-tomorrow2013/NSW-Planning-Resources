@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.19"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2, R3, R4, E1, E2, E3, E4, E5, MU1, W1, W2]
 tags: [aquaculture, waterways-and-wetlands]
 defined_terms: ["aquaculture", "oyster aquaculture", "pond-based aquaculture", "tank-based aquaculture", "the Act", "waterway"]

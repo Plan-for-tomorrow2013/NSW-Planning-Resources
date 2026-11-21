@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.4"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, heritage-items]
 defined_terms: ["Additional Local Provisions Map", "car park", "heritage item", "Parramatta North Precinct", "residential accommodation"]
 ---

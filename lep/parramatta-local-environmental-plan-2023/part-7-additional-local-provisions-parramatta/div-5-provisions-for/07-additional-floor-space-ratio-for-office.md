@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 5 Provisions for Parramatta City Centre other than \"Area A\""
 clause: "7.28"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio]
 defined_terms: ["additional GFA", "ecologically sustainable development", "maximum permissible FSR", "office premises", "Parramatta City Centre", "site area", "Special Provisions Area Map"]
 ---

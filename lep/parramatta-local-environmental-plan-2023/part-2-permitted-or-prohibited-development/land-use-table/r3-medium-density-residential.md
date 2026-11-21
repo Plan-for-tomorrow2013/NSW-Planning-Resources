@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 zone_code: R3
 zone: "Medium Density Residential"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R3]
 tags: [land-use-table, residential-zones]
 ---

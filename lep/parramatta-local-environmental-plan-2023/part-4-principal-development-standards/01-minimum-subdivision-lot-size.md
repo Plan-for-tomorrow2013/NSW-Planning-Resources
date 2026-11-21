@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2, R3, R4]
 tags: [community-title, dual-occupancy, lot-size, strata-title, subdivision]
 defined_terms: ["dual occupancy", "dwelling", "Lot Size Map", "private open space"]

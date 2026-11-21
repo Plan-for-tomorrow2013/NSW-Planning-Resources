@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.33"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [design-excellence]
 defined_terms: ["business premises", "competitive design process", "gross floor area", "office premises", "retail premises", "Special Provisions Area Map", "Sun Access Protection Map"]
 ---

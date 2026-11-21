@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [community-title, dual-occupancy, strata-title, subdivision]
 defined_terms: ["dual occupancy", "dwelling", "Heritage Map"]
 ---

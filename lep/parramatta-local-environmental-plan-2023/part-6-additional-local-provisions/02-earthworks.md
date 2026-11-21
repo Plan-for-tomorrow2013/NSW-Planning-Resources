@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [earthworks, exempt-development, flood, heritage, heritage-items]
 defined_terms: ["Aboriginal object", "earthworks", "heritage item", "relic", "waterway"]
 ---

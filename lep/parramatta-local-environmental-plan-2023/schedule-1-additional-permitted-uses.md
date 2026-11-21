@@ -3,10 +3,10 @@ title: "Schedule 1 — Additional permitted uses"
 council: "City of Parramatta Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 2.5)"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [E2]
 tags: [additional-permitted-uses, boarding-houses]
-defined_terms: ["Additional Permitted Uses Map", "basement", "boarding house", "boat launching ramp", "boat shed", "business premises", "car park", "co-living housing", "commercial premises", "food and drink premises", "function centre", "gross floor area", "hotel or motel accommodation", "marina", "medical centre", "Melrose Park South", "multi dwelling housing", "neighbourhood supermarket", "office premises", "parking space", "residential flat building", "retail premises", "shop top housing", "take away food and drink premises"]
+defined_terms: ["Additional Permitted Uses Map", "basement", "boarding house", "boat launching ramp", "boat shed", "business premises", "car park", "co-living housing", "commercial premises", "food and drink premises", "function centre", "gross floor area", "hotel or motel accommodation", "marina", "medical centre", "multi dwelling housing", "neighbourhood supermarket", "office premises", "parking space", "residential flat building", "retail premises", "shop top housing", "take away food and drink premises"]
 ---
 
 # Schedule 1 Additional permitted uses
@@ -97,7 +97,7 @@ This clause applies to land identified as "10" on the *Additional Permitted Uses
 **(2)**
 Development for the purposes of boarding houses is permitted with development consent.
 
-## 10A Use of certain land at Melrose Park South
+## 10A Use of certain land at Melrose Park
 
 **(1)**
 This clause applies to land identified as "10A" on the *Additional Permitted Uses Map*.

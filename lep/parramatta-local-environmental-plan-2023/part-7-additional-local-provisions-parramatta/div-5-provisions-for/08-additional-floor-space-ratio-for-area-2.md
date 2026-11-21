@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 5 Provisions for Parramatta City Centre other than \"Area A\""
 clause: "7.28A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, heritage, heritage-conservation-areas, heritage-items]
 defined_terms: ["Additional Local Provisions Map", "applicable FSR", "floor space ratio", "heritage conservation area", "heritage item", "maximum permissible HOB", "site area"]
 ---

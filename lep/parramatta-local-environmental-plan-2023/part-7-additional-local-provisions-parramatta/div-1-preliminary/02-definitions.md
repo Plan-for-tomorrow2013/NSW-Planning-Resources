@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 1 Preliminary"
 clause: "7.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio, height-of-buildings]
 defined_terms: ["additional GFA", "applicable FSR", "BASIX target", "car park", "car parking space", "car share scheme", "floor space ratio", "Floor Space Ratio Map", "gross floor area", "Height of Buildings Map", "isolated site", "kg CO2e", "maximum permissible FSR", "maximum permissible HOB", "public authority", "site area"]
 ---

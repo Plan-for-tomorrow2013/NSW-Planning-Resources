@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "8 — Additional local provisions—Carter Street Precinct"
 clause: "8.10"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio]
 defined_terms: ["Additional Local Provisions Map", "floor space ratio", "gross floor area"]
 ---

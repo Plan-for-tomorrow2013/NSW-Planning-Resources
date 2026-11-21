@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.21"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [flood, waterways-and-wetlands]
 defined_terms: ["watercourse"]
 ---

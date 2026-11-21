@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.1A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2, R4, E1, E2, E3, MU1, SP2, RE1, C2]
 defined_terms: ["Land Reservation Acquisition Map"]
 ---
@@ -26,6 +26,7 @@ Development consent must not be granted to development on the land other than de
 |---|---|
 | Zone R4 High Density Residential and marked "Classified road" | Roads |
 | Zone E1 Local Centre, Zone E2 Commercial Centre, Zone E3 Productivity Support, Zone MU1 Mixed Use or Zone R2 Low Density Residential and marked "Local road widening" | Roads |
+| Zone E2 Commercial Centre or MU1 Mixed Use and marked "Regional cycleway" | Regional cycleways |
 | Zone SP2 Infrastructure and marked "Classified road" | Roads |
 | Zone SP2 Infrastructure and marked "Public transport" | Roads |
 | Zone RE1 Public Recreation and marked "Local open space" | Recreation areas |

@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.3"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RE1, C2, W1]
 tags: [zone-boundaries]
 defined_terms: ["coastal zone", "restricted premises", "sex services"]

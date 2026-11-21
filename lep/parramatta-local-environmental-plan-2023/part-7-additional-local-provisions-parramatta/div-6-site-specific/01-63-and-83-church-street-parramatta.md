@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.29"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["gross floor area", "residential accommodation", "serviced apartment", "storey"]
 ---
 

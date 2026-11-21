@@ -3,7 +3,7 @@ title: "Schedule 5, Part 1 — Heritage items"
 council: "City of Parramatta Council"
 document_type: LEP
 clause: "Schedule 5 (clause 5.10)"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-wetlands]
 ---
 
@@ -37,7 +37,7 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | Carlingford | Timber cottage | 205 Marsden Road | Lot 1, DP 770483 | Local | I22 |
 | Carlingford | Gaskie-Ben | 228 Marsden Road | Lot 1, DP 223742 | Local | I23 |
 | Carlingford | St Paul's Church Cemetery | 233 Marsden Road | Lots 1 and 2, DP 1023389 | Local | I24 |
-| Carlingford | Brick house | 262 Marsden Road | Lot 4, DP 128360 | Local | I25 |
+| Carlingford | Brick house | 260 Marsden Road | Lot 52, DP 1256234 | Local | I25 |
 | Carlingford | Carlingford Public School and Macquarie Community College | 263 Marsden Road and 5 Rickard Street | Lot 12, DP 864496; Lot 11, DP 864495 | Local | I26 |
 | Carlingford | Water tanks and Water Board cottage | 263A and 265 Marsden Road | Lot 1, DP 745083; Lot 6, DP 130713 | Local | I27 |
 | Carlingford | Grandview | 300 and 300A Marsden Road | SP 50843; Lot 4, DP 815015 | Local | I28 |
@@ -66,7 +66,6 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | Dundas | Victorian house | 98 Kissing Point Road | Lot 5, DP 38734 | Local | I52 |
 | Dundas | Single storey residence | 311 Kissing Point Road | Lot B, DP 364011 | Local | I53 |
 | Dundas | Dundas Railway Station Group | Station Street |  | State | I54 |
-| Dundas | Single storey residence | 25 Station Street | Lot 1, DP 215527 | Local | I55 |
 | Dundas | Single storey residence | 27 Station Street | Lot 1, DP 128170 | Local | I56 |
 | Dundas Valley | Former quarry in Sir Thomas Mitchell Reserve | 31A Alexander Street and 21B Yates Avenue | Lot V, DP 36698; Lot 1134, DP 36698 | Local | I57 |
 | Dundas Valley | Rapanea Community Forest | 34 Brand Street | Lot 10, DP 31752; Lot 1642, DP 214707 | Local | I49 |
@@ -163,7 +162,7 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | Epping | House | 20 York Street | Lot 251, DP 861299 | Local | I148 |
 | Ermington | Single storey residence | 1/22 Cowells Lane | Lot 2, DP 1194224 | Local | I149 |
 | Ermington | Rose Farm House | 15 and 17 Honor Street | Lots 3 and 4, DP 227255 | Local | I150 |
-| Ermington | Bulla Cream Dairy | 64 Hughes Avenue | Lot 1, DP 128574 | Local | I151 |
+| Ermington | Willowmere - house, billiards room, grounds, garden and 3 mature Canary Island date palms (*Phoenix canariensis*) | 64 Hughes Avenue | Part of Lot 1, DP 128574 | Local | I151 |
 | Ermington | Kissing Point Cottage | 272 Kissing Point Road | Lot 2, DP 1037078 | Local | I152 |
 | Ermington | Signals Hall, Army Signal Corps The White | 272 Kissing Point Road | Lot 2, DP 1037078 | Local | I153 |
 | Ermington | Single storey residence | 400 Kissing Point Road | Lot 2, DP 502823 | Local | I154 |
@@ -181,7 +180,6 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | Ermington | R E Tebbutt Lodge | 40 Stewart Street | Lot F, DP 29480 | Local | I166 |
 | Ermington | Cottage | 736 Victoria Road | Lot 12, DP 7863 | Local | I167 |
 | Ermington | Ermington Wharf | End of Wharf Road |  | Local | I168 |
-| Granville | T.C. Barker and Son Pottery | 3 A'Beckett Street | Lots 4A and 5A, DP 101953 | Local | I169 |
 | Granville | Latalda | 20 A'Beckett Street | Lots 1 and 2, DP 128368 | Local | I170 |
 | Granville | Conjoined residences | 22 and 24 A'Beckett Street | Lots A and B, DP 415641 | Local | I171 |
 | Granville | Cottages | 1, 3, 5, 7 and 9 Albert Street | Lot 1, DP 783509; Lots A-C, DP 158106; Lot 1, DP 997298 | Local | I172 |
@@ -233,7 +231,6 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | Granville | Single storey residence | 20 Victoria Street | Lot 1, DP 780761 | Local | I218 |
 | Granville | Conjoined residences | 22 and 24 Victoria Street | Lots 33 and 34, DP 847283 | Local | I219 |
 | Granville | Single storey terraces | 53, 55, 57, 59 and 61 Victoria Street | Lots 1-5, DP 500090 | Local | I220 |
-| Harris Park | Single storey residence | 1 and 3 Ada Street | Lots A and B, DP 382156 | Local | I221 |
 | Harris Park | Timber cottages | 2 and 4 Ada Street | Lots 6 and 7, Section 2, DP 395 | Local | I222 |
 | Harris Park | Group of timber houses | 5, 7, 9, 11 and 13 Ada Street | Lot 1, DP 102221; Lots 1 and 2, DP 128488; Lot 1, DP 914300; Lots 46A and 47A, DP 443448 | Local | I223 |
 | Harris Park | Terrace houses | 6, 8, 10 and 12 Ada Street | Lots 1-4, DP 545737 | Local | I224 |
@@ -346,7 +343,6 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | North Parramatta | Stone fence | East side of Fleet Street and Albert Street, between 2B Fennell Street, as facing Fleet Street face, and 4 Fleet Street |  | Local | I328 |
 | North Parramatta | Parramatta Girls' Training School—Norma Parker Correctional Centre | 1A and 1C Fleet Street | Lots 1 and 2, DP 862127 | State | I329 |
 | North Parramatta | Two storey residence | 5 Galloway Street | Lot 14, DP 1074720 | Local | I331 |
-| North Parramatta | Single storey residence | 7 Galloway Street | Lot 1, DP 127064 | Local | I332 |
 | North Parramatta | Cottage | 18 Galloway Street | Lot 1, DP 126883 | Local | I333 |
 | North Parramatta | Timber cottages | 22 and 24 Galloway Street | Lots 4 and 5, DP 74123 | Local | I334 |
 | North Parramatta | 19th century cottages | 25 and 27 Galloway Street | Lot 1, DP 797795; Lot 1, DP 745095 | Local | I335 |
@@ -555,7 +551,7 @@ tags: [archaeological-sites, bushland, heritage, heritage-items, waterways-and-w
 | Parramatta | Roxy Cinema | 69 George Street | Lots 1 and 2, DP 76080 | State | I538 |
 | Parramatta | Perth House, Moreton Bay fig tree and potential archaeological site | 85 George Street | SP74416 | State | I539 |
 | Parramatta | Shop and office and potential archaeological site | 90 George Street | Lot 10, DP 860245 | State | I540 |
-| Parramatta | Tara, also known as Ellengowan | 153 George Street | Lot 1, DP 182726 | Local | I541 |
+| Parramatta | Tara, also known as Ellangowan - house | 153 George Street | Lot 30, DP 1285977 | Local | I541 |
 | Parramatta | Trees in median strip | Opposite 167 George Street |  | Local | I542 |
 | Parramatta | Bulimba | 169 George Street | Lot 2, Section S, DP 1249 | Local | I543 |
 | Parramatta | Cottage | 173 George Street | Lot 4, Section S, DP 1249 | Local | I544 |

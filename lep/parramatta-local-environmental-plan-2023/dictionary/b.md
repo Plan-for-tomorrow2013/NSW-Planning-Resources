@@ -3,7 +3,7 @@ title: "Dictionary — B"
 council: "City of Parramatta Council"
 document_type: LEP
 dictionary_range: "B"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [dictionary]
 ---
 
@@ -42,6 +42,10 @@ tags: [dictionary]
 ### biodiversity
 
 *biodiversity* or *biological diversity* means the variety of living animal and plant life from all sources, and includes diversity within and between species and diversity of ecosystems.
+
+### Biodiversity Map
+
+*Biodiversity Map* means the *Parramatta Local Environmental Plan 2023 Biodiversity Map*.
 
 ### biosolids treatment facility
 

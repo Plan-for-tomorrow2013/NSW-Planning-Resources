@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.5"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [affordable-housing, boarding-houses, seniors-housing]
 defined_terms: ["affordable housing", "boarding house", "co-living housing", "dwelling", "group home", "hostel", "Parramatta North Precinct", "registered community housing provider", "residential accommodation", "seniors housing"]
 ---

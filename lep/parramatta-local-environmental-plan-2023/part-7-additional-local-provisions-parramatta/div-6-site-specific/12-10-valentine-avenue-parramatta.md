@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.40"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [strata-title, subdivision]
 defined_terms: ["applicable FSR", "car park", "gross floor area", "ground level (existing)", "office premises", "Special Provisions Area Map"]
 ---

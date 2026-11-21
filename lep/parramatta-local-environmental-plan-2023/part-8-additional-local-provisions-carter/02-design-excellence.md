@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "8 — Additional local provisions—Carter Street Precinct"
 clause: "8.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [design-excellence]
 defined_terms: ["Carter Street Precinct", "design advisory panel"]
 ---

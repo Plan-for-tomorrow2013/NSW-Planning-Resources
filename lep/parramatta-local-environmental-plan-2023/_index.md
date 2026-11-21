@@ -1,7 +1,7 @@
 ---
 title: "Parramatta Local Environmental Plan 2023"
 document_id: epi-2023-0117
-current_from: 2026-09-04
+current_from: 2026-11-06
 council: "City of Parramatta Council"
 ---
 
@@ -12,8 +12,8 @@ council: "City of Parramatta Council"
 - Instrument number: [2023-117]
 - Made: 2023-03-02
 - Gazette reference: LW 2 March 2023
-- This version valid from: 2026-09-04
-- Latest amendment included: epi-2026-0498
+- This version valid from: 2026-11-06
+- Latest amendment included: epi-2026-0620
 
 ## Parts
 
@@ -45,7 +45,7 @@ council: "City of Parramatta Council"
 
 ## Dictionary
 
-[`dictionary/_index.md`](dictionary/_index.md) — 345 defined terms, one file per starting letter.
+[`dictionary/_index.md`](dictionary/_index.md) — 346 defined terms, one file per starting letter.
 
 ## Amendment history
 

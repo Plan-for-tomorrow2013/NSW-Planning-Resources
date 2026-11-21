@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [E3]
 tags: [floor-space-ratio]
 defined_terms: ["floor space ratio", "Floor Space Ratio Map", "function centre", "gross floor area", "hotel or motel accommodation", "office premises", "registered club", "residential accommodation", "shop top housing", "site area", "specialised retail premises"]

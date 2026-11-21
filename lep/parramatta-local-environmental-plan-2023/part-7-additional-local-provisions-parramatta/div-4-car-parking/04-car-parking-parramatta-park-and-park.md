@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 4 Car parking"
 clause: "7.19"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [seniors-housing]
 defined_terms: ["car parking space", "commercial premises", "dwelling", "gross floor area", "ground level (existing)", "health consulting rooms", "hostel", "hotel or motel accommodation", "multi dwelling housing", "residential flat building", "seniors housing", "Special Provisions Area Map", "take away food and drink premises", "warehouse or distribution centre"]
 ---

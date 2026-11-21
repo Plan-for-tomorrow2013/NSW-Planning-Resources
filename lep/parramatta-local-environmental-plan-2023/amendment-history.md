@@ -2,12 +2,12 @@
 title: "Amendment history"
 council: "City of Parramatta Council"
 document_type: LEP
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # Amendment history
 
-41 instruments have amended this LEP.
+42 instruments have amended this LEP.
 
 ## Table of amending instruments
 
@@ -54,6 +54,7 @@ last_verified: 2026-09-04
 |  | (286) | *State Environmental Planning Policy Amendment (Concurrences and Consultations) 2026*. LW 19.6.2026. Date of commencement, 1.7.2026, sec 2. |
 |  | (409) | *State Environmental Planning Policy Amendment (Parramatta North Precinct) 2026*. LW 7.8.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (498) | *Parramatta Local Environmental Plan 2023 (Amendment No 26)*. LW 4.9.2026. Date of commencement, on publication on LW, cl 2. |
+|  | (620) | *Parramatta Local Environmental Plan 2023 (Amendment No 25)*. LW 6.11.2026. Date of commencement, on publication on LW, cl 2. |
 
 ## Table of amendments
 
@@ -61,11 +62,18 @@ last_verified: 2026-09-04
 |---|---|
 | Cl 1.8A | Am 2023 (609), Sch 2.1; 2026 (409), Sch 1[1]. |
 | Land Use Table | Am 2025 (207), Sch 1[1]; 2025 (386), Sch 1[1]. |
+| Cl 3.3 | Am 2026 (620), Sch 1[1]. |
 | Cl 4.1 | Am 2024 (301), Sch 1[1]. |
-| Cl 4.1C | Am 2024 (301), Sch 1[2]; 2024 (504), Sch 1. |
-| Cl 5.1 | Am 2023 (117), Sch 7[1]; 2024 (158), Sch 1[1]. |
+| Cl 4.1C | Am 2024 (301), Sch 1[2]; 2024 (504), Sch 1; 2026 (620), Sch 1[2]. |
+| Cl 5.1 | Am 2023 (117), Sch 7[1]; 2024 (158), Sch 1[1]; 2026 (620), Sch 1[3]. |
+| Cl 5.1A | Am 2026 (620), Sch 1[4]. |
+| Cl 6.3 | Am 2026 (620), Sch 1[5]. |
+| Cl 6.12 | Am 2026 (620), Sch 1[6]. |
 | Cl 6.13 | Am 2023 (523), Sch 1.7[1]; 2023 (698), Sch 1.6[1]-[4]; 2024 (301), Sch 1[3] [4]; 2025 (207), Sch 1[2]. |
 | Cl 6.14 | Rep 2023 (554), Sch 2.23[1]. |
+| Cl 6.19 | Rep 2026 (620), Sch 1[7]. |
+| Cl 6.20 | Am 2026 (620), Sch 1[8] [9]. |
+| Cl 6.21 | Am 2026 (620), Sch 1[8]-[10]. |
 | Cl 6.22 | Am 2025 (207), Sch 1[3]. |
 | Cl 6.23 | Am 2025 (316), Sch 1[1] [2]; 2026 (210), Sch 1[1]-[3]. |
 | Cl 6.24 | Ins 2024 (301), Sch 1[5]. |
@@ -81,12 +89,13 @@ last_verified: 2026-09-04
 | Cl 7.5 | Am 2024 (158), Sch 1[2]-[4]. |
 | Cl 7.7 | Am 2023 (697), Sch 1[7]-[10]. |
 | Cl 7.8 | Am 2023 (664), Sch 3.11. |
+| Cl 7.10 | Am 2026 (620), Sch 1[11]. |
 | Cl 7.11 | Am 2023 (609), Sch 2.13. |
 | Cl 7.14 | Am 2023 (523), Sch 1.7[1]. |
 | Cl 7.15 | Am 2023 (691), Sch 1[1]. |
-| Cl 7.17 | Am 2025 (386), Sch 1[2]. |
+| Cl 7.17 | Am 2025 (386), Sch 1[2]; 2026 (620), Sch 1[12]. |
 | Cl 7.22 | Am 2023 (697), Sch 1[11]-[13]. |
-| Cl 7.25 | Am 2023 (523), Sch 1.7[1]; 2024 (301), Sch 1[6]; 2025 (386), Sch 1[3]. |
+| Cl 7.25 | Am 2023 (523), Sch 1.7[1]; 2024 (301), Sch 1[6]; 2025 (386), Sch 1[3]; 2026 (620), Sch 1[13]. |
 | Cl 7.26 | Am 2024 (301), Sch 1[7]. |
 | Cl 7.27 | Rep 2023 (554), Sch 2.23[1]. |
 | Cl 7.28A | Ins 2023 (117), Sch 7[2]. Am 2026 (155), Sch 1[1] [2]. |
@@ -99,6 +108,7 @@ last_verified: 2026-09-04
 | Cl 7.47 | Ins 2026 (248), Sch 1[2]. |
 | Cl 8.2 | Am 2023 (698), Sch 1.6[6]; 2025 (207), Sch 1[4]. |
 | Cl 8.3 | Rep 2026 (286), Sch 2.60[2]. |
+| Cl 8.4 | Am 2026 (620), Sch 1[14] [15]. |
 | Cl 8.11 | Rep 2023 (554), Sch 2.23[1]. |
 | Part 9 | Ins 2023 (117), Sch 7[3]. |
 | Cl 9.1A | Ins 2023 (117), Sch 7[3]. Am 2023 (606), Sch 1[1]; 2024 (186), Sch 1; 2025 (169), Sch 1[1]; 2025 (316), Sch 1[3]. |
@@ -120,7 +130,8 @@ last_verified: 2026-09-04
 | Cl 11.5 | Ins 2026 (409), Sch 1[2]. |
 | Cl 11.6 | Ins 2026 (409), Sch 1[2]. |
 | Cl 11.7 | Ins 2026 (409), Sch 1[2]. |
-| Sch 1 | Am 2023 (117), Sch 7[4]; 2023 (310), Sch 1[3]; 2023 (365), cl 5; 2024 (484), Sch 1[1] [2]; 2025 (645), Sch 1[8]; 2026 (217), Sch 1; 2026 (248), Sch 1[3]; 2026 (260), Sch 1[2]; 2026 (498), Sch 1[1]. |
-| Sch 5 | Am 2024 (492), Sch 1; 2025 (207), Sch 1[6] [7]; 2025 (470), Sch 1[1] [2]. |
+| Sch 1 | Am 2023 (117), Sch 7[4]; 2023 (310), Sch 1[3]; 2023 (365), cl 5; 2024 (484), Sch 1[1] [2]; 2025 (645), Sch 1[8]; 2026 (217), Sch 1; 2026 (248), Sch 1[3]; 2026 (260), Sch 1[2]; 2026 (498), Sch 1[1]; 2026 (620), Sch 1[16]. |
+| Sch 2 | Am 2026 (620), Sch 1[17]. |
+| Sch 5 | Am 2024 (492), Sch 1; 2025 (207), Sch 1[6] [7]; 2025 (470), Sch 1[1] [2]; 2026 (620), Sch 1[18]. |
 | Sch 7 | Am 2023 (338), cl 5(1) (2). Rep 2023 (117), Sch 7[6]. |
-| Dictionary | Am 2023 (117), Sch 7[5]; 2023 (523), Sch 1.7[2]; 2023 (554), Sch 2.23[3] [4]; 2023 (698), Sch 1.6[8]; 2025 (207), Sch 1[8]; 2025 (386), Sch 1[4]; 2026 (248), Sch 1[4]; 2026 (260), Sch 1[3]; 2026 (409), Sch 1[3] [4]. |
+| Dictionary | Am 2023 (117), Sch 7[5]; 2023 (523), Sch 1.7[2]; 2023 (554), Sch 2.23[3] [4]; 2023 (698), Sch 1.6[8]; 2025 (207), Sch 1[8]; 2025 (386), Sch 1[4]; 2026 (248), Sch 1[4]; 2026 (260), Sch 1[3]; 2026 (409), Sch 1[3] [4]; 2026 (620), Sch 1[19]. |

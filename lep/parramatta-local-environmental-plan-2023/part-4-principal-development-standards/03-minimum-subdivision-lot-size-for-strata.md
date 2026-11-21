@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R2]
 tags: [complying-development, lot-size, strata-title, subdivision, tourist-accommodation]
 defined_terms: ["dwelling", "Lot Size Map", "residential accommodation", "tourist and visitor accommodation"]

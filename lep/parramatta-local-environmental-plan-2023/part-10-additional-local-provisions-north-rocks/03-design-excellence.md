@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "10 — Additional local provisions—North Rocks Village Precinct"
 clause: "10.3"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [design-excellence, seniors-housing]
 defined_terms: ["ecologically sustainable development", "multi dwelling housing", "North Rocks Village Precinct", "residential flat building", "seniors housing", "shop top housing"]
 ---

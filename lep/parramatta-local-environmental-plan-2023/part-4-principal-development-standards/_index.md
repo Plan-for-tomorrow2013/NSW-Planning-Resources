@@ -2,7 +2,7 @@
 title: "Part 4 — Principal development standards"
 council: "City of Parramatta Council"
 document_type: LEP
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # Part 4 — Principal development standards
@@ -13,7 +13,7 @@ last_verified: 2026-09-04
 | 4.1AA | Minimum subdivision lot size for community title schemes | [02-minimum-subdivision-lot-size-for.md](02-minimum-subdivision-lot-size-for.md) |
 | 4.1A | Minimum subdivision lot size for strata plan schemes in Zone R2 | [03-minimum-subdivision-lot-size-for-strata.md](03-minimum-subdivision-lot-size-for-strata.md) |
 | 4.1B | Exceptions to minimum subdivision lot sizes for attached dwellings | [04-exceptions-to-minimum-subdivision-lot.md](04-exceptions-to-minimum-subdivision-lot.md) |
-| 4.1C | Minimum subdivision lot size for dual occupancies and manor houses | [05-minimum-subdivision-lot-size-for-dual.md](05-minimum-subdivision-lot-size-for-dual.md) |
+| 4.1C | Minimum lot sizes for dual occupancies and manor houses | [05-minimum-lot-sizes-for-dual-occupancies.md](05-minimum-lot-sizes-for-dual-occupancies.md) |
 | 4.2 | Rural subdivision | [06-rural-subdivision.md](06-rural-subdivision.md) |
 | 4.3 | Height of buildings | [07-height-of-buildings.md](07-height-of-buildings.md) |
 | 4.4 | Floor space ratio | [08-floor-space-ratio.md](08-floor-space-ratio.md) |

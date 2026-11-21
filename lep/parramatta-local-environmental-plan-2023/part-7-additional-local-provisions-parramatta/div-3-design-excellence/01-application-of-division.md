@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 3 Design excellence"
 clause: "7.12"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["Parramatta City Centre"]
 ---
 

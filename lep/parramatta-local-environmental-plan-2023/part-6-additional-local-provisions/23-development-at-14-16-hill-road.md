@@ -4,7 +4,7 @@ council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.25"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["commercial premises", "gross floor area", "Key Sites Map"]
 ---
 
