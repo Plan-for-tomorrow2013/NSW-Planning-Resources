@@ -5,7 +5,8 @@ register_id: DCP-NSW-BAYSIDE-2022
 dcp: "Bayside Development Control Plan 2022"
 chapter_type: supporting
 current_from: 2023-04-10
-council: "Bayside"
+council: "Bayside Council"
+council_id: NSW-C-BAYSIDE
 lep: "Bayside Local Environmental Plan 2021"
 source: pdf
 source_file: "traffic_parking_and_access_technical_specification.pdf"
@@ -94,9 +95,9 @@ Traffic, Parking and
 <!-- sections -->
 ## Sections
 
-1. [1 Preliminary](01-1-preliminary.md)
-2. [2 Traffic and Parking Impact Assessment](02-2-traffic-and-parking-impact-assessment.md)
-3. [3 Design of Parking Facilities](03-3-design-of-parking-facilities.md)
-4. [4 Workplace “Green” Travel Plans](04-4-workplace-green-travel-plans.md)
-5. [5 New and Emerging Transport and Parking Facilities](05-5-new-and-emerging-transport-and-parking.md)
-6. [6 Design Documentation Requirements](06-6-design-documentation-requirements.md)
+1. [1 Preliminary](01-preliminary.md)
+2. [2 Traffic and Parking Impact Assessment](02-traffic-and-parking-impact-assessment.md)
+3. [3 Design of Parking Facilities](03-design-of-parking-facilities.md)
+4. [4 Workplace “Green” Travel Plans](04-workplace-green-travel-plans.md)
+5. [5 New and Emerging Transport and Parking Facilities](05-new-and-emerging-transport-and-parking.md)
+6. [6 Design Documentation Requirements](06-design-documentation-requirements.md)

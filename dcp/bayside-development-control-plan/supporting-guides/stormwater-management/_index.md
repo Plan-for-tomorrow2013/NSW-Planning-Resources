@@ -4,8 +4,9 @@ document_id: bayside-development-control-plan-2022/supporting-guides/stormwater-
 register_id: DCP-NSW-BAYSIDE-2022
 dcp: "Bayside Development Control Plan 2022"
 chapter_type: supporting
-current_from: 2023-03-22
-council: "Bayside"
+current_from: 2023-04-10
+council: "Bayside Council"
+council_id: NSW-C-BAYSIDE
 lep: "Bayside Local Environmental Plan 2021"
 source: pdf
 source_file: "stormwater_management_technical_specification.pdf"
@@ -68,7 +69,7 @@ Source PDF: [stormwater_management_technical_specification.pdf](stormwater_manag
 <!-- sections -->
 ## Sections
 
-1. [1 Preliminary](01-1-preliminary.md)
+1. [1 Preliminary](01-preliminary.md)
 2. [1.1 Objectives](02-1-1-objectives.md)
 3. [1.2 Application of the Technical Specification and its Requirements](03-1-2-application-of-the-technical.md)
 4. [1.3 Glossary](04-1-3-glossary.md)

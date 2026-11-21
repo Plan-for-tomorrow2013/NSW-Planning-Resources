@@ -2,7 +2,7 @@
 title: "5.1.3 Swimming Pools, Spa Pools, and Child-Resistant Barriers"
 document_id: bayside-development-control-plan-2022/section-05-residential-mixed-use-developments/5-1-3-swimming-pools-spa-pools-and-child
 register_id: DCP-NSW-BAYSIDE-2022
-current_from: 2026-03-25
+current_from: 2026-04-17
 authoritative_url: "https://www.bayside.nsw.gov.au/sites/default/files/2026-05/26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202.PDF"
 ---
 #### 5.1.3 Swimming Pools, Spa Pools, and Child-Resistant Barriers

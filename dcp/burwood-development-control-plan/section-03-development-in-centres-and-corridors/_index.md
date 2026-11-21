@@ -3,7 +3,8 @@ title: "Burwood Development Control Plan - Section 3 Development in Centres and 
 document_id: burwood-development-control-plan/section-03-development-in-centres-and-corridors
 register_id: DCP-NSW-BURWOOD
 dcp: "Burwood Development Control Plan"
-council: "Burwood"
+council: "Burwood Council"
+council_id: NSW-C-BURWOOD
 lep: "Burwood Local Environmental Plan 2012"
 source: pdf
 source_file: "Burwood-development-control-plan-DCP - Section 3 Development in Centres and Corridors.pdf"

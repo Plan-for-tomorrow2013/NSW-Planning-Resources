@@ -2,7 +2,7 @@
 title: "5.3 Method of Sizing Absorption Systems"
 document_id: bayside-development-control-plan-2022/supporting-guides/stormwater-management/5-3-method-of-sizing-absorption-systems
 register_id: DCP-NSW-BAYSIDE-2022
-current_from: 2023-03-22
+current_from: 2023-04-10
 authoritative_url: "https://www.bayside.nsw.gov.au/sites/default/files/2023-04/stormwater_management_technical_specification.PDF"
 ---
 ### 5.3 Method of Sizing Absorption Systems

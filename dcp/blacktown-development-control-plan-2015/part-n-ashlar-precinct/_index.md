@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part N Ashlar Precinct"
 document_id: blacktown-development-control-plan-2015/part-n-ashlar-precinct
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-N-Ashlar-Precinct.pdf"
@@ -58,6 +59,6 @@ Source PDF: [Part-N-Ashlar-Precinct.pdf](Part-N-Ashlar-Precinct.pdf)
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Urban design](02-2-urban-design.md)
-3. [3 Built form](03-3-built-form.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Urban design](02-urban-design.md)
+3. [3 Built form](03-built-form.md)

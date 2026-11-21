@@ -3,7 +3,8 @@ title: "Bayside Development Control Plan 2022 - Appendices"
 document_id: bayside-development-control-plan-2022/appendices
 register_id: DCP-NSW-BAYSIDE-2022
 dcp: "Bayside Development Control Plan 2022"
-council: "Bayside"
+council: "Bayside Council"
+council_id: NSW-C-BAYSIDE
 lep: "Bayside Local Environmental Plan 2021"
 source: pdf
 source_file: "bayside_dcp_2022_appendices.pdf"

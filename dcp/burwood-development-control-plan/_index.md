@@ -2,9 +2,11 @@
 title: "Burwood Development Control Plan"
 document_id: burwood-development-control-plan
 register_id: DCP-NSW-BURWOOD
-council: "Burwood"
+council: "Burwood Council"
+council_id: NSW-C-BURWOOD
 lep: "Burwood Local Environmental Plan 2012"
-current_from: 2026-02-17
+authoritative_url: "https://www.burwood.nsw.gov.au/Planning-Building/Burwood-Development-Control-Plan"
+current_from: 2026-03-05
 chapters: 9
 status: OK
 flow_note: "9 chapter(s) published."
@@ -15,7 +17,7 @@ Contents of this DCP as converted. Each chapter is an exact copy of the council'
 
 | Chapter | Title | Type | Current from | Source | Authoritative URL |
 |---|---|---|---|---|---|
-|  | [Cover and Contents](cover-and-contents/_index.md) | Chapter (section of the whole PDF) | 2026-02-17 | Burwood-development-control-plan-DCP - Cover and Contents.pdf | https://www.burwood.nsw.gov.au/files/sharedassets/public/v/9/planning-and-building/burwood-development-control-plan-dcp.pdf |
+|  | [Cover and Contents](cover-and-contents/_index.md) | Chapter (section of the whole PDF) | 2026-03-05 | Burwood-development-control-plan-DCP - Cover and Contents.pdf | https://www.burwood.nsw.gov.au/files/sharedassets/public/v/9/planning-and-building/burwood-development-control-plan-dcp.pdf |
 | Section 1 | [Introduction](section-01-introduction/_index.md) | Chapter (section of the whole PDF) | 2013-02-12 | Burwood-development-control-plan-DCP - Section 1 Introduction.pdf | https://www.burwood.nsw.gov.au/files/sharedassets/public/v/9/planning-and-building/burwood-development-control-plan-dcp.pdf |
 | Section 2 | [Site and Environmental Planning](section-02-site-and-environmental-planning/_index.md) | Chapter (section of the whole PDF) |  | Burwood-development-control-plan-DCP - Section 2 Site and Environmental Planning.pdf | https://www.burwood.nsw.gov.au/files/sharedassets/public/v/9/planning-and-building/burwood-development-control-plan-dcp.pdf |
 | Section 3 | [Development in Centres and Corridors](section-03-development-in-centres-and-corridors/_index.md) | Chapter (section of the whole PDF) |  | Burwood-development-control-plan-DCP - Section 3 Development in Centres and Corridors.pdf | https://www.burwood.nsw.gov.au/files/sharedassets/public/v/9/planning-and-building/burwood-development-control-plan-dcp.pdf |

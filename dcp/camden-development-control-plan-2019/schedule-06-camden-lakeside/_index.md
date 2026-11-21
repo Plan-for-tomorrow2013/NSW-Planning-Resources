@@ -4,7 +4,8 @@ document_id: camden-development-control-plan-2019/schedule-06-camden-lakeside
 register_id: DCP-NSW-CAMDEN-2019
 dcp: "Camden Development Control Plan 2019"
 current_from: 2020-06
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
 source: pdf
 source_file: "DCP-2019-Final-Schedule-6-Camden-Lakeside-Current-Version-June-2020.pdf"

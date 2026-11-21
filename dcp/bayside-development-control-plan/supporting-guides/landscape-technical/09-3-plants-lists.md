@@ -2,7 +2,7 @@
 title: "3 PLANTS LISTS"
 document_id: bayside-development-control-plan-2022/supporting-guides/landscape-technical/3-plants-lists
 register_id: DCP-NSW-BAYSIDE-2022
-current_from: 2023-03-22
+current_from: 2023-04-10
 authoritative_url: "https://www.bayside.nsw.gov.au/sites/default/files/2023-04/landscape_technical_specification_0.PDF"
 ---
 #### 3. PLANTS LISTS

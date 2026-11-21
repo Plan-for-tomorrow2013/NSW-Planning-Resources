@@ -4,8 +4,9 @@ document_id: bayside-development-control-plan-2022/supporting-guides/waste-manag
 register_id: DCP-NSW-BAYSIDE-2022
 dcp: "Bayside Development Control Plan 2022"
 chapter_type: supporting
-current_from: 2023-03-22
-council: "Bayside"
+current_from: 2023-04-10
+council: "Bayside Council"
+council_id: NSW-C-BAYSIDE
 lep: "Bayside Local Environmental Plan 2021"
 source: pdf
 source_file: "waste_management_technical_specification_2022.pdf"
@@ -189,19 +190,19 @@ A type of waste collection service offered by Council where the Council waste co
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Demolition Waste Management Plan (DWMP)](02-2-demolition-waste-management-plan-dwmp.md)
-3. [3 Construction Waste Management Plan (CWMP)](03-3-construction-waste-management-plan-cwmp.md)
-4. [4 Operational Waste Management Plan (OWMP) - Waste Management Systems](04-4-operational-waste-management-plan-owmp.md)
-5. [5 Low Rise – Low Density Dwelling Developments](05-5-low-rise-low-density-dwelling.md)
-6. [6 Low Rise – Medium Density Multiple Dwellings Developments](06-6-low-rise-medium-density-multiple.md)
-7. [7 Residential Flat Building (RFB): Low to Medium Rise Units](07-7-residential-flat-building-rfb-low-to.md)
-8. [8 Residential Flat Building (RFB): Medium to High Rise Units](08-8-residential-flat-building-rfb-medium-to.md)
-9. [9 Residential Flat Building (RFB): High Rise Units](09-9-residential-flat-building-rfb-high-rise.md)
-10. [10 Mixed Used Development](10-10-mixed-used-development.md)
-11. [11 Commercial Development](11-11-commercial-development.md)
-12. [12 Industrial Development](12-12-industrial-development.md)
-13. [13 Appendices](13-13-appendices.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Demolition Waste Management Plan (DWMP)](02-demolition-waste-management-plan-dwmp.md)
+3. [3 Construction Waste Management Plan (CWMP)](03-construction-waste-management-plan-cwmp.md)
+4. [4 Operational Waste Management Plan (OWMP) - Waste Management Systems](04-operational-waste-management-plan-owmp.md)
+5. [5 Low Rise – Low Density Dwelling Developments](05-low-rise-low-density-dwelling.md)
+6. [6 Low Rise – Medium Density Multiple Dwellings Developments](06-low-rise-medium-density-multiple.md)
+7. [7 Residential Flat Building (RFB): Low to Medium Rise Units](07-residential-flat-building-rfb-low-to.md)
+8. [8 Residential Flat Building (RFB): Medium to High Rise Units](08-residential-flat-building-rfb-medium-to.md)
+9. [9 Residential Flat Building (RFB): High Rise Units](09-residential-flat-building-rfb-high-rise.md)
+10. [10 Mixed Used Development](10-mixed-used-development.md)
+11. [11 Commercial Development](11-commercial-development.md)
+12. [12 Industrial Development](12-industrial-development.md)
+13. [13 Appendices](13-appendices.md)
 14. [1 DEVELOPMENT WASTE AND RECYCLNG GENERATION](14-1-development-waste-and-recyclng.md)
 15. [3 SERVICING TYPE](15-3-servicing-type.md)
 16. [5 TEMPORARY HOLDING AREAS](16-5-temporary-holding-areas.md)

@@ -4,7 +4,8 @@ document_id: blacktown-development-control-plan-2015/supporting-guides/blacktown
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 chapter_type: supporting
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Child-Care-Centre-Guideline_1.pdf"
@@ -31,10 +32,10 @@ This guideline provides advice on the design considerations for development of c
 <!-- sections -->
 ## Sections
 
-1. [1 Selecting a suitable site](01-1-selecting-a-suitable-site.md)
-2. [2 Allocation of child care places](02-2-allocation-of-child-care-places.md)
-3. [3 Building design](03-3-building-design.md)
-4. [4 Internal design](04-4-internal-design.md)
-5. [5 External design](05-5-external-design.md)
-6. [6 Amenity and Privacy](06-6-amenity-and-privacy.md)
-7. [7 Safety provisions](07-7-safety-provisions.md)
+1. [1 Selecting a suitable site](01-selecting-a-suitable-site.md)
+2. [2 Allocation of child care places](02-allocation-of-child-care-places.md)
+3. [3 Building design](03-building-design.md)
+4. [4 Internal design](04-internal-design.md)
+5. [5 External design](05-external-design.md)
+6. [6 Amenity and Privacy](06-amenity-and-privacy.md)
+7. [7 Safety provisions](07-safety-provisions.md)

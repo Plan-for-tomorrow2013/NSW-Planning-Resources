@@ -2,8 +2,10 @@
 title: "Camden Development Control Plan 2019"
 document_id: camden-development-control-plan-2019
 register_id: DCP-NSW-CAMDEN-2019
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
+authoritative_url: "https://dcp.camden.nsw.gov.au/"
 current_from: 2024-09-19
 chapters: 21
 status: OK

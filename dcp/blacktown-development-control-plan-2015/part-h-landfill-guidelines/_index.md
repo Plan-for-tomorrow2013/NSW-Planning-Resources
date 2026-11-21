@@ -5,7 +5,8 @@ register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 chapter_type: guide
 current_from: 2026-02-01
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-H-Landfill-Guidelines_01-02-2026.pdf"
@@ -56,6 +57,6 @@ Source PDF: [Part-H-Landfill-Guidelines_01-02-2026.pdf](Part-H-Landfill-Guidelin
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 What is landfill?](02-2-what-is-landfill.md)
-3. [3 General requirements](03-3-general-requirements.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 What is landfill?](02-what-is-landfill.md)
+3. [3 General requirements](03-general-requirements.md)

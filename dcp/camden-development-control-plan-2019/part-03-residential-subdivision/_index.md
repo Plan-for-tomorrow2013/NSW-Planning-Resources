@@ -3,7 +3,8 @@ title: "Camden Development Control Plan 2019 - Part 3 Residential Subdivision"
 document_id: camden-development-control-plan-2019/part-03-residential-subdivision
 register_id: DCP-NSW-CAMDEN-2019
 dcp: "Camden Development Control Plan 2019"
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
 source: pdf
 source_file: "Part-3-Residential-Subdivision-Controls.pdf"

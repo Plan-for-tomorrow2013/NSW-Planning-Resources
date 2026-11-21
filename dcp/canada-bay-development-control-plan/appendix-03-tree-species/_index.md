@@ -3,7 +3,8 @@ title: "Canada Bay Development Control Plan - Appendix 3 Tree Species"
 document_id: canada-bay-development-control-plan/appendix-03-tree-species
 register_id: DCP-NSW-CANADA-BAY
 dcp: "Canada Bay Development Control Plan"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
+council_id: NSW-C-CANADA-BAY
 lep: "Canada Bay Local Environmental Plan 2013"
 source: pdf
 source_file: "CCB-DCP-16_Appendix-3-Tree-Species.pdf"

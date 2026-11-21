@@ -4,7 +4,8 @@ document_id: burwood-development-control-plan/section-01-introduction
 register_id: DCP-NSW-BURWOOD
 dcp: "Burwood Development Control Plan"
 current_from: 2013-02-12
-council: "Burwood"
+council: "Burwood Council"
+council_id: NSW-C-BURWOOD
 lep: "Burwood Local Environmental Plan 2012"
 source: pdf
 source_file: "Burwood-development-control-plan-DCP - Section 1 Introduction.pdf"
@@ -23,7 +24,7 @@ Chapter 1 Introduction
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
+1. [1 Introduction](01-introduction.md)
 2. [1 Introduction](02-1-introduction.md)
 3. [2 Environmental Planning in the Burwood LGA](03-2-environmental-planning-in-the-burwood.md)
 4. [3 Development Provisions for Centres and Corridors](04-3-development-provisions-for-centres-and.md)

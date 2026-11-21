@@ -4,7 +4,8 @@ document_id: canada-bay-development-control-plan/part-b-general-controls
 register_id: DCP-NSW-CANADA-BAY
 dcp: "Canada Bay Development Control Plan"
 current_from: 2025-06-26
-council: "Canada Bay"
+council: "City of Canada Bay Council"
+council_id: NSW-C-CANADA-BAY
 lep: "Canada Bay Local Environmental Plan 2013"
 source: pdf
 source_file: "DCP-03_Part-B-General-Controls_v2022-08-26.pdf"

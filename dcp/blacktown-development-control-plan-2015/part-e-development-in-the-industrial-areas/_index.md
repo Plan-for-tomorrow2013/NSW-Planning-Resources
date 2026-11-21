@@ -4,7 +4,8 @@ document_id: blacktown-development-control-plan-2015/part-e-development-in-the-i
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 current_from: 2026-02-01
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-E-Development-in-the-Industrial-Zones_01-02-2026.pdf"
@@ -91,11 +92,11 @@ Source PDF: [Part-E-Development-in-the-Industrial-Zones_01-02-2026.pdf](Part-E-D
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
+1. [1 Introduction](01-introduction.md)
 2. [B5 and B7 zones](02-b5-and-b7-zones.md)
-3. [3 Subdivision of industrial land](03-3-subdivision-of-industrial-land.md)
-4. [4 Design guidelines](04-4-design-guidelines.md)
-5. [5 Specific controls for the Huntingwood Industrial](05-5-specific-controls-for-the-huntingwood.md)
-6. [6 Specific controls for the B7 Business Park zone](06-6-specific-controls-for-the-b7-business.md)
-7. [7 General](07-7-general.md)
-8. [8 Sex services premises in industrial zones](08-8-sex-services-premises-in-industrial.md)
+3. [3 Subdivision of industrial land](03-subdivision-of-industrial-land.md)
+4. [4 Design guidelines](04-design-guidelines.md)
+5. [5 Specific controls for the Huntingwood Industrial](05-specific-controls-for-the-huntingwood.md)
+6. [6 Specific controls for the B7 Business Park zone](06-specific-controls-for-the-b7-business.md)
+7. [7 General](07-general.md)
+8. [8 Sex services premises in industrial zones](08-sex-services-premises-in-industrial.md)

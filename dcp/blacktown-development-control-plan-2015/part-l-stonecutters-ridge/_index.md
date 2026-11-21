@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part L Stonecutters Ridge"
 document_id: blacktown-development-control-plan-2015/part-l-stonecutters-ridge
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-L-Stonecutters-Ridge_Waste.pdf"

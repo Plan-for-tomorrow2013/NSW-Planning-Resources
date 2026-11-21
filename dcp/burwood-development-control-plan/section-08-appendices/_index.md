@@ -3,7 +3,8 @@ title: "Burwood Development Control Plan - Section 8 Appendices"
 document_id: burwood-development-control-plan/section-08-appendices
 register_id: DCP-NSW-BURWOOD
 dcp: "Burwood Development Control Plan"
-council: "Burwood"
+council: "Burwood Council"
+council_id: NSW-C-BURWOOD
 lep: "Burwood Local Environmental Plan 2012"
 source: pdf
 source_file: "Burwood-development-control-plan-DCP - Section 8 Appendices.pdf"

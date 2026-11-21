@@ -2,7 +2,7 @@
 title: "C12 Adequate distances from sub-surface utilities and lighting are required."
 document_id: bayside-development-control-plan-2022/supporting-guides/landscape-technical/c12-adequate-distances-from-sub-surface
 register_id: DCP-NSW-BAYSIDE-2022
-current_from: 2023-03-22
+current_from: 2023-04-10
 authoritative_url: "https://www.bayside.nsw.gov.au/sites/default/files/2023-04/landscape_technical_specification_0.PDF"
 ---
 ### C11 The minimum pot size at installation for trees is 100 litres.

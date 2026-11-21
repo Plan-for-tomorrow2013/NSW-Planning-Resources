@@ -3,8 +3,9 @@ title: "Bayside Development Control Plan 2022 - Section 5 Residential & Mixed-Us
 document_id: bayside-development-control-plan-2022/section-05-residential-mixed-use-developments
 register_id: DCP-NSW-BAYSIDE-2022
 dcp: "Bayside Development Control Plan 2022"
-current_from: 2026-03-25
-council: "Bayside"
+current_from: 2026-04-17
+council: "Bayside Council"
+council_id: NSW-C-BAYSIDE
 lep: "Bayside Local Environmental Plan 2021"
 source: pdf
 source_file: "26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 5 Residential & Mixed-Use Developments.pdf"

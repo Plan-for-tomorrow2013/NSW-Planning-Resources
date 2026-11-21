@@ -4,7 +4,8 @@ document_id: canada-bay-development-control-plan/appendix-01-conservation-areas
 register_id: DCP-NSW-CANADA-BAY
 dcp: "Canada Bay Development Control Plan"
 current_from: 2025-07-19
-council: "Canada Bay"
+council: "City of Canada Bay Council"
+council_id: NSW-C-CANADA-BAY
 lep: "Canada Bay Local Environmental Plan 2013"
 source: pdf
 source_file: "ECM_7719487_v5_CCB-DCP-14_Appendix-1-Conservation-Areas_v2022-05-16.pdf"

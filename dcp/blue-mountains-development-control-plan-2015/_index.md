@@ -2,8 +2,10 @@
 title: "Blue Mountains Development Control Plan 2015"
 document_id: blue-mountains-development-control-plan-2015
 register_id: DCP-NSW-BLUE-MOUNTAINS-2015
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
+council_id: NSW-C-BLUE-MOUNTAINS
 lep: "Blue Mountains Local Environmental Plan 2015"
+authoritative_url: "https://www.bmcc.nsw.gov.au/development/planning-rules/development-controls-for-land-zoned-under-LEP-2015/DCP-2015"
 current_from: 2025-11
 chapters: 11
 status: OK

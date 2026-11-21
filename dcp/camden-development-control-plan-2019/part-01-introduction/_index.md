@@ -4,7 +4,8 @@ document_id: camden-development-control-plan-2019/part-01-introduction
 register_id: DCP-NSW-CAMDEN-2019
 dcp: "Camden Development Control Plan 2019"
 current_from: 2019-09-16
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
 source: website
 authoritative_url: "https://dcp.camden.nsw.gov.au/introduction"
@@ -18,6 +19,6 @@ authoritative_url: "https://dcp.camden.nsw.gov.au/introduction"
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
+1. [1 Introduction](01-introduction.md)
 2. [1.1 Preliminary](02-1-1-preliminary.md)
 3. [1.2 Notification and Advertising Requirements](03-1-2-notification-and-advertising.md)

@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part M The Ponds"
 document_id: blacktown-development-control-plan-2015/part-m-the-ponds
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-M-The-Ponds_Waste.pdf"
@@ -70,12 +71,12 @@ Source PDF: [Part-M-The-Ponds_Waste.pdf](Part-M-The-Ponds_Waste.pdf)
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Development principles and objectives](02-2-development-principles-and-objectives.md)
-3. [3 Urban design](03-3-urban-design.md)
-4. [4 Site planning](04-4-site-planning.md)
-5. [5 Housing](05-5-housing.md)
-6. [6 Commercial / community uses](06-6-commercial-community-uses.md)
-7. [7 Information to be submitted with a Development](07-7-information-to-be-submitted-with-a.md)
-8. [1 Definitions](08-1-definitions.md)
-9. [2 Recommended vegetation species](09-2-recommended-vegetation-species.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Development principles and objectives](02-development-principles-and-objectives.md)
+3. [3 Urban design](03-urban-design.md)
+4. [4 Site planning](04-site-planning.md)
+5. [5 Housing](05-housing.md)
+6. [6 Commercial / community uses](06-commercial-community-uses.md)
+7. [7 Information to be submitted with a Development](07-information-to-be-submitted-with-a.md)
+8. [1 Definitions](08-appendix-1-definitions.md)
+9. [2 Recommended vegetation species](09-appendix-2-recommended-vegetation-species.md)

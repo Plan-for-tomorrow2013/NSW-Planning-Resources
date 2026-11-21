@@ -4,7 +4,8 @@ document_id: blacktown-development-control-plan-2015/part-c-development-in-the-r
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 current_from: 2026-02-01
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-C-Development-in-the-Residential-Areas_01-02-2026.pdf"
@@ -99,9 +100,9 @@ Figure 3.1 Stanhope Gardens masterplanned estate ...............................
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Subdivision for detached housing](02-2-subdivision-for-detached-housing.md)
-3. [3 Dwelling houses](03-3-dwelling-houses.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Subdivision for detached housing](02-subdivision-for-detached-housing.md)
+3. [3 Dwelling houses](03-dwelling-houses.md)
 4. [1 x Statement of Environmental Effects](04-1-x-statement-of-environmental-effects.md)
 5. [4 Dual occupancy housing and secondary dwellings](05-4-dual-occupancy-housing-and-secondary.md)
 6. [5 Attached dwellings and multi dwelling housing](06-5-attached-dwellings-and-multi-dwelling.md)

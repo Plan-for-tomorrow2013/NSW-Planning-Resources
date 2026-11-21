@@ -4,7 +4,8 @@ document_id: blacktown-development-control-plan-2015/supporting-guides/figure-2-
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 chapter_type: supporting
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Figure 2 Water Quality Offset Scheme Boundary.pdf"

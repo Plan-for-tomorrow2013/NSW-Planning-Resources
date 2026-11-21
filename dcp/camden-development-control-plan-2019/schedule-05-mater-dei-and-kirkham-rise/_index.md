@@ -3,7 +3,8 @@ title: "Camden Development Control Plan 2019 - Schedule 5 Mater Dei and Kirkham 
 document_id: camden-development-control-plan-2019/schedule-05-mater-dei-and-kirkham-rise
 register_id: DCP-NSW-CAMDEN-2019
 dcp: "Camden Development Control Plan 2019"
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
 source: pdf
 source_file: "Final-Adopted-Schedule-5-Mater-Dei-Kirkham-Rise-DCP-30-July-v2.pdf"

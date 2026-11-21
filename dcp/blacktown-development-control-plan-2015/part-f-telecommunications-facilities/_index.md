@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part F Telecommunications Faci
 document_id: blacktown-development-control-plan-2015/part-f-telecommunications-facilities
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-F-Telecommunications-Facilities.pdf"
@@ -36,7 +37,7 @@ Source PDF: [Part-F-Telecommunications-Facilities.pdf](Part-F-Telecommunications
 <!-- sections -->
 ## Sections
 
-1. [1 Objectives](01-1-objectives.md)
-2. [2 Application of this Part](02-2-application-of-this-part.md)
-3. [3 What to submit with the Development Application](03-3-what-to-submit-with-the-development.md)
-4. [4 Justification](04-4-justification.md)
+1. [1 Objectives](01-objectives.md)
+2. [2 Application of this Part](02-application-of-this-part.md)
+3. [3 What to submit with the Development Application](03-what-to-submit-with-the-development.md)
+4. [4 Justification](04-justification.md)

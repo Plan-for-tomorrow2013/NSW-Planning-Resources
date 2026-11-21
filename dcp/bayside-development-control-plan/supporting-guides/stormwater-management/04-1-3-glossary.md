@@ -2,7 +2,7 @@
 title: "1.3 Glossary"
 document_id: bayside-development-control-plan-2022/supporting-guides/stormwater-management/1-3-glossary
 register_id: DCP-NSW-BAYSIDE-2022
-current_from: 2023-03-22
+current_from: 2023-04-10
 authoritative_url: "https://www.bayside.nsw.gov.au/sites/default/files/2023-04/stormwater_management_technical_specification.PDF"
 ---
 ### 1.3 Glossary

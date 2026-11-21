@@ -2,8 +2,10 @@
 title: "Blacktown Development Control Plan 2015"
 document_id: blacktown-development-control-plan-2015
 register_id: DCP-NSW-BLACKTOWN-2015
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
+authoritative_url: "https://www.blacktown.nsw.gov.au/Plan-build/Stage-2-plans-and-guidelines/Blacktown-planning-controls/Blacktown-Development-Control-Plan-2015"
 current_from: 2026-02-01
 chapters: 19
 status: OK

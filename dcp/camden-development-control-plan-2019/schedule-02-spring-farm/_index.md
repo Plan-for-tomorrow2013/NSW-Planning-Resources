@@ -3,7 +3,8 @@ title: "Camden Development Control Plan 2019 - Schedule 2 Spring Farm"
 document_id: camden-development-control-plan-2019/schedule-02-spring-farm
 register_id: DCP-NSW-CAMDEN-2019
 dcp: "Camden Development Control Plan 2019"
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
 source: pdf
 source_file: "Schedule-2-Spring-Farm.pdf"

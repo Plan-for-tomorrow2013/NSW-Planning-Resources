@@ -4,8 +4,9 @@ document_id: bayside-development-control-plan-2022/supporting-guides/landscape-t
 register_id: DCP-NSW-BAYSIDE-2022
 dcp: "Bayside Development Control Plan 2022"
 chapter_type: supporting
-current_from: 2023-03-22
-council: "Bayside"
+current_from: 2023-04-10
+council: "Bayside Council"
+council_id: NSW-C-BAYSIDE
 lep: "Bayside Local Environmental Plan 2021"
 source: pdf
 source_file: "landscape_technical_specification_0.pdf"

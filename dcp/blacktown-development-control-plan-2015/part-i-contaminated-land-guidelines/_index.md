@@ -4,7 +4,8 @@ document_id: blacktown-development-control-plan-2015/part-i-contaminated-land-gu
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 chapter_type: guide
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-I-Contaminated-Land-Guidelines.pdf"
@@ -39,8 +40,8 @@ Source PDF: [Part-I-Contaminated-Land-Guidelines.pdf](Part-I-Contaminated-Land-G
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Necessary information in the decision-making](02-2-necessary-information-in-the-decision.md)
-3. [3 Procedures for Planning Proposals](03-3-procedures-for-planning-proposals.md)
-4. [4 Procedures for Development Applications and](04-4-procedures-for-development-applications.md)
-5. [5 Clean-up Notice remediation](05-5-clean-up-notice-remediation.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Necessary information in the decision-making](02-necessary-information-in-the-decision.md)
+3. [3 Procedures for Planning Proposals](03-procedures-for-planning-proposals.md)
+4. [4 Procedures for Development Applications and](04-procedures-for-development-applications.md)
+5. [5 Clean-up Notice remediation](05-clean-up-notice-remediation.md)

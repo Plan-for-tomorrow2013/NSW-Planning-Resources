@@ -4,7 +4,8 @@ document_id: canada-bay-development-control-plan/appendix-02-engineering-specifi
 register_id: DCP-NSW-CANADA-BAY
 dcp: "Canada Bay Development Control Plan"
 current_from: 2025-06-26
-council: "Canada Bay"
+council: "City of Canada Bay Council"
+council_id: NSW-C-CANADA-BAY
 lep: "Canada Bay Local Environmental Plan 2013"
 source: pdf
 source_file: "ECM_7719488_v5_CCB-DCP-15 - Appendix-2 - Engineering Specifications.pdf"

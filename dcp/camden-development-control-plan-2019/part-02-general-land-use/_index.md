@@ -3,7 +3,8 @@ title: "Camden Development Control Plan 2019 - Part 2 General Land Use"
 document_id: camden-development-control-plan-2019/part-02-general-land-use
 register_id: DCP-NSW-CAMDEN-2019
 dcp: "Camden Development Control Plan 2019"
-council: "Camden"
+council: "Camden Council"
+council_id: NSW-C-CAMDEN
 lep: "Camden Local Environmental Plan 2010"
 source: pdf
 source_file: "Part-2-General-Land-Use-Controls.pdf"

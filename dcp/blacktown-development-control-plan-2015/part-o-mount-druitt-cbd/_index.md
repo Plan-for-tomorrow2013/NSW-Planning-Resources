@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part O Mount Druitt CBD"
 document_id: blacktown-development-control-plan-2015/part-o-mount-druitt-cbd
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-O-Mount-Druitt-CBD.pdf"
@@ -36,6 +37,6 @@ Source PDF: [Part-O-Mount-Druitt-CBD.pdf](Part-O-Mount-Druitt-CBD.pdf)
 <!-- sections -->
 ## Sections
 
-1. [1 Context](01-1-context.md)
+1. [1 Context](01-context.md)
 2. [1 Context (cont.)](02-1-context-cont.md)
 3. [2 Development controls](03-2-development-controls.md)

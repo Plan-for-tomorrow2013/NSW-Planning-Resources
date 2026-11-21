@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part J Water Sensitive Urban D
 document_id: blacktown-development-control-plan-2015/part-j-water-sensitive-urban-design-and-integrated-water
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-J-Water-Sensitive-Urban-Design-and-Integrated-Water-Cycle-Management.pdf"
@@ -45,8 +46,8 @@ Part J Water Sensitive Urban Design and
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Application of this Part](02-2-application-of-this-part.md)
-3. [3 Application requirements](03-3-application-requirements.md)
-4. [4 Controls](04-4-controls.md)
-5. [1 Precinct scale water quality offset scheme](05-1-precinct-scale-water-quality-offset.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Application of this Part](02-application-of-this-part.md)
+3. [3 Application requirements](03-application-requirements.md)
+4. [4 Controls](04-controls.md)
+5. [1 Precinct scale water quality offset scheme](05-appendix-1-precinct-scale-water-quality-offset.md)

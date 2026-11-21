@@ -4,7 +4,8 @@ document_id: blacktown-development-control-plan-2015/supporting-guides/guideline
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 chapter_type: supporting
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "0Guideline-for-waste-management-in-new-developments.pdf"

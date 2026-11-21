@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part K Supplementary Provision
 document_id: blacktown-development-control-plan-2015/part-k-supplementary-provisions-for-specific-sites-in-est
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-Areas.pdf"
@@ -52,5 +53,5 @@ Source PDF: [Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-A
 <!-- sections -->
 ## Sections
 
-1. [1 Development in the vicinity of “The Manse” – The](01-1-development-in-the-vicinity-of-the-manse.md)
-2. [2 Greystanes Creek](02-2-greystanes-creek.md)
+1. [1 Development in the vicinity of “The Manse” – The](01-development-in-the-vicinity-of-the-manse.md)
+2. [2 Greystanes Creek](02-greystanes-creek.md)

@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part G Waste management and mi
 document_id: blacktown-development-control-plan-2015/part-g-waste-management-and-minimisation
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-G-Site-Waste-Management-and-Minimisation.pdf"
@@ -83,9 +84,9 @@ Figure 1: Spacing requirements for bins presented at the kerbside ..............
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Waste management plan](02-2-waste-management-plan.md)
-3. [3 Subdivision and engineering works](03-3-subdivision-and-engineering-works.md)
-4. [4 Demolition and construction](04-4-demolition-and-construction.md)
-5. [5 Other development types](05-5-other-development-types.md)
-6. [6 Appendix 1 – Matrix](06-6-appendix-1-matrix.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Waste management plan](02-waste-management-plan.md)
+3. [3 Subdivision and engineering works](03-subdivision-and-engineering-works.md)
+4. [4 Demolition and construction](04-demolition-and-construction.md)
+5. [5 Other development types](05-other-development-types.md)
+6. [6 Appendix 1 – Matrix](06-appendix-1-matrix.md)

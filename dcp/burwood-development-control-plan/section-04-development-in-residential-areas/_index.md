@@ -3,7 +3,8 @@ title: "Burwood Development Control Plan - Section 4 Development in Residential 
 document_id: burwood-development-control-plan/section-04-development-in-residential-areas
 register_id: DCP-NSW-BURWOOD
 dcp: "Burwood Development Control Plan"
-council: "Burwood"
+council: "Burwood Council"
+council_id: NSW-C-BURWOOD
 lep: "Burwood Local Environmental Plan 2012"
 source: pdf
 source_file: "Burwood-development-control-plan-DCP - Section 4 Development in Residential Areas.pdf"

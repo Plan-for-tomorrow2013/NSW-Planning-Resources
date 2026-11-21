@@ -5,7 +5,8 @@ register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
 chapter_type: guide
 current_from: 2026-02-01
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf"
@@ -133,15 +134,15 @@ Source PDF: [Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf](Part-A-I
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Submitting a Development Application](02-2-submitting-a-development-application.md)
-3. [3 Notification](03-3-notification.md)
-4. [4 Environmental protection](04-4-environmental-protection.md)
-5. [5 Biodiversity, vegetation and tree preservation](05-5-biodiversity-vegetation-and-tree.md)
-6. [6 Roads](06-6-roads.md)
-7. [7 Car parking](07-7-car-parking.md)
-8. [8 Services](08-8-services.md)
-9. [9 Special considerations](09-9-special-considerations.md)
-10. [10 Development on flood prone land](10-10-development-on-flood-prone-land.md)
-11. [1 Exempt vegetation](11-1-exempt-vegetation.md)
-12. [2 Exempt tree species and tree work](12-2-exempt-tree-species-and-tree-work.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Submitting a Development Application](02-submitting-a-development-application.md)
+3. [3 Notification](03-notification.md)
+4. [4 Environmental protection](04-environmental-protection.md)
+5. [5 Biodiversity, vegetation and tree preservation](05-biodiversity-vegetation-and-tree.md)
+6. [6 Roads](06-roads.md)
+7. [7 Car parking](07-car-parking.md)
+8. [8 Services](08-services.md)
+9. [9 Special considerations](09-special-considerations.md)
+10. [10 Development on flood prone land](10-development-on-flood-prone-land.md)
+11. [1 Exempt vegetation](11-appendix-1-exempt-vegetation.md)
+12. [2 Exempt tree species and tree work](12-appendix-2-exempt-tree-species-and-tree-work.md)

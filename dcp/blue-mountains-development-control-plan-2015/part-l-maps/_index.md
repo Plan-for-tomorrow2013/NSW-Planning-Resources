@@ -3,7 +3,8 @@ title: "Blue Mountains Development Control Plan 2015 - Part L Maps"
 document_id: blue-mountains-development-control-plan-2015/part-l-maps
 register_id: DCP-NSW-BLUE-MOUNTAINS-2015
 dcp: "Blue Mountains Development Control Plan 2015"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
+council_id: NSW-C-BLUE-MOUNTAINS
 lep: "Blue Mountains Local Environmental Plan 2015"
 source: pdf
 source_file: "DCP 2015_Amendment 8_Part L.pdf"

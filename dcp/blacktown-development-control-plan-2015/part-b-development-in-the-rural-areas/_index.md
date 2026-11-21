@@ -3,7 +3,8 @@ title: "Blacktown Development Control Plan 2015 - Part B Development in the Rura
 document_id: blacktown-development-control-plan-2015/part-b-development-in-the-rural-areas
 register_id: DCP-NSW-BLACKTOWN-2015
 dcp: "Blacktown Development Control Plan 2015"
-council: "Blacktown"
+council: "Blacktown City Council"
+council_id: NSW-C-BLACKTOWN
 lep: "Blacktown Local Environmental Plan 2015"
 source: pdf
 source_file: "Part-B-Development-in-the-Rural-Zones.pdf"
@@ -43,9 +44,9 @@ Source PDF: [Part-B-Development-in-the-Rural-Zones.pdf](Part-B-Development-in-th
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Subdivision of rural land](02-2-subdivision-of-rural-land.md)
-3. [3 Dwelling houses](03-3-dwelling-houses.md)
-4. [4 Farm buildings](04-4-farm-buildings.md)
-5. [5 Services](05-5-services.md)
-6. [6 Environmental protection](06-6-environmental-protection.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Subdivision of rural land](02-subdivision-of-rural-land.md)
+3. [3 Dwelling houses](03-dwelling-houses.md)
+4. [4 Farm buildings](04-farm-buildings.md)
+5. [5 Services](05-services.md)
+6. [6 Environmental protection](06-environmental-protection.md)

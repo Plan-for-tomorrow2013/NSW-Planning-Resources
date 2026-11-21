@@ -3,8 +3,9 @@ title: "Burwood Development Control Plan - Cover and Contents"
 document_id: burwood-development-control-plan/cover-and-contents
 register_id: DCP-NSW-BURWOOD
 dcp: "Burwood Development Control Plan"
-current_from: 2026-02-17
-council: "Burwood"
+current_from: 2026-03-05
+council: "Burwood Council"
+council_id: NSW-C-BURWOOD
 lep: "Burwood Local Environmental Plan 2012"
 source: pdf
 source_file: "Burwood-development-control-plan-DCP - Cover and Contents.pdf"

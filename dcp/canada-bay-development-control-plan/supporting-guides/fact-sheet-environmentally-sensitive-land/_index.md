@@ -5,7 +5,8 @@ register_id: DCP-NSW-CANADA-BAY
 dcp: "Canada Bay Development Control Plan"
 chapter_type: supporting
 current_from: 2021-08-18
-council: "Canada Bay"
+council: "City of Canada Bay Council"
+council_id: NSW-C-CANADA-BAY
 lep: "Canada Bay Local Environmental Plan 2013"
 source: pdf
 source_file: "ECM_3736745_v4_Supporting Document Biodiversity Maps - Sheets 001-007 - Fact sheet.pdf"

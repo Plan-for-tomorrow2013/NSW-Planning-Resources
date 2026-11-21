@@ -4,7 +4,8 @@ document_id: canada-bay-development-control-plan/supporting-guides/good-design
 register_id: DCP-NSW-CANADA-BAY
 dcp: "Canada Bay Development Control Plan"
 chapter_type: supporting
-council: "Canada Bay"
+council: "City of Canada Bay Council"
+council_id: NSW-C-CANADA-BAY
 lep: "Canada Bay Local Environmental Plan 2013"
 source: pdf
 source_file: "Good Design Fact Sheet.pdf"
