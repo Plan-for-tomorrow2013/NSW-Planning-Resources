@@ -1,0 +1,7 @@
+# PDFs are not kept in git. They stay on the PC and in SharePoint (Tania, 21 Nov 2026).
+*.[pP][dD][fF]
+# Windows download marks and temporary files
+*Zone.Identifier
+~$*
+*.tmp
+*.temp
