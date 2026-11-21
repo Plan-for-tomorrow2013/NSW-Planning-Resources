@@ -1,0 +1,1305 @@
+---
+title: "Environment Protection and Biodiversity Conservation Act 1999"
+document_id: C2004A00485
+current_from: 2026-08-24
+---
+
+# Environment Protection and Biodiversity Conservation Act 1999
+
+## Chapter 8—Definitions
+
+### Part 23—Definitions
+
+#### Division 1—Some definitions relating to particular topics
+
+##### Subdivision A—Actions
+
+###### 523 *Actions*
+
+(1) Subject to this Subdivision, ***action*** includes:
+
+- (a) a project; and
+- (b) a development; and
+- (c) an undertaking; and
+- (d) an activity or series of activities; and
+- (e) an alteration of any of the things mentioned in paragraph (a), (b), (c) or (d).
+
+###### 524 Things that are not *actions*
+
+(1) This section applies to a decision by each of the following kinds of person (***government body***):
+
+- (a) the Commonwealth;
+- (b) a Commonwealth agency;
+- (c) a State;
+- (d) a self-governing Territory;
+- (e) an agency of a State or self-governing Territory;
+- (f) an authority established by a law applying in a Territory that is not a self-governing Territory.
+
+(2) A decision by a government body to grant a governmental authorisation (however described) for another person to take an action is not an ***action***.
+
+(3) To avoid doubt, a decision by the Commonwealth or a Commonwealth agency to grant a governmental authorisation under one of the following Acts is not an ***action***:
+
+- (a) the *Customs Act 1901*;
+- (b) the *Export Control Act 2020*;
+- (c) the *Export Finance and Insurance Corporation Act 1991*;
+- (d) the *Fisheries Management Act 1991*;
+- (e) the *Foreign Acquisitions and Takeovers Act 1975*;
+- (f) the *Offshore Petroleum and Greenhouse Gas Storage Act 2006*;
+- (g) the *Biosecurity Act 2015*;
+- (h) the *Competition and Consumer Act 2010*;
+- (i) the *Offshore Electricity Infrastructure Act 2021*.
+
+This subsection does not limit this section.
+
+###### 524A Provision of grant funding is not an *action*
+
+Provision of funding by way of a grant by one of the following is not an ***action***:
+
+- (a) the Commonwealth;
+- (b) a Commonwealth agency;
+- (c) a State;
+- (d) a self-governing Territory;
+- (e) an agency of a State or self-governing Territory;
+- (f) an authority established by a law applying in a Territory that is not a self-governing Territory.
+
+##### Subdivision B—Areas
+
+###### 525 Commonwealth areas
+
+*What is a **Commonwealth area**?*
+
+(1) Each of the following, and any part of it, is a ***Commonwealth area***:
+
+- (a) land owned by the Commonwealth or a Commonwealth agency and airspace over the land;
+- (b) an area of land held under lease by the Commonwealth or a Commonwealth agency and airspace over the land;
+- (c) land in:
+  - (i) an external Territory; or
+  - (ii) the Jervis Bay Territory;
+- and airspace over the land;
+- (d) the coastal sea of Australia or an external Territory;
+- (e) the continental shelf, and the waters and airspace over the continental shelf;
+- (f) the waters of the exclusive economic zone, the seabed under those waters and the airspace above those waters;
+- (g) any other area of land, sea or seabed that is included in a Commonwealth reserve.
+
+*Territory Land in ACT is not a Commonwealth area*
+
+(2) Despite paragraph (1)(a), an area of land that is Territory Land, within the meaning of the *Australian Capital Territory (Planning and Land Management) Act 1988* is not a ***Commonwealth area*** merely because of that paragraph, unless it is held under lease by the Commonwealth or a Commonwealth agency.
+
+*Freehold land in Christmas Island Territory is not a Commonwealth area*
+
+(2A) Despite subparagraph (1)(c)(i), an area of land in the Territory of Christmas Island is not a ***Commonwealth area*** merely because of that subparagraph if a person holds a freehold interest in the land.
+
+*Coastal waters of States and NT are not Commonwealth areas*
+
+(3) Despite paragraphs (1)(d), (e) and (f), none of the following areas (or parts of them) are ***Commonwealth areas***:
+
+- (a) the seabed vested in a State under section 4 of the *Coastal Waters (State Title) Act 1980*; and
+- (b) the seabed vested in the Northern Territory under section 4 of the *Coastal Waters (Northern Territory Title) Act 1980*; and
+- (c) the subsoil under the seabed described in paragraph (a) or (b); and
+- (d) any water and airspace over seabed described in paragraph (a) or (b).
+
+##### Subdivision C—Entities
+
+###### 526 Subsidiaries of bodies corporate
+
+The question whether a body corporate is a subsidiary of a body or company is to be determined in the same way as the question whether a body corporate is a subsidiary of another body corporate is determined for the purposes of the *Corporations Act 2001*.
+
+##### Subdivision D—Criminal law
+
+###### 527 Convictions
+
+A reference in this Act to a conviction of a person of an offence includes a reference to making an order under section 19B of the *Crimes Act 1914* in relation to the person in respect of the offence.
+
+##### Subdivision E—Specimens
+
+###### 527A Specimens
+
+(1) For the purposes of this Act, a ***specimen*** is:
+
+- (a) an animal; or
+- (b) animal reproductive material; or
+- (c) the skin, feathers, horns, shell or any other part of an animal; or
+- (d) any article wholly produced by or from, or otherwise wholly derived from, a single animal; or
+- (e) a plant; or
+- (f) plant reproductive material; or
+- (g) any part of a plant; or
+- (h) any article wholly produced by or from, or otherwise wholly derived from, a single plant.
+
+(2) However, a fossil, or a mineralised deposit, is not a ***specimen*** for the purposes of this Act.
+
+(3) In any provision of this Act, references to a ***specimen*** are to be read as including references to an article that consists of, or is derived from:
+
+- (a) a specimen and material other than a specimen; or
+- (b) 2 or more specimens; or
+- (c) 2 or more specimens and material other than a specimen.
+
+(4) If an article consists of, or is derived from, 2 or more specimens, either with or without any material other than a specimen, then this Act applies to and in relation to that article separately in so far as it consists of, or is derived from, each of those specimens.
+
+(5) For the purposes of this Act:
+
+- (a) if a live animal (other than animal reproductive material) that was bred in captivity dies, the dead animal and specimens derived from the dead animal are taken to be specimens derived from that live animal; and
+- (b) if a live plant (other than plant reproductive material) that was artificially propagated dies, the dead plant and specimens derived from the dead plant are taken to be specimens derived from that live plant; and
+- (c) a specimen covered by paragraph (1)(b), (c) or (d) is taken to be derived from the animal concerned; and
+- (d) a specimen covered by paragraph (1)(f), (g) or (h) is taken to be derived from the plant concerned; and
+- (e) if a specimen is derived from an animal that belongs to a particular species or taxon, the specimen is taken to belong to that species or taxon; and
+- (f) if a specimen is derived from a plant that belongs to a particular species or taxon, the specimen is taken to belong to that species or taxon.
+
+(6) In this section:
+
+***this Act*** does not include sections 356 and 390E.
+
+###### 527B Breeding in captivity
+
+For the purposes of this Act, a live animal of a particular kind is taken to have been ***bred in captivity*** if, and only if, it was bred in circumstances declared by the regulations to be circumstances the breeding in which of:
+
+- (a) any live animal; or
+- (b) any live animal of that kind; or
+- (c) any live animal included in a class of live animals that includes live animals of that kind;
+
+would constitute breeding in captivity.
+
+###### 527C Artificial propagation
+
+For the purposes of this Act, a live plant of a particular kind is taken to have been ***artificially propagated*** if, and only if, it was propagated in circumstances declared by the regulations to be circumstances the propagation in which of:
+
+- (a) any live plant; or
+- (b) any live plant of that kind; or
+- (c) any live plant included in a class of live plants that includes live plants of that kind;
+
+would constitute artificial propagation.
+
+###### 527D Things represented to be CITES specimens
+
+(1) For the purposes of this Act, if a thing is represented by an accompanying document, the package or a mark or label, or from any other circumstances, to be:
+
+- (a) the skin, feathers, horns, shell or any other part of a CITES listed animal; or
+- (b) part of a CITES listed plant; or
+- (c) reproductive material from a CITES listed animal or a CITES listed plant; or
+- (d) an article produced by or from, or derived from, one or more CITES listed animals or one or more CITES listed plants, whether with or without any other material;
+
+then the thing is taken to be a CITES specimen.
+
+> Note: This subsection has the effect (among other things) of widening the scope of sections 303CC, 303CD and 303GN, which are offence provisions relating to the export, import and possession of specimens.
+
+(2) The Minister must not issue a permit under section 303CG authorising the export or import of a thing that is taken under subsection (1) to be a CITES specimen unless the thing is a CITES specimen apart from subsection (1).
+
+(3) In this section:
+
+***CITES listed animal*** means an animal of a species included in Appendix I, II or III to CITES.
+
+***CITES listed plant*** means a plant of a species included in Appendix I, II or III to CITES.
+
+***export*** has the same meaning as in Part 13A.
+
+***import*** has the same meaning as in Part 13A.
+
+##### Subdivision F—Impacts
+
+###### 527E Meaning of *impact*
+
+(1) For the purposes of this Act, an event or circumstance is an ***impact*** of an action taken by a person if:
+
+- (a) the event or circumstance is a direct consequence of the action; or
+- (b) for an event or circumstance that is an indirect consequence of the action—subject to subsection (2), the action is a substantial cause of that event or circumstance.
+
+(2) For the purposes of paragraph (1)(b), if:
+
+- (a) a person (the ***primary person***) takes an action (the ***primary action***); and
+- (b) as a consequence of the primary action, another person (the ***secondary person***) takes another action (the ***secondary action***); and
+- (c) the secondary action is not taken at the direction or request of the primary person; and
+- (d) an event or circumstance is a consequence of the secondary action;
+
+then that event or circumstance is an ***impact*** of the primary action only if:
+
+- (e) the primary action facilitates, to a major extent, the secondary action; and
+- (f) the secondary action is:
+  - (i) within the contemplation of the primary person; or
+  - (ii) a reasonably foreseeable consequence of the primary action; and
+- (g) the event or circumstance is:
+  - (i) within the contemplation of the primary person; or
+  - (ii) a reasonably foreseeable consequence of the secondary action.
+
+###### 527F Unacceptable impacts
+
+(1) For the purposes of this Act, the following table sets out the impacts that are ***unacceptable impacts*** on each matter protected by a provision of Part 3.
+
+| **Unacceptable impacts** |  |  |
+|---|---|---|
+| **Provision** | **Matter protected** | **Unacceptable impact** |
+| section 12 | the world heritage values of a declared world heritage property | a significant impact that causes loss, damage or alteration to part or all of the world heritage values |
+| section 15A | the world heritage values of a declared world heritage property | a significant impact that causes loss, damage or alteration to part or all of the world heritage values |
+| section 15B | the National Heritage values of a National Heritage place | a significant impact that causes serious or irreversible damage to part or all of the national heritage values of the National Heritage place |
+| section 15C | the National Heritage values of a National Heritage Place | a significant impact that causes serious or irreversible damage to part or all of the national heritage values of the National Heritage place |
+| section 16 | the ecological character of a declared Ramsar wetland | a significant impact that:<br>(a) seriously impairs the ecological character of a declared Ramsar wetland; or<br>(b) undermines the ability of the declared Ramsar wetland to continue to meet the criteria for which it was listed under the Ramsar Convention |
+| section 17B | the ecological character of a declared Ramsar wetland | a significant impact that:<br>(a) seriously impairs the ecological character of a declared Ramsar wetland; or<br>(b) undermines the ability of the declared Ramsar wetland to continue to meet the criteria for which it was listed under the Ramsar Convention |
+| subsection 18(1) | a listed threatened species in the extinct in the wild category | a significant impact that seriously impairs the viability of the listed threatened species |
+| subsection 18(2) | a listed threatened species in the critically endangered category | a significant impact that:<br>(a) seriously impairs the viability of the listed threatened species; or<br>(b) causes serious damage to critical habitat of the listed threatened species where the habitat is irreplaceable and necessary for the listed threatened species to remain viable in the wild |
+| subsection 18(3) | a listed threatened species in the endangered category | a significant impact that:<br>(a) seriously impairs the viability of the listed threatened species; or<br>(b) causes serious damage to critical habitat of the listed threatened species where the habitat is irreplaceable and necessary for the listed threatened species to remain viable in the wild |
+| subsection 18(4) | a listed threatened species in the vulnerable category | a significant impact that:<br>(a) seriously impairs the viability of the listed threatened species; or<br>(b) causes serious damage to critical habitat of the listed threatened species where the habitat is irreplaceable and necessary for the listed threatened species to remain viable in the wild |
+| subsection 18(5) | a listed threatened ecological community in the critically endangered category | a significant impact that:<br>(a) seriously impairs the viability of the listed threatened ecological community; or<br>(b) causes serious damage to critical habitat of the listed threatened ecological community where the habitat is irreplaceable and necessary for the listed threatened ecological community to remain viable in the wild |
+| subsection 18(6) | a listed threatened ecological community in the endangered category | a significant impact that:<br>(a) seriously impairs the viability of the listed threatened ecological community; or<br>(b) causes serious damage to critical habitat of the listed threatened ecological community where the habitat is irreplaceable and necessary for the listed threatened ecological community to remain viable in the wild |
+| subsection 18A(1) or (2) | (a) a listed threatened species (except a species included in the extinct category of the list referred to in section 178 or a conservation dependent species); and<br>(b) a listed threatened ecological community (except an ecological community included in the vulnerable category of the list referred to in section 181) | a significant impact that:<br>(a) seriously impairs the viability of the listed threatened species or listed threatened ecological community; or<br>(b) except for a listed threatened species included in the extinct in the wild category of the list referred to in section 178—causes serious damage to critical habitat of the listed threatened species or listed threatened ecological community where the habitat is irreplaceable and necessary for the listed threatened species or listed threatened ecological community to remain viable in the wild |
+| section 20 | a listed migratory species | a significant impact that:<br>(a) seriously impairs the viability of the listed migratory species; or<br>(b) causes serious damage to habitat of the listed migratory species where the habitat is irreplaceable and necessary for the listed threatened migratory to remain viable in the wild |
+| section 20A | a listed migratory species | a significant impact that:<br>(a) seriously impairs the viability of the listed migratory species; or<br>(b) causes serious damage to habitat of the listed migratory species where the habitat is irreplaceable and necessary for the listed migratory species to remain viable in the wild |
+| section 21 | the environment | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| section 22A | the environment | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| subsection 23(1) | the environment | a significant impact that:<br>(a) seriously impairs the functioning or integrity of a marine ecosystem (or part of a marine ecosystem) that is part of the environment; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place if the place is part of the environment |
+| subsection 23(2) | the environment in a Commonwealth marine area | a significant impact that:<br>(a) seriously impairs the functioning or integrity of a marine ecosystem (or part of a marine ecosystem) that is part of the environment in the Commonwealth marine area; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place if the place is part of the environment of the Commonwealth marine area |
+| subsection 23(3) | the environment in the coastal waters (within the meaning of the *Fisheries Management Act 1991*) in which the action is taken of the State or the Northern Territory | a significant impact that:<br>(a) seriously impairs the functioning or integrity of any marine ecosystem (or part of a marine ecosystem) that is part of the environment in the coastal waters of the State or the Northern Territory in which the action is taken; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment in the coastal waters of the State or the Northern Territory in which the action is taken |
+| subsection 24A(1) or (2) | the environment | a significant impact that:<br>(a) seriously impairs the functioning or integrity of a marine ecosystem (or part of a marine ecosystem) that is part of the environment; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment |
+| subsection 24A(3) or (4) | the environment in a Commonwealth marine area | a significant impact that:<br>(a) seriously impairs the functioning or integrity of a marine ecosystem (or part of a marine ecosystem) that is part of the environment in the Commonwealth marine area; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place if the place is part of the environment of the Commonwealth marine area |
+| subsection 24A(5) or (6) | the environment in the coastal waters (within the meaning of the *Fisheries Management Act 1991*) in which the action is taken of the State or the Northern Territory | a significant impact that:<br>(a) seriously impairs the functioning or integrity of a marine ecosystem (or part of a marine ecosystem) that is part of the environment in the coastal waters of the State or the Northern Territory in which the action is taken; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment in the coastal waters of the State or the Northern Territory in which the action is taken |
+| subsection 24B(1) | the environment | a significant impact that:<br>(a) seriously impairs the biodiversity values that are part of the environment; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment |
+| subsection 24B(2) | the environment in the Great Barrier Reef Marine Park | a significant impact that:<br>(a) seriously impairs the biodiversity values that are part of the environment in the Great Barrier Reef Marine Park; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment in the Great Barrier Reef Marine Park |
+| subsections 24C(1) and (3) | the environment | a significant impact that:<br>(a) seriously impairs the biodiversity values that are part of the environment; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment |
+| subsections 24C(5) and (7) | the environment in the Great Barrier Reef Marine Park | a significant impact that:<br>(a) seriously impairs the biodiversity values that are part of the environment in the Great Barrier Reef Marine Park; or<br>(b) causes serious or irreversible damage to part or all of the heritage values of a place that is part of the environment in the Great Barrier Reef Marine Park |
+| section 24D | a water resource | a significant impact that:<br>(a) seriously impairs the integrity of the water resource to the extent that critical human water needs can no longer be provided from the water resource; or<br>(b) causes irreversible damage to the integrity of a water resource that is necessary to maintain a site of regional or national ecological significance |
+| section 24E | a water resource | a significant impact that:<br>(a) seriously impairs the integrity of the water resource to the extent that critical human water needs can no longer be provided; or<br>(b) causes irreversible damage to the integrity of a water resource that is necessary to maintain a site of regional or national ecological significance |
+| section 25 | a thing prescribed by the regulations for the purposes of this table item in relation to which an action to which section 25 applies | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| subsection 26(1) | the environment | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| subsection 26(2) | the environment on Commonwealth land | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| subsection 27A(1) or (2) | the environment | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| subsection 27A(3) or (4) | the environment on Commonwealth land | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| section 27B | the environment in a Commonwealth Heritage place outside the Australian jurisdiction | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| section 27C(1) and (2) | the environment in a Commonwealth Heritage place outside the Australian jurisdiction | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+| section 28 | the environment | a significant impact that the Minister is satisfied is unacceptable because it will seriously impair the environment |
+
+(2) For the purposes of subsection (1), a significant impact of an action causes serious damage if the damage is of a severe nature and extent.
+
+###### 527G Definition of *accredited*
+
+A management or authorisation framework is ***accredited***:
+
+- (a) for the purposes of a declaration under section 33—if the framework is accredited by a written instrument in force under subsection 33(2) for the purposes of the declaration; and
+- (b) for the purposes of a bilateral agreement—if the framework is accredited by a written instrument in force under subsection 46(2) for the purposes of the agreement.
+
+###### 527H Definition of *seriously impair*
+
+(1) A significant impact of an action ***seriously impairs*** something if, compared to the action not being taken, the impact results in an impairment or alteration of the thing that is of a severe nature and extent.
+
+(2) For the purposes of subsection (1), have regard to the nature, intensity, duration, magnitude, geographic extent and context of the impact.
+
+###### 527J Definition of *residual significant impact*
+
+*Residual significant impact of an action*
+
+(1) An impact that an action will have or is likely to have on a matter protected by a provision of Part 3 is a ***residual significant impact*** on the matter if all of the following apply:
+
+- (a) the impact is significant;
+- (b) the impact will not be avoided, mitigated or repaired in the course of taking the action;
+- (c) the impact will not be avoided, mitigated or repaired in the course of complying with conditions to be attached to the approval of the taking of the actions.
+
+*Residual significant impact of a class of actions*
+
+(2) An impact that a class of actions as a whole will have or is likely to have on a matter protected by a provision of Part 3 is a ***residual significant impact*** on the matter if all of the following apply:
+
+- (a) the impact is significant;
+- (b) the impact will not be avoided, mitigated or repaired in the course of taking the actions in the class;
+- (c) the impact will not be avoided, mitigated or repaired in the course of complying with conditions to be attached to the approval of the taking of the class of actions.
+
+###### 527K Passing the net gain test in relation to residual significant impact
+
+*Approval of an action*
+
+(1) An approval of the taking of an action ***passes the net gain test*** in relation to a residual significant impact the action has, will have, or is likely to have, on a matter protected by a provision of Part 3, if:
+
+- (a) either or both of the following kinds of conditions is attached to the approval:
+  - (i) a condition requiring the holder of the approval to compensate for damage to the matter that has been, or may or will be, caused by the residual significant impact;
+  - (ii) a condition requiring the holder of the approval to pay restoration contribution charge in relation to the residual significant impact; and
+- (b) compliance with the condition or conditions results in a net gain for the matter:
+  - (i) if the regulations prescribe the net gain for the matter—that is at least equal to the prescribed net gain; or
+  - (ii) otherwise—that the Minister is satisfied is appropriate; and
+- (c) if any other requirements are prescribed by the regulations in relation to compensation for damage to the matter—the requirements are satisfied.
+
+*Approval of a class of actions*
+
+(2) An approval of the taking of a class of actions ***passes the net gain test*** in relation to a residual significant impact the class of actions as a whole has, will have or is likely to have, on a matter protected by a provision of Part 3, if:
+
+- (a) either or both of the following kinds of conditions is attached to the approval:
+  - (i) a condition requiring the holder of the approval to compensate for damage to the matter that has been, or may or will be, caused by the residual significant impact;
+  - (ii) a condition requiring the holder of the approval to pay restoration contribution charge in relation to the residual significant impact; and
+- (b) compliance with the condition or conditions results in a net gain for the matter:
+  - (i) if the regulations prescribe the net gain for the matter—that is at least equal to the prescribed net gain; or
+  - (ii) otherwise—that the Minister is satisfied is appropriate; and
+- (c) if any other requirements are prescribed by the regulations in relation to compensation for damage to the matter—the requirements are satisfied.
+
+*Protected matters that a modified net gain test applies to*
+
+(3) Despite subsections (1) and (2), an approval of the taking of an action or a class of actions is taken to pass the net gain test in relation to a residual significant impact on a matter prescribed by the regulations for the purposes of this subsection if the Minister is satisfied that:
+
+- (a) paragraphs (1)(a) and (c) or (2)(a) and (c) apply in relation to the residual significant impact; and
+- (b) compliance with the condition or conditions attached as mentioned in paragraph (1)(a) or (2)(a) results in no net loss for the matter.
+
+*Certain approvals taken to pass net gain test*
+
+(4) Despite subsections (1) and (2), an approval of the taking of an action or class of actions is taken to pass the net gain test in relation to a residual significant impact on the environment to the extent that the environment:
+
+- (a) consists of people or communities; and
+- (b) is protected by any of the following provisions of Part 3:
+  - (i) section 21 or 22A (about radiological exposure actions);
+  - (ii) section 23 or 24A (about marine areas);
+  - (iii) section 24B or 24C (about the Great Barrier Reef Marine Park);
+  - (iv) section 26 or 27A (about Commonwealth land);
+  - (v) section 27B or 27C (about Commonwealth Heritage places overseas);
+  - (vi) section 28 (about Commonwealth agencies).
+
+*Protected matters that net gain test does not apply to*
+
+(5) The following provisions of this Act do not apply in relation to a residual significant impact on a matter protected by a provision of Part 3 if the matter is prescribed by the regulations for the purposes of this subsection:
+
+- (a) paragraph 33(3)(i) (about accreditation of authorisation or management frameworks for the purposes of a declaration under section 33);
+- (b) paragraphs 46(3)(i) (about accreditation of authorisation or management frameworks for the purposes of a bilateral agreement);
+- (c) subsection 48A(5) (about undertakings in bilateral agreements in relation to residual significant impacts);
+- (d) section 136C (about approval of actions with a residual significant impact);
+- (e) paragraph 143(2A)(c) (about revoking, varying or adding to conditions attached to an approval);
+- (f) paragraph 145D(3A)(c) (about extending an approval period);
+- (g) section 146FC (about approvals under Part 10);
+- (h) paragraph 177AP(e) (about making bioregional plans);
+- (i) paragraph 177AS(i) (about varying bioregional plans).
+
+#### Division 2—General list of definitions
+
+##### 528 Definitions
+
+In this Act, unless the contrary intention appears:
+
+***accredited***: see section 527G.
+
+***acquisition of property*** has the meaning given by subsection 519(2).
+
+***action*** has the meaning given by Subdivision A of Division 1 of Part 23.
+
+***action management plan***, in relation to an action, means a plan for managing the impacts of the action on a matter protected by a provision of Part 3, such as a plan for conserving habitat of a species.
+
+***advisory body*** has the meaning given by section 510A.
+
+***agency*** of a State or self-governing Territory means:
+
+- (a) a Minister of the State or Territory; or
+- (b) a body corporate established for a public purpose by a law of the State or Territory; or
+- (c) a body corporate established by:
+  - (i) the Governor of the State; or
+  - (ii) if the Territory is the Australian Capital Territory—the Governor-General acting in relation to the Australian Capital Territory; or
+  - (iii) if the Territory is the Northern Territory—the Administrator of the Territory; or
+  - (iv) a Minister of the State or Territory;
+- otherwise than by or under a law of the State or Territory; or
+- (d) a company in which the whole of the shares or stock, or shares or stock carrying more than one-half of the voting power, is or are owned by or on behalf of the State or Territory; or
+- (e) a body corporate that is a subsidiary of:
+  - (i) a body or company referred to in paragraph (b), (c) or (d); or
+  - (ii) a body corporate that, because of a previous application or previous applications of this paragraph, is taken to be an agency of the State or Territory for the purposes of this definition; or
+- (f) a person holding, or performing the duties of:
+  - (i) an office established by or under a law of the State or Territory (except a judicial office or an office of member of a tribunal); or
+  - (ii) an appointment made under a law of the State or Territory (except appointment to a judicial office or an office of member of a tribunal); or
+- (g) a person holding, or performing the duties of, an appointment made by:
+  - (i) the Governor of the State; or
+  - (ii) if the Territory is the Australian Capital Territory—the Governor-General acting in relation to the Australian Capital Territory; or
+  - (iii) if the Territory is the Northern Territory—the Administrator of the Territory; or
+  - (iv) a Minister of the State or Territory;
+- otherwise than by or under a law of the State or Territory.
+
+***aggravated offence***:
+
+- (a) in Subdivision B of Division 1 of Part 13—has the meaning given by section 196F; and
+- (b) in Subdivision B of Division 2 of Part 13—has the meaning given by section 211F; and
+- (c) in Subdivision B of Division 4 of Part 13—has the meaning given by section 254F.
+
+***aircraft*** means an apparatus that can derive support in the atmosphere from the reactions of the air.
+
+***alternate pathway*** has the meanings given by section 71A.
+
+***animal*** means any member, alive or dead, of the animal kingdom (other than a human being).
+
+***animal reproductive material*** means:
+
+- (a) an embryo, an egg or sperm of an animal; or
+- (b) any other part, or product, of an animal from which another animal could be produced.
+
+***annual turnover*** has the meaning given by subsection 481A(3).
+
+***Antarctic*** has the same meaning as in the *Antarctic Treaty (Environment Protection) Act 1980*.
+
+***Apia Convention*** means the Convention on Conservation of Nature in the South Pacific, done at Apia, Western Samoa, on 12 June 1976, as amended and in force for Australia from time to time.
+
+> Note: The English text of the Convention is set out in Australian Treaty Series 1990 No. 41.
+
+***approval*** means:
+
+- (a) in relation to an action:
+  - (i) an approval of the taking of the action under subsection 133(1); or
+  - (ii) an approval of the taking of the action under subsection 146B(1) in accordance with an endorsed policy, plan or program; or
+- (b) in relation to a class of actions—an approval of the taking of the class of actions under subsection 146B(1) in accordance with an endorsed policy, plan or program.
+
+***approved conservation advice*** has the meaning given by subsection 266B(2).
+
+***approved form*** has the meaning given by subsection 519A(2).
+
+***article*** includes a substance or a mixture of substances.
+
+***artificially propagated***, in relation to a plant or plant reproductive material, has the meaning given by section 527C.
+
+***assess*** an action includes assess the impacts that the action:
+
+- (a) has or will have; or
+- (b) is likely to have.
+
+***assessment report*** has the meaning given by subsection 130(2).
+
+***audited person*** has the meaning given by subsection 459(1).
+
+***auditor***:
+
+- (a) in relation to a directed environmental audit—has the meaning given by subsection 459(1); or
+- (b) in relation to a compliance audit—has the meaning given by subsection 462B(2).
+
+***Australian aircraft*** has the meaning given by subsection 5(5).
+
+***Australian Biosphere reserve management principles*** has the meaning given by section 340.
+
+***Australian Heritage Council*** means the body established by the *Australian Heritage Council Act 2003*.
+
+***Australian IUCN reserve management principles*** has the meaning given by subsection 348(1).
+
+***Australian jurisdiction*** has the meaning given by subsection 5(5).
+
+***Australian national*** has the meaning given by subsection 5(5).
+
+***Australian permanent resident*** has the meaning given by subsection 5(5).
+
+***Australian Ramsar management principles*** has the meaning given by section 335.
+
+***Australian vessel*** has the meaning given by subsection 5(5).
+
+***Australian Whale Sanctuary*** has the meaning given by subsection 225(2).
+
+***Australian World Heritage management principles*** has the meaning given by section 323.
+
+***authorisation process*** means a process under which actions are authorised.
+
+***authorised officer*** means:
+
+- (a) a warden; or
+- (b) an inspector.
+
+***baggage*** has the meaning given by section 443.
+
+***benefit derived*** has the meaning given by subsection 481A(6).
+
+***bilateral agreement*** has the meaning given by subsection 45(2).
+
+***biodiversity*** means the variability among living organisms from all sources (including terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part) and includes:
+
+- (a) diversity within species and between species; and
+- (b) diversity of ecosystems.
+
+***Biodiversity Convention*** means the Convention on Biological Diversity done at Rio de Janeiro on 5 June 1992, as amended and in force for Australia from time to time.
+
+> Note: The English text of this Convention is set out in Australian Treaty Series 1993 No. 32.
+
+***biological resources*** includes genetic resources, organisms, parts of organisms, populations and any other biotic component of an ecosystem with actual or potential use or value for humanity.
+
+***bioregional assessment***, in relation to an area, means the scientific analysis of the ecology, hydrology and geology of the area for the purpose of assessing the potential direct and indirect impacts of unconventional gas development or large coal mining development on water resources in the area, including any impacts of associated salt production and/or salinity.
+
+***bioregional plan*** means a bioregional plan for a bioregion as mentioned in section 176.
+
+***Biosphere reserve*** has the meaning given by section 337.
+
+***Board*** means a Board established under section 377.
+
+***Bonn Convention*** means the Convention on the Conservation of Migratory Species of Wild Animals done at Bonn on 23 June 1979, as amended and in force for Australia from time to time.
+
+> Note: The English text of the Convention is set out in Australian Treaty Series 1991 No. 32.
+
+***bred in captivity***, in relation to an animal or animal reproductive material, has the meaning given by section 527B.
+
+***CAMBA*** means the Agreement between the Government of Australia and the Government of the People’s Republic of China for the protection of Migratory Birds and their Environment done at Canberra on 20 October 1986, as amended and in force for Australia from time to time.
+
+> Note: The English text of the Agreement is set out in Australian Treaty Series 1988 No. 22.
+
+***CEO*** has the same meaning as in the *National Environmental Protection Agency Act 2025*.
+
+> Note: This is a reference to the CEO of NEPA.
+
+***CEO’s environment law provision*** has the meaning given by subsection 514YN(3).
+
+***cetacean*** means a member of the sub-order Mysticeti or Odontoceti of the Order Cetacea, and includes:
+
+- (a) a part of such a member; and
+- (b) any animal reproductive material of such a member, or any part of such reproductive material; and
+- (c) any product derived from such a member; and
+- (d) the whole or part of the dead body of such a member; and
+- (e) any product derived from the dead body, or part of the dead body, of such a member.
+
+***CITES*** means the Convention on International Trade in Endangered Species of Wild Fauna and Flora done at Washington on 3 March 1973, as amended and in force for Australia from time to time.
+
+> Note: The English text of the Convention is set out in Australian Treaty Series 1976 No. 29.
+
+***CITES I specimen*** has the meaning given by subsection 303CA(2).
+
+***CITES II specimen*** has the meaning given by subsection 303CA(3).
+
+***CITES III specimen*** has the meaning given by subsection 303CA(4).
+
+***CITES specimen*** has the meaning given by subsection 303CA(1).
+
+***civil penalty provision*** has the meaning given by section 482.
+
+***coastal sea*** of Australia or an external Territory has the same meaning as in subsection 15B(4) of the *Acts Interpretation Act 1901*.
+
+***coastal waters*** of a State or the Northern Territory has the meaning given by section 227.
+
+***commercial fishing activity*** has the meaning given by subsection 390SC(1A).
+
+***commissioner*** means a person holding an appointment under paragraph 107(1)(a).
+
+***Commonwealth agency*** means:
+
+- (a) a Minister; or
+- (b) a body corporate established for a public purpose by a law of the Commonwealth; or
+- (c) a body corporate established by a Minister otherwise than under a law of the Commonwealth; or
+- (d) a company in which the whole of the shares or stock, or shares or stock carrying more than one-half of the voting power, is or are owned by or on behalf of the Commonwealth; or
+- (e) a body corporate that is a subsidiary of:
+  - (i) a body or company referred to in paragraph (b), (c) or (d); or
+  - (ii) a body corporate that, because of a previous application or previous applications of this paragraph, is taken to be a Commonwealth agency for the purposes of this definition; or
+- (f) a person holding, or performing the duties of:
+  - (i) an office established by or under a law of the Commonwealth (except a judicial office or office of member of a tribunal); or
+  - (ii) an appointment made under a law of the Commonwealth (except an appointment to a judicial office or office of member of a tribunal); or
+- (g) a person holding, or performing the duties of, an appointment made by the Governor-General, or by a Minister, otherwise than under a law of the Commonwealth;
+
+but does not include:
+
+- (h) a person holding an office established by or under any of the following Acts, or holding an appointment made under any of them:
+  - (i) the *Northern Territory (Self-Government) Act 1978*;
+  - (ii) the *Norfolk Island Act 1979*;
+  - (iii) the *Australian Capital Territory (Self-Government) Act 1988*; or
+- (i) any of the following:
+  - (i) an Aboriginal Land Trust, or an Aboriginal Land Council, established under the *Aboriginal Land Rights (Northern Territory) Act 1976*;
+  - (ii) a corporation registered under the *Corporations (Aboriginal and Torres Strait Islander) Act 2006*;
+  - (iii) the Wreck Bay Aboriginal Community Council established by the *Aboriginal Land and Waters (Jervis Bay Territory) Act 1986*; or
+- (j) a company prescribed by the regulations for the purposes of this paragraph.
+
+***Commonwealth aircraft*** has the meaning given by section 403.
+
+***Commonwealth area*** has the meaning given by section 525.
+
+***Commonwealth entity*** has the same meaning as in the *Public Governance, Performance and Accountability Act 2013*.
+
+***Commonwealth Heritage criteria*** has the meaning given by subsection 341D(1).
+
+***Commonwealth Heritage List*** means the list referred to in section 341C.
+
+***Commonwealth Heritage management principles*** has the meaning given by section 341Y.
+
+***Commonwealth Heritage place*** has the meaning given by subsection 341C(3).
+
+***Commonwealth Heritage value*** has the meaning given by section 341D.
+
+***Commonwealth land*** has the meaning given by section 27.
+
+***Commonwealth marine area*** has the meaning given by section 24.
+
+***Commonwealth reserve*** means a reserve declared under Division 4 of Part 15.
+
+***Commonwealth ship*** has the meaning given by section 403.
+
+***compliance audit*** has the meaning given by section 462.
+
+***components of biodiversity*** has the meaning given by subsection 171(3).
+
+***conservation agreement*** means an agreement made under section 305.
+
+***conservation dependent***: a native species may be included in the ***conservation dependent*** category of the list of threatened native species in accordance with Subdivision A of Division 1 of Part 13.
+
+***conservation dependent species*** means a listed threatened species that is included in the conservation dependent category of the list referred to in section 178.
+
+***conservation order*** means an order made under section 464 (with variations (if any) under section 466 or 469).
+
+***conservation zone*** means a Commonwealth area that is declared to be a conservation zone under Division 5 of Part 15.
+
+***constitutional corporation*** means a corporation to which paragraph 51(xx) of the Constitution applies.
+
+***continental shelf*** means:
+
+- (a) the continental shelf (as defined in the *Seas and Submerged Lands Act 1973*) of Australia (including its external Territories); or
+- (b) the Greater Sunrise special regime area.
+
+***continuation*** of a use of land, sea or seabed has the meaning given by section 43B.
+
+***continuing section 158 exemption*** means an exemption granted under section 158 (as in force immediately before the commencement of item 292 of Schedule 1 to the *Environment Protection Reform Act 2025*).
+
+***continuing section 303A exemption*** means an exemption granted under section 303A (as in force immediately before the commencement of item 433 of Schedule 1 to the *Environment Protection Reform Act 2025*).
+
+***control***: a Commonwealth agency ***controls*** a place only if the agency has rights (whether arising under a law, lease, licence or otherwise) to:
+
+- (a) occupy or use the place; and
+- (b) take actions in relation to the place that could potentially have an impact on heritage values that the place may have.
+
+***controlled action*** has the meaning given by section 67.
+
+***controlling provision*** has the meaning given by section 67.
+
+***convict*** a person of an offence has a meaning affected by section 527.
+
+***copy***, when used in relation to a warrant issued under section 409 or 416 (or a form of warrant completed under subsection 409A(6) or 416(6)), includes:
+
+- (a) a copy sent by fax or other electronic means; or
+- (b) a copy of a copy so sent.
+
+***country*** includes a place that is a territory, dependency or colony (however described) of a foreign country.
+
+***critical habitat*** has the meaning given by subsection 207A(4).
+
+***critically endangered***:
+
+- (a) a native species may be included in the ***critically endangered*** category of the list of threatened native species in accordance with Subdivision A of Division 1 of Part 13; and
+- (b) an ecological community may be included in the ***critically endangered*** category of the list of threatened ecological communities in accordance with Subdivision A of Division 1 of Part 13.
+
+***daily newspaper*** means a newspaper that is ordinarily published on each day that is a business day in the place where the newspaper is published, whether or not the newspaper is ordinarily published on other days.
+
+***declaration affected person*** has the meaning given by subsection 390SE(3).
+
+***declared commercial fishing activity*** has the meaning given by subsection 390SC(1).
+
+***declared Ramsar wetland*** has the meaning given by section 17.
+
+***declared State or Territory*** means a State or self-governing Territory that is declared by the Minister under section 505E.
+
+***declared World Heritage property*** has the meaning given by section 13.
+
+***designated environmental instrument*** means:
+
+- (a) the Australian World Heritage Management Principles; or
+- (b) a plan that has been prepared for the management of a declared World Heritage property under section 316 or as described in section 321; or
+- (c) the National Heritage Management Principles; or
+- (d) an agreement to which the Commonwealth is party in relation to a National Heritage place; or
+- (e) a plan that has been prepared for the management of a National Heritage place under section 324S or as described in section 324X; or
+- (f) a plan that has been prepared for the management of a wetland included in the List of Wetlands of International Importance kept under the Ramsar Convention as described in section 333; or
+- (g) the Australian Ramsar management principles; or
+- (h) an instrument prescribed by the regulations.
+
+***designated international agreement*** means:
+
+- (a) the Apia Convention; or
+- (b) the Biodiversity Convention; or
+- (c) the Bonn Convention; or
+- (d) CAMBA; or
+- (e) CITES; or
+- (f) JAMBA; or
+- (g) the Ramsar Convention; or
+- (h) ROKAMBA; or
+- (i) the World Heritage Convention; or
+- (j) an international agreement approved under subsection 209(4); or
+- (k) an agreement prescribed by the regulations.
+
+***designated proponent*** of an action means the person designated under Division 2 of Part 7 as the proponent of the action.
+
+***detriment avoided*** has the meaning given by subsection 481A(7).
+
+***directed environmental audit*** has the meaning given by subsection 458(1).
+
+***Director*** means the Director of National Parks referred to in section 514A.
+
+***Director of Biosecurity*** has the same meaning as in the *Biosecurity Act 2015*.
+
+***dory*** means:
+
+- (a) a vessel in relation to which a licence or other permission (however described and whether or not in force) has been granted under a law of the Commonwealth, a State or a Territory authorising the vessel to be used in association with a primary commercial fishing vessel; or
+- (b) a vessel that is used in association with a primary commercial fishing vessel.
+
+> Note: A dory might also be known as a tender commercial fishing vessel.
+
+***ecological character*** has the meaning given by subsection 16(3).
+
+***ecological community*** means the extent in nature in the Australian jurisdiction of an assemblage of native species that:
+
+- (a) inhabits a particular area in nature; and
+- (b) meets the additional criteria specified in the regulations (if any) made for the purposes of this definition.
+
+***ecologically sustainable use*** of natural resources means use of the natural resources within their capacity to sustain natural processes while maintaining the life-support systems of nature and ensuring that the benefit of the use to the present generation does not diminish the potential to meet the needs and aspirations of future generations.
+
+***ecosystem*** means a dynamic complex of plant, animal and micro-organism communities and their non-living environment interacting as a functional unit.
+
+***eligible seizable item*** means anything that would present a danger to a person or that could be used to assist a person to escape from lawful custody.
+
+***endangered***:
+
+- (a) a native species may be included in the ***endangered*** category of the list of threatened native species in accordance with Subdivision A of Division 1 of Part 13; and
+- (b) an ecological community may be included in the ***endangered*** category of the list of threatened ecological communities in accordance with Subdivision A of Division 1 of Part 13.
+
+***entrusted person*** has the meaning given by subsection 515B(3).
+
+***environment*** includes:
+
+- (a) ecosystems and their constituent parts, including people and communities; and
+- (b) natural and physical resources; and
+- (c) the qualities and characteristics of locations, places and areas; and
+- (d) heritage values of places; and
+- (e) the social, economic and cultural aspects of a thing mentioned in paragraph (a), (b), (c) or (d).
+
+***environmental authorisation*** has the meaning given by section 43A.
+
+***environmental authority*** means:
+
+- (a) an approval under Part 9; or
+- (b) a permit issued under Chapter 5.
+
+***environmental exemption*** means:
+
+- (a) an exemption granted under section 157H (national interest exemption); or
+- (b) an exemption granted under section 302A (Part 13 exemption); or
+- (c) a continuing section 158 exemption; or
+- (d) a continuing section 303A exemption.
+
+***environmental law*** means:
+
+- (a) this Act; or
+- (b) the regulations; or
+- (c) the *Great Barrier Reef Marine Park Act 1975*; or
+- (d) regulations made under the *Great Barrier Reef Marine Park Act 1975*.
+
+***environmental order*** means:
+
+- (a) an environment protection order; or
+- (b) a conservation order; or
+- (c) a remediation determination; or
+- (d) a remediation order.
+
+***environmental penalty provision*** means:
+
+- (a) a civil penalty provision under this Act; or
+- (b) a civil penalty provision under the *Great Barrier Reef Marine Park Act 1975*.
+
+***environment law provision*** has the meaning given by subsection 514YM(3).
+
+***environment protection order*** has the meaning given by subsection 474A(1).
+
+***evidential burden***, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
+
+***evidential material*** has the meaning given by subsection 406(2).
+
+***exclusive economic zone*** means the exclusive economic zone (as defined in the *Seas and Submerged Lands Act 1973*) of Australia (including its external Territories).
+
+***executing officer***, in relation to a warrant, means:
+
+- (a) the authorised officer named in the warrant as being responsible for executing the warrant; or
+- (b) if that authorised officer does not intend to be present at the execution of the warrant—another authorised officer whose name has been written in the warrant by the authorised officer so named; or
+- (c) another authorised officer whose name has been written in the warrant by the authorised officer last named in the warrant.
+
+***executive officer*** of a body corporate has the meaning given by section 493.
+
+***extinct***: a native species may be included in the ***extinct*** category of the list of threatened native species in accordance with Subdivision A of Division 1 of Part 13.
+
+***extinct in the wild***: a native species may be included in the ***extinct in the wild*** category of the list of threatened native species in accordance with Subdivision A of Division 1 of Part 13.
+
+***Federal Court*** means the Federal Court of Australia.
+
+***Federal Register of Legislation*** means the Federal Register of Legislation established under the *Legislation Act 2003*.
+
+***fish*** has the same meaning as in the *Fisheries Management Act 1991*.
+
+***Fisheries Minister*** means the Minister administering the *Fisheries Management Act 1991*.
+
+***fishing*** has the same meaning as in the *Fisheries Management Act 1991*.
+
+***fishing activity*** has the meaning given by subsection 390SC(2).
+
+***fishing concession*** has the same meaning as in the *Fisheries Management Act 1991*.
+
+***foreign whaling vessel*** has the meaning given by subsection 236(5).
+
+***frisk search*** has the meaning given by subsection 413(3).
+
+***genetic resources*** means any material of plant, animal, microbial or other origin that contains functional units of heredity and that has actual or potential value for humanity.
+
+***goods*** has the meaning given by section 443.
+
+***Great Barrier Reef Marine Park*** means the Great Barrier Reef Marine Park established under the *Great Barrier Reef Marine Park Act 1975*.
+
+***Great Barrier Reef Marine Park Authority*** means the Great Barrier Reef Marine Park Authority established by the *Great Barrier Reef Marine Park Act 1975*.
+
+***Greater Sunrise special regime area*** has the meaning given by subsection 5(5).
+
+***greenhouse gas*** has the same meaning as in the *National Greenhouse and Energy Reporting Act 2007*.
+
+***greenhouse gas emissions information*** has the meaning given by subsection 84A(2).
+
+***habitat*** means the biophysical medium or media:
+
+- (a) occupied (continuously, periodically or occasionally) by an organism or group of organisms; or
+- (b) once occupied (continuously, periodically or occasionally) by an organism, or group of organisms, and into which organisms of that kind have the potential to be reintroduced.
+
+***heritage value*** of a place includes the place’s natural and cultural environment having aesthetic, historic, scientific or social significance, or other significance, for current and future generations of Australians.
+
+***holder*** means:
+
+- (a) in the case of a permit issued under Chapter 5—the person to whom the permit was issued or transferred, as the case may be; or
+- (b) in the case of an approval under Part 9:
+  - (i) the person named in the approval under paragraph 133(2)(c); or
+  - (ii) if the approval is transferred under section 145B—the person to whom the approval is transferred; or
+- (c) in the case of an approval under section 146B:
+  - (i) the person named in the approval under paragraph 146B(2)(ba); or
+  - (ii) if the approval is transferred under section 145B (as applied by section 146DD)—the person to whom the approval is transferred; or
+- (d) in the case of a marine park permission—the person who is the holder of the permission under regulations made under the *Great Barrier Reef Marine Park Act 1975*.
+
+***impact*** has the meaning given by section 527E.
+
+***important cetacean habitat area*** means an area declared, by a declaration in force under subsection 228A(1), to be an important cetacean habitat area.
+
+***Independent Expert Scientific Committee on Unconventional Gas Development and Large Coal Mining Development*** means the Committee established by section 505C.
+
+***Indigenous Advisory Committee*** means the Committee established by section 505A.
+
+***indigenous heritage value*** of a place means a heritage value of the place that is of significance to indigenous persons in accordance with their practices, observances, customs, traditions, beliefs or history.
+
+***indigenous people’s land*** has the meaning given by subsection 363(3).
+
+***indigenous person*** has the meaning given by subsection 363(4).
+
+***indigenous tradition*** has the meaning given by section 201.
+
+***inspector*** means:
+
+- (a) a person appointed as an inspector under section 396;
+- (b) a person who is an inspector because of section 397; or
+- (c) a person who is an inspector because of an arrangement entered into under section 398.
+
+***interested person*** has the meaning given by section 475.
+
+***interfere*** with a cetacean has the meaning given by subsection 229B(4).
+
+***irreplaceable***: habitat is ***irreplaceable*** for a species or ecological community if, whether biologically, physically or technically, it is impossible to reverse damage to the habitat, or impossible to restore, recreate or replace the habitat:
+
+- (a) in a relevant timeframe and location; and
+- (b) with the function (including the complexity and scale) necessary to support the viability of the species or community.
+
+***IUCN category*** has the meaning given by subsection 346(1).
+
+***JAMBA*** means the Agreement between the Government of Japan and the Government of Australia for the Protection of Migratory Birds and Birds in Danger of Extinction and their Environment done at Tokyo on 6 February 1974, as amended and in force for Australia from time to time.
+
+> Note: The English text of the Agreement is set out in Australian Treaty Series 1981 No. 6.
+
+***jointly managed reserve*** has the meaning given by subsection 363(5).
+
+***Kakadu National Park*** has the meaning given by subsection 387(3).
+
+***Kakadu region*** has the meaning given by subsection 386(1).
+
+***keep*** a cetacean or member of a listed threatened species, listed migratory species, listed marine species or listed threatened ecological community means:
+
+- (a) in the case of a cetacean, or a species of animal or community of animals—have charge or possession of the cetacean or member, either in captivity or in a domesticated state; and
+- (b) in the case of a species of plant or community of plants—have possession of the member.
+
+***key threatening process*** means a threatening process included in the list referred to in section 183.
+
+***land*** has the meaning given by subsection 345(2).
+
+***land council*** for indigenous people’s land has the meaning given by subsection 363(2).
+
+***large coal mining development*** means any coal mining activity that has, or is likely to have, a significant impact on water resources (including any impacts of associated salt production and/or salinity):
+
+- (a) in its own right; or
+- (b) when considered with other developments, whether past, present or reasonably foreseeable developments.
+
+***large-scale disposal facility*** for radioactive waste has a meaning affected by subsection 22(2).
+
+***list*** includes a list containing no items.
+
+***listed marine species*** means a marine species included in the list referred to in section 248.
+
+***listed migratory species*** means a migratory species included in the list referred to in section 209.
+
+***listed threatened ecological community*** means an ecological community included in the list referred to in section 181.
+
+***listed threatened species*** means a native species included in the list referred to in section 178.
+
+***List of Overseas Places of Historic Significance to Australia*** means the record referred to in section 390K.
+
+***live animal*** includes animal reproductive material.
+
+***live plant*** includes plant reproductive material.
+
+***longfin mako shark*** means the listed migratory species with the common name longfin mako shark and the scientific name *Isurus paucus*.
+
+***magistrate*** means a magistrate who is remunerated by salary or otherwise, and includes a Judge, or acting Judge, of the Local Court of New South Wales or of the Local Court of the Northern Territory.
+
+***management arrangement*** includes:
+
+- (a) a management plan; and
+- (b) a regime; and
+- (c) a policy.
+
+***management or authorisation framework*** means:
+
+- (a) a management arrangement; or
+- (b) an authorisation process.
+
+***marine park order*** means any of the following, within the meaning of the *Great Barrier Reef Marine Park Act 1975*:
+
+- (a) a vessel monitoring direction;
+- (b) an emergency direction;
+- (c) an enforceable direction;
+- (d) a remediation order.
+
+***marine park permission*** means a permission granted under regulations made under the *Great Barrier Reef Marine Park Act 1975*.
+
+***master*** of a foreign whaling vessel has the meaning given by subsection 236(5).
+
+***matter protected*** by a provision of Part 3 has the meaning given by section 34.
+
+***member*** includes:
+
+- (a) in relation to a species of animal (other than a species of cetacean):
+  - (i) any part of an animal of the species; and
+  - (ii) any animal reproductive material of an animal of the species, or any part of such reproductive material; and
+  - (iii) the whole or any part of the dead body of an animal of the species; and
+- (b) in relation to a species of plant:
+  - (i) any part of a plant of the species; and
+  - (ii) any plant reproductive material of a plant of the species, or any part of such reproductive material; and
+  - (iii) the whole or any part of a plant of the species that has died; and
+- (c) in relation to an ecological community:
+  - (i) any part of an animal or plant of the community; and
+  - (ii) any animal reproductive material of an animal, or plant reproductive material of a plant, of the community, or any part of such animal reproductive material or plant reproductive material; and
+  - (iii) the whole or any part of an animal or plant of the community that has died.
+
+***migration zone*** has the same meaning as in the *Migration Act 1958*.
+
+***migratory species*** has the meaning given by subsection 209(8).
+
+***mineral*** has the meaning given by subsection 355(3).
+
+***mining operations*** has the meaning given by subsection 355(2).
+
+***monitoring power*** relating to premises has the meaning given by section 407.
+
+***monitoring warrant*** has the meaning given by section 409.
+
+***national*** of a foreign country has the meaning given by subsection 5(5).
+
+***national environmental standard*** means a national environmental standard made under subsection 514YD(1).
+
+***National Heritage criteria*** has the meaning given by subsection 324D(1).
+
+***National Heritage List*** means the list referred to in section 324C.
+
+***National Heritage management principles*** has the meaning given by section 324Y.
+
+***National Heritage place*** has the meaning given by subsection 324C(3).
+
+***National Heritage value*** has the meaning given by section 324D.
+
+***national interest exemption*** has the meaning given by subsection 157H(1).
+
+***native amphibian*** means an amphibian of a native species.
+
+***native animal*** means an animal of a native species.
+
+***native bird*** means a bird of a native species.
+
+***native mammal*** means a mammal of a native species.
+
+***native plant*** means a plant of a native species.
+
+***native reptile*** means a reptile of a native species.
+
+***native species*** means a species:
+
+- (a) that is indigenous to Australia or an external Territory; or
+- (b) that is indigenous to the seabed of the coastal sea of Australia or an external Territory; or
+- (c) that is indigenous to the continental shelf; or
+- (d) that is indigenous to the exclusive economic zone; or
+- (e) members of which periodically or occasionally visit:
+  - (i) Australia or an external Territory; or
+  - (ii) the exclusive economic zone; or
+- (f) that was present in Australia or an external Territory before 1400.
+
+> Note: A reference to Australia or an external Territory includes a reference to the coastal sea of Australia or the Territory. See section 15B of the *Acts Interpretation Act 1901*.
+
+***NEPA*** has the same meaning as in the *National Environmental Protection Agency Act 2025*.
+
+> Note: NEPA is short for the National Environmental Protection Agency.
+
+***NOPSEMA*** means the National Offshore Petroleum Safety and Environmental Management Authority.
+
+> Note: See the *Offshore Petroleum and Greenhouse Gas Storage Act 2006*.
+
+***NOPSEMA*** ***management or authorisation framework*** has the meaning given by subsection 36G(2).
+
+***nuclear action*** has the meaning given by subsection 22(1).
+
+***nuclear installation*** has the meaning given by subsection 22(1).
+
+***occupier*** of premises means the person apparently in charge of the premises.
+
+***officer assisting***, in relation to a warrant, means:
+
+- (a) an authorised officer who is assisting in executing the warrant; or
+- (b) a person who is not an authorised officer, but who has been authorised by the relevant executing officer to assist in executing the warrant.
+
+***officer of Customs*** has the same meaning as it has in the *Customs Act 1901*.
+
+***ordinary search*** has the meaning given in subsection 414(3).
+
+***organism*** includes:
+
+- (a) a virus; and
+- (b) the reproductive material of an organism; and
+- (c) an organism that has died.
+
+***Part 13 exemption*** has the meaning given by subsection 302A(1).
+
+***passes the net gain test***:
+
+- (a) in relation to an approval of the taking of an action—has the meaning given by subsection 527K(1); and
+- (b) in relation to an approval of the taking of a class of actions—has the meaning given by subsection 527K(2).
+
+***place*** includes:
+
+- (a) a location, area or region or a number of locations, areas or regions; and
+- (b) a building or other structure, or group of buildings or other structures (which may include equipment, furniture, fittings and articles associated or connected with the building or structure, or group of buildings or structures); and
+- (c) in relation to the protection, maintenance, preservation or improvement of a place—the immediate surroundings of a thing in paragraph (a) or (b).
+
+***plant*** means a member, alive or dead, of the plant kingdom or of the fungus kingdom, and includes a part of a plant and plant reproductive material.
+
+***plant reproductive material*** means:
+
+- (a) a seed or spore of a plant; or
+- (b) a cutting from a plant; or
+- (c) any other part, or product, of a plant from which another plant can be produced.
+
+***population*** of a species or ecological community means an occurrence of the species or community in a particular area.
+
+***porbeagle shark*** means the listed migratory species with the common name porbeagle shark and the scientific name *Lamna nasus*.
+
+***precautionary principle*** has the meaning given by subsection 391(2).
+
+***premises*** includes a place, vehicle, vessel and aircraft.
+
+***prescribed waters*** means waters in respect of which regulations made for the purposes of section 226 are in force.
+
+***primary commercial fishing vessel*** means:
+
+- (a) a vessel in relation to which a licence or other permission (however described and whether or not in force) has been granted under a law of the Commonwealth, a State or a Territory authorising the vessel to be used to take fish for commercial purposes; or
+- (b) a vessel that is used to take fish for commercial purposes.
+
+***principles of ecologically sustainable development*** has a meaning affected by section 3A.
+
+***progeny*** includes:
+
+- (a) in relation to an animal—any animal reproductive material of that animal or of any progeny of that animal; and
+- (b) in relation to a plant—any plant reproductive material of that plant or of any progeny of that plant; and
+- (c) in relation to a live animal that is animal reproductive material—any animal resulting from that material or any progeny of such animal; and
+- (d) in relation to a live plant that is plant reproductive material—any plant resulting from that material or any progeny of such plant.
+
+To avoid doubt, a reference in this Act to ***progeny*** of an animal or a plant includes a reference to any descendant of that animal or plant.
+
+***protected information*** has the meaning given by subsection 515B(2).
+
+***protection statement***: see 298A(1).
+
+***radioactive waste*** has the meaning given by subsection 22(1).
+
+***Ramsar Convention*** means the Convention on Wetlands of International Importance especially as Waterfowl Habitat done at Ramsar, Iran, on 2 February 1971, as amended and in force for Australia from time to time.
+
+> Note: The English Text of the Convention is set out in Australian Treaty Series 1975 No. 48.
+
+***range*** of a species means the area where members of the species live, feed, breed or visit periodically or regularly.
+
+***ranger*** means a person holding an appointment as a ranger under Part 17.
+
+***recovery plan*** means a plan made or adopted under section 269A.
+
+***registered auditor*** means an individual who is registered in the register of auditors kept under section 462G.
+
+***registered critical habitat*** has the meaning given by subsection 207A(1AA).
+
+***regulated live specimen*** has the meaning given by section 303EA.
+
+***regulated native specimen*** has the meaning given by section 303DA.
+
+***relevant impacts*** of an action has the meaning given by section 82.
+
+***relevant information*** has the meaning given by subsection 515B(1).
+
+***relevant person*** for a compliance audit has the meaning given by section 462C.
+
+***remediation determination*** means a determination, as in force from time to time, made under section 480D.
+
+***remediation order*** means an order, as in force from time to time, made under section 480A.
+
+***reprocessing*** has the meaning given by subsection 22(1).
+
+***residual significant impact***:
+
+- (a) in relation to an action—has the meaning given by subsection 527J(1); and
+- (b) in relation to a class of actions—has the meaning given by subsection 527J(2).
+
+***responsible person*** for a policy, plan or program means the person responsible from time to time for the adoption or implementation of the policy, plan or program.
+
+***ROKAMBA*** means the Agreement with the Government of the Republic of Korea on the Protection of Migratory Birds done at Canberra on 6 December 2006.
+
+> Note: The text of the Agreement is set out in Australian Treaty Series 2007 No. 24. In 2007, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+***Scientific Committee*** means the Threatened Species Scientific Committee established by section 502.
+
+***scope 1 greenhouse gas emission*** has the meaning given by subsection 84A(3).
+
+***scope 2 greenhouse gas emission*** has the meaning given by subsection 84A(4).
+
+***seabed*** has the meaning given by subsection 345(2).
+
+***Secretary*** means the Secretary of the Department that:
+
+- (a) deals with the matter to which the provision containing the reference relates; and
+- (b) is administered by the Minister administering the provision.
+
+***seized*** has a meaning affected by section 406B.
+
+***self-governing Territory*** means:
+
+- (a) the Australian Capital Territory; or
+- (b) the Northern Territory.
+
+***seriously impair*** has the meaning given by section 527H.
+
+***shortfin mako shark*** means the listed migratory species with the common name shortfin mako shark and the scientific name *Isurus oxyrinchus*.
+
+***species*** means a group of biological entities that:
+
+- (a) interbreed to produce fertile offspring; or
+- (b) possess common characteristics derived from a common gene pool;
+
+and includes:
+
+- (c) a sub-species; and
+- (ca) for the purposes of Part 13A—a distinct population of such biological entities; and
+- (d) except for the purposes of Part 13A—a distinct population of such biological entities that the Minister has determined, under section 517, to be a species for the purposes of this Act.
+
+In this definition, ***the purposes of Part 13A*** do not include determining the meaning of the expression ***listed threatened species*** when used in Part 13A.
+
+***specific environmental authorisation*** has the meaning given by section 43A.
+
+***specimen*** has the meaning given by section 527A.
+
+***spent nuclear fuel*** has the meaning given by subsection 22(1).
+
+***staff of NEPA*** means the staff of NEPA referred to in section 53 of the *National Environmental Protection Agency Act 2025*.
+
+***statement of expectations***: see subsection 510B(1).
+
+***statement of intent***: see subsection 510C(1).
+
+***State or Territory government body*** means:
+
+- (a) a Department of State of a State or Territory; or
+- (b) an agency of a State or Territory; or
+- (c) an authority of a State or Territory.
+
+***subject to***: a person is ***subject to*** an environmental order or a marine park order if:
+
+- (a) for an environment protection order—the order applies to the person; or
+- (b) for a conservation order:
+  - (i) the person is carrying on, or is proposing to carry on, activities to which the order relates; or
+  - (ii) the order requires the person to take action; or
+- (c) for a remediation determination or remediation order—the determination or order requires the person to take action; or
+- (d) for a vessel monitoring direction within the meaning of the *Great Barrier Reef Marine Park Act 1975*:
+  - (i) the person is a kind of person responsible (within the meaning of subsection 61AAA(10) of that Act) for a vessel; and
+  - (ii) the direction applies to the person, or to that kind of person; or
+- (e) for an emergency direction within the meaning of the *Great Barrier Reef Marine Park Act 1975* that applies to a particular person—the direction applies to the person; or
+- (f) for an emergency direction within the meaning of the *Great Barrier Reef Marine Park Act 1975* that applies to a class of persons or to persons generally—the direction applies to the person and either of the following apply:
+  - (i) the person is carrying on, or is proposing to carry on, activities to which the direction relates;
+  - (ii) the direction requires the person to take action; or
+- (g) for an enforceable direction, or remediation order, within the meaning of the *Great Barrier Reef Marine Park Act 1975*—the direction or order applies to the person.
+
+***subsidiary*** of a body corporate has a meaning affected by section 526.
+
+***sub-species*** means a geographically separate population of a species, being a population that is characterised by morphological or biological differences from other populations of that species.
+
+***take***, except in Part 13A, includes:
+
+- (a) in relation to an animal—harvest, catch, capture and trap; and
+- (b) in relation to a plant—harvest, pick, gather and cut.
+
+> Note: For the meaning of ***take*** in Part 13A, see section 303BC.
+
+***taxon*** means any taxonomic category (for example, a species or a genus), and includes a particular population.
+
+***terms of reference***:
+
+- (a) in relation to an inquiry under Division 7 of Part 8—has the meaning given by paragraph 107(1)(b); and
+- (b) in relation to an assessment under Division 3 of Part 15B—has the meaning given by paragraph 390SH(1)(b).
+
+***territorial sea*** means the territorial sea (as defined in the *Seas and Submerged Lands Act 1973*) of Australia (including its external Territories).
+
+***threat abatement plan*** means a plan made or adopted under section 270B.
+
+***threatening process*** has the meaning given by subsection 188(3).
+
+***trade***:
+
+- (a) when used in the context of a reference to a member of a listed threatened species, listed migratory species, listed marine species or listed threatened ecological community—includes:
+  - (i) buy the member, agree to receive it under an agreement to buy, agree to accept it under such an agreement or acquire it by barter; or
+  - (ii) sell the member, offer it for sale, agree to sell it, have it in possession for the purpose of sale, deliver it for the purpose of sale, receive it for the purpose of sale or dispose of it by barter for the purpose of gain or advancement; or
+  - (iii) export the member from Australia or an external Territory or import it into Australia or an external Territory; or
+  - (iv) cause or allow any of the acts referred to in subparagraph (i), (ii) or (iii) to be done; or
+- (b) when used in the context of a reference to a cetacean (not being a reference that covers a cetacean because a cetacean is a member referred to in paragraph (a))—has the meaning given by subsection 229B(4).
+
+***traditional owners*** of indigenous people’s land has the meaning given by subsection 368(4).
+
+***treat*** a cetacean has the meaning given by subsection 229D(3).
+
+***Uluru-Kata Tjuta National Park*** has the meaning given by subsection 344(3).
+
+***Uluru region*** has the meaning given by subsection 386(2).
+
+***unacceptable impacts*** has the meaning given by section 527F.
+
+***unconventional gas development*** means any activity involving unconventional gas production that has, or is likely to have, a significant impact on water resources (including any impacts of associated salt production and/or salinity):
+
+- (a) in its own right; or
+- (b) when considered with other developments, whether past, present or reasonably foreseeable developments.
+
+***unconventional gas production*** means extraction, recovery, or intentional release, (whether by drilling, hydraulic fracturing or other means) of gas from:
+
+- (a) coal seams or beds; or
+- (b) layers of shale rock; or
+- (c) tight gas reservoirs; or
+- (d) any other sources prescribed by the regulations.
+
+***usage right*** has the meaning given by subsection 350(7).
+
+***vehicle*** includes a hovercraft.
+
+***vessel*** means a ship, boat, raft or pontoon or any other thing capable of carrying persons or goods through or on water and includes a floating structure and hovercraft.
+
+***viability*** of a species or ecological community means the ability of the species or ecological community to survive and recover in the wild.
+
+***vulnerable***:
+
+- (a) a native species may be included in the ***vulnerable*** category of the list of threatened native species in accordance with Subdivision A of Division 1 of Part 13; and
+- (b) an ecological community may be included in the ***vulnerable*** category of the list of threatened ecological communities in accordance with Subdivision A of Division 1 of Part 13.
+
+***warden*** means a person holding an appointment as a warden under Part 17.
+
+***warrant premises*** means premises in relation to which a warrant is in force.
+
+***water resource*** has the same meaning as in the *Water Act 2007*.
+
+***wetland*** has the same meaning as in the Ramsar Convention.
+
+***whale watching*** has the meaning given by section 238.
+
+***wildlife*** means:
+
+- (a) an animal; or
+- (b) a specimen derived from an animal; or
+- (c) a plant; or
+- (d) a specimen derived from a plant.
+
+***wildlife conservation plan*** means a plan of a kind referred to in section 285 that has been made or adopted under that section.
+
+***World Heritage Convention*** means the Convention for the Protection of the World Cultural and Natural Heritage done at Paris on 23 November 1972, as amended and in force for Australia from time to time.
+
+> Note: The English text of the Convention is set out in Australian Treaty Series 1975 No. 47.
+
+***World Heritage List*** means the list kept under that title under Article 11 of the World Heritage Convention.
+
+***world heritage values*** of a property has the meaning given by subsection 12(3).
