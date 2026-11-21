@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Provisions applying to development within Illawarra Regional Business Park site"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

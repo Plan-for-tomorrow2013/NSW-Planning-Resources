@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Dwelling-houses in Zone No 1 (a1), 1 (a2), 1 (b), 1 (c2), 1 (c3), 1 (d), 2 (a1), 2 (a2), 2 (b1), 2 (b2), 2 (c1), 2 (c2), or 2 (d)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Dwelling-houses and boarding-houses"
 clause: "10"

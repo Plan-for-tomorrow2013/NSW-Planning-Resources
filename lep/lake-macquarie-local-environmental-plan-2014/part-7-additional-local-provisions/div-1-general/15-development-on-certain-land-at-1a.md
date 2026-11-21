@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Development on certain land at 1A Raymond Street, Speers Point"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.17"

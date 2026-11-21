@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development on land in and surrounding the Richmond Valley Regional Jobs Precinct"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

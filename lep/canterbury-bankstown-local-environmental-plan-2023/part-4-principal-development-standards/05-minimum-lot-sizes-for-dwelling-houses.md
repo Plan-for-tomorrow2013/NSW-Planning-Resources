@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum lot sizes for dwelling houses on battle-axe lots in certain residential zones"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

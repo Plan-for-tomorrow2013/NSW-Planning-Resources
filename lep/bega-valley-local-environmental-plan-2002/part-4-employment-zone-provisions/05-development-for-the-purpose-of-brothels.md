@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Development for the purpose of brothels and sex shops in business and industrial zones"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Employment zone provisions"
 clause: "34"

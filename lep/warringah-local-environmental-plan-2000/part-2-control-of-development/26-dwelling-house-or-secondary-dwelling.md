@@ -1,6 +1,6 @@
 ---
 title: "Clause 33B Dwelling house or secondary dwelling affected by natural disaster"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "33B"

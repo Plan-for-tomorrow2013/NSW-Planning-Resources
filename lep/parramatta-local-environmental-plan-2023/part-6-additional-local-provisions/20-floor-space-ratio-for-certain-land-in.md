@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21 Floor space ratio for certain land in Telopea Precinct"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.21"

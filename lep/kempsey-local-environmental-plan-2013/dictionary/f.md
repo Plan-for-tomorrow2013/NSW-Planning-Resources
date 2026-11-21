@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — F"
-council: "Kempsey"
+council: "Kempsey Shire Council"
 document_type: LEP
 dictionary_range: "F"
 last_verified: 2026-07-01

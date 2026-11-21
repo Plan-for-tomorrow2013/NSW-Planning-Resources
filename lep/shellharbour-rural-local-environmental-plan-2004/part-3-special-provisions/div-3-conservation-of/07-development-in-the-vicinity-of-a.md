@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 Development in the vicinity of a heritage item"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Conservation of heritage"
 clause: "51"

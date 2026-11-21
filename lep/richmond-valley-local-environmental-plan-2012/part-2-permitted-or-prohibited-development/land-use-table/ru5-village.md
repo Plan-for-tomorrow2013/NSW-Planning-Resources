@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

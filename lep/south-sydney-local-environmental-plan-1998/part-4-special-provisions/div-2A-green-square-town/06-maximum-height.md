@@ -1,6 +1,6 @@
 ---
 title: "Clause 27KG Maximum height"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2A Green Square Town Centre"
 clause: "27KG"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.24 Farm stay accommodation"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.24"

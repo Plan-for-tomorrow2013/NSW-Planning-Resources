@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2 Rural subdivision"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2"

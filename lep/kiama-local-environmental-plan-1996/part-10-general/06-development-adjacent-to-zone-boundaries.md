@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Development adjacent to zone boundaries"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "52"

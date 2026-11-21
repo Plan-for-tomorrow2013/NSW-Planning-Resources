@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — I"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 dictionary_range: "I"
 last_verified: 2026-07-24

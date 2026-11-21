@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Gross floor area in Willoughby Market Gardens"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

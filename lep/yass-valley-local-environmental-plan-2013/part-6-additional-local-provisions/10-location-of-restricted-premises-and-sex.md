@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Location of restricted premises and sex services premises"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

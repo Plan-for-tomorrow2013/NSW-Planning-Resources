@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 3 — Archaeological sites"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-09-25

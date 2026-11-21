@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

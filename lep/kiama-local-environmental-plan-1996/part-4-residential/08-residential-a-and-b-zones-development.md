@@ -1,6 +1,6 @@
 ---
 title: "Clause 20A Residential \"A\" and \"B\" Zones—Development in the West Kiama Urban Release Area"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "20A"

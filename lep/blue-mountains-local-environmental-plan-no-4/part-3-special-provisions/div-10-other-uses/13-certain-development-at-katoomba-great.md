@@ -1,6 +1,6 @@
 ---
 title: "Clause 65A Certain development at Katoomba (Great Western Highway near Camp Street)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "65A"

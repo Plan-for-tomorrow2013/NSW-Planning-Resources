@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1F Exceptions to minimum subdivision lot size for certain land in North Richmond"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1F"

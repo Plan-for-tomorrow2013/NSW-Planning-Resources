@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Ground floor and first floor development in Zones E2 and MU1"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

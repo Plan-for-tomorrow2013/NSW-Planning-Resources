@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Development on existing lots in Zones R2, R3 and R5"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.1"

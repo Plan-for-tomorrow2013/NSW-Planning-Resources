@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 General controls for development in the 9 (b) Arterial Roads Reservation Zone"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — General land use controls / Division 7 Development in the 9 (b) Arterial Roads Reservation Zone"
 clause: "32"

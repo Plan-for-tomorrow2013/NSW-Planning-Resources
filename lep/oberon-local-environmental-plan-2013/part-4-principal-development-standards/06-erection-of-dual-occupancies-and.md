@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dual occupancies and dwelling houses on land in Zone RU1 and Zone R5"
-council: "Oberon"
+council: "Oberon Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

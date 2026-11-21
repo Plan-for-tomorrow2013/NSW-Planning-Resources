@@ -1,6 +1,6 @@
 ---
 title: "Clause 119 Dual occupancy"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 8 Provisions for specific land uses"
 clause: "119"

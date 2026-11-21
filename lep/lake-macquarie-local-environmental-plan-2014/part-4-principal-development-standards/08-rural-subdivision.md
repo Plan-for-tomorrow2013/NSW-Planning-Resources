@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2 Rural subdivision"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2"

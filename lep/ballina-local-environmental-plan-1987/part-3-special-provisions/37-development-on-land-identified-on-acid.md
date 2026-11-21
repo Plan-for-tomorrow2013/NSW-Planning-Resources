@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Development on land identified on Acid Sulfate Soils Planning Maps"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "36"

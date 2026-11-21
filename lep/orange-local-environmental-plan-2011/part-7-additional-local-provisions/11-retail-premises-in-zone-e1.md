@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Retail premises in Zone E1"
-council: "Orange"
+council: "Orange City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 66 Development on land identified on Acid Sulfate Soils Map"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "66"

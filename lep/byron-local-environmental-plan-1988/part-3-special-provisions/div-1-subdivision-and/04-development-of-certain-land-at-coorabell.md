@@ -1,6 +1,6 @@
 ---
 title: "Clause 11B Development of certain land at Coorabell"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision and dwelling-houses"
 clause: "11B"

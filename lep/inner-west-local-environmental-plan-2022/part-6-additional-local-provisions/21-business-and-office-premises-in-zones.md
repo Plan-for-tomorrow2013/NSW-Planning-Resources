@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21 Business and office premises in Zones E3 and E4"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.21"

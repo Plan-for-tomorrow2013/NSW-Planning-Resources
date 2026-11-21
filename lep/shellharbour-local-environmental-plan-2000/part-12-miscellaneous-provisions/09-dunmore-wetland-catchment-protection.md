@@ -1,6 +1,6 @@
 ---
 title: "Clause 85 Dunmore Wetland Catchment Protection Area"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "85"

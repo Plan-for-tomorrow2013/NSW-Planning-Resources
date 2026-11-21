@@ -2,7 +2,7 @@
 title: "Sutherland Shire Local Environmental Plan 2015"
 document_id: epi-2015-0319
 current_from: 2026-09-04
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 ---
 
 # Sutherland Shire Local Environmental Plan 2015

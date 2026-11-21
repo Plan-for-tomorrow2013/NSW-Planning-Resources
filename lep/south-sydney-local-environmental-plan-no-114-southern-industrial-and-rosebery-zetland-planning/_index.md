@@ -2,7 +2,7 @@
 title: "South Sydney Local Environmental Plan No 114 (Southern Industrial and Rosebery/Zetland Planning Districts)"
 document_id: epi-1994-0401
 current_from: 2022-11-21
-council: "South Sydney"
+council: "City of Sydney"
 ---
 
 # South Sydney Local Environmental Plan No 114 (Southern Industrial and Rosebery/Zetland Planning Districts)

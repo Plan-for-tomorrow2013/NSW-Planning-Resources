@@ -1,6 +1,6 @@
 ---
 title: "Clause 62 Public infrastructure in urban release areas"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Administrative provisions"
 clause: "62"

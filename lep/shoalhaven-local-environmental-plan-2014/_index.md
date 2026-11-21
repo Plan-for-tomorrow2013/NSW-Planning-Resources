@@ -2,7 +2,7 @@
 title: "Shoalhaven Local Environmental Plan 2014"
 document_id: epi-2014-0179
 current_from: 2026-09-25
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 ---
 
 # Shoalhaven Local Environmental Plan 2014

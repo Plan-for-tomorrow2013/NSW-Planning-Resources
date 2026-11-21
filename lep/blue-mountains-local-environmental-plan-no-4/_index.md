@@ -2,7 +2,7 @@
 title: "Blue Mountains Local Environmental Plan No 4"
 document_id: epi-1982-0014
 current_from: 2023-11-10
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 ---
 
 # Blue Mountains Local Environmental Plan No 4

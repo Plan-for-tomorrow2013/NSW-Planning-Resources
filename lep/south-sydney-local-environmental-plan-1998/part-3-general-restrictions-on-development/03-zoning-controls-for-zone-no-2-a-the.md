@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Zoning controls for Zone No 2 (a)—the Residential (Low Density) Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "11"

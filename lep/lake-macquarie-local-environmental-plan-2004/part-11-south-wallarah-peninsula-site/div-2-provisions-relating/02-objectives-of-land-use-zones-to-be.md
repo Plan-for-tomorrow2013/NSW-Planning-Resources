@@ -1,6 +1,6 @@
 ---
 title: "Clause 137 Objectives of land use zones to be taken into account"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "11 — South Wallarah Peninsula site / Division 2 Provisions relating to development in South Wallarah Peninsula site"
 clause: "137"

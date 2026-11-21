@@ -1,6 +1,6 @@
 ---
 title: "Clause 37B Classification and reclassification of public land as operational land"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "37B"

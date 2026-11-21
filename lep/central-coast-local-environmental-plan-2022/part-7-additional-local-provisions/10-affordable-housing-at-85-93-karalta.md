@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Affordable housing at 85-93 Karalta Road, Erina"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-10-02

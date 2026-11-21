@@ -1,6 +1,6 @@
 ---
 title: "Clause 30 Structures in Zones Nos 2 (a4), 3 (h) and 4 (e)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "30"

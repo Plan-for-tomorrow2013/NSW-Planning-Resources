@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 General Business, Special Business (Heritage), Neighbourhood Business and Business (Tourist Related) Zones—Floorspace Ratios"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Business"
 clause: "21"

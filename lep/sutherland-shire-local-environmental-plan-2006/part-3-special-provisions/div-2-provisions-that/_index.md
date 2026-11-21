@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Provisions that apply to particular kinds of development"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

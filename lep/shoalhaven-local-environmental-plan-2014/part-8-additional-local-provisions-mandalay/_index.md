@@ -1,6 +1,6 @@
 ---
 title: "Part 8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 last_verified: 2026-09-25
 ---

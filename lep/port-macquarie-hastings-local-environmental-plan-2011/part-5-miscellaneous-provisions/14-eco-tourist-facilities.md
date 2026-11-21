@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.13 Eco-tourist facilities"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.13"

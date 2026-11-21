@@ -1,6 +1,6 @@
 ---
 title: "Clause 81 Development control plan"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "8 — Middle Camp site / Division 2 Provisions applying to development in Middle Camp site"
 clause: "81"

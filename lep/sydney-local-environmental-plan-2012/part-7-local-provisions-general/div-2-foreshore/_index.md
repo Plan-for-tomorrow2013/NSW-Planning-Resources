@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Foreshore development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-10-09
 ---

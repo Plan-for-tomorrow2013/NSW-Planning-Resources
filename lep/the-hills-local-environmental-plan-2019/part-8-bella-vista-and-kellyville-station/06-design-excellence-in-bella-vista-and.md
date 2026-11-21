@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.6 Design excellence in Bella Vista and Kellyville Station Precincts"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.6"

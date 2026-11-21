@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1E Subdivision of land in Zone RU1 for non-agricultural land uses"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1E"

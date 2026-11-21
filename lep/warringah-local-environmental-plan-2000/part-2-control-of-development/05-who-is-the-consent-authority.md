@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Who is the consent authority?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "11"

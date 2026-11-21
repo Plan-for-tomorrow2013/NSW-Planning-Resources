@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development of land at 124A and 126 Epping Road, 366-372 Lane Cove Road and 1 Paul Street, North Ryde"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

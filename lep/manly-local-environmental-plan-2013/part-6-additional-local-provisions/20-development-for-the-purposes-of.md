@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.22 Development for the purposes of secondary dwellings in certain residential and conservation zones"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.22"

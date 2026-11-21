@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Calculation of floor space ratio for land at 17 George Street, North Strathfield"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

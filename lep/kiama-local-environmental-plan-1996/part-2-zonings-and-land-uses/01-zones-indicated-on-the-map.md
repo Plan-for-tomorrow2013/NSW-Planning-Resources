@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Zones indicated on the map"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "2 — Zonings and land uses"
 clause: "8"

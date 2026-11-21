@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Restriction on new dwellings at North Wagga Wagga"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.1"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Strata plan subdivision in certain rural, residential and conservation zones"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

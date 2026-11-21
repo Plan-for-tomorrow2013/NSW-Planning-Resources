@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.110 Development at Alice Street South, Wiley Park"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 3 Punchbowl and Wiley Park Precinct / Subdivision 3 Pedestrian links"
 clause: "6.110"

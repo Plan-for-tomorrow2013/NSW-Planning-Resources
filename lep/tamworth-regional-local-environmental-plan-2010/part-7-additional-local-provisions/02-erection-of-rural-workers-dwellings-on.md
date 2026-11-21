@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Erection of rural workers' dwellings on land in Zone RU1 and RU4"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

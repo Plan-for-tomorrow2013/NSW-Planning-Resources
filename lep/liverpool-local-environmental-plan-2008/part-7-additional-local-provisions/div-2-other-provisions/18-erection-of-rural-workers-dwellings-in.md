@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.24A Erection of rural workers' dwellings in Zones RU1 and RU4"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.24A"

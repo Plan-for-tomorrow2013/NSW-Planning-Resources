@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.32 Minimum non-residential floor space for certain land in Greenacre"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.32"

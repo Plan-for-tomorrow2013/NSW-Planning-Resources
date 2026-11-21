@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — A"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 dictionary_range: "A"
 last_verified: 2026-09-25

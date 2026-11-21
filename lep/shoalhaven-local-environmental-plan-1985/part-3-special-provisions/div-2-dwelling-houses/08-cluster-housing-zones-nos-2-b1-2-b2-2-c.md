@@ -1,6 +1,6 @@
 ---
 title: "Clause 16A Cluster housing—Zones Nos 2 (b1), 2 (b2), 2 (c) and 2 (e)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Dwelling-houses"
 clause: "16A"

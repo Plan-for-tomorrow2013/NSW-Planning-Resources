@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Earthworks"
-council: "Bombala"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.1"

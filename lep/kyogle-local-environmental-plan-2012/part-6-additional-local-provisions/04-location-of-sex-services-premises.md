@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Location of sex services premises"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

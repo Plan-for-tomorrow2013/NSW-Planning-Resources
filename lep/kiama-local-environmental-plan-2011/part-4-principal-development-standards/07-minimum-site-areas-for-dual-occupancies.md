@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1E Minimum site areas for dual occupancies and multi dwelling housing in Zone R2"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1E"

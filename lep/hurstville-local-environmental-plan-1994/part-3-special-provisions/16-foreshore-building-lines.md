@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Foreshore building lines"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "19"

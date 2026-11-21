@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.44 195 Church Street, 38 and 45 Hunter Street and 65-79 Macquarie Street, Parramatta"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.44"

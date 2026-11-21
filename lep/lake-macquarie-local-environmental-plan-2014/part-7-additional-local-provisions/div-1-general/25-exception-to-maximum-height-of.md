@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.28 Exception to maximum height of buildings in Charlestown strategic economic centre"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.28"

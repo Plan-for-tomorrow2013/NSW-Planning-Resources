@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2023-12-14

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Boundary adjustments of land in certain zones"
-council: "Tumut"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

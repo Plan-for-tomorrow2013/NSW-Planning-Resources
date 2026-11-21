@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Land suitable for future urban use"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "21"

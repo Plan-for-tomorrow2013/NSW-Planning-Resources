@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "Cabonne"
+council: "Cabonne Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

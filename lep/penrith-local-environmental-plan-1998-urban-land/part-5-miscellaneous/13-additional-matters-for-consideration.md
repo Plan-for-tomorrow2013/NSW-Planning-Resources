@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Additional matters for consideration for development in Zone No 6 (a), 6 (b) or 6 (d)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "26"

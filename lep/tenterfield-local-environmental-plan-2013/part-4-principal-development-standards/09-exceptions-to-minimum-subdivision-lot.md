@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2F Exceptions to minimum subdivision lot size for lot boundary adjustments"
-council: "Tenterfield"
+council: "Tenterfield Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2F"

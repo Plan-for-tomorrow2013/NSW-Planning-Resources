@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Affordable housing in area B"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "8 — Glenfield Precinct"
 clause: "8.4"

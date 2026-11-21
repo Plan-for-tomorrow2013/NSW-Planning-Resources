@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Acquisition of land required for State roads"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Administrative provisions"
 clause: "57"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7 — Exempt trees"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 clause: "Schedule 7 (Dictionary)"
 last_verified: 2026-07-01

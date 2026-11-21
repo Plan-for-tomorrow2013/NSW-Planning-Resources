@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.7 Development at 530-542 Pacific Highway, St Leonards"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "8 — Crows Nest Transport Oriented Development Precinct"
 clause: "8.7"

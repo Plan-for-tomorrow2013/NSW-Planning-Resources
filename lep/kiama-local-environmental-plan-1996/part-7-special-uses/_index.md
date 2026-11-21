@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Special uses"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 last_verified: 2022-03-04
 ---

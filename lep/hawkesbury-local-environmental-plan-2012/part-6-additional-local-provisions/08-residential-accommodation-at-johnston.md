@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Residential accommodation at Johnston and New Streets, Windsor"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

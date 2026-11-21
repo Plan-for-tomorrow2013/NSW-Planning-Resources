@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Development for additional purposes"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 15)"
 last_verified: 2023-11-01

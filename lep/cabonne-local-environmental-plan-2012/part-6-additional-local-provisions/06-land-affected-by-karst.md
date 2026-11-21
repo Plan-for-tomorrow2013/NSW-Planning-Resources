@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Land affected by karst"
-council: "Cabonne"
+council: "Cabonne Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

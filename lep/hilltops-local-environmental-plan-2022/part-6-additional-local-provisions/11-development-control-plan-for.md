@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Development control plan for development in urban release area"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

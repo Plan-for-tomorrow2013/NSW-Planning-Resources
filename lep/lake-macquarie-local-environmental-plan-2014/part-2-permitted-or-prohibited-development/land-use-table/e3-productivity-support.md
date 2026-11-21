@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

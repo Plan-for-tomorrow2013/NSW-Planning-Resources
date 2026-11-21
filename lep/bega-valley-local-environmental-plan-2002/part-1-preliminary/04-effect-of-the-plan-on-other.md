@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Effect of the plan on other environmental planning instruments"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "4"

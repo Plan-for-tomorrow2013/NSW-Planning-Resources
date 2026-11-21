@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Complying development"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
 last_verified: 2026-07-01

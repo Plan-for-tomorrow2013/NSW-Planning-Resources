@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Public utility infrastructure"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

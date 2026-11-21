@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.9 Application of SEPPs"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.9"

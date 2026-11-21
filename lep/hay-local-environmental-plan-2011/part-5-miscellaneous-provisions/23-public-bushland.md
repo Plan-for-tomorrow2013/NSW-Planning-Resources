@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.23 Public bushland"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.23"

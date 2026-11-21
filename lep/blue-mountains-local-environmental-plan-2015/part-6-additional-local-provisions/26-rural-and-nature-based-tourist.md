@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.28 Rural and nature-based tourist facilities"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.28"

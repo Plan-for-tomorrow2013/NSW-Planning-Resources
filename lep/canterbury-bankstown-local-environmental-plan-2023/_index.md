@@ -2,7 +2,7 @@
 title: "Canterbury-Bankstown Local Environmental Plan 2023"
 document_id: epi-2023-0336
 current_from: 2026-09-25
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 ---
 
 # Canterbury-Bankstown Local Environmental Plan 2023

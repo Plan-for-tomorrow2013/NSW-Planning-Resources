@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Development on certain land at Braidwood, Bungendore and Googong"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.25"

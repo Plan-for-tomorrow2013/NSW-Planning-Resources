@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Zone map overlay provisions"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "52"

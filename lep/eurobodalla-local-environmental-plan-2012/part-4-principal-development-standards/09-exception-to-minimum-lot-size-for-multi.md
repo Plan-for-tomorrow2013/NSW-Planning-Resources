@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1G Exception to minimum lot size for multi dwelling housing and dual occupancies on certain land in Zone R2"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1G"

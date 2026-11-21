@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Essential services"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

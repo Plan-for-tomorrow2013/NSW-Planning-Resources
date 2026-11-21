@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Zoning Table"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "11"

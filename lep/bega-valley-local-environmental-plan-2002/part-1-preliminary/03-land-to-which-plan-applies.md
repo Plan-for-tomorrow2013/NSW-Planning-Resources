@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Land to which plan applies"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "3"

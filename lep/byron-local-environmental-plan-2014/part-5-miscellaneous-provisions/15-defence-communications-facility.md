@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.15 Defence communications facility"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.15"

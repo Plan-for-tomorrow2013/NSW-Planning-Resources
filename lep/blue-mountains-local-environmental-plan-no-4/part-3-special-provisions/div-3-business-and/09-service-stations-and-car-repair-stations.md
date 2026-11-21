@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Service stations and car repair stations"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Business and commercial uses"
 clause: "29"

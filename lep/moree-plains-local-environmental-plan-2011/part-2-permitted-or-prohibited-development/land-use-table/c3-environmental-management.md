@@ -1,6 +1,6 @@
 ---
 title: "Zone C3 — Environmental Management"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 zone_code: C3
 zone: "Environmental Management"

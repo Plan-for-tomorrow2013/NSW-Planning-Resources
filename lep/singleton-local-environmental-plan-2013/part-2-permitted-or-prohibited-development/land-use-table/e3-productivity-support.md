@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

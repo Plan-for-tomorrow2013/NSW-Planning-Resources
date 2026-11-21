@@ -1,6 +1,6 @@
 ---
 title: "Clause 20L Conservation incentives"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4A Heritage conservation"
 clause: "20L"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Height of buildings"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Building and development generally"
 clause: "39"

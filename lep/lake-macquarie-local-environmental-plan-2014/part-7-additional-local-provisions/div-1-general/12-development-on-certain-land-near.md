@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Development on certain land near Rafferty's Road, Cams Wharf"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.14"

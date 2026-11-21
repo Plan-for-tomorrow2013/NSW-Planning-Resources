@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.22 Development at 241-245 Pennant Hills Road, Carlingford"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.22"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.70 Affordable housing"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 7 Blackwattle Bay Precinct"
 clause: "6.70"

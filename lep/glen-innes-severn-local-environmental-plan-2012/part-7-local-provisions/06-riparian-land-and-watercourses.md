@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Riparian land and watercourses"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.7"

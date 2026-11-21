@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Site area of proposed development in Rhodes Precinct includes dedicated land"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.10"

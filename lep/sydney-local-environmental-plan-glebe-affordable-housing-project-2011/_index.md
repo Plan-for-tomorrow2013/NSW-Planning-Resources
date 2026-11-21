@@ -2,7 +2,7 @@
 title: "Sydney Local Environmental Plan (Glebe Affordable Housing Project) 2011"
 document_id: epi-2011-0335
 current_from: 2024-02-23
-council: "Sydney"
+council: "City of Sydney"
 ---
 
 # Sydney Local Environmental Plan (Glebe Affordable Housing Project) 2011

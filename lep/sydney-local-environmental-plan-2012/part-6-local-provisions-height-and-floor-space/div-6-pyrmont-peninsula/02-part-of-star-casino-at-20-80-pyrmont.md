@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.63 Part of Star Casino at 20-80 Pyrmont Street, Pyrmont"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 6 Pyrmont Peninsula"
 clause: "6.63"

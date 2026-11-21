@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Use of land in Zone R4 in Area 2"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "7 — Cherrybrook Station Precinct"
 clause: "7.12"

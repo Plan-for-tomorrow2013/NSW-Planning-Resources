@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Assessment of heritage significance"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "6 — Heritage provisions"
 clause: "47"

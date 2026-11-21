@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Glossary"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 8)"
 last_verified: 2026-07-01

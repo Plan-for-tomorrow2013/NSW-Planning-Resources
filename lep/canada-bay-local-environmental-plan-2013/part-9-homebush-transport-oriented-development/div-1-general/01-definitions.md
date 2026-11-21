@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.1 Definitions"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "9 — Homebush Transport Oriented Development Precinct / Division 1 General"
 clause: "9.1"

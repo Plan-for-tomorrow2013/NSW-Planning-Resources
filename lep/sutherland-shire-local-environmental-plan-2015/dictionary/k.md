@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — K"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 dictionary_range: "K"
 last_verified: 2026-09-04

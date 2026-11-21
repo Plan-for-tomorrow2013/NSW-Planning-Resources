@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Terrestrial biodiversity"
-council: "Coonamble"
+council: "Coonamble Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.1"

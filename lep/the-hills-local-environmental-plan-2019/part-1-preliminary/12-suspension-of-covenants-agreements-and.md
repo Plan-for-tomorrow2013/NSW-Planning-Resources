@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.9A Suspension of covenants, agreements and instruments"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.9A"

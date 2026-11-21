@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.8A Use of land for temporary periods"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.8A"

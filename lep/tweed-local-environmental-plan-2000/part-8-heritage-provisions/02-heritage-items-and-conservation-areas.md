@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Heritage items and conservation areas"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "8 — Heritage provisions"
 clause: "41"

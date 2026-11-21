@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Relationship to other environmental planning instruments"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "4"

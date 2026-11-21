@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Design excellence"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.4"

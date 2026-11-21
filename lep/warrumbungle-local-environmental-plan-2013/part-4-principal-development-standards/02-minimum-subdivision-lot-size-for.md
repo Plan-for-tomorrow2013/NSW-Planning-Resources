@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AA Minimum subdivision lot size for community title scheme"
-council: "Warrumbungle"
+council: "Warrumbungle Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AA"

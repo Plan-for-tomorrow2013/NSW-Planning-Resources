@@ -1,6 +1,6 @@
 ---
 title: "Clause 3.2 Complying development"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.2"

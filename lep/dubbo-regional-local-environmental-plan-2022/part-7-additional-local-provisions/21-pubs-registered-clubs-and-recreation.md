@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Pubs, registered clubs and recreation facilities (indoor) in certain land in Zone E1"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.21"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Conservation incentives"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Heritage provisions"
 clause: "34"

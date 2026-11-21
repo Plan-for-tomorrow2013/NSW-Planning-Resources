@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Residential \"A\" and \"B\" Zones—Development Adjacent to Railway Land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "19"

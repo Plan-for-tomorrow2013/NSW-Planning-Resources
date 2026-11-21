@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development on river bed and banks of the Murray River"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

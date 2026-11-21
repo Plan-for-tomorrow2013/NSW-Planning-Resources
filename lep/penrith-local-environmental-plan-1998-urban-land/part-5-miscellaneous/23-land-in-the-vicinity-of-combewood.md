@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Land in the vicinity of Combewood"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "37"

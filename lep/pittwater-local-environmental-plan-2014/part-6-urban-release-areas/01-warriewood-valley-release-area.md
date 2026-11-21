@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Warriewood Valley Release Area"
-council: "Pittwater"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.1"

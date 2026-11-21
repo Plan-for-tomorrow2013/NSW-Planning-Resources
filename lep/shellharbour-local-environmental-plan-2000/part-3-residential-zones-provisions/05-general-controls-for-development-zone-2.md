@@ -1,6 +1,6 @@
 ---
 title: "Clause 24 General controls for development—Zone 2 (f) (the Mixed Use Residential F zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Residential Zones Provisions"
 clause: "24"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 3 — Land classified, or reclassified, as community land"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 5.2)"
 last_verified: 2026-10-02

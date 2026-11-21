@@ -1,6 +1,6 @@
 ---
 title: "Division 5 Site specific provisions"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-10-09
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Wetlands"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

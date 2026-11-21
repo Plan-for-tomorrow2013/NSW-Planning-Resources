@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-10-09

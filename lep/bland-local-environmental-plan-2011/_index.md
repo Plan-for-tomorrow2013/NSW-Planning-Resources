@@ -2,7 +2,7 @@
 title: "Bland Local Environmental Plan 2011"
 document_id: epi-2011-0639
 current_from: 2026-07-01
-council: "Bland"
+council: "Bland Shire Council"
 ---
 
 # Bland Local Environmental Plan 2011

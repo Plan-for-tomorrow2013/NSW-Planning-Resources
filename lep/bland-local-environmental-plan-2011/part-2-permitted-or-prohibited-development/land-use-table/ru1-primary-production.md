@@ -1,6 +1,6 @@
 ---
 title: "Zone RU1 — Primary Production"
-council: "Bland"
+council: "Bland Shire Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"

@@ -1,6 +1,6 @@
 ---
 title: "Zone RE2 — Private Recreation"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 zone_code: RE2
 zone: "Private Recreation"

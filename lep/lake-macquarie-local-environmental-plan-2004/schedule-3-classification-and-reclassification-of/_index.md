@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Classification and reclassification of public land as operational land"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

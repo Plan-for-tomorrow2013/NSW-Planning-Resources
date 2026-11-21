@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Conservation incentive relating to heritage items"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "20"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Conditions of complying development certificates"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 9)"
 last_verified: 2026-07-01

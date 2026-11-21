@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Aims, objectives etc"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "Clauses"
 clause: "2"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Height of buildings"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "3 — General provisions"
 clause: "16"

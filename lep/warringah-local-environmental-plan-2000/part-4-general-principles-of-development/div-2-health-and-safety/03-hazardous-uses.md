@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 Hazardous uses"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 2 Health and safety"
 clause: "45"

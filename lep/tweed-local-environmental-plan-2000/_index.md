@@ -2,7 +2,7 @@
 title: "Tweed Local Environmental Plan 2000"
 document_id: epi-2000-0153
 current_from: 2026-07-01
-council: "Tweed"
+council: "Tweed Shire Council"
 ---
 
 # Tweed Local Environmental Plan 2000

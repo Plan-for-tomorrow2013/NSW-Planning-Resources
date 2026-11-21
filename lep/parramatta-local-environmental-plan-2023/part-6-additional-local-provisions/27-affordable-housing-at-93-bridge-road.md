@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.28 Affordable housing at 93 Bridge Road, Westmead"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.28"

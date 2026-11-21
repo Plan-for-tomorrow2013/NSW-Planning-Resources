@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.11 Bush fire hazard reduction"
-council: "Tumbarumba"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.11"

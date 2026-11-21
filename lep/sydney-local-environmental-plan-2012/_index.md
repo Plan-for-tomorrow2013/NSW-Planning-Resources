@@ -2,7 +2,7 @@
 title: "Sydney Local Environmental Plan 2012"
 document_id: epi-2012-0628
 current_from: 2026-10-09
-council: "Sydney"
+council: "City of Sydney"
 ---
 
 # Sydney Local Environmental Plan 2012

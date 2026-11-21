@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.5 Height and floor space incentives for reduced car parking"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "8 — Additional local provisions—Carter Street Precinct"
 clause: "8.5"

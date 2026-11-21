@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Belmore and Lakemba Precinct"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 last_verified: 2026-09-25
 ---

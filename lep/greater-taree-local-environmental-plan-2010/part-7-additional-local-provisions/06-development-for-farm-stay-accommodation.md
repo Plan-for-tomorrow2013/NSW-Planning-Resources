@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Development for farm stay accommodation"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

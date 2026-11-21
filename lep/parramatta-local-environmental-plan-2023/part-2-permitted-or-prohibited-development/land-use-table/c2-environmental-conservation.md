@@ -1,6 +1,6 @@
 ---
 title: "Zone C2 — Environmental Conservation"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 zone_code: C2
 zone: "Environmental Conservation"

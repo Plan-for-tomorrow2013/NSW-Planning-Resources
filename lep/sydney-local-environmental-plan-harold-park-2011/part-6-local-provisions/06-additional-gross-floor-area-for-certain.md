@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Additional gross floor area for certain residential accommodation"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.7"

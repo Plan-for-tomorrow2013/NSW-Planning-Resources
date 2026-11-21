@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.6 Development of certain land on Cameron Street, Broadmeadow and Kings Road, New Lambton—locomotive depot"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "9 — Additional local provisions—Broadmeadow Precinct / Division 2 Development on key sites"
 clause: "9.6"

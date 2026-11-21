@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Shops on certain land in Zone E1"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

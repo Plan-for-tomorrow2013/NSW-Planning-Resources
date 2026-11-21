@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Community infrastructure floor space at Green Square"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 2 Additional floor space outside Central Sydney"
 clause: "6.14"

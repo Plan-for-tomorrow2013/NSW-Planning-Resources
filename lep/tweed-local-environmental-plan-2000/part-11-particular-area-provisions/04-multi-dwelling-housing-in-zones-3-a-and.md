@@ -1,6 +1,6 @@
 ---
 title: "Clause 51B Multi-dwelling housing in Zones 3 (a) and 3 (b)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "51B"

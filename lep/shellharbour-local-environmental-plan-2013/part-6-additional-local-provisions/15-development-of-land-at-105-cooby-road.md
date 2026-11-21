@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development of land at 105 Cooby Road, Tullimbar"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

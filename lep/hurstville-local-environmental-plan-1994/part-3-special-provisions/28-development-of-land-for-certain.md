@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Development of land for certain additional purposes"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26"

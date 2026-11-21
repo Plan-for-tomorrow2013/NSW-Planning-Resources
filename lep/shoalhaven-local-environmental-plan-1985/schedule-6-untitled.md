@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — "
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 9)"
 last_verified: 2026-07-01

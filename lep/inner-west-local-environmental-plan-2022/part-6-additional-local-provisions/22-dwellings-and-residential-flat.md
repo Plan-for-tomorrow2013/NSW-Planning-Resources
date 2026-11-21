@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.22 Dwellings and residential flat buildings in Zone E3"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.22"

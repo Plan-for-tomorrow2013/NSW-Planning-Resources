@@ -1,6 +1,6 @@
 ---
 title: "Schedule 11, Part 1 — Land classified, or reclassified, under original section 30 of Local Government Act 1993"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 11"
 last_verified: 2025-02-14

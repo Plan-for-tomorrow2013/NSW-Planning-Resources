@@ -1,6 +1,6 @@
 ---
 title: "Zone R3 — Medium Density Residential"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 zone_code: R3
 zone: "Medium Density Residential"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dual occupancies, dwelling houses and secondary dwellings on land in certain rural and conservation zones"
-council: "Broken Hill"
+council: "Broken Hill City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

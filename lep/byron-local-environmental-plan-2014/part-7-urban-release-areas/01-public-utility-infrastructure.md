@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Public utility infrastructure"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "7 — Urban release areas"
 clause: "7.2"

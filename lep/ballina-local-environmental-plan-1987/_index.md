@@ -2,7 +2,7 @@
 title: "Ballina Local Environmental Plan 1987"
 document_id: epi-1987-0095
 current_from: 2026-07-31
-council: "Ballina"
+council: "Ballina Shire Council"
 ---
 
 # Ballina Local Environmental Plan 1987

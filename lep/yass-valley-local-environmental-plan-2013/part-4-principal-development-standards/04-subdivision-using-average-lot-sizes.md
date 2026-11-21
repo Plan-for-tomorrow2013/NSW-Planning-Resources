@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Subdivision using average lot sizes"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

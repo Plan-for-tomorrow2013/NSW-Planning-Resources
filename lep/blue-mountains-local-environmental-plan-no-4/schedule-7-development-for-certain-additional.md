@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7 — Development for certain additional purposes"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 7 (Clause 60)"
 last_verified: 2023-11-10

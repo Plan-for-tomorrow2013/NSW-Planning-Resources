@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 Assessment of development in Zone No 6 (a)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "23"

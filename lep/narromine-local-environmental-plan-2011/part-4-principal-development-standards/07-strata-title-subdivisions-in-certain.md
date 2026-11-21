@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Strata title subdivisions in certain rural and conservation zones"
-council: "Narromine"
+council: "Narromine Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

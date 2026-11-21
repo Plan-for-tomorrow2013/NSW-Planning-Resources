@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-09-25

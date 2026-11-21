@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — C"
-council: "Tumut"
+council: "Snowy Valleys Council"
 document_type: LEP
 dictionary_range: "C"
 last_verified: 2026-07-01

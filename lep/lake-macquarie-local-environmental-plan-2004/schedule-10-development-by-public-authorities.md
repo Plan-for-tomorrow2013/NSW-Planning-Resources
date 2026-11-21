@@ -1,6 +1,6 @@
 ---
 title: "Schedule 10 — Development by public authorities"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 10 (Clause 10)"
 last_verified: 2023-11-10

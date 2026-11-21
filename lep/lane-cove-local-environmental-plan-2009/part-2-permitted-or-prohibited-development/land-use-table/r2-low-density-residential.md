@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

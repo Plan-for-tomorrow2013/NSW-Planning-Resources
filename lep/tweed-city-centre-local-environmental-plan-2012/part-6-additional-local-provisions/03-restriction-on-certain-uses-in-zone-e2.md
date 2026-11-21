@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Restriction on certain uses in Zone E2"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

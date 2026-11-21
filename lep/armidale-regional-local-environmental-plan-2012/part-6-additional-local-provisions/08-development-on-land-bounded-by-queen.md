@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development on land bounded by Queen Elizabeth Drive, Golgotha Street, Niagara Street and Tancredi Street, Armidale"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Development adjoining waterbodies"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Hazards and buffers"
 clause: "31"

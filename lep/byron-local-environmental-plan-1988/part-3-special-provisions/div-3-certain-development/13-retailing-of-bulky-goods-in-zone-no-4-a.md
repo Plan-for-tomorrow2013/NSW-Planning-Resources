@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Retailing of bulky goods in Zone No 4 (a)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "35"

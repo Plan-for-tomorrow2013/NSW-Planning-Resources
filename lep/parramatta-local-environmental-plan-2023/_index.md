@@ -2,7 +2,7 @@
 title: "Parramatta Local Environmental Plan 2023"
 document_id: epi-2023-0117
 current_from: 2026-09-04
-council: "Parramatta"
+council: "City of Parramatta Council"
 ---
 
 # Parramatta Local Environmental Plan 2023

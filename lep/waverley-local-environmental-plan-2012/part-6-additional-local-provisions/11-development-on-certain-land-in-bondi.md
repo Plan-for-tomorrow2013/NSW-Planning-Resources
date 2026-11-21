@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development on certain land in Bondi Junction"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

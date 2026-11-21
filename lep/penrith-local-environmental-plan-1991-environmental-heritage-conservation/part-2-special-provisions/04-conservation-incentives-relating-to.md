@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Conservation incentives relating to heritage items"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "2 — Special provisions"
 clause: "12"

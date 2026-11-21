@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Aims and objectives"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "4"

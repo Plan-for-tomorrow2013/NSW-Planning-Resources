@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.26A Residential development at former New Brighton Golf Course"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.26A"

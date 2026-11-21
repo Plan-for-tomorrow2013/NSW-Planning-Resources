@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Urban release areas"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.22 Special flood considerations"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.22"

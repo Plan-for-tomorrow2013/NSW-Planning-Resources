@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Development on land in Catherine Hill Bay Village Precinct and Middle Camp Village Precinct"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.25"

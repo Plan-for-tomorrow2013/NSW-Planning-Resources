@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Development in or adjacent to waterways"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Provisions that apply to particular land"
 clause: "18"

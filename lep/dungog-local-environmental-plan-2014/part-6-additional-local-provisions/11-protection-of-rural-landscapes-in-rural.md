@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Protection of rural landscapes in rural and conservation zones"
-council: "Dungog"
+council: "Dungog Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

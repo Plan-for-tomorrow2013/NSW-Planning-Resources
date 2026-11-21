@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8A Savings provisions relating to pending development approvals"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8A"

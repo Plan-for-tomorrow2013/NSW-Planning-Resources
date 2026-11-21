@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Items of the environmental heritage"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Environmental heritage"
 clause: "18"

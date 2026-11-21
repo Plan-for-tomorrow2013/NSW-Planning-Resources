@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Residential development and subdivision prohibited on lots resulting from road closures"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

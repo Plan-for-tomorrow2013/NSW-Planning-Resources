@@ -1,6 +1,6 @@
 ---
 title: "Clause 54 Development along arterial roads"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "54"

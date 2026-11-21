@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 General controls for development in the 1 (rl) Rural Landscape Zone"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — General land use controls / Division 1 Development in the 1 (a) Agriculture and 1 (rl) Rural Landscape Zones"
 clause: "17"

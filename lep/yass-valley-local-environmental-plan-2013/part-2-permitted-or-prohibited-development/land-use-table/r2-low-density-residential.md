@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

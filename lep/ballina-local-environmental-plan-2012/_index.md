@@ -2,7 +2,7 @@
 title: "Ballina Local Environmental Plan 2012"
 document_id: epi-2013-0020
 current_from: 2026-07-01
-council: "Ballina"
+council: "Ballina Shire Council"
 ---
 
 # Ballina Local Environmental Plan 2012

@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Dual occupancies (attached)"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "14"

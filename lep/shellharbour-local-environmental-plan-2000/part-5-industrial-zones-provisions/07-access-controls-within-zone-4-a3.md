@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Access controls within Zone 4 (a3)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "5 — Industrial Zones Provisions"
 clause: "36"

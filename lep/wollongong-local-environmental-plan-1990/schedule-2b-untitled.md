@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2B — "
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 2B (Clause 12A)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Zone SP3 — Tourist"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 zone_code: SP3
 zone: "Tourist"

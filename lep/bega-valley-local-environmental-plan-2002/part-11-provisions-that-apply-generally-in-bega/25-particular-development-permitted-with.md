@@ -1,6 +1,6 @@
 ---
 title: "Clause 88 Particular development permitted with consent"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "11 — Provisions that apply generally in Bega Valley area"
 clause: "88"

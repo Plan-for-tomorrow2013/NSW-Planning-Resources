@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Exceptions to development standards"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "39"

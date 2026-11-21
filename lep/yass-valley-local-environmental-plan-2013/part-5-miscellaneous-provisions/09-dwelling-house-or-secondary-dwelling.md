@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.9 Dwelling house or secondary dwelling affected by natural disaster"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.9"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 29A Development affecting places or sites of known or potential Aboriginal heritage significance"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "29A"

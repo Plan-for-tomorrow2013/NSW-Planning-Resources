@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions to minimum subdivision lot sizes for certain split zones"
-council: "Narromine"
+council: "Narromine Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

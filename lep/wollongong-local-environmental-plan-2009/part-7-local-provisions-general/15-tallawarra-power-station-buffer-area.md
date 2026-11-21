@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Tallawarra Power Station buffer area"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.16"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Classification and reclassification of public land as operational land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

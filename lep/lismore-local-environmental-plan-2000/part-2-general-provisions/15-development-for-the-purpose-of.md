@@ -1,6 +1,6 @@
 ---
 title: "Clause 24 Development for the purpose of advertisements"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "24"

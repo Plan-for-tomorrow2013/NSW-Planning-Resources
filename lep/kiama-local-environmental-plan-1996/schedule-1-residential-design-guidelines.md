@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Residential Design Guidelines"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 clause: "Schedule 1 (Clauses 18 & 22)"
 last_verified: 2022-03-04

@@ -1,6 +1,6 @@
 ---
 title: "Clause 48 Development in Zone No 5 (a)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "48"

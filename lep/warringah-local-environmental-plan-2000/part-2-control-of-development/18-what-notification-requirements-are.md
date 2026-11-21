@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 What notification requirements are there for remediation work?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "25"

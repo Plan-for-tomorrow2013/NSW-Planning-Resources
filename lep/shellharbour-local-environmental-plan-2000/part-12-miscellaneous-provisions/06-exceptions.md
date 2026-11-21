@@ -1,6 +1,6 @@
 ---
 title: "Clause 82 Exceptions"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "82"

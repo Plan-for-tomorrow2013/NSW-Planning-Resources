@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Buffer area between Zone E4 and residential zones"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

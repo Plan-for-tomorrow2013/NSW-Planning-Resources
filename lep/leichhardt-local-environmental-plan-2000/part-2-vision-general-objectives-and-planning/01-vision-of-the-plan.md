@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Vision of the Plan"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "2 — Vision, general objectives and planning principles"
 clause: "12"

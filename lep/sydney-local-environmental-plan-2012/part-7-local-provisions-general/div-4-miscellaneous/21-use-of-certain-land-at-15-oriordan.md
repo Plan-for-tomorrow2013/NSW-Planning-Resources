@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.31 Use of certain land at 15 O'Riordan Street, Alexandria"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.31"

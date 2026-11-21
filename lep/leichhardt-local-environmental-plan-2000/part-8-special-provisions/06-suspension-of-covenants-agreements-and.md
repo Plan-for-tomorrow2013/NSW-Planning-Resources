@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Suspension of covenants, agreements and instruments"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "35"

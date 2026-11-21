@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Public utility infrastructure"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.3"

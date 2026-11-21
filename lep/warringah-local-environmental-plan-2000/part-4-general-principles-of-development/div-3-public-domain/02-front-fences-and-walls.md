@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 Front fences and walls"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 3 Public domain"
 clause: "51"

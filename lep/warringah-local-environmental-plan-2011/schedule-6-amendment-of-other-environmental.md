@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Amendment of other environmental planning instruments"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 6"
 last_verified: 2026-07-10

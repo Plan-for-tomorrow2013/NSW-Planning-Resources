@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Development of certain land at Badgery's Creek"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "35"

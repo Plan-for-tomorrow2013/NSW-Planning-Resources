@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Minimum lot sizes for commercial and mixed use development in Chatswood CBD"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

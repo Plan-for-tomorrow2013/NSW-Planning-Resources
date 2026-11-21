@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.6 Subdivision—consent requirements"
-council: "Maitland"
+council: "Maitland City Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.6"

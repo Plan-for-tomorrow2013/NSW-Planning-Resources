@@ -2,7 +2,7 @@
 title: "Cootamundra Local Environmental Plan 2013"
 document_id: epi-2013-0399
 current_from: 2026-07-01
-council: "Cootamundra"
+council: "Cootamundra-Gundagai Council"
 ---
 
 # Cootamundra Local Environmental Plan 2013

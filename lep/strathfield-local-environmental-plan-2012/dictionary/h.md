@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-09-11

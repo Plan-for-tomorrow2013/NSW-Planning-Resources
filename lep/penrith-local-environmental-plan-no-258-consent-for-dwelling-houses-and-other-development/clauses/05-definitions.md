@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Definitions"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "Clauses"
 clause: "5"

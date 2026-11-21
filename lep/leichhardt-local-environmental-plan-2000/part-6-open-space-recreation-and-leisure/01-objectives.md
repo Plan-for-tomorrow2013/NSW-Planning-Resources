@@ -1,6 +1,6 @@
 ---
 title: "Clause 24 Objectives"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Open space, recreation and leisure"
 clause: "24"

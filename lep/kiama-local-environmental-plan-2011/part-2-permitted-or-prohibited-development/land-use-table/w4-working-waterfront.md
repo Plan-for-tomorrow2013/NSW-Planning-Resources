@@ -1,6 +1,6 @@
 ---
 title: "Zone W4 — Working Waterfront"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 zone_code: W4
 zone: "Working Waterfront"

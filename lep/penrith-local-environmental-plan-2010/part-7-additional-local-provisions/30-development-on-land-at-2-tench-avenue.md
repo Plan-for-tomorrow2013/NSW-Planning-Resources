@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.29 Development on land at 2 Tench Avenue, Jamisontown"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.29"

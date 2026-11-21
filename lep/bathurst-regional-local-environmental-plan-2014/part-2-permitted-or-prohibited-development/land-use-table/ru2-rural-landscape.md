@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

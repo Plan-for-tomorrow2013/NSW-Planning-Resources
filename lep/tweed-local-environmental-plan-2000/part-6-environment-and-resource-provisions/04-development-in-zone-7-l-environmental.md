@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Development in Zone 7 (l) Environmental Protection (Habitat) and on adjacent land"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Environment and resource provisions"
 clause: "28"

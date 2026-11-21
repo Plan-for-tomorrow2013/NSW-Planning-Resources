@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Development of land near adjoining zones"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "19"

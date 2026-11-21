@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Extractive industries, transport terminals"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "61"

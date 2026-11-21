@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

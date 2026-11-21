@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Vision, general objectives and planning principles"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

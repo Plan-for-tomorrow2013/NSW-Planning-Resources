@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Development requiring the preparation of a development control plan"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Essential services"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

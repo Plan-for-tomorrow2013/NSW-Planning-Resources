@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.2 Aims of Plan"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.2"

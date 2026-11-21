@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Development for additional purposes"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "15"

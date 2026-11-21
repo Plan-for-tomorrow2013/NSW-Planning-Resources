@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.19 Pond-based, tank-based and oyster aquaculture"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.19"

@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

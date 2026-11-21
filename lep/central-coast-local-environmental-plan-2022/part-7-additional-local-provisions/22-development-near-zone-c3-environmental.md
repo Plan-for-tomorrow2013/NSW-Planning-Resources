@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.22 Development near Zone C3 Environmental Management boundaries"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.22"

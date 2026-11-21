@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development along the Lachlan and Boorowa Rivers and Lake Wyangala"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

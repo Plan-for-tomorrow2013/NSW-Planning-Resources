@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

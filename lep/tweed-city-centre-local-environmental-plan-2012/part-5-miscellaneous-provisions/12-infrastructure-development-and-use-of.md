@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.12 Infrastructure development and use of existing buildings of the Crown"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.12"

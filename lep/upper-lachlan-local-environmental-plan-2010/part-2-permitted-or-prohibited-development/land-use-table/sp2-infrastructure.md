@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "Upper Lachlan"
+council: "Upper Lachlan Shire Council"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

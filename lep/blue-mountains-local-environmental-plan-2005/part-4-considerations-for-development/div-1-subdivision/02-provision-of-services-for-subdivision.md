@@ -1,6 +1,6 @@
 ---
 title: "Clause 91 Provision of services for subdivision"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 1 Subdivision"
 clause: "91"

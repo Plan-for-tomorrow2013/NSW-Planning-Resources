@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.4 Unzoned land"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.4"

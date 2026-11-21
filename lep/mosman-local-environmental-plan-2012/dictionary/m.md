@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Mosman"
+council: "Mosman Municipal Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-08-14

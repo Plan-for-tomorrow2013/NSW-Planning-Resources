@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Character statements and objectives for Special Areas"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 6 (Clause 79 (c))"
 last_verified: 2023-12-14

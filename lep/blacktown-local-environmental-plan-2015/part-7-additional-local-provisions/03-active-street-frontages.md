@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Active street frontages"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

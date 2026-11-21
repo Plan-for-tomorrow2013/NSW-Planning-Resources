@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Land to which this plan applies"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "3"

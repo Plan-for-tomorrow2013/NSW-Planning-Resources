@@ -1,6 +1,6 @@
 ---
 title: "Clause 11.2 Design guide"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.2"

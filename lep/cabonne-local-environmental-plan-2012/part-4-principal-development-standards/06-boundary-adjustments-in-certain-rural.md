@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Boundary adjustments in certain rural zones"
-council: "Cabonne"
+council: "Cabonne Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

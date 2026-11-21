@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development on the foreshore must ensure access"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

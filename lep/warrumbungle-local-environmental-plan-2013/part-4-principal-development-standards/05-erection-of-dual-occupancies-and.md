@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dual occupancies and dwelling houses on land in Zone RU1"
-council: "Warrumbungle"
+council: "Warrumbungle Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

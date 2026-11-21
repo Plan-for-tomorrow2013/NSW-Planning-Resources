@@ -1,6 +1,6 @@
 ---
 title: "Zone R3 — Medium Density Residential"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 zone_code: R3
 zone: "Medium Density Residential"

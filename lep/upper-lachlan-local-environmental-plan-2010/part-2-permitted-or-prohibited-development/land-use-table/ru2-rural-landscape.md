@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Upper Lachlan"
+council: "Upper Lachlan Shire Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

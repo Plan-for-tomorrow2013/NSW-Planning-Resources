@@ -1,6 +1,6 @@
 ---
 title: "Clause 15B Controls relating to farm stay accommodation"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "3A — Controls relating to miscellaneous permissible uses"
 clause: "15B"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Temporary use of land in Zone SP4 for the purpose of an entertainment facility"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.1"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6C — Contribution requirement for certain development on Planning Proposal Land"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 6C clause 7.13B"
 last_verified: 2026-10-09

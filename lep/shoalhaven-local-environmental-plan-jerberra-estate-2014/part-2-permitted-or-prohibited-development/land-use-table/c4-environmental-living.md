@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

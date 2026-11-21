@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Development in the vicinity of identified mineral resource areas"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

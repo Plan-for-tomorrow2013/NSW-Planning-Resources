@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.11 Bush fire hazard reduction"
-council: "Bourke"
+council: "Bourke Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.11"

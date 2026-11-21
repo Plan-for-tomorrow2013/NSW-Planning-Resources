@@ -1,6 +1,6 @@
 ---
 title: "Part 8 — National Parks and Nature Reserves zone provisions"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

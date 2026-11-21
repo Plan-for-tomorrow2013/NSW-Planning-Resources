@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.2 Considerations for development consent"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "8 — Local provisions—Central Precinct"
 clause: "8.2"

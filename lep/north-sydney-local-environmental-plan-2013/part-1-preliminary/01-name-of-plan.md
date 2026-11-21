@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.1 Name of Plan"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.1"

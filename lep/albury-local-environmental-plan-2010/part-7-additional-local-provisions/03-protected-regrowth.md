@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Protected regrowth"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

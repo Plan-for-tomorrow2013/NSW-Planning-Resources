@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Suspension of certain laws etc"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "26"

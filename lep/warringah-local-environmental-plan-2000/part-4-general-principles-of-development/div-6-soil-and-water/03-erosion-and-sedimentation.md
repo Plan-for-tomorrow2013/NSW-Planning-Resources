@@ -1,6 +1,6 @@
 ---
 title: "Clause 78 Erosion and sedimentation"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 6 Soil and water management"
 clause: "78"

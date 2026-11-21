@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — F"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 dictionary_range: "F"
 last_verified: 2026-07-01

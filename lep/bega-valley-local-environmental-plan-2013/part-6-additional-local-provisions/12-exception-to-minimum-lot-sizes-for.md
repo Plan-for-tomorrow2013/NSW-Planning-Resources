@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Exception to minimum lot sizes for certain land in Zone RU5"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

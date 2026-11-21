@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.43 Development of land at 2 Macarthur Drive, Holsworthy"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.43"

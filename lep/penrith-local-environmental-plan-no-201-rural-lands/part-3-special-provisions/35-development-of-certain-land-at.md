@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Development of certain land at Berkshire Park"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "39"

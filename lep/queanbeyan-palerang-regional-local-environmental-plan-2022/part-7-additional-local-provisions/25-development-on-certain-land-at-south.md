@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.26 Development on certain land at South Jerrabomberra"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.26"

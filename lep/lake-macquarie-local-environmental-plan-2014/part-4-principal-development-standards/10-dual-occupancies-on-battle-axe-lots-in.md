@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Dual occupancies on battle-axe lots in Zones R2 and R3"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

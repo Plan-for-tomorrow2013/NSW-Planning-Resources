@@ -1,6 +1,6 @@
 ---
 title: "Clause 47B Temporary use of land"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "47B"

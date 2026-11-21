@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Active frontages"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

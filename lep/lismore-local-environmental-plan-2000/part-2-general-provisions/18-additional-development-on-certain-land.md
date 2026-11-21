@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Additional development on certain land"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "28"

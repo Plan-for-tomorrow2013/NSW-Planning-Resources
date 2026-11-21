@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AB Minimum subdivision lot size for Bridge Street Residential Precinct"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AB"

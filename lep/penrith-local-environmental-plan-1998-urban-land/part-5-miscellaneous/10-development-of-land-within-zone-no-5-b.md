@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 Development of land within Zone No 5 (b) or 6 (b)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "23"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Dual occupancy subdivisions"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

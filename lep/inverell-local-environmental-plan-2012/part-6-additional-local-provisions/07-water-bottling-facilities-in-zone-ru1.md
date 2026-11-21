@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Water bottling facilities in Zone RU1 Primary Production"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

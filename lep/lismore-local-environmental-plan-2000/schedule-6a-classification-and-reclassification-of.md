@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6A — Classification and reclassification of public land as community land"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 6A (Clause 74A)"
 last_verified: 2026-07-01

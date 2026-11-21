@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.23 Minimum building street frontages for development in Zones R3 and E1"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.23"

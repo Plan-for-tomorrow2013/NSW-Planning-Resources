@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1G Minimum lot sizes for certain residential accommodation—West Byron Bay site"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1G"

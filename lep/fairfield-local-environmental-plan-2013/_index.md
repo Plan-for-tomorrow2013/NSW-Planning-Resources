@@ -2,7 +2,7 @@
 title: "Fairfield Local Environmental Plan 2013"
 document_id: epi-2013-0213
 current_from: 2026-07-01
-council: "Fairfield"
+council: "Fairfield City Council"
 ---
 
 # Fairfield Local Environmental Plan 2013

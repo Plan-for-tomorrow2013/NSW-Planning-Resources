@@ -1,6 +1,6 @@
 ---
 title: "Clause 60 Development on land adjoining Zones 5, 7 (1), 7 (4) and 8"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Administrative provisions"
 clause: "60"

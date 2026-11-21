@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 49 Zone No 2 (f) (Residential (Flood Liable) Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 2 Residential zones"
 clause: "49"

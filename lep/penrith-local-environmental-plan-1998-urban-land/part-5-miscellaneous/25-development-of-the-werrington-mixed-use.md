@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 Development of the Werrington Mixed-Use Area"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "38"

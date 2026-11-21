@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3 Height of buildings"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3"

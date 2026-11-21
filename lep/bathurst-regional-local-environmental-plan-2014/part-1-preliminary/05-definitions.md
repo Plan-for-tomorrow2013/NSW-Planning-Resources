@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.4 Definitions"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.4"

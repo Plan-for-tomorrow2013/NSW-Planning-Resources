@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 Development within Zone No 1 (a) shown hatched on the map"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "38"

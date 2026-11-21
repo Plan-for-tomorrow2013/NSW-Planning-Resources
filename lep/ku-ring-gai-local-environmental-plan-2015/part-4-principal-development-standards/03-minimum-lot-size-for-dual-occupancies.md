@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot size for dual occupancies in Zone R2"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

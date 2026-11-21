@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Erection of rural workers' dwellings on land in Zone RU1"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

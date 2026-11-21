@@ -1,6 +1,6 @@
 ---
 title: "Zone R1 — General Residential"
-council: "Warrumbungle"
+council: "Warrumbungle Shire Council"
 document_type: LEP
 zone_code: R1
 zone: "General Residential"

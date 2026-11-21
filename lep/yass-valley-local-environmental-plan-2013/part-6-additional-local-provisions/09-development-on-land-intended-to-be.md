@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development on land intended to be acquired for Barton Highway duplication"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

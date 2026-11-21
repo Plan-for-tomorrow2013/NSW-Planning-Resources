@@ -1,6 +1,6 @@
 ---
 title: "Dictionary"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 73 Infrastructure development and use of existing buildings of the Crown"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Illawarra Regional Business Park site / Division 2 Provisions applying to development within Illawarra Regional Business Park site"
 clause: "73"

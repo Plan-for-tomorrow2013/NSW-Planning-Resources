@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 General controls for development—Zone 7 (h) (the Environmental Protection (Living Area 2) zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "53"

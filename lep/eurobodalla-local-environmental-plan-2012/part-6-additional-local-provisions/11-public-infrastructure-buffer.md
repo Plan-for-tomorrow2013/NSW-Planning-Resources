@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Public infrastructure buffer"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

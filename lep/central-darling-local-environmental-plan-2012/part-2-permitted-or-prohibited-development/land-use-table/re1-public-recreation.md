@@ -1,6 +1,6 @@
 ---
 title: "Zone RE1 — Public Recreation"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 zone_code: RE1
 zone: "Public Recreation"

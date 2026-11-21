@@ -1,6 +1,6 @@
 ---
 title: "Clause 53F Cobaki Lakes—subdivision in Zone 2 (c)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53F"

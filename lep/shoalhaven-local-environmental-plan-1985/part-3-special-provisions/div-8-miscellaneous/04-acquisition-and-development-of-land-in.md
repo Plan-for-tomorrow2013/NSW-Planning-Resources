@@ -1,6 +1,6 @@
 ---
 title: "Clause 50 Acquisition and development of land in Zone No 5 (d)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "50"

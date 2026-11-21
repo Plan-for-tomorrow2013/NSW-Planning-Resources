@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Public bushland"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "31"

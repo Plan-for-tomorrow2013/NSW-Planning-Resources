@@ -1,6 +1,6 @@
 ---
 title: "Zone C3 — Environmental Management"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 zone_code: C3
 zone: "Environmental Management"

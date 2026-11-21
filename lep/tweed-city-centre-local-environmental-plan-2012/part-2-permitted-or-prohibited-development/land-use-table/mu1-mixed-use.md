@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

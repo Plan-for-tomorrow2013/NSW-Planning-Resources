@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Vision"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "2 — Lifestyle 2020 Strategy—vision, values and aims"
 clause: "12"

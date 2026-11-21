@@ -2,7 +2,7 @@
 title: "Wakool Local Environmental Plan 2013"
 document_id: epi-2013-0655
 current_from: 2026-07-01
-council: "Wakool"
+council: "Murray River Council"
 ---
 
 # Wakool Local Environmental Plan 2013

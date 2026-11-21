@@ -2,7 +2,7 @@
 title: "Walgett Local Environmental Plan 2013"
 document_id: epi-2013-0373
 current_from: 2026-07-01
-council: "Walgett"
+council: "Walgett Shire Council"
 ---
 
 # Walgett Local Environmental Plan 2013

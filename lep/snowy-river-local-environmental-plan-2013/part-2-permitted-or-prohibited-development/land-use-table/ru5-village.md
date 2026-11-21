@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses on land in certain rural and conservation zones"
-council: "Coonamble"
+council: "Coonamble Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

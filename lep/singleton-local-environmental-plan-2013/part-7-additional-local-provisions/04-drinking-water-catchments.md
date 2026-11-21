@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Drinking water catchments"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Subdivision of dual occupancies"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

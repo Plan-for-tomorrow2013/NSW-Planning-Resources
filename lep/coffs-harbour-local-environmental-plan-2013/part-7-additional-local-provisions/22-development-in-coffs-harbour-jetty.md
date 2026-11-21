@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.23 Development in Coffs Harbour Jetty Foreshore Precinct"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.23"

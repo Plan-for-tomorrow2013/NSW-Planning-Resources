@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — P"
-council: "Gwydir"
+council: "Gwydir Shire Council"
 document_type: LEP
 dictionary_range: "P"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 39B Connection to reticulated sewerage system—certain land within Zone No 4 (a) fronting Princes Highway, Yallah"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "39B"

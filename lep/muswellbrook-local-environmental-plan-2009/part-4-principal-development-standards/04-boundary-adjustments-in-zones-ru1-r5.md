@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Boundary adjustments in Zones RU1, R5 and C3"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

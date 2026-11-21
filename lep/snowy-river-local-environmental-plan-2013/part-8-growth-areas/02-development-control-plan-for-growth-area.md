@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.2 Development control plan for growth area"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "8 — Growth areas"
 clause: "8.2"

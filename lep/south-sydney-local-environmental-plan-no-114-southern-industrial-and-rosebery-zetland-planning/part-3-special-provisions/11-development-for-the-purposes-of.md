@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Development for the purposes of restricted premises"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "20"

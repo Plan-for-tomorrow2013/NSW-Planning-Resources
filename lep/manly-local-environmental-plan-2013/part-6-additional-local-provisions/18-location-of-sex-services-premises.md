@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.20 Location of sex services premises"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.20"

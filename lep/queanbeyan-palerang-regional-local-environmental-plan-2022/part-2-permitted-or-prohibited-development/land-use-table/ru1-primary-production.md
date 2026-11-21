@@ -1,6 +1,6 @@
 ---
 title: "Zone RU1 — Primary Production"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"

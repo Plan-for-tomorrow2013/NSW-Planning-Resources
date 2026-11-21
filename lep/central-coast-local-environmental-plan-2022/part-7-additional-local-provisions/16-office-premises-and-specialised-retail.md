@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Office premises and specialised retail premises at North Wyong Industrial Estate"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16"

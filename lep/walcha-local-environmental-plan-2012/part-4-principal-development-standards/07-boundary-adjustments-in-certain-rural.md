@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Boundary adjustments in certain rural zones"
-council: "Walcha"
+council: "Walcha Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

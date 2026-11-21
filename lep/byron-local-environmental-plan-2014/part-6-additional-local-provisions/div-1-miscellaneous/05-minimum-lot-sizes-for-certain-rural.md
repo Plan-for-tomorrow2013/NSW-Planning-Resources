@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Minimum lot sizes for certain rural tourist and visitor accommodation"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.7"

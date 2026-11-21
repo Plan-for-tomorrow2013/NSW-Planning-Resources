@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Affordable housing"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

@@ -2,7 +2,7 @@
 title: "Oberon Local Environmental Plan 2013"
 document_id: epi-2013-0713
 current_from: 2026-07-01
-council: "Oberon"
+council: "Oberon Council"
 ---
 
 # Oberon Local Environmental Plan 2013

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Location of sex services premises"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

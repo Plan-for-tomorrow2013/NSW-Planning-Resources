@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Commercial development in Zone No 2 (c1), 2 (c2) or 2 (d)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Business and commercial uses"
 clause: "22"

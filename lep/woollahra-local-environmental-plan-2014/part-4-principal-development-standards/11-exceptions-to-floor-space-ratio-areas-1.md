@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Exceptions to floor space ratio (Areas 1 and 1A—Double Bay)"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

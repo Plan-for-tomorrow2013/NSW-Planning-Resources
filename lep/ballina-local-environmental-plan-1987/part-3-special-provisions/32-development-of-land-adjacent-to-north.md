@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Development of land adjacent to North Creek Road, Ballina"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "34"

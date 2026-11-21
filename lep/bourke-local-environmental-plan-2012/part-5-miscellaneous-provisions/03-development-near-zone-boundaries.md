@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.3 Development near zone boundaries"
-council: "Bourke"
+council: "Bourke Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.3"

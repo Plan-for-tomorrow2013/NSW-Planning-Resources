@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Jerilderie"
+council: "Murrumbidgee Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-07-01

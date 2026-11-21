@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Development of certain land for medical centres"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "33"

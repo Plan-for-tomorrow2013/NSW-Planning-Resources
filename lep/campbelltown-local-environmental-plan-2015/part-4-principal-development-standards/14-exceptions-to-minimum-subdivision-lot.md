@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Exceptions to minimum subdivision lot sizes for certain land in Zones RU2 and C3"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Development on land at 53A-59A Gloucester Road, Hurstville"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

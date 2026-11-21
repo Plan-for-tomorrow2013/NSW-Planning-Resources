@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Application of Division"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 4 Car parking"
 clause: "7.16"

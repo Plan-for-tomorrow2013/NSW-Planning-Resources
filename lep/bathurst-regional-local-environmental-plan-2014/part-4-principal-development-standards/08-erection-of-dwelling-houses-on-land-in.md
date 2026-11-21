@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses on land in certain rural zones"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

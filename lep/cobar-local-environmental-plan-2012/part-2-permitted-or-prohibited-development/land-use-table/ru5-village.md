@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Cobar"
+council: "Cobar Shire Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

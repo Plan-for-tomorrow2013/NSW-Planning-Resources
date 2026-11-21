@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.19 Development on land in \"Area 12\""
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "7 — Macquarie Park Transport Oriented Development Precinct / Division 2 Development on key sites"
 clause: "7.19"

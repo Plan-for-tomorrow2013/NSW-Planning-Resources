@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.2 Zoning of land to which Plan applies"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.2"

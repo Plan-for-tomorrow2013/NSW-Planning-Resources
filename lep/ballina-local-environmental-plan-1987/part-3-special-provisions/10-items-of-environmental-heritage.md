@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Items of environmental heritage"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "18"

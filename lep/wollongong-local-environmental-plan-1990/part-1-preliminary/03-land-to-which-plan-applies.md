@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Land to which plan applies"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "2"

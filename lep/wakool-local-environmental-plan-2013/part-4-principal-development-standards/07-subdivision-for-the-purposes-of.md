@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Subdivision for the purposes of intensive plant agriculture"
-council: "Wakool"
+council: "Murray River Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

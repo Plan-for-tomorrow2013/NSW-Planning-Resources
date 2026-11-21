@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 Development of land within Zone No 3 (e)"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "38"

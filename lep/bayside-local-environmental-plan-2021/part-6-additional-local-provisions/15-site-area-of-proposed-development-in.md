@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Site area of proposed development in Arncliffe and Banksia Precincts includes dedicated land"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.15"

@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Macquarie Park Transport Oriented Development Precinct"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 last_verified: 2026-09-18
 ---

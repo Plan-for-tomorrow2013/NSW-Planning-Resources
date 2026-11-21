@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions to minimum lot sizes for certain residential development"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

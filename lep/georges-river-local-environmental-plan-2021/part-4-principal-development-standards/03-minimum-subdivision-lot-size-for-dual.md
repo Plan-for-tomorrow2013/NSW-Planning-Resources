@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum subdivision lot size for dual occupancies"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

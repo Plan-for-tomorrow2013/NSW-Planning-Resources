@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Development control plans"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "8 — Frenchs Forest Precinct"
 clause: "8.4"

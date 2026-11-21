@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2022-11-21
 ---

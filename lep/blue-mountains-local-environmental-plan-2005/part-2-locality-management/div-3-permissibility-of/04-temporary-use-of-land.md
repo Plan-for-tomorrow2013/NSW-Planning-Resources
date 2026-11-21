@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Temporary use of land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 3 Permissibility of land use"
 clause: "35"

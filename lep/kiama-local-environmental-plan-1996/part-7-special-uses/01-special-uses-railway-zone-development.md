@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Special Uses (Railway) Zone—Development"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "7 — Special uses"
 clause: "26"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Acquisition of certain lands"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "43"

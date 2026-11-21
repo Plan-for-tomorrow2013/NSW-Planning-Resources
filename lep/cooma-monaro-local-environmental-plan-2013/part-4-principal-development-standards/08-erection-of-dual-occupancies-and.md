@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dual occupancies and dwelling houses on land in certain rural, residential and conservation zones"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.24 Farm stay accommodation"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.24"

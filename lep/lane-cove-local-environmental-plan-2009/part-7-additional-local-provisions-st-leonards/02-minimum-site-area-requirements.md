@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Minimum site area requirements"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "7 — Additional local provisions—St Leonards South Area"
 clause: "7.2"

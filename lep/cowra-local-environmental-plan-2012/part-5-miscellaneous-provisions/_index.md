@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous provisions"
-council: "Cowra"
+council: "Cowra Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

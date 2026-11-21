@@ -1,6 +1,6 @@
 ---
 title: "Clause 39BC Development of certain land at Lake Conjola"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "39BC"

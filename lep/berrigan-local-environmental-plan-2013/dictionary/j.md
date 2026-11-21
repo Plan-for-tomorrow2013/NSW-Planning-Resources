@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-08-28

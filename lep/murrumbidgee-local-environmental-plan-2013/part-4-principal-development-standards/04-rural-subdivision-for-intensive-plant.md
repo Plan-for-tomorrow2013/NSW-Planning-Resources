@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Rural subdivision for intensive plant agriculture"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

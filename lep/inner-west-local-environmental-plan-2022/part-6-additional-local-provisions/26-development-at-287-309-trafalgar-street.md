@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.26 Development at 287-309 Trafalgar Street, Petersham"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.26"

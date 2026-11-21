@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Signage at outdoor sporting venues in Zone RE1"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

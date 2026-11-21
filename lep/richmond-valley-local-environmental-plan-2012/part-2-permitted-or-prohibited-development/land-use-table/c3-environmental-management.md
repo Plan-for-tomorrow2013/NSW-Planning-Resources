@@ -1,6 +1,6 @@
 ---
 title: "Zone C3 — Environmental Management"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 zone_code: C3
 zone: "Environmental Management"

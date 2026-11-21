@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2, Part 3 — Cabanas, cubby houses, ferneries, garden sheds, gazebos and greenhouses"
-council: "Gwydir"
+council: "Gwydir Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 3.1)"
 last_verified: 2026-07-01

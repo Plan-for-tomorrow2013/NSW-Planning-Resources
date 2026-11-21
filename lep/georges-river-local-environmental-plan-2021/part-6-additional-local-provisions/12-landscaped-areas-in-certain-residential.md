@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Landscaped areas in certain residential and conservation zones"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

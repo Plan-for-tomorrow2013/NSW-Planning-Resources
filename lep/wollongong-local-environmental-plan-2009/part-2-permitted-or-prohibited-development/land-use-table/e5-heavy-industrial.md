@@ -1,6 +1,6 @@
 ---
 title: "Zone E5 — Heavy Industrial"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 zone_code: E5
 zone: "Heavy Industrial"

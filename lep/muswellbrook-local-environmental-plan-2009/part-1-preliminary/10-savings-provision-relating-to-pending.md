@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8A Savings provision relating to pending development applications"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8A"

@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Additional floor space outside Central Sydney"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-10-09
 ---

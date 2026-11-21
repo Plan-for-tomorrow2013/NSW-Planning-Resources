@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Use of land at \"The Farm\", 11 Ewingsdale Road, Ewingsdale"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.16"

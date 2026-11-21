@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.19 Development in local centres"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.19"

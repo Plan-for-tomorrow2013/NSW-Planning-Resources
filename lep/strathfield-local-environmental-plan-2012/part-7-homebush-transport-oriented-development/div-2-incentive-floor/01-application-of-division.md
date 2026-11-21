@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Application of division"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "7 — Homebush Transport Oriented Development Precinct / Division 2 Incentive floor space and building height for key sites"
 clause: "7.7"

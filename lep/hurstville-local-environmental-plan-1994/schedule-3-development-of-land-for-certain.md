@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Development of land for certain additional purposes"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 26)"
 last_verified: 2026-07-01

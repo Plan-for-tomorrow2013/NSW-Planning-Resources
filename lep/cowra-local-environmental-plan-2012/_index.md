@@ -2,7 +2,7 @@
 title: "Cowra Local Environmental Plan 2012"
 document_id: epi-2013-0022
 current_from: 2026-07-01
-council: "Cowra"
+council: "Cowra Council"
 ---
 
 # Cowra Local Environmental Plan 2012

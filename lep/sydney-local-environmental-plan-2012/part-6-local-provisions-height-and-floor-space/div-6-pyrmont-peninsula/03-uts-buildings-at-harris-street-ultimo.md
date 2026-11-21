@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.64 UTS buildings at Harris Street, Ultimo"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 6 Pyrmont Peninsula"
 clause: "6.64"

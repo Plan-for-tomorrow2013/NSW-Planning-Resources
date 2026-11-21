@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.4 Definitions"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.4"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Complying development"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "2 — Provisions applying to particular zones"
 clause: "10"

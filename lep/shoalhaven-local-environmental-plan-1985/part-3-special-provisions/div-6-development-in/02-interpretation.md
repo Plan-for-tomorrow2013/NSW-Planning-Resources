@@ -1,6 +1,6 @@
 ---
 title: "Clause 42 Interpretation"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Development in scenic preservation areas"
 clause: "42"

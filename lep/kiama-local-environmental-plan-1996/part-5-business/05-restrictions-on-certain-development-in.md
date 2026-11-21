@@ -1,6 +1,6 @@
 ---
 title: "Clause 23B Restrictions on certain development in Zone No 3 (a) or 3 (d) in the Kiama town centre and Zone No 3 (a) in the Gerringong town centre"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Business"
 clause: "23B"

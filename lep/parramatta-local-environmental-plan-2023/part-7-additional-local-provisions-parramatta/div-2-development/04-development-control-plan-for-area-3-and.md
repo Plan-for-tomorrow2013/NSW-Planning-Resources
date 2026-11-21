@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Development control plan for \"Area 3\" and \"Area 5\""
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 2 Development standards generally"
 clause: "7.6"

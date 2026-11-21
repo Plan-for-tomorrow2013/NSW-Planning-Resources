@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Development in the vicinity of a heritage item"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Heritage provisions"
 clause: "33"

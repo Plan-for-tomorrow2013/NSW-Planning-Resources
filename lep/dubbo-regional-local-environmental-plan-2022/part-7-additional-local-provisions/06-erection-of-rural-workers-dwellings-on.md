@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Erection of rural workers' dwellings on land in Zones RU1 and RU4"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

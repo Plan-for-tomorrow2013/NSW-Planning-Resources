@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.18 Use of certain land at Kudgeree Avenue, Cudgera Creek"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.18"

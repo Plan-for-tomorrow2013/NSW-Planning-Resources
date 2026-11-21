@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AB Boundary changes between lots in certain rural, residential, conservation and waterways zones"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AB"

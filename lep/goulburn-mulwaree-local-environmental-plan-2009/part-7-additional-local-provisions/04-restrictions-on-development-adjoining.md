@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Restrictions on development adjoining mineral resource areas"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

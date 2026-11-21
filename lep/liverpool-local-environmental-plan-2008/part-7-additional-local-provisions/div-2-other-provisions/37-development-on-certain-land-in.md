@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.46 Development on certain land in Liverpool requiring preparation of development control plan"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.46"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1H Exception to minimum lot sizes for certain land in Mount Gilead Urban Release Area"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1H"

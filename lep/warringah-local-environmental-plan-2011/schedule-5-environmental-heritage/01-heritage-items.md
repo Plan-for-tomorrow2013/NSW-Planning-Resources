@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 1 — Heritage Items"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-07-10

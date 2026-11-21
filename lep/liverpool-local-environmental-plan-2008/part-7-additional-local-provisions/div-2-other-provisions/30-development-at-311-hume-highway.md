@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.38 Development at 311 Hume Highway, Liverpool"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.38"

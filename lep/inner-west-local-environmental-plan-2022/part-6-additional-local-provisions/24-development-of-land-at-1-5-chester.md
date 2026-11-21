@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.24 Development of land at 1-5 Chester Street, Annandale"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.24"

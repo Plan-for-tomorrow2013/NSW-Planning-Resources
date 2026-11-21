@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 Residential development within RANAS Nowra airport buffer area"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "53"

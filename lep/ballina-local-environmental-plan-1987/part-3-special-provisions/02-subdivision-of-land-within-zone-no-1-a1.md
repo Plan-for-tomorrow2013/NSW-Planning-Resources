@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Subdivision of land within Zone No 1 (a1), 1 (a2), 1 (b), 1 (d), 1 (e), 7 (a), 7 (c), 7 (d), 7 (d1), 7 (f), 7 (i) or 7 (l)"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "11"

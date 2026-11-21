@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Optional saving for undetermined applications"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "11"

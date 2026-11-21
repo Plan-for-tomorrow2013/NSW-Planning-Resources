@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.7 Development below mean high water mark"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.7"

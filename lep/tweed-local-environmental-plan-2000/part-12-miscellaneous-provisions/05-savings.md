@@ -1,6 +1,6 @@
 ---
 title: "Clause 58 Savings"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "12 — Miscellaneous provisions"
 clause: "58"

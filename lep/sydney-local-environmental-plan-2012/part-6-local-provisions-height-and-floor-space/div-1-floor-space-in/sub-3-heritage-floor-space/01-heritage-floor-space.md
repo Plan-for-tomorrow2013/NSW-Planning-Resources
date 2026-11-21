@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Heritage floor space"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 1 Floor space in Central Sydney / Subdivision 3 Heritage floor space"
 clause: "6.10"

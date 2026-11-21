@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.6 Subdivision—consent requirements"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.6"

@@ -2,7 +2,7 @@
 title: "Wentworth Local Environmental Plan 2011"
 document_id: epi-2011-0684
 current_from: 2026-07-01
-council: "Wentworth"
+council: "Wentworth Shire Council"
 ---
 
 # Wentworth Local Environmental Plan 2011

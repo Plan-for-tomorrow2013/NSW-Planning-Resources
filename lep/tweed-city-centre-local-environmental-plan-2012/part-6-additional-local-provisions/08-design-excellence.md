@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Design excellence"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

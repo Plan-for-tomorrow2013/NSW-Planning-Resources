@@ -1,6 +1,6 @@
 ---
 title: "Clause 27KL Gross floor area for below-ground facilities in Zone No 11 (b)"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2A Green Square Town Centre"
 clause: "27KL"

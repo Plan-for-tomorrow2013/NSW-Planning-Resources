@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Location of sex services premises"
-council: "Cabonne"
+council: "Cabonne Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

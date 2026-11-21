@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 Development affecting known or potential archaeological sites or relics of European heritage significance"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "6 — Heritage provisions"
 clause: "51"

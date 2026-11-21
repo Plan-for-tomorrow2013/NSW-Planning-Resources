@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Additional building height for certain land in Cavell Avenue Character Area"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.13"

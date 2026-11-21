@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.22 Special flood considerations"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.22"

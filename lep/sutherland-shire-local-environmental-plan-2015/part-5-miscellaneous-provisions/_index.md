@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous provisions"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

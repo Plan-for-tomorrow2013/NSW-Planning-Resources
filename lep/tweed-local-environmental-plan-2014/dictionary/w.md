@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.8 Minimum site area requirements"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "9 — Homebush Transport Oriented Development Precinct / Division 2 Incentive floor space and building height for key sites"
 clause: "9.8"

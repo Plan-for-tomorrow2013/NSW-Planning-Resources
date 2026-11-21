@@ -2,7 +2,7 @@
 title: "Canada Bay Local Environmental Plan 2013"
 document_id: epi-2013-0389
 current_from: 2026-10-02
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 ---
 
 # Canada Bay Local Environmental Plan 2013

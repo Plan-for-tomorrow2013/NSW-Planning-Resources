@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Exceptions to Zoning Table—specified development on specified land"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Provisions that apply to particular land"
 clause: "14"

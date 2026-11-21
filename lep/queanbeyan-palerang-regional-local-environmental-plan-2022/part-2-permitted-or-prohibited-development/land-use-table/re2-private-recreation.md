@@ -1,6 +1,6 @@
 ---
 title: "Zone RE2 — Private Recreation"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 zone_code: RE2
 zone: "Private Recreation"

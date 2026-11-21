@@ -1,6 +1,6 @@
 ---
 title: "Division 3 Height of buildings and overshadowing"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-10-09
 ---

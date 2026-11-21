@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Development of specific sites"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 53)"
 last_verified: 2026-07-01

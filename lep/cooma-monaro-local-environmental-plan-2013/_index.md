@@ -2,7 +2,7 @@
 title: "Cooma-Monaro Local Environmental Plan 2013"
 document_id: epi-2013-0614
 current_from: 2026-07-01
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 ---
 
 # Cooma-Monaro Local Environmental Plan 2013

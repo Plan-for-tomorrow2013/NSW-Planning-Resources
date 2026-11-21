@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 1 — Environmental heritage"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Development near zone boundaries"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 3 Permissibility of land use"
 clause: "34"

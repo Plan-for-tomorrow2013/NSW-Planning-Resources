@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Function centres in Zones RU1, RU2, RU4 and C4"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

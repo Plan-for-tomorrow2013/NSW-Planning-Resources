@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — I"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 dictionary_range: "I"
 last_verified: 2026-08-21

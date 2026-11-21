@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Exceptions to minimum subdivision lot sizes for multiple occupancy development on land in Zone RU1 or Zone RU2"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

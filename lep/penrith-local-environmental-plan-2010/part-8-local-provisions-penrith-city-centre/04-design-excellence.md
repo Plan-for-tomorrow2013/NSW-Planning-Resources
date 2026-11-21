@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Design excellence"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "8 — Local provisions—Penrith City Centre"
 clause: "8.4"

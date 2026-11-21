@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Urban release areas"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

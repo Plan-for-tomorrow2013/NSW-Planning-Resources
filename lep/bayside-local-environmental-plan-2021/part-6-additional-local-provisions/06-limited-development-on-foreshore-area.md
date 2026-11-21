@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Limited development on foreshore area"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

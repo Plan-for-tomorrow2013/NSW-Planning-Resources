@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Essential services"
-council: "Walcha"
+council: "Walcha Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

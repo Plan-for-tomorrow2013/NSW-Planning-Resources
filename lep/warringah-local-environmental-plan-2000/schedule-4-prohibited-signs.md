@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Prohibited signs"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 10)"
 last_verified: 2026-07-01

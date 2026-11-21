@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development in local centres"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

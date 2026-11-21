@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Retailing of bulky goods within Zone No 4 and on land referred to in Schedule 4"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "27"

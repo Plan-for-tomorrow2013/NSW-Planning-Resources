@@ -1,6 +1,6 @@
 ---
 title: "Part 4 — Principal development standards"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

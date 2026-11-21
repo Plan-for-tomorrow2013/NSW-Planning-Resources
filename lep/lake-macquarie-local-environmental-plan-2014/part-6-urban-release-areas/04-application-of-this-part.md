@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Application of this Part"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.5"

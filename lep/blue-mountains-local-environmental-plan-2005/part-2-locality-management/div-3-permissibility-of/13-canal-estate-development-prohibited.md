@@ -1,6 +1,6 @@
 ---
 title: "Clause 40D Canal estate development prohibited"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 3 Permissibility of land use"
 clause: "40D"

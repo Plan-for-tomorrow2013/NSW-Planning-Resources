@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Residential accommodation in Zones E1, E2 and MU1"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

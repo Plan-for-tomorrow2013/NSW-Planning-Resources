@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Additional building height and floor space ratio"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 3 Design excellence"
 clause: "7.15"

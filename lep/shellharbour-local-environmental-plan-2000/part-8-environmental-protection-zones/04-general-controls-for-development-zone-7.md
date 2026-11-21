@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 General controls for development—Zone 7 (f2) (the Environmental Protection (Foreshore) zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "51"

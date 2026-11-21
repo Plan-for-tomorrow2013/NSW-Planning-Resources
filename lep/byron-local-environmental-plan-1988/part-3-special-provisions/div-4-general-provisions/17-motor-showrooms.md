@@ -1,6 +1,6 @@
 ---
 title: "Clause 54 Motor showrooms"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "54"

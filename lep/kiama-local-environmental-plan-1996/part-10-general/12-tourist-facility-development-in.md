@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Tourist facility development in unserviced areas within the Rural \"A\" Zone"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "57"

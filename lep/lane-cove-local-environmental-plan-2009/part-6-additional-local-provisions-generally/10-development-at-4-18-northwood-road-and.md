@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development at 4-18 Northwood Road and 274-274A Longueville Road, Lane Cove"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.9"

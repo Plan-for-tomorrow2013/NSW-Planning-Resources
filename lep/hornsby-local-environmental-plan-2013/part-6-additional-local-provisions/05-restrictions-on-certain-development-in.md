@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Restrictions on certain development in Dural Village"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

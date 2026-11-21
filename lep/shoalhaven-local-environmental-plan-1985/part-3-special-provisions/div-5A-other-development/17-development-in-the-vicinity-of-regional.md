@@ -1,6 +1,6 @@
 ---
 title: "Clause 40A Development in the vicinity of regional services corridor"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "40A"

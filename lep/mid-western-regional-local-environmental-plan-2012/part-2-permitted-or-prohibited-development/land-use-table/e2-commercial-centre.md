@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

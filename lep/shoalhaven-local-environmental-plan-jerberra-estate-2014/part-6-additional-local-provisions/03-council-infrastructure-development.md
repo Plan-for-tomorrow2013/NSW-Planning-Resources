@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Council infrastructure development"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 General controls for development—Zone 8 (National Parks and Nature Reserves Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "8 — National Parks and Nature Reserves zone provisions"
 clause: "51"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 68 Acquisition of land within Zone 9 (b)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "10 — Reservation Zones Provisions"
 clause: "68"

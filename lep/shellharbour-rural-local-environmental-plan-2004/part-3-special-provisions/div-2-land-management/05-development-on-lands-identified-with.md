@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Development on lands identified with potential acid sulfate soils"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Land management issues"
 clause: "41"

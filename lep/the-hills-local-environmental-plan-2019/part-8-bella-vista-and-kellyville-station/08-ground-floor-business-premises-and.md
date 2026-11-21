@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.8 Ground floor business premises and retail premises in Zones E1 and SP4"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.8"

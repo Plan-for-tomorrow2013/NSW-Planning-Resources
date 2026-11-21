@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.1AA Commencement"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.1AA"

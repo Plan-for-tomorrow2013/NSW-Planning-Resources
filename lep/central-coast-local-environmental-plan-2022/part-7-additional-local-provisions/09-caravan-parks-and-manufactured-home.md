@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Caravan parks and manufactured home estates"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

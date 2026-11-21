@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Rural and nature-based tourism development"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

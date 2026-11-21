@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.14 Flood planning"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.14"

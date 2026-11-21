@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Riparian land and watercourses"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

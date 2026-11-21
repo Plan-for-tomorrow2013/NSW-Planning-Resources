@@ -2,7 +2,7 @@
 title: "Narrandera Local Environmental Plan 2013"
 document_id: epi-2013-0357
 current_from: 2026-07-01
-council: "Narrandera"
+council: "Narrandera Shire Council"
 ---
 
 # Narrandera Local Environmental Plan 2013

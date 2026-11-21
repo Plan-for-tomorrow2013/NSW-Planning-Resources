@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

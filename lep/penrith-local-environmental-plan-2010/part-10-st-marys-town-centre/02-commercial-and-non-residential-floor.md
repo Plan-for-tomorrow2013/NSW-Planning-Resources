@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.2 Commercial and non-residential floor space"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "10 — St Marys Town Centre"
 clause: "10.2"

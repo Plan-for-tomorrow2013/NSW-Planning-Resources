@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.103 Development at Highclere Avenue and Kelly Street, Punchbowl"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 3 Punchbowl and Wiley Park Precinct / Subdivision 3 Pedestrian links"
 clause: "6.103"

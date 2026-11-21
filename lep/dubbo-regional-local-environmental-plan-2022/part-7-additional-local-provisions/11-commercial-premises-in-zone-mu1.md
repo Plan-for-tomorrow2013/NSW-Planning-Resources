@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Commercial premises in Zone MU1"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

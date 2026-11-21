@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Restriction on development in respect of certain road proposals"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "40"

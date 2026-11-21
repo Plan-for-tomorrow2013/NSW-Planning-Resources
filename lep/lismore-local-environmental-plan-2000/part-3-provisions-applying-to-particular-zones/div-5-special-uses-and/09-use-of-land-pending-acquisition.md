@@ -1,6 +1,6 @@
 ---
 title: "Clause 72 Use of land pending acquisition"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 5 Special Uses and Recreation zones"
 clause: "72"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Carrying out of development"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "9"

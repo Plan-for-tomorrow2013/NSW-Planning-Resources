@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.27 Subdivision of land at 21 Barham Place, Horsley"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.27"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 Objectives"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Housing"
 clause: "17"

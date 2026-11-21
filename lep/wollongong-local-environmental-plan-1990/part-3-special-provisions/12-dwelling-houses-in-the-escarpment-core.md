@@ -1,6 +1,6 @@
 ---
 title: "Clause 14A Dwelling-houses in the Escarpment Core Area"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "14A"

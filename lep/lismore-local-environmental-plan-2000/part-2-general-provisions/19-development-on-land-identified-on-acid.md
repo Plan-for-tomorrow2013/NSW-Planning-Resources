@@ -1,6 +1,6 @@
 ---
 title: "Clause 28A Development on land identified on Acid Sulfate Soil Planning Maps"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "28A"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Classification and reclassification of public land as operational land"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

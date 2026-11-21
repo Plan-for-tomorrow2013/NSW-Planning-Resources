@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Objective of plan"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "3"

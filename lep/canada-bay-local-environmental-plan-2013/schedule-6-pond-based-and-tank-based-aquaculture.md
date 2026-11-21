@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Pond-based and tank-based aquaculture"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 5.19)"
 last_verified: 2026-10-02

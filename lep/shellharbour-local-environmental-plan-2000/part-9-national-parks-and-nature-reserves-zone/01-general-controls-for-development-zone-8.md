@@ -1,6 +1,6 @@
 ---
 title: "Clause 64 General controls for development—Zone 8 (the National Parks and Nature Reserves zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "9 — National Parks and Nature Reserves Zone Provisions"
 clause: "64"

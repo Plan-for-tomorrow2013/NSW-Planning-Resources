@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "46"

@@ -2,7 +2,7 @@
 title: "Liverpool Plains Local Environmental Plan 2011"
 document_id: epi-2011-0644
 current_from: 2026-07-31
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 ---
 
 # Liverpool Plains Local Environmental Plan 2011

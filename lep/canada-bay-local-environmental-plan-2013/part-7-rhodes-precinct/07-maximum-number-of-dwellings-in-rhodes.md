@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Maximum number of dwellings in Rhodes Precinct"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.7"

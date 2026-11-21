@@ -1,6 +1,6 @@
 ---
 title: "Clause 112 Objectives of land use zones to be taken into account"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "10 — Minmi-Newcastle Link Road site / Division 2 Provisions applying to development in Minmi-Newcastle Link Road site"
 clause: "112"

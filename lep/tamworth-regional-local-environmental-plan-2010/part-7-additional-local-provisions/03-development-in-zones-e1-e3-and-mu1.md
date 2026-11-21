@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Development in Zones E1, E3 and MU1"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

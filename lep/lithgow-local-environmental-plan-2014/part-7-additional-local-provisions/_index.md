@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

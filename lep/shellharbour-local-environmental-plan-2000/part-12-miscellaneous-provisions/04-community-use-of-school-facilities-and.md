@@ -1,6 +1,6 @@
 ---
 title: "Clause 80 Community use of school facilities and sites"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "80"

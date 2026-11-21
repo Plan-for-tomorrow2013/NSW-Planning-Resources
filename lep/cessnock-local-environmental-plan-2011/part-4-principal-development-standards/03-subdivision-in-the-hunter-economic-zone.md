@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Subdivision in the Hunter Economic Zone"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Zone objectives and general controls for development"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "10"

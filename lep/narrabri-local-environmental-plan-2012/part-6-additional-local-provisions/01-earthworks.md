@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Earthworks"
-council: "Narrabri"
+council: "Narrabri Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.1"

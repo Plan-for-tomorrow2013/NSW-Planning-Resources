@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Development in vicinity of Illawarra Regional Airport"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Miscellaneous"
 clause: "61"

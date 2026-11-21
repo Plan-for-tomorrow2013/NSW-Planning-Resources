@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.2 Aims of Plan"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.2"

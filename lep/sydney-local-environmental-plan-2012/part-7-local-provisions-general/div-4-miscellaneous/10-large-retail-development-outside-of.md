@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.23 Large retail development outside of Green Square Town Centre and other planned centres"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.23"

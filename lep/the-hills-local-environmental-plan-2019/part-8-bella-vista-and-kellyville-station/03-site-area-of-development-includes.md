@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.3 Site area of development includes dedicated land"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.3"

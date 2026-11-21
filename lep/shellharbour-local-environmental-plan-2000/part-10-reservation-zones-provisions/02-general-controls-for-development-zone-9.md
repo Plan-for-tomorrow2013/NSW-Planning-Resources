@@ -1,6 +1,6 @@
 ---
 title: "Clause 66 General controls for development—Zone 9 (c) (the Local Roads Reservation zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "10 — Reservation Zones Provisions"
 clause: "66"

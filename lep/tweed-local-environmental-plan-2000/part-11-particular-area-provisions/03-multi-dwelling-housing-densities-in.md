@@ -1,6 +1,6 @@
 ---
 title: "Clause 51A Multi-dwelling housing densities in Zone 2 (a)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "51A"

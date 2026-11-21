@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Aims of plan"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "Clauses"
 clause: "2"

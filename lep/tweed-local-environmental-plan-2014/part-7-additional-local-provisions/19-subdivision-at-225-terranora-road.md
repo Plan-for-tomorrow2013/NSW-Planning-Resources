@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Subdivision at 225 Terranora Road, Banora Point"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.20"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Development at certain land at Kissing Point Road and Pacific Highway, Turramurra"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

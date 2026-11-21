@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

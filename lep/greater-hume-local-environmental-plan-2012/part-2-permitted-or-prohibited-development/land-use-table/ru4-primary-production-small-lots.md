@@ -1,6 +1,6 @@
 ---
 title: "Zone RU4 — Primary Production Small Lots"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 zone_code: RU4
 zone: "Primary Production Small Lots"

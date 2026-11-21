@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.32 Development on certain land in Zone C4"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.32"

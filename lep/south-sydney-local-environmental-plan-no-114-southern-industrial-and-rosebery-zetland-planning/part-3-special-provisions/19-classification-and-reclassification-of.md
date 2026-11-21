@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Classification and reclassification of public land"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "28"

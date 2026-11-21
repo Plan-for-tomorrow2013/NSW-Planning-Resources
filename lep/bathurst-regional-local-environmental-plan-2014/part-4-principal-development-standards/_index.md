@@ -1,6 +1,6 @@
 ---
 title: "Part 4 — Principal development standards"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 last_verified: 2026-07-03
 ---

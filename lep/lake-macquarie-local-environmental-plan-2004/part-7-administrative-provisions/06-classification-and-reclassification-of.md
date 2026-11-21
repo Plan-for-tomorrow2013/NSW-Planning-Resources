@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Classification and reclassification of public land as operational land"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Administrative provisions"
 clause: "61"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 General controls for development—Zone 6 (b) (the Private Open Space zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "7 — Open Space Zones Provisions"
 clause: "44"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.32 Maximum floor space that may be used for retail premises for certain land in Zone E1 at Hinchinbrook"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.32"

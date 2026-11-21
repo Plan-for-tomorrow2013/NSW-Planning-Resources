@@ -1,6 +1,6 @@
 ---
 title: "Zone RU1 — Primary Production"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"

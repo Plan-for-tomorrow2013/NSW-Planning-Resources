@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Relationship between part and remainder of plan"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "7 — Urban release areas"
 clause: "7.6"

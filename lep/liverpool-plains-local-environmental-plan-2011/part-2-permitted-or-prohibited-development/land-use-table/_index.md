@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 document_type: LEP
 last_verified: 2026-07-31
 ---

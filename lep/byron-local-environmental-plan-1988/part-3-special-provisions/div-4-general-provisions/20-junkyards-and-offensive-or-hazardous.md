@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Junkyards and offensive or hazardous industries"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "57"

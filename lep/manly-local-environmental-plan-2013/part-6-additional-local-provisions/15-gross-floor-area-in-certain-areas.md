@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Gross floor area in certain areas"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

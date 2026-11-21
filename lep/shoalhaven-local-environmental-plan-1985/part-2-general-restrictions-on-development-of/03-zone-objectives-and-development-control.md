@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Zone objectives and development control table"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "9"

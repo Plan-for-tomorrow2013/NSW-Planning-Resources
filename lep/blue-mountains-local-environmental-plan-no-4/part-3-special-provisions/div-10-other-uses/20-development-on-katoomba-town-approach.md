@@ -1,6 +1,6 @@
 ---
 title: "Clause 69A Development on Katoomba Town Approach Precinct"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "69A"

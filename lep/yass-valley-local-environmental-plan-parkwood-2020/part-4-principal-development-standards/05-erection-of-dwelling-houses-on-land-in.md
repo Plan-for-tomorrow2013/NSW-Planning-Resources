@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses on land in certain conservation zones"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

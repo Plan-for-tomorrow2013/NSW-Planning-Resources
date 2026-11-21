@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Public utility infrastructure"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "7 — Intensive urban development"
 clause: "7.1"

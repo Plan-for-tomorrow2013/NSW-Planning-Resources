@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Development in the vicinity of heritage items"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "10 — Heritage provisions"
 clause: "61"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Ground floor development in Zone E2"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.4 Controls relating to miscellaneous permissible uses"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.4"

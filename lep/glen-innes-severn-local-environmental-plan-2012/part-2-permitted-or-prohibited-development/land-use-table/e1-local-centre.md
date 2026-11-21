@@ -1,6 +1,6 @@
 ---
 title: "Zone E1 — Local Centre"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 zone_code: E1
 zone: "Local Centre"

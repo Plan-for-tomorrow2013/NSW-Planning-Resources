@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Consent authority"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

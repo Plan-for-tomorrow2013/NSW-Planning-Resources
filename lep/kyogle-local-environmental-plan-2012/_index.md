@@ -2,7 +2,7 @@
 title: "Kyogle Local Environmental Plan 2012"
 document_id: epi-2013-0025
 current_from: 2026-07-01
-council: "Kyogle"
+council: "Kyogle Council"
 ---
 
 # Kyogle Local Environmental Plan 2012

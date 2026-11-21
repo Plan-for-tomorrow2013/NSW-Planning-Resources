@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Additional development on certain land"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 28)"
 last_verified: 2026-07-01

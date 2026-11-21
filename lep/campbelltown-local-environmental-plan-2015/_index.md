@@ -2,7 +2,7 @@
 title: "Campbelltown Local Environmental Plan 2015"
 document_id: epi-2015-0754
 current_from: 2026-07-03
-council: "Campbelltown"
+council: "Campbelltown City Council"
 ---
 
 # Campbelltown Local Environmental Plan 2015

@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Application of Part"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "8 — Local provisions—Penrith City Centre"
 clause: "8.1"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — L"
-council: "Guyra"
+council: "Armidale Regional Council"
 document_type: LEP
 dictionary_range: "L"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Aims of plan"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "3"

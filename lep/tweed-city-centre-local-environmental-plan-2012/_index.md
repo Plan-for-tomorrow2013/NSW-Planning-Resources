@@ -2,7 +2,7 @@
 title: "Tweed City Centre Local Environmental Plan 2012"
 document_id: epi-2013-0014
 current_from: 2026-07-01
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 ---
 
 # Tweed City Centre Local Environmental Plan 2012

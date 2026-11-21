@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Heritage items other than of indigenous origins and including potential archaeological sites"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 62 Certain development at Leura"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "62"

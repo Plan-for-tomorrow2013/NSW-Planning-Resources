@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Residential development prohibited on certain flood prone land in Forbes"
-council: "Forbes"
+council: "Forbes Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Non-residential land uses in Zone E1"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

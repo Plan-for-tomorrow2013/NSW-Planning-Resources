@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Protection of heritage items and relics"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "10 — Heritage provisions"
 clause: "57"

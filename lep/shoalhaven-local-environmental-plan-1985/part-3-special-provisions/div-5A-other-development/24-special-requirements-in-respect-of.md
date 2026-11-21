@@ -1,6 +1,6 @@
 ---
 title: "Clause 40H Special requirements in respect of expansion of Bomaderry urban area"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "40H"

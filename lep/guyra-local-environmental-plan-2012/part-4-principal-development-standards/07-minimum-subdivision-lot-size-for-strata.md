@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Minimum subdivision lot size for strata plan schemes in certain residential, rural and conservation zones"
-council: "Guyra"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Development subject to acoustic controls"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Public safety—licensed premises"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.5"

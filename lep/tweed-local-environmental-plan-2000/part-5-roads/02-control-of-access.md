@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 Control of access"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "5 — Roads"
 clause: "23"

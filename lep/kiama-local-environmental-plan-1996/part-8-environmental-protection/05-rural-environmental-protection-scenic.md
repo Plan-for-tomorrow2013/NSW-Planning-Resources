@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Rural Environmental Protection (Scenic) Zone—Dwelling-houses"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "31"

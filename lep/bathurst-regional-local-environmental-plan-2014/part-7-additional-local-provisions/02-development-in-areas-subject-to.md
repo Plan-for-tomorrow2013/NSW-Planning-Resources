@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Development in areas subject to aircraft noise"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

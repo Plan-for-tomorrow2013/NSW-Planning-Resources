@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-09-04

@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Development adjacent to Zone 8 (a) National Parks and Nature Reserves"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Environment and resource provisions"
 clause: "29"

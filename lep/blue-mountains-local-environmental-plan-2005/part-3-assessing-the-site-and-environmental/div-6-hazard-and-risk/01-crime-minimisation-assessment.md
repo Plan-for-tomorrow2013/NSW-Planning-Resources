@@ -1,6 +1,6 @@
 ---
 title: "Clause 87 Crime minimisation assessment"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 6 Hazard and risk assessment"
 clause: "87"

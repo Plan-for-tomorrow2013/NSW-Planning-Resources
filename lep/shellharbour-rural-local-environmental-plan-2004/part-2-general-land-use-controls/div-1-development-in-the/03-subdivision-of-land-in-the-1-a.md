@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Subdivision of land in the 1 (a) Agriculture or 1 (rl) Rural Landscape Zone"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — General land use controls / Division 1 Development in the 1 (a) Agriculture and 1 (rl) Rural Landscape Zones"
 clause: "18"

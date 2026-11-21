@@ -2,7 +2,7 @@
 title: "Albury Local Environmental Plan 2010"
 document_id: epi-2010-0433
 current_from: 2026-07-03
-council: "Albury"
+council: "Albury City Council"
 ---
 
 # Albury Local Environmental Plan 2010

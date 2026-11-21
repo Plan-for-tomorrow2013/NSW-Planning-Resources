@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-07-01

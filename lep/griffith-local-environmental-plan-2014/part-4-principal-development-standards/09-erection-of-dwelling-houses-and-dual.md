@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of dwelling houses and dual occupancies on land in certain rural and conservation zones"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

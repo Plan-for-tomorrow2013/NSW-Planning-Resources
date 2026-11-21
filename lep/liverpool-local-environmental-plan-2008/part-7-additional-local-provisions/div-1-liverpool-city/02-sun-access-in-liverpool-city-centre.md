@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Sun access in Liverpool city centre"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 Liverpool city centre provisions"
 clause: "7.2"

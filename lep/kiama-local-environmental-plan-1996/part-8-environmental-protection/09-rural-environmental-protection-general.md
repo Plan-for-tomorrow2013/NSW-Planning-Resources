@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Rural Environmental Protection (General) Zone—Development on nearby Land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "35"

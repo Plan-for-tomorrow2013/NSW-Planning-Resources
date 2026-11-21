@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 Conservation incentives"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "8 — Heritage provisions"
 clause: "46"

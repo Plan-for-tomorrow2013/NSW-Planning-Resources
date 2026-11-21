@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-10-02

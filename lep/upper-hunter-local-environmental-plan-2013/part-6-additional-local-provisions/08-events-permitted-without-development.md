@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Events permitted without development consent"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

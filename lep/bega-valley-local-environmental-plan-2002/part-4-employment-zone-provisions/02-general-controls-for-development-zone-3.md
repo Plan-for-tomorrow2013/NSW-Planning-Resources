@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 General controls for development—Zone 3 (b) (Special Business Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Employment zone provisions"
 clause: "31"

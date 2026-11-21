@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

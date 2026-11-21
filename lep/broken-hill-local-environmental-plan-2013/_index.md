@@ -2,7 +2,7 @@
 title: "Broken Hill Local Environmental Plan 2013"
 document_id: epi-2013-0506
 current_from: 2026-07-10
-council: "Broken Hill"
+council: "Broken Hill City Council"
 ---
 
 # Broken Hill Local Environmental Plan 2013

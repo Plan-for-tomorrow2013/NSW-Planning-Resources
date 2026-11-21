@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Affordable housing contributions"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "7 — Macquarie Park Transport Oriented Development Precinct / Division 1 General"
 clause: "7.5"

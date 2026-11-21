@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.9 Application of SEPPs"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.9"

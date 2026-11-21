@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Minimum subdivision lot size for strata subdivision of residential or tourist and visitor accommodation in certain zones"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

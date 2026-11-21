@@ -1,6 +1,6 @@
 ---
 title: "Clause 48 Acquisition and development of land in Zone 5 (a) (RTA Road)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "10 — Acquisition of land"
 clause: "48"

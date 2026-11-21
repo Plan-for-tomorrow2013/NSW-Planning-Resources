@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Complying development"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
 last_verified: 2026-10-02

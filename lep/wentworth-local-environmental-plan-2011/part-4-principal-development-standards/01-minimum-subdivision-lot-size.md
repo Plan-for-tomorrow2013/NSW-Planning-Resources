@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1 Minimum subdivision lot size"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1"

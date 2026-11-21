@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Boundary changes between lots in Zones RU1 and C3"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

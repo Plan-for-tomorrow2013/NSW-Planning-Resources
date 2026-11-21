@@ -1,6 +1,6 @@
 ---
 title: "Clause 11.3 Design excellence"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.3"

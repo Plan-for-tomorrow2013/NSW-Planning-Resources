@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Development on land at Moss Vale Road, Kangaroo Valley"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.25"

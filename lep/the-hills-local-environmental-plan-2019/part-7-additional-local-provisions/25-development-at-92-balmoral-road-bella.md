@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.29 Development at 92 Balmoral Road, Bella Vista"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.29"

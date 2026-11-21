@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Development for the purpose of bulky goods retailing in Zones 3 (b) and 4 (a)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Employment zone provisions"
 clause: "33"

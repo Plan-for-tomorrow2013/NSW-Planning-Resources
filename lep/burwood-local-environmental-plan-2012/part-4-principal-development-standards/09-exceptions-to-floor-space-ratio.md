@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Exceptions to floor space ratio"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

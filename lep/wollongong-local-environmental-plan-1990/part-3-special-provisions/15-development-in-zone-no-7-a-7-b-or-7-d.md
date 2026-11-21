@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 Development in Zone No 7 (a), 7 (b) or 7 (d)"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "17"

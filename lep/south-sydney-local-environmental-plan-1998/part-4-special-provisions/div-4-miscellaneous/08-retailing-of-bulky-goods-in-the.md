@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Retailing of bulky goods in the industrial zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "34"

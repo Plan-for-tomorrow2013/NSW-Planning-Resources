@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Exceptions to minimum subdivision lot sizes for certain land in Zone C4"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

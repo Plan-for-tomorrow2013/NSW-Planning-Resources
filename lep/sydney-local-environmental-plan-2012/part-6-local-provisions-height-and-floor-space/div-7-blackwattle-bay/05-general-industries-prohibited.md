@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.71 General industries prohibited"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 7 Blackwattle Bay Precinct"
 clause: "6.71"

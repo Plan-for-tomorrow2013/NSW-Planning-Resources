@@ -1,6 +1,6 @@
 ---
 title: "Clause 82 Development in the vicinity of heritage items"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 7 Heritage"
 clause: "82"

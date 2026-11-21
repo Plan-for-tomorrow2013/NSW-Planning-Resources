@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum lot size for battle-axe lots"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

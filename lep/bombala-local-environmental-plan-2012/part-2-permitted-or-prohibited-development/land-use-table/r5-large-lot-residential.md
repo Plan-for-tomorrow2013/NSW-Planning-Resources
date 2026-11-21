@@ -1,6 +1,6 @@
 ---
 title: "Zone R5 — Large Lot Residential"
-council: "Bombala"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: R5
 zone: "Large Lot Residential"

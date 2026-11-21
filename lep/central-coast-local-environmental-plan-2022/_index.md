@@ -2,7 +2,7 @@
 title: "Central Coast Local Environmental Plan 2022"
 document_id: epi-2022-0308
 current_from: 2026-07-01
-council: "Central Coast"
+council: "Central Coast Council"
 ---
 
 # Central Coast Local Environmental Plan 2022

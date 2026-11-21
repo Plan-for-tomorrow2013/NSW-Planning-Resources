@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Development on river front areas"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

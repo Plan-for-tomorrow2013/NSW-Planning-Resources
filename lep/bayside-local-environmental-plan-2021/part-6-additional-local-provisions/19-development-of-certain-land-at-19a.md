@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.20 Development of certain land at 19A Marsh Street, Arncliffe"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.20"

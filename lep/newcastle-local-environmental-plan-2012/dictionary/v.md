@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-09-04

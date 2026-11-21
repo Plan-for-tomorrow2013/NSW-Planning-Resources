@@ -1,6 +1,6 @@
 ---
 title: "Clause 39BA Development of certain land at Princes Highway, Bomaderry"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "39BA"

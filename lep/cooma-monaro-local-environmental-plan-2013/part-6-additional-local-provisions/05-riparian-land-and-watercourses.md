@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Riparian land and watercourses"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

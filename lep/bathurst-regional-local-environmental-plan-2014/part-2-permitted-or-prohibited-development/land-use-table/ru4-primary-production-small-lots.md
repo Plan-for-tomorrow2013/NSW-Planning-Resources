@@ -1,6 +1,6 @@
 ---
 title: "Zone RU4 — Primary Production Small Lots"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 zone_code: RU4
 zone: "Primary Production Small Lots"

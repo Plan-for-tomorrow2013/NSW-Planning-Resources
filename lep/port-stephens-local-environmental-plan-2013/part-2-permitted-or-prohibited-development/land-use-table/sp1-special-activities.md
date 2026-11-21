@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

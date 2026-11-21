@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 3 — Land classified, or reclassified, as community land"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 25)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.18 Car parking for certain land"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 4 Car parking"
 clause: "7.18"

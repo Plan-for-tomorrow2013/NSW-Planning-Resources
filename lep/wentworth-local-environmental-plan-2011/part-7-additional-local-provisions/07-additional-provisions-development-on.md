@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Additional provisions—development on river bed and banks of the Murray River"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

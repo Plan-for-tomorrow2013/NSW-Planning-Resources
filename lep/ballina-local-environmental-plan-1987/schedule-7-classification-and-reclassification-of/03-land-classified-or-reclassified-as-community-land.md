@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7, Part 3 — Land classified, or reclassified, as community land"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 clause: "Schedule 7 (Clause 38)"
 last_verified: 2026-07-31

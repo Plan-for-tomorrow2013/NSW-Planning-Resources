@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development on certain land at Granville"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

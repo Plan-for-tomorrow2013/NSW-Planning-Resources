@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.1 Land use zones"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.1"

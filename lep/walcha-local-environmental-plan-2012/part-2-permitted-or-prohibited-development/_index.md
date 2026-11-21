@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Permitted or prohibited development"
-council: "Walcha"
+council: "Walcha Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

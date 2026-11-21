@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.1 Name of Plan"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.1"

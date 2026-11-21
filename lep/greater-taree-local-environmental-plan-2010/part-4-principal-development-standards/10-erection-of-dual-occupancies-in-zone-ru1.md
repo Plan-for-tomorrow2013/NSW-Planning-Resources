@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of dual occupancies in Zone RU1"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

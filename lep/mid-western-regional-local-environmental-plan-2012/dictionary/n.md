@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — N"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 dictionary_range: "N"
 last_verified: 2026-07-01

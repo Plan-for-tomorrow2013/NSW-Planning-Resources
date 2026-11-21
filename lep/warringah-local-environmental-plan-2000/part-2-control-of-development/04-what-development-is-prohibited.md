@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 What development is prohibited?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "10"

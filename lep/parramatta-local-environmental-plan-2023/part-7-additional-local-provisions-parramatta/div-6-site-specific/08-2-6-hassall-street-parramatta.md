@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.36 2-6 Hassall Street, Parramatta"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.36"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Particular dual occupancy subdivisions must not be approved"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

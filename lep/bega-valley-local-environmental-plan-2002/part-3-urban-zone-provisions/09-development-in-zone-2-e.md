@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Development in Zone 2 (e)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "3 — Urban zone provisions"
 clause: "28"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 63 Zone No 4 (a) (Industrial Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 4 Industrial zones"
 clause: "63"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses or dual occupancies on land in Zone RU1 Primary Production"
-council: "Jerilderie"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

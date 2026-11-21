@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 Land and water management"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Land management issues"
 clause: "38"

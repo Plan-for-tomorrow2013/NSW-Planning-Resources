@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21 Development at 153 and 157 Walker Street, North Sydney"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 General provisions"
 clause: "6.21"

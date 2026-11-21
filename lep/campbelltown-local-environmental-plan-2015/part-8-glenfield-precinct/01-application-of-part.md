@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Application of Part"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "8 — Glenfield Precinct"
 clause: "8.1"

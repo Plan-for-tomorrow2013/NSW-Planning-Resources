@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Terrestrial biodiversity"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

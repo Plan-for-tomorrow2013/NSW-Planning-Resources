@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Residential \"A\" and \"B\" Zones—Residential Flat Buildings, Villa Homes and Courtyard Houses and Units for Aged Persons"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "18"

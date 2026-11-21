@@ -2,7 +2,7 @@
 title: "Penrith Local Environmental Plan No 201 (Rural Lands)"
 document_id: epi-1991-0364
 current_from: 2026-07-01
-council: "Penrith"
+council: "Penrith City Council"
 ---
 
 # Penrith Local Environmental Plan No 201 (Rural Lands)

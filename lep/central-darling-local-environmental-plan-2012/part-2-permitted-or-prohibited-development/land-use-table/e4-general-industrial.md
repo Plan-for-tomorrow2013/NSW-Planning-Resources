@@ -1,6 +1,6 @@
 ---
 title: "Zone E4 — General Industrial"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 zone_code: E4
 zone: "General Industrial"

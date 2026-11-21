@@ -1,6 +1,6 @@
 ---
 title: "Clause 118 Bed and breakfast establishments"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 8 Provisions for specific land uses"
 clause: "118"

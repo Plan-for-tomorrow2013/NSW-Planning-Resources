@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Drinking water catchments"
-council: "Blayney"
+council: "Blayney Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

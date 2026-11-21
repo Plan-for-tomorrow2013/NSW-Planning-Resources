@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Development of certain land at Nericon"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

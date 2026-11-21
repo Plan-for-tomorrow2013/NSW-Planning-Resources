@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Additional development"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "12"

@@ -1,6 +1,6 @@
 ---
 title: "Amendment history"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 last_verified: 2026-09-25
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.18 Design excellence in Wollongong city centre and at key sites"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.18"

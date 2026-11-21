@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.8 Maximum floor space for retail premises in Bridge Road and Scenic Drive Sub-precincts"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
 clause: "8.8"

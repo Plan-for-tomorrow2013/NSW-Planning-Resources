@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 Temporary use of land"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "44"

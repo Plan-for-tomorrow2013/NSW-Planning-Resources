@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Caravan parks for permanent occupation"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 2 Residential zones"
 clause: "55"

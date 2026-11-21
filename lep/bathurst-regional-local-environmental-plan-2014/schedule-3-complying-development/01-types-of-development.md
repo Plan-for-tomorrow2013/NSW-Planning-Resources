@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3, Part 1 — Types of development"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
 last_verified: 2026-07-03

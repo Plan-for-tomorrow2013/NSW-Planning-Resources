@@ -1,6 +1,6 @@
 ---
 title: "Clause 64 Houses on identified rural lots"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Miscellaneous"
 clause: "64"

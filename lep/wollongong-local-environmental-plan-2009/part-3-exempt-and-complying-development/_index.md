@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 60 Development for certain additional purposes"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "60"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Council policies"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "9"

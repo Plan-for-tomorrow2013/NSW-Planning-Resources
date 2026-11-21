@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Temporary use of land for visitor economy purposes"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

@@ -1,6 +1,6 @@
 ---
 title: "Zone W1 — Natural Waterways"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 zone_code: W1
 zone: "Natural Waterways"

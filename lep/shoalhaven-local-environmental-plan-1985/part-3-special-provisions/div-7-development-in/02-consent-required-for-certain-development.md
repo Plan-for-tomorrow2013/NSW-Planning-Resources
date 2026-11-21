@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 Consent required for certain development"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 7 Development in Special Rural Lifestyle Areas"
 clause: "46"

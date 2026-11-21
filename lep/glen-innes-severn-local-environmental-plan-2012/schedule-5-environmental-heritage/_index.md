@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

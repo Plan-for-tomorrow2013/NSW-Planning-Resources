@@ -1,6 +1,6 @@
 ---
 title: "Clause 50 Urban design—non-residential development in residential areas"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "50"

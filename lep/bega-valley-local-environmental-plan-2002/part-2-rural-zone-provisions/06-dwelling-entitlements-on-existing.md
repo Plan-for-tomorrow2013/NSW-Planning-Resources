@@ -1,6 +1,6 @@
 ---
 title: "Clause 17A Dwelling entitlements on existing concessional lots"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "2 — Rural zone provisions"
 clause: "17A"

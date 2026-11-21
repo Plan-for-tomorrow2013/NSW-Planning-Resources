@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Lot averaging subdivision in Titania Estate, Oberon"
-council: "Oberon"
+council: "Oberon Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

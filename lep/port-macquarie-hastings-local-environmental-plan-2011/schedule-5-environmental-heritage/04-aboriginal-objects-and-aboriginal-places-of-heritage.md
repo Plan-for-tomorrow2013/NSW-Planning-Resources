@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 4 — Aboriginal objects and Aboriginal places of heritage significance"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-10-16

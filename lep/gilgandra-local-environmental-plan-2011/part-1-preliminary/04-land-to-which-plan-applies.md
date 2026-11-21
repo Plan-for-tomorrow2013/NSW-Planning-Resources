@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.3 Land to which Plan applies"
-council: "Gilgandra"
+council: "Gilgandra Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.3"

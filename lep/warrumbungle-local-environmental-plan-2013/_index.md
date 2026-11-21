@@ -2,7 +2,7 @@
 title: "Warrumbungle Local Environmental Plan 2013"
 document_id: epi-2013-0670
 current_from: 2026-07-01
-council: "Warrumbungle"
+council: "Warrumbungle Shire Council"
 ---
 
 # Warrumbungle Local Environmental Plan 2013

@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 Radiation emission levels"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 2 Health and safety"
 clause: "46"

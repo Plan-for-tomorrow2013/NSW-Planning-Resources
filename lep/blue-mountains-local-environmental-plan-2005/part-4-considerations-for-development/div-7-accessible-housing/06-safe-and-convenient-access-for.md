@@ -1,6 +1,6 @@
 ---
 title: "Clause 116 Safe and convenient access for accessible housing"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 7 Accessible housing"
 clause: "116"

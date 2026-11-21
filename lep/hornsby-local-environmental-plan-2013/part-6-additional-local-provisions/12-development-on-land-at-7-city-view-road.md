@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Development on land at 7 City View Road, Pennant Hills"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Development within the eastern approaches to Kosciuszko National Park"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

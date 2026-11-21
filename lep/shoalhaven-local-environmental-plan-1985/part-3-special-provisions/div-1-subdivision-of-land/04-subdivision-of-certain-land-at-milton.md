@@ -1,6 +1,6 @@
 ---
 title: "Clause 11B Subdivision of certain land at Milton"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision of land"
 clause: "11B"

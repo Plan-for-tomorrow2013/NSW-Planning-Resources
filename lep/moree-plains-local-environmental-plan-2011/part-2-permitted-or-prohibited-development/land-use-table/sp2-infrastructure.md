@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

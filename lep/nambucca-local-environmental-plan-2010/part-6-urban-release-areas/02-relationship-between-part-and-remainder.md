@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Relationship between Part and remainder of Plan"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.3"

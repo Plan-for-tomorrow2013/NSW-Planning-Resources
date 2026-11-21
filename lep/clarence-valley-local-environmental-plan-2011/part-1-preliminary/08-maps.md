@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.7 Maps"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.7"

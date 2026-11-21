@@ -1,6 +1,6 @@
 ---
 title: "Clause 11A Restriction on number of allotments of land within Zones No 1 (c1) and 1 (c2)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision and dwelling-houses"
 clause: "11A"

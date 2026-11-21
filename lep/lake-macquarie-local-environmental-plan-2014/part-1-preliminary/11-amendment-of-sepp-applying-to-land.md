@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8B Amendment of SEPP applying to land"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8B"

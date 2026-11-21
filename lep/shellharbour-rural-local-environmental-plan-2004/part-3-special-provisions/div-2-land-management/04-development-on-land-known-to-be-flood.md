@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Development on land known to be flood liable"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Land management issues"
 clause: "40"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Development control plan"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.3"

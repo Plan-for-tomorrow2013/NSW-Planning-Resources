@@ -1,6 +1,6 @@
 ---
 title: "Schedule 17 — Carparking provision"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 17 (Clause 74)"
 last_verified: 2026-07-01

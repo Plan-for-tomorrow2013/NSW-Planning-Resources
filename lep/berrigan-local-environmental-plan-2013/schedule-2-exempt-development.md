@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Exempt development"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 3.1)"
 last_verified: 2026-08-28

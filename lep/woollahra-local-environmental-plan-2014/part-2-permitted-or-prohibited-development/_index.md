@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Permitted or prohibited development"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 last_verified: 2026-08-21
 ---

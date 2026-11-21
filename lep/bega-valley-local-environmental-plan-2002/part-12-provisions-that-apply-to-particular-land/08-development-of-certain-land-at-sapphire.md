@@ -1,6 +1,6 @@
 ---
 title: "Clause 97 Development of certain land at Sapphire Coast Drive and Tura Beach Drive, Tura Beach"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "12 — Provisions that apply to particular land"
 clause: "97"

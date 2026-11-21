@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 General controls for development—Zone 2 (a) (the Residential A zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Residential Zones Provisions"
 clause: "20"

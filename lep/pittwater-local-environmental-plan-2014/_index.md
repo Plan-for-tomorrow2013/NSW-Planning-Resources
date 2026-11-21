@@ -2,7 +2,7 @@
 title: "Pittwater Local Environmental Plan 2014"
 document_id: epi-2014-0320
 current_from: 2026-07-01
-council: "Pittwater"
+council: "Northern Beaches Council"
 ---
 
 # Pittwater Local Environmental Plan 2014

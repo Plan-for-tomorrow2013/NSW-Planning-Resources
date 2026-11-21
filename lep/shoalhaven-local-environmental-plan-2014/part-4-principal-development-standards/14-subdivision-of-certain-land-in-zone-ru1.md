@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Subdivision of certain land in Zone RU1, Zone RU2, Zone RU4, Zone R5 and Zone C4"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

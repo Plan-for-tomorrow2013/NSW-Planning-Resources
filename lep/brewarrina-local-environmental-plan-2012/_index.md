@@ -2,7 +2,7 @@
 title: "Brewarrina Local Environmental Plan 2012"
 document_id: epi-2012-0611
 current_from: 2026-07-01
-council: "Brewarrina"
+council: "Brewarrina Shire Council"
 ---
 
 # Brewarrina Local Environmental Plan 2012

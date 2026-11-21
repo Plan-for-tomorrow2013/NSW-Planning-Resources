@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.23 Manufactured homes"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.23"

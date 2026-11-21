@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Guyra"
+council: "Armidale Regional Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

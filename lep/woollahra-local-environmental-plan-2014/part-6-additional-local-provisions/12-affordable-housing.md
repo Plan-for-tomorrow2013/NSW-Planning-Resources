@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Affordable housing"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

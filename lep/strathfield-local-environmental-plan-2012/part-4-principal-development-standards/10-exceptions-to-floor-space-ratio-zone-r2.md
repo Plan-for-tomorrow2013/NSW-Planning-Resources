@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4C Exceptions to floor space ratio (Zone R2)"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4C"

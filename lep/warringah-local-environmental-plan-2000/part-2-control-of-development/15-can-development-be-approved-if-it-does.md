@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Can development be approved if it does not comply with a development standard?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "20"

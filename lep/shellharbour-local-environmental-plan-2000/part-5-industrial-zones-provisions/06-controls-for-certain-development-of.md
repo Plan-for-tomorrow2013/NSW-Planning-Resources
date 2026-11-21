@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Controls for certain development of certain land within Zone 4 (a)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "5 — Industrial Zones Provisions"
 clause: "35"

@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

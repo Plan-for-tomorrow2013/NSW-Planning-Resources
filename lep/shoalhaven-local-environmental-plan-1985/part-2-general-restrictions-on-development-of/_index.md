@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — General restrictions on development of land"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

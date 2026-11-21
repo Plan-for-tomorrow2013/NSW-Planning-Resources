@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Development of certain land east of Crossing Street, Griffith"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

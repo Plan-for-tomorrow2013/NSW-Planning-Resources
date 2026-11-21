@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Koala habitat"
-council: "Kempsey"
+council: "Kempsey Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

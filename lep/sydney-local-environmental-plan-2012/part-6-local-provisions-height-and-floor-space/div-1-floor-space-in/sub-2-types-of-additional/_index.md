@@ -1,6 +1,6 @@
 ---
 title: "Subdivision 2 Types of additional floor space"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-10-09
 ---

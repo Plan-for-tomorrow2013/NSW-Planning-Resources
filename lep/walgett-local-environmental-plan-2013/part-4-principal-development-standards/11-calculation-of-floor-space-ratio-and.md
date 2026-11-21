@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.5 Calculation of floor space ratio and site area"
-council: "Walgett"
+council: "Walgett Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.5"

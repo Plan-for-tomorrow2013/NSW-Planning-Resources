@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-07-01

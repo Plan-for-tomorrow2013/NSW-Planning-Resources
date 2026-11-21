@@ -1,6 +1,6 @@
 ---
 title: "Clause 110 Housing choice"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 6 Equity of access and housing choice"
 clause: "110"

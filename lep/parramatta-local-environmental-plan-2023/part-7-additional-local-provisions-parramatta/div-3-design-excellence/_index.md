@@ -1,6 +1,6 @@
 ---
 title: "Division 3 Design excellence"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Consent authority"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

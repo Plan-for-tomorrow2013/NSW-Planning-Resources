@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Development requiring the preparation of a development control plan"
-council: "Pittwater"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.2"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Development of Hurstville Civic Precinct"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

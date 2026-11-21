@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B No strata subdivisions in certain rural or conservation zones"
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

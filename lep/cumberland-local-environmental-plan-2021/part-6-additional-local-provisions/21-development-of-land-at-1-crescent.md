@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21 Development of land at 1 Crescent Street, Holroyd—gross floor area and car parking"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.21"

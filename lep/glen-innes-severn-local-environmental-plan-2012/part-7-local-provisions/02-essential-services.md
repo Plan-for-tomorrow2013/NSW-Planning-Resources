@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Essential services"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.3"

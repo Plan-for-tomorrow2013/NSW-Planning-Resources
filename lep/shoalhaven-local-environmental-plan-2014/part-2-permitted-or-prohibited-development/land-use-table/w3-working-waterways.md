@@ -1,6 +1,6 @@
 ---
 title: "Zone W3 — Working Waterways"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 zone_code: W3
 zone: "Working Waterways"

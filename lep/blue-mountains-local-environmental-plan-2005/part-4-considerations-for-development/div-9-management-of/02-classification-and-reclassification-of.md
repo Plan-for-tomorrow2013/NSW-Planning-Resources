@@ -1,6 +1,6 @@
 ---
 title: "Clause 129 Classification and reclassification of public land as operational land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 9 Management of public land and public infrastructure"
 clause: "129"

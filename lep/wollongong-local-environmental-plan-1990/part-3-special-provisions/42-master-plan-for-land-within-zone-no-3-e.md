@@ -1,6 +1,6 @@
 ---
 title: "Clause 38A Master plan for land within Zone No 3 (e)"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "38A"

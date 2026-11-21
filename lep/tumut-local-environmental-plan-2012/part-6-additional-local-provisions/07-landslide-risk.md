@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Landslide risk"
-council: "Tumut"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

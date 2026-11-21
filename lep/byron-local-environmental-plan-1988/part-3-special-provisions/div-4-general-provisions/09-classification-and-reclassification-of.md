@@ -1,6 +1,6 @@
 ---
 title: "Clause 47AA Classification and reclassification of public land as community land"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "47AA"

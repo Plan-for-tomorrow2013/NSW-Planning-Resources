@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.26 Restaurants, take away food and drink premises, centre-based child care facilities and hotel or motel accommodation in Zone E4"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.26"

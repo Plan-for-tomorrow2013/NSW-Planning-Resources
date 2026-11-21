@@ -1,6 +1,6 @@
 ---
 title: "Clause 15A Height restrictions for land within Zones Nos 3 (a) and 3 (c)"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "15A"

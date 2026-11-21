@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2E Exceptions to minimum subdivision lot size for boundary adjustments"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2E"

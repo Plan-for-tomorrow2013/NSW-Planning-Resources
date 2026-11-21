@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.19D Development at 270-272 Pacific Highway, Crows Nest"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 General provisions"
 clause: "6.19D"

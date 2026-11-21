@@ -1,6 +1,6 @@
 ---
 title: "Clause 82 Suspension of covenants, agreements and instruments"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "4 — Heathcote Ridge West Menai site"
 clause: "82"

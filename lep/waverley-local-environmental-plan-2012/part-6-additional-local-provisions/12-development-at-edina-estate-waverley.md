@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Development at Edina Estate, Waverley"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

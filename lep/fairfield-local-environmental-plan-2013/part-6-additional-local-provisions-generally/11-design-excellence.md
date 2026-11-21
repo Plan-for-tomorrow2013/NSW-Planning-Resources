@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Design excellence"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.12"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 15A Dwelling-houses on certain land in Parish of Coolangatta"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Dwelling-houses"
 clause: "15A"

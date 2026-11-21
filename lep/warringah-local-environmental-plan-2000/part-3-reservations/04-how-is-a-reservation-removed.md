@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 How is a reservation removed?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "3 — Reservations"
 clause: "37"

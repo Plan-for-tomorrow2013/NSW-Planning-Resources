@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 Water catchment and inundation area for proposed dam near Dunoon"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 1 Rural zones"
 clause: "45"

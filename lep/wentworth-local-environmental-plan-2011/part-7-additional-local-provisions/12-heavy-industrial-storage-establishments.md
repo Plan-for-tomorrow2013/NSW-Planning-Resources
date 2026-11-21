@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Heavy industrial storage establishments in Zone RU1 or RU4"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

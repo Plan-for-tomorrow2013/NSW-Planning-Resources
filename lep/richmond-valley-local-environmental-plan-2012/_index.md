@@ -2,7 +2,7 @@
 title: "Richmond Valley Local Environmental Plan 2012"
 document_id: epi-2012-0098
 current_from: 2026-07-01
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 ---
 
 # Richmond Valley Local Environmental Plan 2012

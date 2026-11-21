@@ -1,6 +1,6 @@
 ---
 title: "Schedule 9 — Ultimo-Pyrmont heritage items"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 9 (Dictionary)"
 last_verified: 2023-12-14

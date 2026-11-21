@@ -1,6 +1,6 @@
 ---
 title: "Clause 13B Standards for exempt and complying development"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "13B"

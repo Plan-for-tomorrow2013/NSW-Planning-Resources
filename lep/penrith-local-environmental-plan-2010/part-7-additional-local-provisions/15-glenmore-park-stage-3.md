@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16A Glenmore Park Stage 3"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16A"

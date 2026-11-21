@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Tourist and visitor accommodation in Zone RU1 or RU4"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

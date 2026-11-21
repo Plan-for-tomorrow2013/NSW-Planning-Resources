@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Riparian land and Murray River and other watercourses—general principles"
-council: "Murray"
+council: "Murray River Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

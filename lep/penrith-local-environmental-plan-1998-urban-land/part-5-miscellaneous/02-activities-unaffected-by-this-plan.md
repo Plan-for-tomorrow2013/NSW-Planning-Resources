@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Activities unaffected by this plan"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "16"

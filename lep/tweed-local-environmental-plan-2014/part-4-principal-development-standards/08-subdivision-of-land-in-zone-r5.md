@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Subdivision of land in Zone R5"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

@@ -1,6 +1,6 @@
 ---
 title: "Zone RE2 — Private Recreation"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 zone_code: RE2
 zone: "Private Recreation"

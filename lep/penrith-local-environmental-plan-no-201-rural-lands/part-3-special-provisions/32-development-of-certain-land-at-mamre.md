@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Development of certain land at Mamre Road, Luddenham"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "36"

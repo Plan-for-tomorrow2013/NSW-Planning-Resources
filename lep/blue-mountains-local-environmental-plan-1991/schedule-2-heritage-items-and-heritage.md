@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Heritage Items and Heritage Conservation Areas"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 2"
 last_verified: 2023-11-10

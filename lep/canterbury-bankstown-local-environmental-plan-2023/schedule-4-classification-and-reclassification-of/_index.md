@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Classification and reclassification of public land"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 last_verified: 2026-09-25
 ---

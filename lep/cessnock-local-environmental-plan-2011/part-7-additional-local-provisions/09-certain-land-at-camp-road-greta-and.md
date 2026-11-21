@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Certain land at Camp Road, Greta and Lovedale Road, Allandale"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

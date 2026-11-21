@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2A Development control plan"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.2A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Amendment of certain other environmental planning instruments"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

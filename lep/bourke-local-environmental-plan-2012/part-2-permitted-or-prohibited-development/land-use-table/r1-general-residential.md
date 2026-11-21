@@ -1,6 +1,6 @@
 ---
 title: "Zone R1 — General Residential"
-council: "Bourke"
+council: "Bourke Shire Council"
 document_type: LEP
 zone_code: R1
 zone: "General Residential"

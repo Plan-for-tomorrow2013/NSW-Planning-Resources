@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Upper Lachlan"
+council: "Upper Lachlan Shire Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

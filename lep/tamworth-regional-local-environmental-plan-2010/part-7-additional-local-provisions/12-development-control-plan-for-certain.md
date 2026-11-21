@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Development control plan for certain land at Browns Lane and Manilla Road, Stratheden"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

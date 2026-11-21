@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3A Cabramatta—no ground floor dwellings in Area E"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "7 — Additional local clauses—Town Centres"
 clause: "7.3A"

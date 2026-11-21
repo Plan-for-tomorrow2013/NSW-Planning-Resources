@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Development of uncoloured land on the zone map"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "3 — General provisions"
 clause: "13"

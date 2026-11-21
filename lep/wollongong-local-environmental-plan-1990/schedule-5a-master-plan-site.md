@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5A — Master plan site"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 5A (Clauses 38 and 38A)"
 last_verified: 2026-07-01

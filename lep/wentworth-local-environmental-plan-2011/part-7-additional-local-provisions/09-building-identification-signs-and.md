@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Building identification signs and business identification signs on land in Zone C4"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

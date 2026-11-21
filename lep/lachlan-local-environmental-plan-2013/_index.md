@@ -2,7 +2,7 @@
 title: "Lachlan Local Environmental Plan 2013"
 document_id: epi-2013-0429
 current_from: 2026-07-01
-council: "Lachlan"
+council: "Lachlan Shire Council"
 ---
 
 # Lachlan Local Environmental Plan 2013

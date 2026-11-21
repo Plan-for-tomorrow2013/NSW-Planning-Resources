@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Development within Zone 7 (Environment/Scenic Protection)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "16"

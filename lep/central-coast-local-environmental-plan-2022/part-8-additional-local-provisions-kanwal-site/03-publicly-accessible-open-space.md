@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.3 Publicly accessible open space"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "8 — Additional local provisions—Kanwal Site"
 clause: "8.3"

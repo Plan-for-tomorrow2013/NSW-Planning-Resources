@@ -1,6 +1,6 @@
 ---
 title: "Clause 79 Bush fire protection objectives"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 5 Bush fire protection"
 clause: "79"

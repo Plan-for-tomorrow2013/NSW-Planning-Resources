@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Height of buildings exhibiting design excellence at certain sites at Narellan and Spring Farm"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

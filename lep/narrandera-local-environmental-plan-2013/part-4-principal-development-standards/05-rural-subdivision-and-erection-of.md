@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Rural subdivision and erection of dwelling houses for intensive plant agriculture"
-council: "Narrandera"
+council: "Narrandera Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

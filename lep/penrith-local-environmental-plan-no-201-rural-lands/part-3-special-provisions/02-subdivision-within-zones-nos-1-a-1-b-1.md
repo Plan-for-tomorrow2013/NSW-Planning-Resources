@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Subdivision within Zones Nos 1 (a), 1 (b), 1 (c), 5 (d) and 7"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "11"

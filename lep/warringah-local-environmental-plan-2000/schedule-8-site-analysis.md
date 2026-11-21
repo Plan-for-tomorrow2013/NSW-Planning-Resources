@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8 — Site analysis"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 8 (Clause 22 (2) (a))"
 last_verified: 2026-07-01

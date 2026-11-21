@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Development within the quarry buffer area in Zone 2 (f)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Residential Zones Provisions"
 clause: "26"

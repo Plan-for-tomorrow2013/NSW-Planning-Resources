@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development at 924 Pacific Highway, Gordon"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

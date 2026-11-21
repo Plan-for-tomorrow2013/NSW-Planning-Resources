@@ -1,6 +1,6 @@
 ---
 title: "Zone SP5 — Metropolitan Centre"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 zone_code: SP5
 zone: "Metropolitan Centre"

@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

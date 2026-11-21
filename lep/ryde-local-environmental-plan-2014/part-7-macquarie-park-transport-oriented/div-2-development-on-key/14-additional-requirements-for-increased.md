@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Additional requirements for increased building height and floor space ratios on Key Sites"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "7 — Macquarie Park Transport Oriented Development Precinct / Division 2 Development on key sites"
 clause: "7.21"

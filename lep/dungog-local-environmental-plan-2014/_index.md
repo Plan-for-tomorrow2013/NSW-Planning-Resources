@@ -2,7 +2,7 @@
 title: "Dungog Local Environmental Plan 2014"
 document_id: epi-2014-0301
 current_from: 2026-07-01
-council: "Dungog"
+council: "Dungog Shire Council"
 ---
 
 # Dungog Local Environmental Plan 2014

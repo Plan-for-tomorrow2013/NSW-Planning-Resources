@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 Restriction on granting consent for development within Zone 6 (a)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "7 — Open Space Zones Provisions"
 clause: "45"

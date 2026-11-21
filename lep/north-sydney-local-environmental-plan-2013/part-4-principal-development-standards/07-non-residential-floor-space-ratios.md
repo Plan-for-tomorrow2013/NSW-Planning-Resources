@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Non-residential floor space ratios"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

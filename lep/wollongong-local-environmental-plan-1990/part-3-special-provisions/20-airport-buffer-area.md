@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Airport buffer area"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "22"

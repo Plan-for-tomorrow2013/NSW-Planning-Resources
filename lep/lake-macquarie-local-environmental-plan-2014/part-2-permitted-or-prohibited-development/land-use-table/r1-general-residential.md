@@ -1,6 +1,6 @@
 ---
 title: "Zone R1 — General Residential"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 zone_code: R1
 zone: "General Residential"

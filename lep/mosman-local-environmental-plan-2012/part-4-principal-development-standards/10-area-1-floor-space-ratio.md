@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Area 1—floor space ratio"
-council: "Mosman"
+council: "Mosman Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

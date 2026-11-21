@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Pond-based and tank-based aquaculture"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 5.19)"
 last_verified: 2026-10-16

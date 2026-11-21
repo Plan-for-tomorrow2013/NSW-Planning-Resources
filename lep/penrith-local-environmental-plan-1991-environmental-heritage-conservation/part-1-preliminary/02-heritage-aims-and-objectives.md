@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Heritage aims and objectives"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "2"

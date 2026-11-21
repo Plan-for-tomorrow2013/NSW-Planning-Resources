@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

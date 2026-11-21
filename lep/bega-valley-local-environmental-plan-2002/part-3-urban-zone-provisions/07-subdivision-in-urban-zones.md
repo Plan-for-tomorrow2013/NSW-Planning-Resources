@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Subdivision in urban zones"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "3 — Urban zone provisions"
 clause: "26"

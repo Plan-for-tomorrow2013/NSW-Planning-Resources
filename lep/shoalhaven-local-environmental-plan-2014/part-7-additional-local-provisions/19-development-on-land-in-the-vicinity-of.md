@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Development on land in the vicinity of the Western Bypass Corridor"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.21"

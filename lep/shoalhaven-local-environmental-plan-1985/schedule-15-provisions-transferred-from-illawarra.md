@@ -1,6 +1,6 @@
 ---
 title: "Schedule 15 — Provisions transferred from Illawarra Regional Environmental Plan No 1"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 15"
 last_verified: 2026-07-01

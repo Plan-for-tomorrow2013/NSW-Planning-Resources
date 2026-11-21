@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Savings"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

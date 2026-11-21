@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Essential services"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

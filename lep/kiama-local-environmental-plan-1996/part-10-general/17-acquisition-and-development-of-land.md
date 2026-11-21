@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Acquisition and development of land within the proposed arterial road zone"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "61"

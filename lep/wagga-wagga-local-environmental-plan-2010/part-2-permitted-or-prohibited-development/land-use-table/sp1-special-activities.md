@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

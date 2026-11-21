@@ -1,6 +1,6 @@
 ---
 title: "Clause 32A Coastal erosion hazard area—Lennox Head"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "32A"

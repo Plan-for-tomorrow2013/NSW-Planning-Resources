@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Development within Zone No 7 (d), 7 (d1) or 7 (i)"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "25"

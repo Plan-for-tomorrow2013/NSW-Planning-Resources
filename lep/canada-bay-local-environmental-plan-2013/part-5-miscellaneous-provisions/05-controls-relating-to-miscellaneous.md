@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.4 Controls relating to miscellaneous permissible uses"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.4"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AC Exceptions to minimum subdivision lots sizes for certain split zones"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AC"

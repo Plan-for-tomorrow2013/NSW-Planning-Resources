@@ -2,7 +2,7 @@
 title: "Hurstville Local Environmental Plan 1994"
 document_id: epi-1994-0189
 current_from: 2026-07-01
-council: "Hurstville"
+council: "Georges River Council"
 ---
 
 # Hurstville Local Environmental Plan 1994

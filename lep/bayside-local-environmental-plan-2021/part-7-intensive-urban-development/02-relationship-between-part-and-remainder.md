@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Relationship between Part and remainder of Plan"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "7 — Intensive urban development"
 clause: "7.2"

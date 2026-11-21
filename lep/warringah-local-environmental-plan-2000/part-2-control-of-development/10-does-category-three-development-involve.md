@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Does Category Three development involve extra procedures?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "15"

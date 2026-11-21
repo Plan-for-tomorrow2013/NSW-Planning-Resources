@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Urban release areas"
-council: "Corowa"
+council: "Federation Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

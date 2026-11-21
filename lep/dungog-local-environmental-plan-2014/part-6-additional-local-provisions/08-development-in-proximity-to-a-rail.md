@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development in proximity to a rail corridor on Verge Street"
-council: "Dungog"
+council: "Dungog Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

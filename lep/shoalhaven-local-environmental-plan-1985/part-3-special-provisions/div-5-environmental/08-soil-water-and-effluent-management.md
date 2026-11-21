@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Soil, water and effluent management"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "26"

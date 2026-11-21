@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Restrictions on building etc in Zone No 1 (a1), 1 (a2), 1 (b), 1 (c1), 1 (c2) or 1 (d)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Rural uses"
 clause: "31"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Biodiversity protection"
-council: "Gilgandra"
+council: "Gilgandra Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.1"

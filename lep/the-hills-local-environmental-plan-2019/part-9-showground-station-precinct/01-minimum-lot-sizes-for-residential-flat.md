@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.1 Minimum lot sizes for residential flat buildings and shop top housing"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.1"

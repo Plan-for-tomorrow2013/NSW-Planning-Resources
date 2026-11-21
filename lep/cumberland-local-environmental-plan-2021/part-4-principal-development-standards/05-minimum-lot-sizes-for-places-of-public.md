@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum lot sizes for places of public worship in Zones R3 and R4"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

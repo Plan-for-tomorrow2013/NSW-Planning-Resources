@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Additional local provisions"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Landscaped areas in Zones RU5, R2 and R3"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

@@ -2,7 +2,7 @@
 title: "Leeton Local Environmental Plan 2014"
 document_id: epi-2014-0353
 current_from: 2026-07-01
-council: "Leeton"
+council: "Leeton Shire Council"
 ---
 
 # Leeton Local Environmental Plan 2014

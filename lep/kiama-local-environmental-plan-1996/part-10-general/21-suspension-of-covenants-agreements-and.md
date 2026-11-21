@@ -1,6 +1,6 @@
 ---
 title: "Clause 64 Suspension of covenants, agreements and other instruments"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "64"

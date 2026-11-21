@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.19 Development of land at Woodville Road, Merrylands"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.19"

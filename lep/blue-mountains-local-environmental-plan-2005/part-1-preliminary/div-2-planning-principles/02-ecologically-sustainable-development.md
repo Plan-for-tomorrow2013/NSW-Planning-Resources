@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Ecologically sustainable development"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "1 — Preliminary / Division 2 Planning principles"
 clause: "11"

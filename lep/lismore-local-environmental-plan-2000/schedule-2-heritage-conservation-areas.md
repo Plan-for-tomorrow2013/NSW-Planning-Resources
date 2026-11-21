@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Heritage conservation areas"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 14)"
 last_verified: 2026-07-01

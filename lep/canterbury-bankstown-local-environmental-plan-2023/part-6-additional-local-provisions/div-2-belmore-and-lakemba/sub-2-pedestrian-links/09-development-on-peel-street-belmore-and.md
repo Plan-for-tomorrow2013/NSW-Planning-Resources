@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.67 Development on Peel Street, Belmore and Moreton Street, Lakemba"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 2 Pedestrian links"
 clause: "6.67"

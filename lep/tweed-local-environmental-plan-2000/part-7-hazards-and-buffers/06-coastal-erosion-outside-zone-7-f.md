@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Coastal erosion outside Zone 7 (f)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Hazards and buffers"
 clause: "36"

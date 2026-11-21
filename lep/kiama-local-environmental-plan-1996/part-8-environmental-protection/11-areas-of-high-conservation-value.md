@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Areas of High Conservation Value—Development"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "37"

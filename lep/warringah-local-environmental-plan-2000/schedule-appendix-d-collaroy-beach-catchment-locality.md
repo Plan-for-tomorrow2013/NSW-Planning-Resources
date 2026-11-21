@@ -1,6 +1,6 @@
 ---
 title: "Appendix D — Collaroy Beach Catchment Locality Statements"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Appendix D"
 last_verified: 2026-07-01

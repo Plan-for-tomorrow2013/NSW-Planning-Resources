@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-07-01

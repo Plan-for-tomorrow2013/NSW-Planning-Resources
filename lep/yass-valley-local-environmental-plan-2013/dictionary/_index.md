@@ -1,6 +1,6 @@
 ---
 title: "Dictionary"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

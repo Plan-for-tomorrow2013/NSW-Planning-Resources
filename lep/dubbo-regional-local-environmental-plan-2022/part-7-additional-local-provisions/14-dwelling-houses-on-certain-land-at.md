@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Dwelling houses on certain land at Warrie Road, Dubbo"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

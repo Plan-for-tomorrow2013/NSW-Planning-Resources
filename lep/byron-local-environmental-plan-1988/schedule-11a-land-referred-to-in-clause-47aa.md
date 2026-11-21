@@ -1,6 +1,6 @@
 ---
 title: "Schedule 11A — Land referred to in clause 47AA"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 11A"
 last_verified: 2025-02-14

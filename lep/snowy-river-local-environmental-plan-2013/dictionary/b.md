@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — B"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 dictionary_range: "B"
 last_verified: 2026-07-01

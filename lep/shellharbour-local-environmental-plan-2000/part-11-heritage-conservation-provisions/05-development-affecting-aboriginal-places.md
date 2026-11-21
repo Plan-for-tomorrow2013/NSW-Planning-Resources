@@ -1,6 +1,6 @@
 ---
 title: "Clause 75A Development affecting Aboriginal places or sites of heritage significance"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "11 — Heritage Conservation Provisions"
 clause: "75A"

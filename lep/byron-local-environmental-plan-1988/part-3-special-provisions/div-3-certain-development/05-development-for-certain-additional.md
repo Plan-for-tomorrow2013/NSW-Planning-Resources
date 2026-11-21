@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Development for certain additional purposes"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "29"

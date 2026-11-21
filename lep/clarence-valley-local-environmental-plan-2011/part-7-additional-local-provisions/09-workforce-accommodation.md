@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Workforce accommodation"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

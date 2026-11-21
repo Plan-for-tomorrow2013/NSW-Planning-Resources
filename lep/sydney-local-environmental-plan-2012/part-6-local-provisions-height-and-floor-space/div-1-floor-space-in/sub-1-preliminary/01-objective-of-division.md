@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Objective of Division"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 1 Floor space in Central Sydney / Subdivision 1 Preliminary"
 clause: "6.1"

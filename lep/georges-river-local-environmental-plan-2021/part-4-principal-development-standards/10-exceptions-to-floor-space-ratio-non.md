@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4B Exceptions to floor space ratio—non-residential uses"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4B"

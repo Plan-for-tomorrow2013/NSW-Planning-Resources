@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Development in Willandra Lakes Region World Heritage Property"
-council: "Balranald"
+council: "Balranald Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

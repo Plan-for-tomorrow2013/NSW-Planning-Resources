@@ -2,7 +2,7 @@
 title: "Bega Valley Local Environmental Plan 2002"
 document_id: epi-2002-0364
 current_from: 2026-07-01
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 ---
 
 # Bega Valley Local Environmental Plan 2002

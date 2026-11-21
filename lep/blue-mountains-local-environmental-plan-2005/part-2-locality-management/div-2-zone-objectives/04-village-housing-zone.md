@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Village—Housing zone"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 2 Zone objectives"
 clause: "21"

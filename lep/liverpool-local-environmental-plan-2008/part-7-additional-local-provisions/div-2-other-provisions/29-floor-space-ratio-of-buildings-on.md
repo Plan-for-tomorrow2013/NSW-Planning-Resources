@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.37 Floor space ratio of buildings on certain land at Bigge, Elizabeth and George Streets"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.37"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Subdivision of land at 92 Dunoon Road, North Lismore"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Additional permitted uses"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 2.5)"
 last_verified: 2026-09-18

@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.9 Maximum floor space for retail premises in Hyam Street Sub-precinct"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
 clause: "8.9"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Preservation of bushland"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 6 (Clauses 17 (5) and 36 (3))"
 last_verified: 2026-07-01

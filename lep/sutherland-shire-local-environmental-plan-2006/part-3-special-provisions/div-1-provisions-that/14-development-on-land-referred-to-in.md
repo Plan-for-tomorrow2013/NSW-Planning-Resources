@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Development on land referred to in clause 26 before acquired or used for purpose for which reserved"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Provisions that apply to particular land"
 clause: "27"

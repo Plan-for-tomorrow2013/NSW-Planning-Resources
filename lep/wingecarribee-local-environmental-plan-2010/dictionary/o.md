@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-09-25

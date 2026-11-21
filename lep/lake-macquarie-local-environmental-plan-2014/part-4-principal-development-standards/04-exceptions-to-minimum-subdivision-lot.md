@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Exceptions to minimum subdivision lot sizes for certain residential development in urban release areas"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

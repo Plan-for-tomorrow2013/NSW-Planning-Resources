@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-09-25

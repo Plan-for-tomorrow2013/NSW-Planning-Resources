@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Consent authority"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

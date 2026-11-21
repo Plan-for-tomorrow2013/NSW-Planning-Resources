@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 Development of specific sites"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Building lines along main roads"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "34"

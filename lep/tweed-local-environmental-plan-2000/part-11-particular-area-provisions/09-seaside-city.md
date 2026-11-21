@@ -1,6 +1,6 @@
 ---
 title: "Clause 53C Seaside City"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53C"

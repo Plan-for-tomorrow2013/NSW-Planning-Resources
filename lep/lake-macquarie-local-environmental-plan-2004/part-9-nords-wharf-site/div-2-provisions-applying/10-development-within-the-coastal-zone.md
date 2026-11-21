@@ -1,6 +1,6 @@
 ---
 title: "Clause 99 Development within the coastal zone"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "9 — Nords Wharf site / Division 2 Provisions applying to development in Nords Wharf site"
 clause: "99"

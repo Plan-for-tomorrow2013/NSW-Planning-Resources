@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Strata subdivisions in certain residential, rural, conservation or waterways zones"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

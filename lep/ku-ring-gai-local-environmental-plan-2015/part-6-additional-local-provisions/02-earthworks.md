@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Earthworks"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.2"

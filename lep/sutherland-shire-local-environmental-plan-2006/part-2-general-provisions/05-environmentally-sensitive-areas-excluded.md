@@ -1,6 +1,6 @@
 ---
 title: "Clause 13A Environmentally sensitive areas excluded"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "13A"

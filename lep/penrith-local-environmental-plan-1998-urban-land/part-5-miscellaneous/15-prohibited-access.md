@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Prohibited access"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "29"

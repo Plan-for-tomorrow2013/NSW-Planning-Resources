@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.9 Dwelling house or secondary dwelling affected by natural disaster"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.9"

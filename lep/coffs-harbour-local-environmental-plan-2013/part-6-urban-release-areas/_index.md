@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Urban release areas"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

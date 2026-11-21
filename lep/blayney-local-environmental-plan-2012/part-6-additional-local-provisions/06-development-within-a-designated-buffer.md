@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Development within a designated buffer area"
-council: "Blayney"
+council: "Blayney Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

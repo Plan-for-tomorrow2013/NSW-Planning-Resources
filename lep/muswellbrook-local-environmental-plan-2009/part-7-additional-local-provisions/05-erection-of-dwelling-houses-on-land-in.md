@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Erection of dwelling houses on land in certain rural and conservation zones"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

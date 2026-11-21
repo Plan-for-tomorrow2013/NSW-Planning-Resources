@@ -1,6 +1,6 @@
 ---
 title: "Clause 49 Development affecting places or sites of known or potential Aboriginal heritage significance"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Conservation of heritage"
 clause: "49"

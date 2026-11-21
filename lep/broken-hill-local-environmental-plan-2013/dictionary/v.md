@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Broken Hill"
+council: "Broken Hill City Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-07-10

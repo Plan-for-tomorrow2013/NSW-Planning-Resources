@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Subdivision of certain land in Zones RU1 and C3"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

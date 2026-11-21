@@ -1,6 +1,6 @@
 ---
 title: "Clause 65 Saving of certain development applications"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "65"

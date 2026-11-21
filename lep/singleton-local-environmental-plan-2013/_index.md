@@ -2,7 +2,7 @@
 title: "Singleton Local Environmental Plan 2013"
 document_id: epi-2013-0524
 current_from: 2026-07-01
-council: "Singleton"
+council: "Singleton Council"
 ---
 
 # Singleton Local Environmental Plan 2013

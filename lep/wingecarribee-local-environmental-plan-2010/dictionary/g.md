@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-09-25

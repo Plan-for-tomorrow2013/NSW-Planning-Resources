@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.35 Development of certain land at Parramatta Road and Pyrmont Bridge Road"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.35"

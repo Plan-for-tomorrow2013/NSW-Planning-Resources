@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Conservation corridor"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

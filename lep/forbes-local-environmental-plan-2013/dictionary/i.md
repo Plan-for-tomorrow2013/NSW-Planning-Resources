@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — I"
-council: "Forbes"
+council: "Forbes Shire Council"
 document_type: LEP
 dictionary_range: "I"
 last_verified: 2026-07-01

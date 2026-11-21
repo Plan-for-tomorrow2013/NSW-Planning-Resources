@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.5 Existing development applications"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "8 — Growth areas"
 clause: "8.5"

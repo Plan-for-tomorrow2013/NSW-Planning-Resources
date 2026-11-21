@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

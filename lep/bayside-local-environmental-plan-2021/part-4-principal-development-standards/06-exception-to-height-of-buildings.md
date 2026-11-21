@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Exception to height of buildings—O'Riordan Street, Mascot"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Underground power lines on certain land at Carlingford"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

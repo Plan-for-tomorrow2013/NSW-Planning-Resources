@@ -1,6 +1,6 @@
 ---
 title: "Division 2 North Tuncurry Urban Release Area"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

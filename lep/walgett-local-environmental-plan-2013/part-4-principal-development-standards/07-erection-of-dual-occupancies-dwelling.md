@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dual occupancies, dwelling houses or secondary dwellings on land in certain rural, residential and conservation zones"
-council: "Walgett"
+council: "Walgett Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

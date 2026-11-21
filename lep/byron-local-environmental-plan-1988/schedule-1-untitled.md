@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — "
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 1"
 last_verified: 2025-02-14

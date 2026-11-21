@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Vehicular access to certain land at Hillsdale fronting Denison Street"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

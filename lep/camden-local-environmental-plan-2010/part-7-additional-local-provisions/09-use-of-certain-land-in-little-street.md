@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Use of certain land in Little Street Industrial Precinct"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

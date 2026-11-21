@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

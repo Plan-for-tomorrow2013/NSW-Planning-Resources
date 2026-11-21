@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.10 Heritage conservation"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.10"

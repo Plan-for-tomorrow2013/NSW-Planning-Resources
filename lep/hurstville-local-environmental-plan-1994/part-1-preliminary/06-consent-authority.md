@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Consent authority"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "6"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Location of sex services premises"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

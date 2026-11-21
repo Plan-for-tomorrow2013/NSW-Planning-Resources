@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Zoning controls for Zone No 9 (a)—the Arterial Road Reservation Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "18"

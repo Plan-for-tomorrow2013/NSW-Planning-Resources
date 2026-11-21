@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 How will the built form of development be controlled?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "18"

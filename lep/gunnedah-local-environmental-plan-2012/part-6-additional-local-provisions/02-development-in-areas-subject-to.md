@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Development in areas subject to aircraft noise"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

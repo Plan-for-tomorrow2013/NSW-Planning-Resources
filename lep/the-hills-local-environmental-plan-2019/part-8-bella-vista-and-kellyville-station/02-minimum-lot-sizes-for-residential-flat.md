@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.2 Minimum lot sizes for residential flat buildings and shop top housing"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.2"

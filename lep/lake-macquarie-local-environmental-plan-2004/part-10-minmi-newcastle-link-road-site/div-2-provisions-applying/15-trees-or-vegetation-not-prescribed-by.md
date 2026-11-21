@@ -1,6 +1,6 @@
 ---
 title: "Clause 125 Trees or vegetation not prescribed by development control plan"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "10 — Minmi-Newcastle Link Road site / Division 2 Provisions applying to development in Minmi-Newcastle Link Road site"
 clause: "125"

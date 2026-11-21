@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Development on river beds and banks"
-council: "Wakool"
+council: "Murray River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

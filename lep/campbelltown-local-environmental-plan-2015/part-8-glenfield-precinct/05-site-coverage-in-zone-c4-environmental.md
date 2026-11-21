@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.5 Site coverage in Zone C4 Environmental Living"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "8 — Glenfield Precinct"
 clause: "8.5"

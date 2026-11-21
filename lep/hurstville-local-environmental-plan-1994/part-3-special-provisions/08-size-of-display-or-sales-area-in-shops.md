@@ -1,6 +1,6 @@
 ---
 title: "Clause 13A Size of display or sales area in shops on land within Zone No 3 (a)"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "13A"

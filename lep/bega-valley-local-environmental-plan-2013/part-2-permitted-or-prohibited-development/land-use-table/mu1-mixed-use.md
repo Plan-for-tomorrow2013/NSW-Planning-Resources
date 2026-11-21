@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

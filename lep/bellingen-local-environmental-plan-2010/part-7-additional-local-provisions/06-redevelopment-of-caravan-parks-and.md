@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Redevelopment of caravan parks and manufactured home estates"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

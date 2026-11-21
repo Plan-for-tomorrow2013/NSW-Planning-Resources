@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Stormwater management"
-council: "Cabonne"
+council: "Cabonne Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.2"

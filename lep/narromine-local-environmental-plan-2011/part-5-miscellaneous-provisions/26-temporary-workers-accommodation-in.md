@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.25A Temporary workers' accommodation in Zones RU1, RU5 and R5"
-council: "Narromine"
+council: "Narromine Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.25A"

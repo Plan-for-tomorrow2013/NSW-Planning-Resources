@@ -1,6 +1,6 @@
 ---
 title: "Division 1 Development in the 1 (a) Agriculture and 1 (rl) Rural Landscape Zones"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

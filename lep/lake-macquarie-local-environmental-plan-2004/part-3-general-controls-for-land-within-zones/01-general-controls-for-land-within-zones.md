@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 General controls for land within zones"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "3 — General controls for land within zones"
 clause: "15"

@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

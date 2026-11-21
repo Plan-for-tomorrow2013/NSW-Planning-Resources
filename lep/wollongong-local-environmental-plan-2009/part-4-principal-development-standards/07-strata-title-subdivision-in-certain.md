@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Strata title subdivision in certain rural and conservation zones"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

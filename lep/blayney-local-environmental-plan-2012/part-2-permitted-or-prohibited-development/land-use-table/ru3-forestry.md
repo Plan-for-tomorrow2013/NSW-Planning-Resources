@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Blayney"
+council: "Blayney Shire Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

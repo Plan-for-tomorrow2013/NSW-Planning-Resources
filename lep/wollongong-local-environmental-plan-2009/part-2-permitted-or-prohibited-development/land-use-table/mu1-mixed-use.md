@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

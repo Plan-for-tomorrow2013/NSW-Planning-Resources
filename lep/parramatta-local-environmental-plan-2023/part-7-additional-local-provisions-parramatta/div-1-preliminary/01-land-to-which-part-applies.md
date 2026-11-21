@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Land to which Part applies"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 1 Preliminary"
 clause: "7.1"

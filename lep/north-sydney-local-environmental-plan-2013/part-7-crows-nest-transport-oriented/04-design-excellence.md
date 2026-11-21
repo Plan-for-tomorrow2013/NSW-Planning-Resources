@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Design excellence"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "7 — Crows Nest Transport Oriented Development Precinct"
 clause: "7.4"

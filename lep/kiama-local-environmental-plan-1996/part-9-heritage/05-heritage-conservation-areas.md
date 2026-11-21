@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 Heritage conservation areas"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9 — Heritage"
 clause: "45"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 54I Development of certain land in the vicinity of Badgee Lagoon, Sussex Inlet"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "54I"

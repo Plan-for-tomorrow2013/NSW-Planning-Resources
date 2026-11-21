@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Public bushland"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "43"

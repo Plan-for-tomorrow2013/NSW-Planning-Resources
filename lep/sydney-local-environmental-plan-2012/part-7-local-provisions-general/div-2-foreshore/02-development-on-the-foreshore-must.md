@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Development on the foreshore must ensure access"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 2 Foreshore development"
 clause: "7.11"

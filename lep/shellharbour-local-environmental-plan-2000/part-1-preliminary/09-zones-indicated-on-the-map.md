@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Zones indicated on the map"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "9"

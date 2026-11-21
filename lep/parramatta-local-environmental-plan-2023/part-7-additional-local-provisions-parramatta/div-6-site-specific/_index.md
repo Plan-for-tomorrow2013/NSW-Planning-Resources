@@ -1,6 +1,6 @@
 ---
 title: "Division 6 Site specific provisions"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

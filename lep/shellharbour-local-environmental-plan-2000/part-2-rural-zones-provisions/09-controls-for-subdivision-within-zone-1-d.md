@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Controls for subdivision within Zone 1 (d)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — Rural Zones Provisions"
 clause: "19"

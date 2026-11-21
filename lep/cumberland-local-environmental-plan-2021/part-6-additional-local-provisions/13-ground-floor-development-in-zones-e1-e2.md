@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Ground floor development in Zones E1, E2 and MU1"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

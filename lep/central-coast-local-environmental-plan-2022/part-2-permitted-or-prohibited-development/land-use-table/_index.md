@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

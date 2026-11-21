@@ -2,7 +2,7 @@
 title: "Wollondilly Local Environmental Plan 2011"
 document_id: epi-2011-0085
 current_from: 2026-07-01
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 ---
 
 # Wollondilly Local Environmental Plan 2011

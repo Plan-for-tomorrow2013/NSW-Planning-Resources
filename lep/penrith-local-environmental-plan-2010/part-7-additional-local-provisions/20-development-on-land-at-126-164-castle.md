@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20A Development on land at 126-164 Castle Road, Orchard Hills"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.20A"

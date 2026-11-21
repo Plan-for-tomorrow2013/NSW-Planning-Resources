@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Development must be consistent with objectives for development and design excellence"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "7 — Dee Why Town Centre"
 clause: "7.4"

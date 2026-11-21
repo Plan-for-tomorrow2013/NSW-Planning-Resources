@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Exempt and complying development"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "9"

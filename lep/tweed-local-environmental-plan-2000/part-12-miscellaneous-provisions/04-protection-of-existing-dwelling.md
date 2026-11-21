@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Protection of existing dwelling entitlement"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "12 — Miscellaneous provisions"
 clause: "57"

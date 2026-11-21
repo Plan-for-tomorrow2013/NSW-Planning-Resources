@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

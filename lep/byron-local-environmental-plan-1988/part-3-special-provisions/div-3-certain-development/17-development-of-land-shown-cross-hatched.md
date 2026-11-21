@@ -1,6 +1,6 @@
 ---
 title: "Clause 38A Development of land shown cross-hatched within Zones 1 (a), 1 (b1), 1 (d) and 7 (k) adjacent to Environmental Protection Zones 7 (a), 7 (b), 7 (k) and 7 (j)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "38A"

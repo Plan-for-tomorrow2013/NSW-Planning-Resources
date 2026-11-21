@@ -2,7 +2,7 @@
 title: "Lismore Local Environmental Plan 2012"
 document_id: epi-2013-0066
 current_from: 2026-10-16
-council: "Lismore"
+council: "Lismore City Council"
 ---
 
 # Lismore Local Environmental Plan 2012

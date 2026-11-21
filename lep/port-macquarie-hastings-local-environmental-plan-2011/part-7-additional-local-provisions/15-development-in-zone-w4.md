@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Development in Zone W4"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16"

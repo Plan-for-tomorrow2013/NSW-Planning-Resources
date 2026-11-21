@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Heritage items"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 3 (Schedule 1)"
 last_verified: 2026-07-01

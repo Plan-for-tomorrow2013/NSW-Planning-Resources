@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 1 — Local heritage items"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-07-01

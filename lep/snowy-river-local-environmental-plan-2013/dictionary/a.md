@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — A"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 dictionary_range: "A"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Riparian land and Murray River and other watercourses—general principles"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

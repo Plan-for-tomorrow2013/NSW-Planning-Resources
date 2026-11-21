@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum subdivision lot size for land in Zones R2 and R3"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

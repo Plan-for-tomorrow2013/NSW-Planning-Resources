@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.7 Development of certain land on Young Road, Broadmeadow—Newcastle Basketball Stadium and Newcastle PCYC"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "9 — Additional local provisions—Broadmeadow Precinct / Division 2 Development on key sites"
 clause: "9.7"

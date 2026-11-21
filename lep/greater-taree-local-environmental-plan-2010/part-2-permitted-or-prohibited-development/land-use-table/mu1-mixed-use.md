@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 11 — Restricted development"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 11 (Clause 42A)"
 last_verified: 2023-11-10

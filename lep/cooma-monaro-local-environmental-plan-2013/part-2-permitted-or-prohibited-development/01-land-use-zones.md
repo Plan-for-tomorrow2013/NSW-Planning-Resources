@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.1 Land use zones"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.1"

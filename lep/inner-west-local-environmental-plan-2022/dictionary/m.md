@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-09-04

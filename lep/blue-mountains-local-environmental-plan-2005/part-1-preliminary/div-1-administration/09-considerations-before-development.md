@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Considerations before development consent"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "1 — Preliminary / Division 1 Administration"
 clause: "9"

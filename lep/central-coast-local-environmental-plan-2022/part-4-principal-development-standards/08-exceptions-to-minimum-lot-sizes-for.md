@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1F Exceptions to minimum lot sizes for biodiversity conservation"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1F"

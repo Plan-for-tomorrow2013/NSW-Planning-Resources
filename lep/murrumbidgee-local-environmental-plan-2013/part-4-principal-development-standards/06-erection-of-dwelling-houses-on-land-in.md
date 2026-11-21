@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of dwelling houses on land in certain rural, residential and conservation zones"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

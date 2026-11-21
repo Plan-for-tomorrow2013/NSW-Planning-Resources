@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1F Minimum subdivision lot size for community scheme and strata plan lots"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1F"

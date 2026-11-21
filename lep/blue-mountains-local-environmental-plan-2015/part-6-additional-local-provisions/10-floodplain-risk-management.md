@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Floodplain risk management"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

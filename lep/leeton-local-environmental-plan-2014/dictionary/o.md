@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Leeton"
+council: "Leeton Shire Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-07-01

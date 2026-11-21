@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Protected area—land between towns"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

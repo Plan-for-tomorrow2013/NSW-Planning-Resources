@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AB Minimum subdivision lot size for strata plan schemes in certain rural, residential and conservation zones"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AB"

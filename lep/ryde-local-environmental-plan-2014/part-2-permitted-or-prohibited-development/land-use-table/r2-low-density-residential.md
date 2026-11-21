@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

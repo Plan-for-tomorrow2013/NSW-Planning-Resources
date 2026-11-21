@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Floor height restrictions for residential accommodation and tourist or visitor accommodation"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

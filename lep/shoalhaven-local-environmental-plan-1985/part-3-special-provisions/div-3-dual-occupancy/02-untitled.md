@@ -1,6 +1,6 @@
 ---
 title: "Clause 18A"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Dual occupancy development"
 clause: "18A"

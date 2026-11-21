@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.30 Maximum floor area that may be used for retail premises for certain land in Zone E1 at Hoxton Park"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.30"

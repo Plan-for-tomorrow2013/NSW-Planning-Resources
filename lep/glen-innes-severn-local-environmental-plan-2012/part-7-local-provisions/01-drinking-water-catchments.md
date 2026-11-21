@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Drinking water catchments"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.2"

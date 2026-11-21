@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Zone objectives and Land Use Table"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "2 — Zonings and land uses"
 clause: "9"

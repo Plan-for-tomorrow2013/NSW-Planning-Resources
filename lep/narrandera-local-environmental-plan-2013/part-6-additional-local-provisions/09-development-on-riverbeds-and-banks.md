@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development on riverbeds and banks"
-council: "Narrandera"
+council: "Narrandera Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

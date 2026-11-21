@@ -1,6 +1,6 @@
 ---
 title: "Clause 73 On-site loading and unloading"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 5 Traffic, access and carparking"
 clause: "73"

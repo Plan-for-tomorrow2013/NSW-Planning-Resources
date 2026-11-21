@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — I"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 dictionary_range: "I"
 last_verified: 2026-09-25

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development in areas subject to aircraft noise"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions"
 clause: "6.9"

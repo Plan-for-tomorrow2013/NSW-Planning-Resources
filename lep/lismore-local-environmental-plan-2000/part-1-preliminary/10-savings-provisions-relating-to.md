@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Savings provisions relating to development applications"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "10"

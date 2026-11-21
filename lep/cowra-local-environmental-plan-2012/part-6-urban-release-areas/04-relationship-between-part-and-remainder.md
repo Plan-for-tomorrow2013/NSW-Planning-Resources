@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Relationship between Part and remainder of Plan"
-council: "Cowra"
+council: "Cowra Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.5"

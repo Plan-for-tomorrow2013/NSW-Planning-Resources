@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Development for certain additional purposes"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 63)"
 last_verified: 2022-03-04

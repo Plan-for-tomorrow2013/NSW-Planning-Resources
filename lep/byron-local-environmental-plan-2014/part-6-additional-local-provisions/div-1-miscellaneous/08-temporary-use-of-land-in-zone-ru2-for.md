@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Temporary use of land in Zone RU2 for purpose of function centre"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.11"

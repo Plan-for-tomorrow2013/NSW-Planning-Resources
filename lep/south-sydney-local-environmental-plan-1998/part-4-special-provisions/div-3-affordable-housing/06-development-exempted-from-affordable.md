@@ -1,6 +1,6 @@
 ---
 title: "Clause 27Q Development exempted from affordable housing conditions"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 3 Affordable housing at Green Square"
 clause: "27Q"

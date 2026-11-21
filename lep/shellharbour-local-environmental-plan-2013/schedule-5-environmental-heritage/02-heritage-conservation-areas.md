@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 2 — Heritage conservation areas"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-09-11

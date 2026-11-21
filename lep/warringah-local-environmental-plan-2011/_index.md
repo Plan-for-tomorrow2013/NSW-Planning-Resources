@@ -2,7 +2,7 @@
 title: "Warringah Local Environmental Plan 2011"
 document_id: epi-2011-0649
 current_from: 2026-07-10
-council: "Warringah"
+council: "Northern Beaches Council"
 ---
 
 # Warringah Local Environmental Plan 2011

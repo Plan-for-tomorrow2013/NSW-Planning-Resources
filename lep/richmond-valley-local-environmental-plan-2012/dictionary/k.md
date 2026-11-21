@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — K"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 dictionary_range: "K"
 last_verified: 2026-07-01

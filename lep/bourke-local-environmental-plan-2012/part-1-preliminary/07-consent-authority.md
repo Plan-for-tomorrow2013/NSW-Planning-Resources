@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.6 Consent authority"
-council: "Bourke"
+council: "Bourke Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.6"

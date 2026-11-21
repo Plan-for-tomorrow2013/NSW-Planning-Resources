@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Interpretation"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "6"

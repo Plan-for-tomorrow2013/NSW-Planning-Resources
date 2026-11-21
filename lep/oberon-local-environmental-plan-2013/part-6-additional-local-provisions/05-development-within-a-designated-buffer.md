@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development within a designated buffer area"
-council: "Oberon"
+council: "Oberon Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Minimum subdivision lot size for strata plan schemes in certain rural and conservation zones"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 Development in the vicinity of heritage items, heritage conservation areas, archaeological sites or potential archaeological sites"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "8 — Heritage provisions"
 clause: "45"

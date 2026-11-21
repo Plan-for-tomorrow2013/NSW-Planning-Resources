@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Specific controls on land adjoining locally significant employment site"
-council: "Tumbarumba"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

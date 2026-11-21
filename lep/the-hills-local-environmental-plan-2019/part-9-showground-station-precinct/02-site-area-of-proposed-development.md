@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.2 Site area of proposed development includes dedicated land"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.2"

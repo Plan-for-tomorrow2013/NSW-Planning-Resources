@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.4 Development requiring the preparation of a development control plan"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.4"

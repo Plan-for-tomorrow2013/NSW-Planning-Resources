@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.101 Development at Rossmore Avenue and Arthur Street, Punchbowl"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 3 Punchbowl and Wiley Park Precinct / Subdivision 2 General incentive provisions"
 clause: "6.101"

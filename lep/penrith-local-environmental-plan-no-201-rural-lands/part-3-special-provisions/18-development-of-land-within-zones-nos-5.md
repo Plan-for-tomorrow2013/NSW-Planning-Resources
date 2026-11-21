@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Development of land within Zones Nos 5 (b) and 6 (a)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "27"

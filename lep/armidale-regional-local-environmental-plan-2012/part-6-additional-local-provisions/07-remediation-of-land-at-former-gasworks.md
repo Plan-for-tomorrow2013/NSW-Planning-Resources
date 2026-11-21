@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Remediation of land at former gasworks site and adjoining land, Armidale"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

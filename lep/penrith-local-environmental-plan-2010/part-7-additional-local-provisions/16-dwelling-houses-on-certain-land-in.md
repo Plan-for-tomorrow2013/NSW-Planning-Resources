@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Dwelling houses on certain land in Castlereagh, Cranebrook, Llandilo, Londonderry, Kemps Creek and Mulgoa"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Exceptions to minimum subdivision lot size for lot boundary adjustments"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

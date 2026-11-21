@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Preservation of certain existing landscaped area"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "8 — Site specific provisions"
 clause: "8.1"

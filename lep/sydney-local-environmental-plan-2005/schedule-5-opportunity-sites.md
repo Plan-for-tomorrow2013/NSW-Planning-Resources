@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Opportunity sites"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 5 (Clause 56 and Dictionary)"
 last_verified: 2023-12-14

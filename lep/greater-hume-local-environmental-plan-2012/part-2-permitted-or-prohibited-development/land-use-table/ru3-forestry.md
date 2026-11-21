@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Certain land within employment or mixed use zones"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.13"

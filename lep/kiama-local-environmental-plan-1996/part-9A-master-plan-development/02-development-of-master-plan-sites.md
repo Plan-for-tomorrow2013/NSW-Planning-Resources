@@ -1,6 +1,6 @@
 ---
 title: "Clause 47AB Development of master plan sites"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9A — Master plan development"
 clause: "47AB"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-07-01

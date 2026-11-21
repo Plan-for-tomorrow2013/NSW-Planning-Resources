@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Minimum lot size for shop top housing in Station Gateway East Character Area"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.20"

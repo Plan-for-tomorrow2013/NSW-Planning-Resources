@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Affordable housing contribution for certain development in affordable housing contribution areas"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Affordable housing"
 clause: "6.18"

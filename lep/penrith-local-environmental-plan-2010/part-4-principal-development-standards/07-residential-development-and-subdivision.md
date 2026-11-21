@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Residential development and subdivision prohibited in certain rural, residential and conservation zones"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.6 Minimum site areas—Sites G, H and I"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "8 — Frenchs Forest Precinct"
 clause: "8.6"

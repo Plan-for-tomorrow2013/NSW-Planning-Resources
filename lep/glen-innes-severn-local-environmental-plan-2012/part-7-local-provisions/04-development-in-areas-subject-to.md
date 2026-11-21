@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Development in areas subject to aircraft noise"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.5"

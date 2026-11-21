@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Development near explosive storage area"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

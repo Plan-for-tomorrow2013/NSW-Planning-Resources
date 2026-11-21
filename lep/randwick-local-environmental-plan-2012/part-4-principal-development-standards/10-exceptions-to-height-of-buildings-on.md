@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Exceptions to height of buildings on land within Maroubra Beach Commercial Centre"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

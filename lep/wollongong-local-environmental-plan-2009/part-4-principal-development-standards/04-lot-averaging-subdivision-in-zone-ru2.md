@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Lot averaging subdivision in Zone RU2, Zone C3 or Zone C4"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

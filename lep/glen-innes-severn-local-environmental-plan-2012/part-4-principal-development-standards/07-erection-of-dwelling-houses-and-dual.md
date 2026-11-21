@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses and dual occupancies (attached) on land in certain rural, residential and conservation zones"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Consent authority"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

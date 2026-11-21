@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7 — Major drains"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 7 (Clause 35)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 General provisions in relation to the development"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

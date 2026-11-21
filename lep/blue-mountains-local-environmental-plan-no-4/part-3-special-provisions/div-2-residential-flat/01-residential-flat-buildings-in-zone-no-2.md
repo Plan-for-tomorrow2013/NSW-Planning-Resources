@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Residential flat buildings in Zone No 2 (b1) or 2 (b2)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Residential flat buildings"
 clause: "15"

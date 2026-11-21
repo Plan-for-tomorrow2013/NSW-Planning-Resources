@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 General provisions for the development of land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "5 — Employment"
 clause: "23"

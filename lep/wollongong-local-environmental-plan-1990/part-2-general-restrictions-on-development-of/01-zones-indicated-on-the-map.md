@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Zones indicated on the map"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "8"

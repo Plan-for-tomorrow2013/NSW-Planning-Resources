@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-08-28

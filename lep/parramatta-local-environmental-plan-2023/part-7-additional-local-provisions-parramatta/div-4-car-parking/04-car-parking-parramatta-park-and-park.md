@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.19 Car parking—Parramatta Park and Park Edge Highly Sensitive Area"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 4 Car parking"
 clause: "7.19"

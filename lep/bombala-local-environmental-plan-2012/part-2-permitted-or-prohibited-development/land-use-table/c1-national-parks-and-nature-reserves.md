@@ -1,6 +1,6 @@
 ---
 title: "Zone C1 — National Parks and Nature Reserves"
-council: "Bombala"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: C1
 zone: "National Parks and Nature Reserves"

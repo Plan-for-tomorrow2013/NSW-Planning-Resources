@@ -1,6 +1,6 @@
 ---
 title: "Part 9 — Showground Station Precinct"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

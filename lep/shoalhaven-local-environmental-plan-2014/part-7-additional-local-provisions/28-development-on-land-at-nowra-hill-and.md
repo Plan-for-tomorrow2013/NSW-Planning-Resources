@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.30 Development on land at Nowra Hill and Sussex Inlet"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.30"

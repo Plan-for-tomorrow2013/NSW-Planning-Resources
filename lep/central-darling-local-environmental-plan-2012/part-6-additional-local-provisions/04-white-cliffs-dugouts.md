@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 White Cliffs Dugouts"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

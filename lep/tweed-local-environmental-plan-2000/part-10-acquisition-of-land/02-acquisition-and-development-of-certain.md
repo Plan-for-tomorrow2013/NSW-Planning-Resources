@@ -1,6 +1,6 @@
 ---
 title: "Clause 49 Acquisition and development of certain land in Zones 5 (a) and 6 (a)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "10 — Acquisition of land"
 clause: "49"

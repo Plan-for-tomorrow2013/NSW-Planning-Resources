@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Design excellence"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 3 Design excellence"
 clause: "7.13"

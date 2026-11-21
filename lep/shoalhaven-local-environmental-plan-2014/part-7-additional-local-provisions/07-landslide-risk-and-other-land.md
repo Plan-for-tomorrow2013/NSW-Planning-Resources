@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Landslide risk and other land degradation"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

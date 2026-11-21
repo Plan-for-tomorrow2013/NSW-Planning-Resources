@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Design excellence within Dee Why Town Centre"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "7 — Dee Why Town Centre"
 clause: "7.5"

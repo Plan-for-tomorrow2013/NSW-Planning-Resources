@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Exceptions to minimum subdivision lot sizes for certain land"
-council: "Tumut"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

@@ -1,6 +1,6 @@
 ---
 title: "Zone W1 — Natural Waterways"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 zone_code: W1
 zone: "Natural Waterways"

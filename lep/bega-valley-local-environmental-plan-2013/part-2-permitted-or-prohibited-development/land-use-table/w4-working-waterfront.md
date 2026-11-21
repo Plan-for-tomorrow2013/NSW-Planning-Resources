@@ -1,6 +1,6 @@
 ---
 title: "Zone W4 — Working Waterfront"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 zone_code: W4
 zone: "Working Waterfront"

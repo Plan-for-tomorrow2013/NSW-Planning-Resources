@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Drinking water catchments"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

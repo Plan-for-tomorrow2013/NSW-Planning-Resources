@@ -1,6 +1,6 @@
 ---
 title: "Clause 33A Standards that cannot be used to refuse consent—playing and performing music"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "33A"

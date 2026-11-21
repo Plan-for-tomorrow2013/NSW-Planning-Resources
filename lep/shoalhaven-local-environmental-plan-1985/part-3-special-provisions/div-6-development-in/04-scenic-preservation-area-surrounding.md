@@ -1,6 +1,6 @@
 ---
 title: "Clause 43A Scenic preservation area surrounding village of Cambewarra"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Development in scenic preservation areas"
 clause: "43A"

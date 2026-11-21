@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1F Minimum site areas for dual occupancies, manor houses and multi dwelling housing in Zone R3"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1F"

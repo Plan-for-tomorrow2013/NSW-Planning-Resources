@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Development control table: Industrial Zone"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "5 — Employment"
 clause: "22"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-07-01

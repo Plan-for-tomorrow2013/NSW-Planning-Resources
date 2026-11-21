@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.20 Nuclear research reactor at Lucas Heights Science and Technology Centre"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.20"

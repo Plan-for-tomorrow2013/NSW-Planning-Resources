@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Development on land at 1-1A Cheltenham Road, Croydon"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

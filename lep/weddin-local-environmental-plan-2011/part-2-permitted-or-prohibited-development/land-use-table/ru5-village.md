@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Weddin"
+council: "Weddin Shire Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

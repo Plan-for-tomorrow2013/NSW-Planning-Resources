@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Earthworks"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.2"

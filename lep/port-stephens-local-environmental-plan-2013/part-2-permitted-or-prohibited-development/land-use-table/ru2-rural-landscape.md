@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

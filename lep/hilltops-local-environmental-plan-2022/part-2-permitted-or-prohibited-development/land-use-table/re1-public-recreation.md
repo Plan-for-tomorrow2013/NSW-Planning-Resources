@@ -1,6 +1,6 @@
 ---
 title: "Zone RE1 — Public Recreation"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 zone_code: RE1
 zone: "Public Recreation"

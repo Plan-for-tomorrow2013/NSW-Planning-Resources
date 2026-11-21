@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.3 Design excellence"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "10 — Additional local provisions—North Rocks Village Precinct"
 clause: "10.3"

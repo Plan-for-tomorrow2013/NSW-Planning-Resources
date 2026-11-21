@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Affordable housing in employment, mixed use and residential zones"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Affordable housing"
 clause: "6.17"

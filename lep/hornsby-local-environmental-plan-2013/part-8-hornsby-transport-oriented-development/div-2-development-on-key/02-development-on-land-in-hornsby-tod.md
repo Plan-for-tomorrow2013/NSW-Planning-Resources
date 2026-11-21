@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.8 Development on land in \"Hornsby TOD Precinct—Area 1\""
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "8 — Hornsby Transport Oriented Development Precinct / Division 2 Development on key sites"
 clause: "8.8"

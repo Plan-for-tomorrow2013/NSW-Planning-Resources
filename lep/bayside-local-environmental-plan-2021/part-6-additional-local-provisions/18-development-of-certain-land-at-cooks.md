@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Development of certain land at Cooks Cove"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

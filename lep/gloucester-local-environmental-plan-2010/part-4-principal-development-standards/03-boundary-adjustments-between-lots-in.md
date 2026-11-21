@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Boundary adjustments between lots in Zones RU1 and C3"
-council: "Gloucester"
+council: "MidCoast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

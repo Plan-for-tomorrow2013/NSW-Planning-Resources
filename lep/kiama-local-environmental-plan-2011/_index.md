@@ -2,7 +2,7 @@
 title: "Kiama Local Environmental Plan 2011"
 document_id: epi-2011-0680
 current_from: 2026-07-01
-council: "Kiama"
+council: "Kiama Municipal Council"
 ---
 
 # Kiama Local Environmental Plan 2011

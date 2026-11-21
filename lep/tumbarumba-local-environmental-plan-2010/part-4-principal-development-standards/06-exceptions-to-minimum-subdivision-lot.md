@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Exceptions to minimum subdivision lot sizes for certain rural zones"
-council: "Tumbarumba"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

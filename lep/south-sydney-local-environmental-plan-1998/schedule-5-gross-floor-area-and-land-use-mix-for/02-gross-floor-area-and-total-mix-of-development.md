@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 2 — Gross floor area and total mix of development"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 5 (Clause 27KF)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.4 Site area of proposed development includes dedicated land"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "10 — Additional local provisions—North Rocks Village Precinct"
 clause: "10.4"

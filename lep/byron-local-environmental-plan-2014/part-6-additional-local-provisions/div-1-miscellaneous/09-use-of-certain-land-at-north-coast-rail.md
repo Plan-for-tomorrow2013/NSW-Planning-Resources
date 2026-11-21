@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Use of certain land at North Coast Rail Corridor, between Bayshore Drive and Lawson Street, Byron Bay"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.12"

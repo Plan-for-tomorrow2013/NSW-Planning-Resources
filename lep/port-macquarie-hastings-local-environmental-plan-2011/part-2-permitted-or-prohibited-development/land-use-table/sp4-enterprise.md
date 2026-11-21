@@ -1,6 +1,6 @@
 ---
 title: "Zone SP4 — Enterprise"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"

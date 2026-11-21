@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Certain residential accommodation in Zones E1 and E2"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions"
 clause: "6.14"

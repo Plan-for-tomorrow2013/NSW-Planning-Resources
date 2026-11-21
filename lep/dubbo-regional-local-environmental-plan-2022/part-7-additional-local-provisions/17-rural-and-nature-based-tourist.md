@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Rural and nature-based tourist facilities"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

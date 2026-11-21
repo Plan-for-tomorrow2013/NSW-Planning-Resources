@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Additional uses and controls for certain land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 36)"
 last_verified: 2026-07-01

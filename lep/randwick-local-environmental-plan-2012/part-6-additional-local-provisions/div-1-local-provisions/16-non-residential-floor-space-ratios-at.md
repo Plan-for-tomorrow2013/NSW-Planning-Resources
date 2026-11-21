@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.19 Non-residential floor space ratios at Kensington and Kingsford town centres"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions"
 clause: "6.19"

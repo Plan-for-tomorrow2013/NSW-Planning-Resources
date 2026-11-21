@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Rural Environmental Protection (Estuarine Wetlands), (Wetlands Buffer), (Scenic), (Hinterland) and (Foreshore Protection) Zones—Consideration of Natural Environmental Attributes"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "39"

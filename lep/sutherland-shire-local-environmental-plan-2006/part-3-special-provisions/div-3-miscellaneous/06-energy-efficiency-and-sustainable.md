@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Energy efficiency and sustainable building techniques"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "52"

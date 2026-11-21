@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Community use of educational establishments and tertiary institutions"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "25"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Drinking water catchments"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.5"

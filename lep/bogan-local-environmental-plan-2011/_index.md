@@ -2,7 +2,7 @@
 title: "Bogan Local Environmental Plan 2011"
 document_id: epi-2011-0640
 current_from: 2026-07-24
-council: "Bogan"
+council: "Bogan Shire Council"
 ---
 
 # Bogan Local Environmental Plan 2011

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.27 Bella Vista and Kellyville Transport Oriented Development Precincts Design Guide"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.27"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Suspension of covenants, agreements or instruments"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Special provisions applying to all land"
 clause: "20"

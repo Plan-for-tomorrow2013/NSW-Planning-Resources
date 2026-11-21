@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.25 Farm gate premises"
-council: "Lockhart"
+council: "Lockhart Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.25"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions to minimum lot sizes for land in Zone R1 General Residential in Blayney urban area"
-council: "Blayney"
+council: "Blayney Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

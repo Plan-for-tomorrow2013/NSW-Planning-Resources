@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4D Exceptions to floor space ratio (Areas 5—188 Oxford Street, Paddington)"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4D"

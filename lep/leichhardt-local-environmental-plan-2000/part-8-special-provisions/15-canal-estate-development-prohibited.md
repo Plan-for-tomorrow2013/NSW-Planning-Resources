@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 Canal estate development prohibited"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "44"

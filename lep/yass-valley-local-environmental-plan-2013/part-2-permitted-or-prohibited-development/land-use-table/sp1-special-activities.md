@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

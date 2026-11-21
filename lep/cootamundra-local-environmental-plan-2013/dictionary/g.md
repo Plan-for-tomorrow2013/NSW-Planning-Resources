@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Cootamundra"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-07-01

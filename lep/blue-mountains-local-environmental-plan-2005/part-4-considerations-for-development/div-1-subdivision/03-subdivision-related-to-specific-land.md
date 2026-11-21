@@ -1,6 +1,6 @@
 ---
 title: "Clause 92 Subdivision related to specific land uses"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 1 Subdivision"
 clause: "92"

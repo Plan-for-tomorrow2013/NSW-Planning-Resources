@@ -1,6 +1,6 @@
 ---
 title: "Zone SP4 — Enterprise"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 26A Development within Zone No 6 (a)"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26A"

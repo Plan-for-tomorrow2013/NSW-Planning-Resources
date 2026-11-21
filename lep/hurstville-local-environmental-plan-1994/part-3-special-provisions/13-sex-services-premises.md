@@ -1,6 +1,6 @@
 ---
 title: "Clause 16A Sex services premises"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "16A"

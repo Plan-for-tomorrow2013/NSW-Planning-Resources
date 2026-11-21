@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

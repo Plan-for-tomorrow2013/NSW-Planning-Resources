@@ -2,7 +2,7 @@
 title: "Georges River Local Environmental Plan 2021"
 document_id: epi-2021-0587
 current_from: 2026-10-09
-council: "Georges River"
+council: "Georges River Council"
 ---
 
 # Georges River Local Environmental Plan 2021

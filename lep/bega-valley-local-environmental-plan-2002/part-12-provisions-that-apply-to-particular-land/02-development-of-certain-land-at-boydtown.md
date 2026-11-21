@@ -1,6 +1,6 @@
 ---
 title: "Clause 91 Development of certain land at Boydtown"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "12 — Provisions that apply to particular land"
 clause: "91"

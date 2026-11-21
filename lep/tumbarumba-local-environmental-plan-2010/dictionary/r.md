@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Tumbarumba"
+council: "Snowy Valleys Council"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-07-01

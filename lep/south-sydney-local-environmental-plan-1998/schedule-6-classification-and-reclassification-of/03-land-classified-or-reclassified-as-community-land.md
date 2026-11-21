@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 3 — Land classified, or reclassified, as community land"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 6 (Clause 56A)"
 last_verified: 2026-07-01

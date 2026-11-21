@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Development on natural resources sensitive land"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

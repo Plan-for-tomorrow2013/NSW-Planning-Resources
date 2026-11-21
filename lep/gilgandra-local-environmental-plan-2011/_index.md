@@ -2,7 +2,7 @@
 title: "Gilgandra Local Environmental Plan 2011"
 document_id: epi-2011-0641
 current_from: 2026-07-01
-council: "Gilgandra"
+council: "Gilgandra Shire Council"
 ---
 
 # Gilgandra Local Environmental Plan 2011

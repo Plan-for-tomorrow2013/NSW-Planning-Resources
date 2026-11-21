@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Wetlands"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

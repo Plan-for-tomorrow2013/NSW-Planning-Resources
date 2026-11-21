@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Airspace operations"
-council: "Bland"
+council: "Bland Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

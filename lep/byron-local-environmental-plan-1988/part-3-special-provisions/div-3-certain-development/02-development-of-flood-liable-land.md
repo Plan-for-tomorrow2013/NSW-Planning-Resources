@@ -1,6 +1,6 @@
 ---
 title: "Clause 24 Development of flood liable land"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "24"

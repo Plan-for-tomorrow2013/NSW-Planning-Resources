@@ -1,6 +1,6 @@
 ---
 title: "Clause 27KD Development on sites within the Green Square Town Centre that have frontage to Botany Road or Bourke Street"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2A Green Square Town Centre"
 clause: "27KD"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Complying development"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "9"

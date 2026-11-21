@@ -1,6 +1,6 @@
 ---
 title: "Clause 39A Development of certain land at West Nowra"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "39A"

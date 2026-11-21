@@ -1,6 +1,6 @@
 ---
 title: "Clause 32A Development of certain rural residential land at Mt Vernon"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "32A"

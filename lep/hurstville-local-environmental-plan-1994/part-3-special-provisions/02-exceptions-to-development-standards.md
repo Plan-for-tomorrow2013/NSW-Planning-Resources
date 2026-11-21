@@ -1,6 +1,6 @@
 ---
 title: "Clause 9B Exceptions to development standards"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "9B"

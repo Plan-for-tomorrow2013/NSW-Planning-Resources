@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Dwelling houses in Zone RU4 Primary Production Small Lots"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

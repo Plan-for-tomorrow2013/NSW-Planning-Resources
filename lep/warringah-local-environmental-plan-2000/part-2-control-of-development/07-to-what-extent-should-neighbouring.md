@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 To what extent should neighbouring Locality Statements be considered?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "13"

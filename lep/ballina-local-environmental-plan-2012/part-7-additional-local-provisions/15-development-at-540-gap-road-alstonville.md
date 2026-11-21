@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.18 Development at 540 Gap Road, Alstonville"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.18"

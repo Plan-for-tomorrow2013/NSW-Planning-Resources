@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Public utility infrastructure"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "6 — Urban release areas / Division 1 General"
 clause: "6.2"

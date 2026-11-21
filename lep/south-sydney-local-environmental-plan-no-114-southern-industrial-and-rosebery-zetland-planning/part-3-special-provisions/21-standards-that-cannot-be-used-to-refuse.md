@@ -1,6 +1,6 @@
 ---
 title: "Clause 30 Standards that cannot be used to refuse consent—playing and performing music"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "30"

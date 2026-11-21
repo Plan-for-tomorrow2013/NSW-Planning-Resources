@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.5 Building separation"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "8 — Local provisions—Penrith City Centre"
 clause: "8.5"

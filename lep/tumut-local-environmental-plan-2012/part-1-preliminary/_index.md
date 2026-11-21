@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "Tumut"
+council: "Snowy Valleys Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

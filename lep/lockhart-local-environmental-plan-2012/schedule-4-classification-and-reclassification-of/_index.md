@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Classification and reclassification of public land"
-council: "Lockhart"
+council: "Lockhart Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

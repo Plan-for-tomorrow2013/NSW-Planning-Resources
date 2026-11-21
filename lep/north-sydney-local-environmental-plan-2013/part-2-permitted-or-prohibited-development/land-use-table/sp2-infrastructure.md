@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 71 Acquisition of land within Zone No 6 (a)—effect of rezoning"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 5 Special Uses and Recreation zones"
 clause: "71"

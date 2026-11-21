@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Interpretation"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "4"

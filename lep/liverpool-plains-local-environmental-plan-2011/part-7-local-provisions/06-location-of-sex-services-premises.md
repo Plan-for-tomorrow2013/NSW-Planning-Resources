@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Location of sex services premises"
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.7"

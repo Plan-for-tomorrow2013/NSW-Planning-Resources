@@ -1,6 +1,6 @@
 ---
 title: "Clause 28G Canal estate development prohibited"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "28G"

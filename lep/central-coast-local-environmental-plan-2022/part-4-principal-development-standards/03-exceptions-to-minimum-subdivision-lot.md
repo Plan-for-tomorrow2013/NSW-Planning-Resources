@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions to minimum subdivision lot size under community schemes"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

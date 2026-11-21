@@ -1,6 +1,6 @@
 ---
 title: "Clause 29B Development affecting known or potential archaeological sites of relics of non-Aboriginal heritage significance"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "29B"

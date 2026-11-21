@@ -2,7 +2,7 @@
 title: "Shellharbour Rural Local Environmental Plan 2004"
 document_id: epi-2004-0818
 current_from: 2026-07-01
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 ---
 
 # Shellharbour Rural Local Environmental Plan 2004

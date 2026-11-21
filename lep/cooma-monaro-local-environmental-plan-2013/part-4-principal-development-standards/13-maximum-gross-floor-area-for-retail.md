@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Maximum gross floor area for retail premises"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

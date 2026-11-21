@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Local provisions—general"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

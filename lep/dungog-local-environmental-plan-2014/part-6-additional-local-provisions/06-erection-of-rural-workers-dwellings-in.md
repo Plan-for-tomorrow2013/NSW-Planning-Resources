@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Erection of rural workers' dwellings in Zone RU1 and Zone C3"
-council: "Dungog"
+council: "Dungog Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

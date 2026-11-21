@@ -1,6 +1,6 @@
 ---
 title: "Clause 115 Zone E1 National Parks and Nature Reserves"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "10 — Minmi-Newcastle Link Road site / Division 2 Provisions applying to development in Minmi-Newcastle Link Road site"
 clause: "115"

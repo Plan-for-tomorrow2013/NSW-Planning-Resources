@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.25 Definitions"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Affordable housing"
 clause: "6.25"

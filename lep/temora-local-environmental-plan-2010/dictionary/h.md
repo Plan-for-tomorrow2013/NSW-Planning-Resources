@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Temora"
+council: "Temora Shire Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-07-01

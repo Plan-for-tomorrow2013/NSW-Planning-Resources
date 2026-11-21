@@ -2,7 +2,7 @@
 title: "Penrith Local Environmental Plan No 258—Consent for Dwelling Houses and Other Development"
 document_id: epi-2001-0516
 current_from: 2022-11-21
-council: "Penrith"
+council: "Penrith City Council"
 ---
 
 # Penrith Local Environmental Plan No 258—Consent for Dwelling Houses and Other Development

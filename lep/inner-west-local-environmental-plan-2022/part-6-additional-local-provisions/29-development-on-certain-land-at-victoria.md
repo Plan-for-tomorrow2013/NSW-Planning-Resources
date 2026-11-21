@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.31 Development on certain land at Victoria Road, Marrickville"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.31"

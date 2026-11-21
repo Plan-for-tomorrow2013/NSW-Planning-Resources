@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-10-09

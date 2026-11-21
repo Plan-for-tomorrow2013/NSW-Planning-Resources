@@ -1,6 +1,6 @@
 ---
 title: "Part 4 — Principal development standards"
-council: "Junee"
+council: "Junee Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

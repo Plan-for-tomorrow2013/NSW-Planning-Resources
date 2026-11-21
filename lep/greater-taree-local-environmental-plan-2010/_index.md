@@ -2,7 +2,7 @@
 title: "Greater Taree Local Environmental Plan 2010"
 document_id: epi-2010-0287
 current_from: 2026-07-01
-council: "Greater Taree"
+council: "MidCoast Council"
 ---
 
 # Greater Taree Local Environmental Plan 2010

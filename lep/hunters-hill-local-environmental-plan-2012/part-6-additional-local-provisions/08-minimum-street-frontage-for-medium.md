@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Minimum street frontage for medium density residential development"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

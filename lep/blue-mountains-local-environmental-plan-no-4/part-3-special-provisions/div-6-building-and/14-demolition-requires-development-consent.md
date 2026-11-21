@@ -1,6 +1,6 @@
 ---
 title: "Clause 47A Demolition requires development consent"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Building and development generally"
 clause: "47A"

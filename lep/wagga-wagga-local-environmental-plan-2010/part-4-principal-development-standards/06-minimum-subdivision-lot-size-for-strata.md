@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Minimum subdivision lot size for strata subdivision of residential or tourist and visitor accommodation in certain zones"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

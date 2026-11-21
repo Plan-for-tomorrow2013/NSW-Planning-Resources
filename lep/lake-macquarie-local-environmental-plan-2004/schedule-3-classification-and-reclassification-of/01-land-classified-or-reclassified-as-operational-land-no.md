@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3, Part 1 — Land classified, or reclassified, as operational land—no interests changed"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 61)"
 last_verified: 2023-11-10

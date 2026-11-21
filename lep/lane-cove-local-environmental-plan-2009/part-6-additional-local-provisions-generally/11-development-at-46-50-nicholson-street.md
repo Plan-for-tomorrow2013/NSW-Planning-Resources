@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development at 46-50 Nicholson Street and 59-67 Christie Street, St Leonards"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.10"

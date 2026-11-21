@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Riparian land and watercourses"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Minimum building separation and maximum floor areas above building podiums in Rhodes Precinct"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.5"

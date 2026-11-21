@@ -2,7 +2,7 @@
 title: "Coonamble Local Environmental Plan 2011"
 document_id: epi-2011-0506
 current_from: 2026-07-01
-council: "Coonamble"
+council: "Coonamble Shire Council"
 ---
 
 # Coonamble Local Environmental Plan 2011

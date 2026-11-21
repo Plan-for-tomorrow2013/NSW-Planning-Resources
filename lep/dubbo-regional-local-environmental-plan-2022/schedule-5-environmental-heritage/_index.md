@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 last_verified: 2026-09-18
 ---

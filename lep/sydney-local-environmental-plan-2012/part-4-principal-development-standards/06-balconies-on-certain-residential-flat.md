@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.5A Balconies on certain residential flat buildings"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.5A"

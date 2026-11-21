@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Classification and reclassification of public land as operational land"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 9 Classification of public land"
 clause: "55"

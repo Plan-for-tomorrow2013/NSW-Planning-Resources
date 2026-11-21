@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Urana"
+council: "Federation Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-07-01

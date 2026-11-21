@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Land to which plan applies"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "2"

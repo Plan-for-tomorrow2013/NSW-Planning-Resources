@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Serviced apartments"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Limited development on foreshore area"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

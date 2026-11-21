@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — S"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 dictionary_range: "S"
 last_verified: 2026-09-25

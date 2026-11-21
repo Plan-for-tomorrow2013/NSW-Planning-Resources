@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Essential services"
-council: "Gwydir"
+council: "Gwydir Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.7 Demolition requires development consent"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.7"

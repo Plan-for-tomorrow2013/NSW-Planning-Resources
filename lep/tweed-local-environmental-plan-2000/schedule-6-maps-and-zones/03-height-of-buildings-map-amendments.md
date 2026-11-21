@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 3 — Height of Buildings Map Amendments"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 7 (3), Schedule 1)"
 last_verified: 2026-07-01

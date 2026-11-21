@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-07-01

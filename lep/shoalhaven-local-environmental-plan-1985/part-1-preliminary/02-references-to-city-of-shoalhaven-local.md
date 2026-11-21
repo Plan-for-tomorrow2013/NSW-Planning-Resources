@@ -1,6 +1,6 @@
 ---
 title: "Clause 1A References to City of Shoalhaven Local Environmental Plan 1985"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1A"

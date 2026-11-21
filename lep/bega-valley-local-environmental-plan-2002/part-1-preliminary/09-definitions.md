@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Definitions"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "9"

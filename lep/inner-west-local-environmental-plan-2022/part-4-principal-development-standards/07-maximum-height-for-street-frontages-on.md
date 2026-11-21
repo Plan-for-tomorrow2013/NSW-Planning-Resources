@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Maximum height for street frontages on certain land in Ashfield town centre"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Exception to height of buildings—Rocky Point Road, Kogarah"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

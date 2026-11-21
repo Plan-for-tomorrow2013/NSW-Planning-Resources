@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Development on certain land near Parkwood Egg Farm"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

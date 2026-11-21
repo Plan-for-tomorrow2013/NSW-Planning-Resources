@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Erection of temporary workers' accommodation on land in Zone R1"
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.8"

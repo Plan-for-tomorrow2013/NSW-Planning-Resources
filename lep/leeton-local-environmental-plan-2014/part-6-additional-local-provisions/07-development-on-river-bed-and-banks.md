@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Development on river-bed and banks"
-council: "Leeton"
+council: "Leeton Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

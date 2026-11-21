@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Subdivision of land in Kurnell Village"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

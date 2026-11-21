@@ -1,6 +1,6 @@
 ---
 title: "Clause 26E Standards that cannot be used to refuse consent—playing and performing music"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26E"

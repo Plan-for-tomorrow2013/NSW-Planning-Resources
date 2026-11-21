@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Affordable housing"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

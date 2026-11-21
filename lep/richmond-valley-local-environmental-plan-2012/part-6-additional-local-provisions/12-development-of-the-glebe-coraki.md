@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Development of The Glebe, Coraki"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

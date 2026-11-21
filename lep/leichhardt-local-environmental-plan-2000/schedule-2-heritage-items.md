@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Heritage items"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 16, Schedule 3)"
 last_verified: 2026-07-01

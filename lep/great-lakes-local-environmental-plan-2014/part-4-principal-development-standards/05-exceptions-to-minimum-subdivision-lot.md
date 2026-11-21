@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions to minimum subdivision lot size for boundary adjustments"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

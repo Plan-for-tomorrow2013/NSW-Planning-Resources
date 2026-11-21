@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Karst topography subsidence risk"
-council: "Oberon"
+council: "Oberon Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

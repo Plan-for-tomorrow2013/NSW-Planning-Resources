@@ -2,7 +2,7 @@
 title: "South Sydney Local Environmental Plan 1998"
 document_id: epi-1998-0225
 current_from: 2026-07-01
-council: "South Sydney"
+council: "City of Sydney"
 ---
 
 # South Sydney Local Environmental Plan 1998

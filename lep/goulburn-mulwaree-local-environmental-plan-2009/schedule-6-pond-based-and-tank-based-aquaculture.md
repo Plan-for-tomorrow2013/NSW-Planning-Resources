@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Pond-based and tank-based aquaculture"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 5.19)"
 last_verified: 2026-09-04

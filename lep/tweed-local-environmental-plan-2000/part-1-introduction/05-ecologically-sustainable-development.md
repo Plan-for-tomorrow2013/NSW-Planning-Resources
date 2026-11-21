@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Ecologically sustainable development"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "5"

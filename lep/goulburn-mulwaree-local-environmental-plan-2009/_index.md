@@ -2,7 +2,7 @@
 title: "Goulburn Mulwaree Local Environmental Plan 2009"
 document_id: epi-2009-0056
 current_from: 2026-09-04
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 ---
 
 # Goulburn Mulwaree Local Environmental Plan 2009

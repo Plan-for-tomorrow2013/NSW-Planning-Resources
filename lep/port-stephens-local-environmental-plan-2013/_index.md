@@ -2,7 +2,7 @@
 title: "Port Stephens Local Environmental Plan 2013"
 document_id: epi-2013-0755
 current_from: 2026-07-01
-council: "Port Stephens"
+council: "Port Stephens Council"
 ---
 
 # Port Stephens Local Environmental Plan 2013

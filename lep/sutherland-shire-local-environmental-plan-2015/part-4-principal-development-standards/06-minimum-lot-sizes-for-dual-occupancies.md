@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1E Minimum lot sizes for dual occupancies, manor houses and multi dwelling housing"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1E"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7, Part 1 — Land classified, or reclassified, under amended section 30 of Local Government Act 1993—no interests changed"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 7 (Clause 129)"
 last_verified: 2026-07-01

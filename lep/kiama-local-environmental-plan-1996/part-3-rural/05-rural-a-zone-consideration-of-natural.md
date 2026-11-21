@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Rural \"A\" Zone—Consideration of Natural Environmental Attributes"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "3 — Rural"
 clause: "13"

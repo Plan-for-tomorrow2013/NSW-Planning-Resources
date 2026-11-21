@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Terrestrial biodiversity"
-council: "Urana"
+council: "Federation Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.1"

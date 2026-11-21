@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Temporary workers' accommodation"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

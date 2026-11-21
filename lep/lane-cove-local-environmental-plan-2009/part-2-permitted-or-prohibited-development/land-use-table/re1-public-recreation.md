@@ -1,6 +1,6 @@
 ---
 title: "Zone RE1 — Public Recreation"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 zone_code: RE1
 zone: "Public Recreation"

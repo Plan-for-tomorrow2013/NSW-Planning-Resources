@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Use of existing non-residential buildings in residential zones"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

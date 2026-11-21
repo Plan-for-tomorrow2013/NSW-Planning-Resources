@@ -1,6 +1,6 @@
 ---
 title: "Clause 38B Development of land at North Ocean Shores within Zone Nos 1 (b1) and 7 (k)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "38B"

@@ -1,6 +1,6 @@
 ---
 title: "Zone E5 — Heavy Industrial"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 zone_code: E5
 zone: "Heavy Industrial"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.6 Architectural roof features"
-council: "Upper Lachlan"
+council: "Upper Lachlan Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.6"

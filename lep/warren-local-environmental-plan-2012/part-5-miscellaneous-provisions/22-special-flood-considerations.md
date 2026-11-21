@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.22 Special flood considerations"
-council: "Warren"
+council: "Warren Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.22"

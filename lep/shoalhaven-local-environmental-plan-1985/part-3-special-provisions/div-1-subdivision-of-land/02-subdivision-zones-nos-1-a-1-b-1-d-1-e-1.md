@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Subdivision—Zones Nos 1 (a), 1 (b), 1 (d), 1 (e), 1 (g), 7 (a), 7 (c), 7 (d1), 7 (d2), 7 (e), 7 (f1), 7 (f2) and 7 (f3)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision of land"
 clause: "11"

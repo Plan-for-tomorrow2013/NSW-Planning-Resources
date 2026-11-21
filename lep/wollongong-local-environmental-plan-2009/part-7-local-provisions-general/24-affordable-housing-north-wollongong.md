@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.26 Affordable housing—North Wollongong Station Precinct"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.26"

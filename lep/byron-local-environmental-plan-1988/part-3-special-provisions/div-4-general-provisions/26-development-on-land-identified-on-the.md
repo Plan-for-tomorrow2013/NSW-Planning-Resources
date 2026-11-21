@@ -1,6 +1,6 @@
 ---
 title: "Clause 63 Development on land identified on the Acid Sulfate Soils Planning Map"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "63"

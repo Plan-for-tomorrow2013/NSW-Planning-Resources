@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3A Faulconbridge Precinct"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "7 — Additional local clauses—development in villages"
 clause: "7.3A"

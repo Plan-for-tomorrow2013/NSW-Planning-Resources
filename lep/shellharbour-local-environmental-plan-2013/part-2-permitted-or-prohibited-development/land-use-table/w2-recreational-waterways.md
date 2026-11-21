@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

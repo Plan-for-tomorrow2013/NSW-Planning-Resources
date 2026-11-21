@@ -1,6 +1,6 @@
 ---
 title: "Clause 13E Transitional arrangements for certain multiple occupancy development"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision of land"
 clause: "13E"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 78 Suspension of restrictions on land"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "78"

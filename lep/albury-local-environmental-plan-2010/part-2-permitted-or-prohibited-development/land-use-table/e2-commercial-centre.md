@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

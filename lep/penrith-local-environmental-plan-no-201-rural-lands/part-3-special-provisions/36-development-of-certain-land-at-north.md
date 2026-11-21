@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Development of certain land at North Cranebrook"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "40"

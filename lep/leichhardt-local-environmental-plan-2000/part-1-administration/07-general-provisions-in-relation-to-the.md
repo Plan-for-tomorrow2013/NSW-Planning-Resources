@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 General provisions in relation to the development of land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "7"

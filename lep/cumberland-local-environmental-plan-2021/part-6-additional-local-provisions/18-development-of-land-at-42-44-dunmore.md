@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Development of land at 42-44 Dunmore Street, Wentworthville"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

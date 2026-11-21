@@ -2,7 +2,7 @@
 title: "Murray Local Environmental Plan 2011"
 document_id: epi-2011-0682
 current_from: 2026-07-01
-council: "Murray"
+council: "Murray River Council"
 ---
 
 # Murray Local Environmental Plan 2011

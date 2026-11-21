@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Tourist and visitor accommodation on land within Zone RU1"
-council: "Leeton"
+council: "Leeton Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

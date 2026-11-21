@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Maximum gross floor area of retail premises on certain land in Bronte"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

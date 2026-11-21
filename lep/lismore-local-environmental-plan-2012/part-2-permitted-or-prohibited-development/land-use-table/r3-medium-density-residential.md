@@ -1,6 +1,6 @@
 ---
 title: "Zone R3 — Medium Density Residential"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 zone_code: R3
 zone: "Medium Density Residential"

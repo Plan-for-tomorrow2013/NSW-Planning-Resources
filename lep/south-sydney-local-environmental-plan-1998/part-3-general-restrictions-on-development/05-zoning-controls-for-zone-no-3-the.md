@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Zoning controls for Zone No 3—the Business Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "13"

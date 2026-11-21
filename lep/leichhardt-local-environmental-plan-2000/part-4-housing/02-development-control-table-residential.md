@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Development control table: Residential Zone"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Housing"
 clause: "18"

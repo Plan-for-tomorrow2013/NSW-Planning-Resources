@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Active street frontages"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

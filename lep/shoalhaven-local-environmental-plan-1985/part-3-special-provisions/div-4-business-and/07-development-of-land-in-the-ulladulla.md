@@ -1,6 +1,6 @@
 ---
 title: "Clause 20BA Development of land in the Ulladulla and Huskisson commercial areas"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Business and commercial uses"
 clause: "20BA"

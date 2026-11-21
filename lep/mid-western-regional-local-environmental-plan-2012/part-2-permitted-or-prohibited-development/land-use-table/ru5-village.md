@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

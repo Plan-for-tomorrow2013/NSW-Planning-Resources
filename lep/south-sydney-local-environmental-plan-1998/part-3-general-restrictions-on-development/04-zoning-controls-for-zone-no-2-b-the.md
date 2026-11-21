@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Zoning controls for Zone No 2 (b)—the Residential (Medium Density) Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "12"

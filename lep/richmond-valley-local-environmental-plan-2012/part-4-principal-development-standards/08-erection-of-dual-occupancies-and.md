@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dual occupancies and dwelling houses on land in Zones RU1, R5 and C3"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

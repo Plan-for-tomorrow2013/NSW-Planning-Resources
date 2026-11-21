@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 Cemetery or burial grounds"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "6 — Heritage provisions"
 clause: "46"

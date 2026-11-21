@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Classification or reclassification of public land as operational land"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 81)"
 last_verified: 2026-07-01

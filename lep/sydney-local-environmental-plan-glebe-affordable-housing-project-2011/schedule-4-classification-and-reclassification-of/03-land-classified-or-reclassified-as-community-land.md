@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 3 — Land classified, or reclassified, as community land"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 4 (Clause 5.2)"
 last_verified: 2024-02-23

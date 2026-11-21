@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 Acquisition and development of land reserved for arterial roads"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "23"

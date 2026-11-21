@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.17 Artificial waterbodies in environmentally sensitive areas in areas of operation of irrigation corporations"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.17"

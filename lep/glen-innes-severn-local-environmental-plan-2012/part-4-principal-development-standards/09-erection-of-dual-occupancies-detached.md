@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of dual occupancies (detached) in Zone RU1"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

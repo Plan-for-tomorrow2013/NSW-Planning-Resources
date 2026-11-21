@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.6 Exceptions to development standards"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.6"

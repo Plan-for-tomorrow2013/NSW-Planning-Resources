@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum subdivision lot size for strata plan schemes in certain rural, residential and conservation zones"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

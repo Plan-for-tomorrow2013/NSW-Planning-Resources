@@ -1,6 +1,6 @@
 ---
 title: "Clause 26AA Development of No 1 Forest Road, Hurstville"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26AA"

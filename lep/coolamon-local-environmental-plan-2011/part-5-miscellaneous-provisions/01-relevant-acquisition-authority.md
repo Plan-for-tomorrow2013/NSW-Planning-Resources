@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.1 Relevant acquisition authority"
-council: "Coolamon"
+council: "Coolamon Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.1"

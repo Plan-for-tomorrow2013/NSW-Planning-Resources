@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Public bushland"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "43"

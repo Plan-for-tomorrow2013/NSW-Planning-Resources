@@ -1,6 +1,6 @@
 ---
 title: "Zone C1 — National Parks and Nature Reserves"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 zone_code: C1
 zone: "National Parks and Nature Reserves"

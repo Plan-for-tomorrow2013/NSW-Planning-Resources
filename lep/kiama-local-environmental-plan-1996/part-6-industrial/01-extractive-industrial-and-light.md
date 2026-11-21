@@ -1,6 +1,6 @@
 ---
 title: "Clause 24 Extractive Industrial and Light Industrial Zones—Subdivision"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "6 — Industrial"
 clause: "24"

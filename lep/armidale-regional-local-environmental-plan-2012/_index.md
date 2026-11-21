@@ -2,7 +2,7 @@
 title: "Armidale Regional Local Environmental Plan 2012"
 document_id: epi-2012-0589
 current_from: 2026-07-01
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 ---
 
 # Armidale Regional Local Environmental Plan 2012

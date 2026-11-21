@@ -1,6 +1,6 @@
 ---
 title: "Clause 3.1 Exempt development"
-council: "Parkes"
+council: "Parkes Shire Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.1"

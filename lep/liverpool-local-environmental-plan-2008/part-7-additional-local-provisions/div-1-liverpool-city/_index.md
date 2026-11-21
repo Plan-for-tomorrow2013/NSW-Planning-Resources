@@ -1,6 +1,6 @@
 ---
 title: "Division 1 Liverpool city centre provisions"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

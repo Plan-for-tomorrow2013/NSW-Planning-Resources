@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Development in the vicinity of Alexandra Canal"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "40"

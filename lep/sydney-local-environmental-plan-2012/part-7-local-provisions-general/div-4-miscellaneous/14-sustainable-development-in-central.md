@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25A Sustainable development in Central Sydney tower cluster areas"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.25A"

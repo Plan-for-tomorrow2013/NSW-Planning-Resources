@@ -1,6 +1,6 @@
 ---
 title: "Clause 23A Tourist and other facilities on land within Zone No 3 (b)—former Kiama Infants School site"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Business"
 clause: "23A"

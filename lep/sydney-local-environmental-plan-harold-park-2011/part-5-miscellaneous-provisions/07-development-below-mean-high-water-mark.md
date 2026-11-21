@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.7 Development below mean high water mark"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.7"

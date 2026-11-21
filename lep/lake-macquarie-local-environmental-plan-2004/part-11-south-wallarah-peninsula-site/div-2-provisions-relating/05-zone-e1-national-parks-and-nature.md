@@ -1,6 +1,6 @@
 ---
 title: "Clause 140 Zone E1 National Parks and Nature Reserves"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "11 — South Wallarah Peninsula site / Division 2 Provisions relating to development in South Wallarah Peninsula site"
 clause: "140"

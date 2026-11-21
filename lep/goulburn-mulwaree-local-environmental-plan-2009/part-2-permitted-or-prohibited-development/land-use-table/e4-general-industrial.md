@@ -1,6 +1,6 @@
 ---
 title: "Zone E4 — General Industrial"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 zone_code: E4
 zone: "General Industrial"

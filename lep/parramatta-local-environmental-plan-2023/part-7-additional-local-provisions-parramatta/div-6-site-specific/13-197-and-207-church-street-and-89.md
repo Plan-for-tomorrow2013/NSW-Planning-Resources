@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.41 197 and 207 Church Street and 89 Marsden Street, Parramatta"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.41"

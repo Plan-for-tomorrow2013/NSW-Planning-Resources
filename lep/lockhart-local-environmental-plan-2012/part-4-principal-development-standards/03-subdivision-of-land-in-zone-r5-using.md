@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Subdivision of land in Zone R5 using average lot sizes"
-council: "Lockhart"
+council: "Lockhart Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Community title subdivision of land at Vincents Road, Kurrajong"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

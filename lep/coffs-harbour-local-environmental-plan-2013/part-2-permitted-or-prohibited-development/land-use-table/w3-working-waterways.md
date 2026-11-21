@@ -1,6 +1,6 @@
 ---
 title: "Zone W3 — Working Waterways"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 zone_code: W3
 zone: "Working Waterways"

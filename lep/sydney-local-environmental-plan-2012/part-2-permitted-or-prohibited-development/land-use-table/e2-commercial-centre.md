@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

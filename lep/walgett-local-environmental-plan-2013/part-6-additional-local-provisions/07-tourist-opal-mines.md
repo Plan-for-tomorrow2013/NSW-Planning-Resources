@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Tourist opal mines"
-council: "Walgett"
+council: "Walgett Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 11, Part 2 — Land classified, or reclassified, under amended section 30 of Local Government Act 1993—interests not changed"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 11"
 last_verified: 2025-02-14

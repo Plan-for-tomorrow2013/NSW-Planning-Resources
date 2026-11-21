@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-09-25

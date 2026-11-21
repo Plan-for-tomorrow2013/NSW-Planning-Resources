@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-09-04

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.84 Development at Tudor Street, Belmore"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 3 Access laneway extensions"
 clause: "6.84"

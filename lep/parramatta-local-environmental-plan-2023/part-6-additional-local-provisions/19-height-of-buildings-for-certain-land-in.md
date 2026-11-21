@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.20 Height of buildings for certain land in Telopea Precinct"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.20"

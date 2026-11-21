@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AA Minimum subdivision lot size for community title schemes"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AA"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Tourist and visitor accommodation"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.15"

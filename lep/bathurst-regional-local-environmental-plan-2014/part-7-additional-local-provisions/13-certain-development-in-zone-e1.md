@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Certain development in Zone E1"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

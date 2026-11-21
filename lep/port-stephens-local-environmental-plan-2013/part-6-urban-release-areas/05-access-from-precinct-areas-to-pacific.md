@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Access from precinct areas to Pacific Highway, Kings Hill"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.6"

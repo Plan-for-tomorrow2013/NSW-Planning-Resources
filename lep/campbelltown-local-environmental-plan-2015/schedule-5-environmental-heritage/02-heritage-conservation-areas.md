@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 2 — Heritage conservation areas"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-07-03

@@ -1,6 +1,6 @@
 ---
 title: "Zone E5 — Heavy Industrial"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 zone_code: E5
 zone: "Heavy Industrial"

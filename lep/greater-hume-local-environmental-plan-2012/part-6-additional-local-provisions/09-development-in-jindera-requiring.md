@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development in Jindera requiring preparation of development control plan"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

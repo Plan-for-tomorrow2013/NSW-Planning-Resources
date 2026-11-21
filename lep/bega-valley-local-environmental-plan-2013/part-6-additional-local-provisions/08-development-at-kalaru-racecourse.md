@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development at Kalaru Racecourse"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Additional uses and controls for certain land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "36"

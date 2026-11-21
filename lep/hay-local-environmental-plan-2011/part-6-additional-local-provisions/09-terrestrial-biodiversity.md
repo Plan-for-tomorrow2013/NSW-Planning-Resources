@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Terrestrial biodiversity"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

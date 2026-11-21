@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Subdivision applications for Exeter Quarry"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

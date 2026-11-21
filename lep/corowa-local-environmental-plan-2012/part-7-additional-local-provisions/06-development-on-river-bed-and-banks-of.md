@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Development on river bed and banks of the Murray River"
-council: "Corowa"
+council: "Federation Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

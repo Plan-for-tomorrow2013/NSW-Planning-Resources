@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.19 Development at Carmona Drive, South Forster"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.19"

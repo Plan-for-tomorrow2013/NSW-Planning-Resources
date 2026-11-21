@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

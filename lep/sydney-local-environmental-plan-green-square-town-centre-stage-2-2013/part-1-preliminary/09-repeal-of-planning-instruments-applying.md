@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8 Repeal of planning instruments applying to land"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8"

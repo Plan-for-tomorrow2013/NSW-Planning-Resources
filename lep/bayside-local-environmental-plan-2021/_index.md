@@ -2,7 +2,7 @@
 title: "Bayside Local Environmental Plan 2021"
 document_id: epi-2021-0498
 current_from: 2026-09-25
-council: "Bayside"
+council: "Bayside Council"
 ---
 
 # Bayside Local Environmental Plan 2021

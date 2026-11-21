@@ -2,7 +2,7 @@
 title: "Newcastle Local Environmental Plan 2012"
 document_id: epi-2012-0255
 current_from: 2026-09-04
-council: "Newcastle"
+council: "City of Newcastle"
 ---
 
 # Newcastle Local Environmental Plan 2012

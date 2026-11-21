@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.34 Non-residential development in Zone R4"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.34"

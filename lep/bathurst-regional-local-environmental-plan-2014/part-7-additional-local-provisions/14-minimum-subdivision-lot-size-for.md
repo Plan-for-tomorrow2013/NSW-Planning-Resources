@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Minimum subdivision lot size for certain battle-axe lots in Laffing Waters and Kelso"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16"

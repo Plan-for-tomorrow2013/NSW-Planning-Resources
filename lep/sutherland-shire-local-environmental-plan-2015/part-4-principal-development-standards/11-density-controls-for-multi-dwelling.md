@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.5A Density controls for multi dwelling housing"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.5A"

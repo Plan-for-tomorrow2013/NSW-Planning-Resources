@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — K"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 dictionary_range: "K"
 last_verified: 2026-08-21

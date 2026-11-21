@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Exceptions to the maximum floor space ratio and height of buildings"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.2 Zoning of land to which Plan applies"
-council: "Broken Hill"
+council: "Broken Hill City Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.2"

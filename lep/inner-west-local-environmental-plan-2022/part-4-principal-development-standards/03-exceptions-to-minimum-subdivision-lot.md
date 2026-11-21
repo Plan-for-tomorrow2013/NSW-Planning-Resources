@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions to minimum subdivision lot size for certain residential development"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

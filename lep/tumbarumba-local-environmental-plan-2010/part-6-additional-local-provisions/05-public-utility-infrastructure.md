@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Public utility infrastructure"
-council: "Tumbarumba"
+council: "Snowy Valleys Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

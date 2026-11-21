@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Exempt development"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "12"

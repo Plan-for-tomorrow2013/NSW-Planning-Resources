@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Development within a designated buffer"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

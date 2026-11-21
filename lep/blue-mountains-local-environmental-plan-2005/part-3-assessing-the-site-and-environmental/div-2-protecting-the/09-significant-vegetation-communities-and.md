@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Significant vegetation communities and rare species of flora"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 2 Protecting the natural environment"
 clause: "52"

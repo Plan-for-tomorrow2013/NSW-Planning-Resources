@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Area covered by this plan"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "1 — Introduction"
 clause: "2"

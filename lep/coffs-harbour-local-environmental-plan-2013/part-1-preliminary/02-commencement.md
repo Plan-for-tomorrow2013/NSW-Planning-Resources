@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.1AA Commencement"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.1AA"

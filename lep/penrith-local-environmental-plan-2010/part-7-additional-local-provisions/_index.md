@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 last_verified: 2026-07-24
 ---

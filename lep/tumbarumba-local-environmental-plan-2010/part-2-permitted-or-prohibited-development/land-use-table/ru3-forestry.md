@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Tumbarumba"
+council: "Snowy Valleys Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

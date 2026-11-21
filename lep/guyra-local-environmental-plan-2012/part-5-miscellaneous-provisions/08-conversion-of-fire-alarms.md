@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.8 Conversion of fire alarms"
-council: "Guyra"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.8"

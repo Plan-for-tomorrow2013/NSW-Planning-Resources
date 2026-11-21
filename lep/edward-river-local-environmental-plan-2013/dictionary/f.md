@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — F"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 dictionary_range: "F"
 last_verified: 2026-07-01

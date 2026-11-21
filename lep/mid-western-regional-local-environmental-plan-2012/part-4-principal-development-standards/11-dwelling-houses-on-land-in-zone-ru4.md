@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Dwelling houses on land in Zone RU4 Primary Production Small Lots"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

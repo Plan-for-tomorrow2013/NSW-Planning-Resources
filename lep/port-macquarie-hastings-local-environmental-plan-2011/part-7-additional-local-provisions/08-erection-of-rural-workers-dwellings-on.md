@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Erection of rural workers' dwellings on land in Zones RU1 and RU2"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

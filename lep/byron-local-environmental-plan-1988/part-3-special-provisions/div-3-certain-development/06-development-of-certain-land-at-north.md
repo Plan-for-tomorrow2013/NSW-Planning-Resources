@@ -1,6 +1,6 @@
 ---
 title: "Clause 29AA Development of certain land at North Ocean Shores"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "29AA"

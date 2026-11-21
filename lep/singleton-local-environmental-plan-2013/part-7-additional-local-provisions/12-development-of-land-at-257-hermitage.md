@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Development of land at 257 Hermitage Road, Pokolbin"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

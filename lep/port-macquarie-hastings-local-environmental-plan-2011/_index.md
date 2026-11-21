@@ -2,7 +2,7 @@
 title: "Port Macquarie-Hastings Local Environmental Plan 2011"
 document_id: epi-2011-0084
 current_from: 2026-10-16
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 ---
 
 # Port Macquarie-Hastings Local Environmental Plan 2011

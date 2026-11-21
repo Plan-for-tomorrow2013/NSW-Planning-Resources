@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.29 Maximum floor space for retail premises in Menangle Park Urban Release Area"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.29"

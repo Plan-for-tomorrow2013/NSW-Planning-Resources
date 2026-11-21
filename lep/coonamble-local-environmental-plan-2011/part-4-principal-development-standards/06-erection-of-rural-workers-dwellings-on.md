@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of rural workers' dwellings on land in Zone RU1 Primary Production"
-council: "Coonamble"
+council: "Coonamble Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

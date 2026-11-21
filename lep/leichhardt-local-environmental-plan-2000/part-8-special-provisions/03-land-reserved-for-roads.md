@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 Land reserved for roads"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "32"

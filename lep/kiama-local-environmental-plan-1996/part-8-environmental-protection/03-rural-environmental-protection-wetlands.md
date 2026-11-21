@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Rural Environmental Protection (Wetlands Buffer) Zone—Development in the Spring Creek Catchment"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "29"

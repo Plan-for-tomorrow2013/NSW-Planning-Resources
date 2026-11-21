@@ -1,6 +1,6 @@
 ---
 title: "Clause 58C Standards that cannot be used to refuse consent—playing and performing music"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "58C"

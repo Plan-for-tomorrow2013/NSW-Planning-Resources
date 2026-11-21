@@ -2,7 +2,7 @@
 title: "Gwydir Local Environmental Plan 2013"
 document_id: epi-2013-0507
 current_from: 2026-07-01
-council: "Gwydir"
+council: "Gwydir Shire Council"
 ---
 
 # Gwydir Local Environmental Plan 2013

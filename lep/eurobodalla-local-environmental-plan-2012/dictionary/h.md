@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-08-28

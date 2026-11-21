@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.5 Notes"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.5"

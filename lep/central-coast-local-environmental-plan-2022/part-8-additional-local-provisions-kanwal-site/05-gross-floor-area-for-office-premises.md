@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.5 Gross floor area for office premises and retail premises"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "8 — Additional local provisions—Kanwal Site"
 clause: "8.5"

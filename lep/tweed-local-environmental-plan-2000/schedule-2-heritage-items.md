@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Heritage items"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 41, Part 8, Schedule 1)"
 last_verified: 2026-07-01

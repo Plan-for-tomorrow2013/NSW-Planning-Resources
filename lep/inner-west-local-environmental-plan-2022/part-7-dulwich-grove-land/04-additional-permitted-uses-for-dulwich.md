@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Additional permitted uses for Dulwich Grove land"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "7 — Dulwich Grove land"
 clause: "7.4"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Suspension of covenants and agreements"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "9"

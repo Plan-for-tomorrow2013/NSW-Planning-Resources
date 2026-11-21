@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 Development affecting known or potential archaeological sites of relics of non-Aboriginal heritage significance"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Heritage provisions"
 clause: "32"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.48 Development at 214 Canterbury Road, Canterbury"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.48"

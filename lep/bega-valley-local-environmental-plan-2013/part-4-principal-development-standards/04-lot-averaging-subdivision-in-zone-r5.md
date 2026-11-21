@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Lot averaging subdivision in Zone R5, Zone C3 and Zone C4"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

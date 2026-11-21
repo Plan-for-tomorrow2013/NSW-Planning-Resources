@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — K"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "K"
 last_verified: 2024-02-23

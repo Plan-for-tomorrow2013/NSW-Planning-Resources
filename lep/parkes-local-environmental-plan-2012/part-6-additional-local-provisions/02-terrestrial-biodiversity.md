@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Terrestrial biodiversity"
-council: "Parkes"
+council: "Parkes Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.2"

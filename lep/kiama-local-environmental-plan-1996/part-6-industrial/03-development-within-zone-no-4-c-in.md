@@ -1,6 +1,6 @@
 ---
 title: "Clause 25A Development within Zone No 4 (c) in Willow Gully Creek and Spring Creek catchments"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "6 — Industrial"
 clause: "25A"

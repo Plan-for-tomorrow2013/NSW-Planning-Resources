@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Mixed use development in Zones E2 and MU1"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

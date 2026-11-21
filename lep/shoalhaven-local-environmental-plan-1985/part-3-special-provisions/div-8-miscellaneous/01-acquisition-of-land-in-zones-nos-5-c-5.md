@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Acquisition of land in Zones Nos 5 (c), 5 (e), 6 (d) and 7 (f2)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "47"

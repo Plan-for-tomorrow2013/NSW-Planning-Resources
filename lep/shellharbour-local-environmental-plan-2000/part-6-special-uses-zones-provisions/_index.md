@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Special Uses Zones Provisions"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

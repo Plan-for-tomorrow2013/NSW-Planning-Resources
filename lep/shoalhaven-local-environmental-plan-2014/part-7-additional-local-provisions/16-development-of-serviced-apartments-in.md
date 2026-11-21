@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Development of serviced apartments in association with registered clubs"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Rural and nature-based tourism development"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16"

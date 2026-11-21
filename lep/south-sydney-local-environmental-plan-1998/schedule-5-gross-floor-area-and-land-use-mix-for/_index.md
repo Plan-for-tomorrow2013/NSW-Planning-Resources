@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Gross floor area and land use mix for specified development sites"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-07-01
 ---

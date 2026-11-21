@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Aims, objectives etc of plan"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "2"

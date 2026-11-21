@@ -1,6 +1,6 @@
 ---
 title: "Clause 24A Intensive plant growing development in the Sydney Drinking Water Catchment"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "24A"

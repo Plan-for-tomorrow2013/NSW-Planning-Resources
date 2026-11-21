@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 1 — Land classified, or reclassified, as operational land—no interests changed"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 5.2)"
 last_verified: 2026-10-02

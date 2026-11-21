@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Strata subdivisions in certain rural zones"
-council: "Orange"
+council: "Orange City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

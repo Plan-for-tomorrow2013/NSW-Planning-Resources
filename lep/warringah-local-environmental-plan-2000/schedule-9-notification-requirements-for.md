@@ -1,6 +1,6 @@
 ---
 title: "Schedule 9 — Notification requirements for remediation work"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 9 (Clause 25)"
 last_verified: 2026-07-01

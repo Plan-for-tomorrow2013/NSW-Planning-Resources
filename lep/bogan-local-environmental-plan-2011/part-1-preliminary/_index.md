@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "Bogan"
+council: "Bogan Shire Council"
 document_type: LEP
 last_verified: 2026-07-24
 ---

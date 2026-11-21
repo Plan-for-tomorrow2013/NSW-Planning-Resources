@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development at Albemarle Avenue and Old South Head Road, Rose Bay"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

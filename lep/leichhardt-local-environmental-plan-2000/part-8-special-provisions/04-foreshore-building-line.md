@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Foreshore building line"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "33"

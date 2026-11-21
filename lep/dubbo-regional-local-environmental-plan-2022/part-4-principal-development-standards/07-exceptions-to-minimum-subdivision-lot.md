@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Exceptions to minimum subdivision lot sizes for split zones"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

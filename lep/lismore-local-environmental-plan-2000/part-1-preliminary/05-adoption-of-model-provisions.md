@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Adoption of Model Provisions"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

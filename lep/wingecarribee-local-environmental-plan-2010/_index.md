@@ -2,7 +2,7 @@
 title: "Wingecarribee Local Environmental Plan 2010"
 document_id: epi-2010-0245
 current_from: 2026-09-25
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 ---
 
 # Wingecarribee Local Environmental Plan 2010

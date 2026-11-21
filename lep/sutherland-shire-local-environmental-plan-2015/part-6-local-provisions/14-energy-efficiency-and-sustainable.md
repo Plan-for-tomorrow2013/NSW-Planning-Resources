@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Energy efficiency and sustainable building techniques for commercial and industrial developments"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.15"

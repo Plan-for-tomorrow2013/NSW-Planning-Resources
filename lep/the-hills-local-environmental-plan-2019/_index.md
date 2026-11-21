@@ -2,7 +2,7 @@
 title: "The Hills Local Environmental Plan 2019"
 document_id: epi-2019-0596
 current_from: 2026-09-04
-council: "The Hills"
+council: "The Hills Shire Council"
 ---
 
 # The Hills Local Environmental Plan 2019

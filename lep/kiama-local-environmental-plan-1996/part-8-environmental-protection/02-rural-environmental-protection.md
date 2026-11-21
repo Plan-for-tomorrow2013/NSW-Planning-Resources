@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Rural Environmental Protection (Estuarine Wetlands) Zone—Development in the Vicinity"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "28"

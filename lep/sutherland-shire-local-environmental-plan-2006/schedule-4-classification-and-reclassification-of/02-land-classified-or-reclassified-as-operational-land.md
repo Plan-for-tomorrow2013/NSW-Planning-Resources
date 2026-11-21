@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 2 — Land classified, or reclassified, as operational land—interests changed"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 25)"
 last_verified: 2026-07-01

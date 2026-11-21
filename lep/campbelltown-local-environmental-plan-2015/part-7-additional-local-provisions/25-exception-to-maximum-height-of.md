@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.26 Exception to maximum height of buildings—22, 24 and 32 Queen Street"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.26"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Development in Zone E1"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

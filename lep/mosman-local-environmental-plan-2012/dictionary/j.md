@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Mosman"
+council: "Mosman Municipal Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-08-14

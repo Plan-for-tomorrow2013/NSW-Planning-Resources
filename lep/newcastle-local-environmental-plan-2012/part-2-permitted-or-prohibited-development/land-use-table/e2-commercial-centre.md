@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

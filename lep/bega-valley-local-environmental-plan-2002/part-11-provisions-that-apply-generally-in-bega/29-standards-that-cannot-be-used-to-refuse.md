@@ -1,6 +1,6 @@
 ---
 title: "Clause 89C Standards that cannot be used to refuse consent—playing and performing music"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "11 — Provisions that apply generally in Bega Valley area"
 clause: "89C"

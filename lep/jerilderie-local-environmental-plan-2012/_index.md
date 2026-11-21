@@ -2,7 +2,7 @@
 title: "Jerilderie Local Environmental Plan 2012"
 document_id: epi-2012-0263
 current_from: 2026-07-01
-council: "Jerilderie"
+council: "Murrumbidgee Council"
 ---
 
 # Jerilderie Local Environmental Plan 2012

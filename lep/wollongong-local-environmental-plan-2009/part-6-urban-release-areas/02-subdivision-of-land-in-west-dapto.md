@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2A Subdivision of land in West Dapto Release Area"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.2A"

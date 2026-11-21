@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Controls for liquid fuel depots within Zones 4 (a3) and 4 (f)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "5 — Industrial Zones Provisions"
 clause: "37"

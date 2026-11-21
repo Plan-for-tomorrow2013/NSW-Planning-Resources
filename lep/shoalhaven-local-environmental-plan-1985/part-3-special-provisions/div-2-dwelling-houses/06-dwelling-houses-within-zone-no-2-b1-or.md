@@ -1,6 +1,6 @@
 ---
 title: "Clause 16AA Dwelling-houses within Zone No 2 (b1) or 2 (b2) in conjunction with medium density development"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Dwelling-houses"
 clause: "16AA"

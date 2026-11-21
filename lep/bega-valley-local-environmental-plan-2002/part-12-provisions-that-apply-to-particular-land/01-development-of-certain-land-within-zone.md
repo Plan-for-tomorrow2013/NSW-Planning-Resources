@@ -1,6 +1,6 @@
 ---
 title: "Clause 90 Development of certain land within Zone 4 (a) at South Pambula"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "12 — Provisions that apply to particular land"
 clause: "90"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 56 Aims in relation to heritage"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "10 — Heritage provisions"
 clause: "56"

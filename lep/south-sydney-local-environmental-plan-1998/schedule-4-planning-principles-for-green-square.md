@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Planning principles for Green Square"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 4 (Clause 27B)"
 last_verified: 2026-07-01

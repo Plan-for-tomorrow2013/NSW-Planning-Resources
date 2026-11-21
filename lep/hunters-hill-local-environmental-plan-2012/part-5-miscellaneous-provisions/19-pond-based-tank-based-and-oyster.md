@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.19 Pond-based, tank-based and oyster aquaculture"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.19"

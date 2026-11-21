@@ -2,7 +2,7 @@
 title: "Parkes Local Environmental Plan 2012"
 document_id: epi-2012-0615
 current_from: 2026-07-01
-council: "Parkes"
+council: "Parkes Shire Council"
 ---
 
 # Parkes Local Environmental Plan 2012

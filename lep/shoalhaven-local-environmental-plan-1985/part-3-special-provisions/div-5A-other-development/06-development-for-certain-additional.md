@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Development for certain additional purposes"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "39"

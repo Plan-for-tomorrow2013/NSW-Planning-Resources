@@ -2,7 +2,7 @@
 title: "Byron Local Environmental Plan 2014"
 document_id: epi-2014-0297
 current_from: 2026-07-03
-council: "Byron"
+council: "Byron Shire Council"
 ---
 
 # Byron Local Environmental Plan 2014

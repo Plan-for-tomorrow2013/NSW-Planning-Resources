@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Restrictions on height of buildings in Zone R1 General Residential"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Residential \"A\" and \"B\" Zones—Dual Occupancy Development"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "16"

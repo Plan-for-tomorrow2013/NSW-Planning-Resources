@@ -1,6 +1,6 @@
 ---
 title: "Schedule 14 — Guiding principles for development near Middle Harbour"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 14 (Appendix C—Locality C1)"
 last_verified: 2026-07-01

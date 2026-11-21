@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

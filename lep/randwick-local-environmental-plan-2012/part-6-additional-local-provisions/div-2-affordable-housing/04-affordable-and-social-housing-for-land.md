@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.28 Affordable and social housing for land at 47-55 Bunnerong Road, Kingsford"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Affordable housing"
 clause: "6.28"

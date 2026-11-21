@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

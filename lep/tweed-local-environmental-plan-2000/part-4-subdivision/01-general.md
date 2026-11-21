@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 General"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "4 — Subdivision"
 clause: "19"

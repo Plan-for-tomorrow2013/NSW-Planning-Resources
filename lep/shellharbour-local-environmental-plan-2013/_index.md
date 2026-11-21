@@ -2,7 +2,7 @@
 title: "Shellharbour Local Environmental Plan 2013"
 document_id: epi-2013-0141
 current_from: 2026-09-11
-council: "Shellharbour"
+council: "Shellharbour City Council"
 ---
 
 # Shellharbour Local Environmental Plan 2013

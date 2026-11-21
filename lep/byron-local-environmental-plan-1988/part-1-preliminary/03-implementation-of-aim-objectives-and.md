@@ -1,6 +1,6 @@
 ---
 title: "Clause 2A Implementation of aim, objectives and guiding principles"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "2A"

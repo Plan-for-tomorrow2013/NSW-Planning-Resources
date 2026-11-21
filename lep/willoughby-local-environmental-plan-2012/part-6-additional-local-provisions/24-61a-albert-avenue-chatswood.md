@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.24 61A Albert Avenue, Chatswood"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.24"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Subdivision of Dugout Area"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

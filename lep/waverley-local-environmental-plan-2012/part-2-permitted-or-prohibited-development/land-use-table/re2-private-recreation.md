@@ -1,6 +1,6 @@
 ---
 title: "Zone RE2 — Private Recreation"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 zone_code: RE2
 zone: "Private Recreation"

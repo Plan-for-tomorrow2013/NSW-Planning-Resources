@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Dwelling houses, dual occupancies and multi unit housing"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "3 — Urban zone provisions"
 clause: "27"

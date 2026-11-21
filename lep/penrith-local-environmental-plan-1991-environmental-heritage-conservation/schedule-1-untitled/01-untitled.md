@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1, Part 1 — "
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 5 (1))"
 last_verified: 2022-03-04

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Ground floor development on land in Zone E3"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

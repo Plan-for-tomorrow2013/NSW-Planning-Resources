@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 Development affecting known or potential archaeological sites of relics of non-Aboriginal heritage significance"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "17"

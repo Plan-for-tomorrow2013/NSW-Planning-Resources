@@ -1,6 +1,6 @@
 ---
 title: "Clause 27R Affordable housing conditions after initial development"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 3 Affordable housing at Green Square"
 clause: "27R"

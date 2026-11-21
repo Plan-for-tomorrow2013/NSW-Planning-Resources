@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

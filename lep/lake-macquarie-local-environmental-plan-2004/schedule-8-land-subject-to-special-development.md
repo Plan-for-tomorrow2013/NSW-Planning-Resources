@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8 — Land subject to special development requirements"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 8 (Clause 42 (1))"
 last_verified: 2023-11-10

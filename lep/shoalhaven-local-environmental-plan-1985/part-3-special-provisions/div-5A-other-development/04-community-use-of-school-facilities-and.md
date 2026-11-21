@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 Community use of school facilities and sites"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "38"

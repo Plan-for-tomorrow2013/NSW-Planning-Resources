@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6A — Contribution requirements for certain development on Planning Proposal Land"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 clause: "Schedule 6A clause 6.18"
 last_verified: 2026-07-01

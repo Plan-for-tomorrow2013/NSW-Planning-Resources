@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

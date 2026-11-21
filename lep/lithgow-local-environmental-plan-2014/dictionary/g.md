@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-07-01

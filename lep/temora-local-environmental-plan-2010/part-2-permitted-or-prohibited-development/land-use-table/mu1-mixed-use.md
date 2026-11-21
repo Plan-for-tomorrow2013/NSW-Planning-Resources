@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Temora"
+council: "Temora Shire Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

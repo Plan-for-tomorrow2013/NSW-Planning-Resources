@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Residential accommodation in Zone E3"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

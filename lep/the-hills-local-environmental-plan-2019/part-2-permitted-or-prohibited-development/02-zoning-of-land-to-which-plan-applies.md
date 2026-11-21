@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.2 Zoning of land to which Plan applies"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.2"

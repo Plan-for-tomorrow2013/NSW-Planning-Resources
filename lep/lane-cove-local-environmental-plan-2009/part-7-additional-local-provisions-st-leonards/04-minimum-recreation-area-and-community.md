@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Minimum recreation area and community facility requirements"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "7 — Additional local provisions—St Leonards South Area"
 clause: "7.4"

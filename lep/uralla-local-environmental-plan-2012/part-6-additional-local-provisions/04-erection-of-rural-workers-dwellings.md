@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Erection of rural workers' dwellings"
-council: "Uralla"
+council: "Uralla Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

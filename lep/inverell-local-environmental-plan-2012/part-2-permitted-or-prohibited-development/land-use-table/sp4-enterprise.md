@@ -1,6 +1,6 @@
 ---
 title: "Zone SP4 — Enterprise"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"

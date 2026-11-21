@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Consideration of Council's strategy"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "2 — Planning principles"
 clause: "8"

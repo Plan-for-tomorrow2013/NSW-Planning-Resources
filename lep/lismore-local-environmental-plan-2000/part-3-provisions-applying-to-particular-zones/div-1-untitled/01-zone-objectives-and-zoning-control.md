@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Zone objectives and zoning control tables"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones /"
 clause: "29"

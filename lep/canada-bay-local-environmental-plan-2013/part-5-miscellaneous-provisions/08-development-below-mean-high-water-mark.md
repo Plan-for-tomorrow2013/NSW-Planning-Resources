@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.7 Development below mean high water mark"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.7"

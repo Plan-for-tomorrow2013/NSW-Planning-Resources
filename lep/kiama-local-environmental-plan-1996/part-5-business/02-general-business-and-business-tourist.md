@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 General Business and Business (Tourist Related) Zones—Residential Flat Buildings"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Business"
 clause: "22"

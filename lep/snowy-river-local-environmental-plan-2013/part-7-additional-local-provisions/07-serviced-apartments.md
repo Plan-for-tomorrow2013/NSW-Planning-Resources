@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Serviced apartments"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

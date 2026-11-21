@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Location of sex services premises"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

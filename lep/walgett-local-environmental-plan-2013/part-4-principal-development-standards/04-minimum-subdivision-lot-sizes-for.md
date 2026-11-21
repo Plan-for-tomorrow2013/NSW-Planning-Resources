@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum subdivision lot sizes for certain split zones"
-council: "Walgett"
+council: "Walgett Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

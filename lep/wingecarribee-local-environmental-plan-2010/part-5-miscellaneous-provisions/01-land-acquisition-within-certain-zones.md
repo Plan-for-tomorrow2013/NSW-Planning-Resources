@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.1 Land acquisition within certain zones"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.1"

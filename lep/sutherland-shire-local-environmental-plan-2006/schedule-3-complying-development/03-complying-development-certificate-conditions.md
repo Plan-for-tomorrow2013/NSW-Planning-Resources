@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3, Part 3 — Complying development certificate conditions"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 13)"
 last_verified: 2026-07-01

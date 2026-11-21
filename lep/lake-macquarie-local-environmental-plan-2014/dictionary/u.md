@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-07-01

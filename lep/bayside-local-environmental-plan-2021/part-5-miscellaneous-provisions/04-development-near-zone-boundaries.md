@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.3 Development near zone boundaries"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.3"

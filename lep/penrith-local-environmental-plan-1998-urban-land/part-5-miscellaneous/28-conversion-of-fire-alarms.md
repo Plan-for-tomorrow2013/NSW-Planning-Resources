@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Conversion of fire alarms"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "41"

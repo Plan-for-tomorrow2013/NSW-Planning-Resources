@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 1 — Heritage items"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 clause: "Schedule 5 (clause 5.10)"
 last_verified: 2026-10-09

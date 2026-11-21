@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Development in areas subject to aircraft noise"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

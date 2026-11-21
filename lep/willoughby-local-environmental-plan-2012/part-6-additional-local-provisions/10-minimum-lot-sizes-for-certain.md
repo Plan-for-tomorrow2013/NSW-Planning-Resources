@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Minimum lot sizes for certain residential accommodation"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

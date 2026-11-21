@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Development of certain land adjacent to The Northern Road, Luddenham"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "37"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.4 Minimum lot size for dual occupancies and residential flat buildings"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "10 — St Marys Town Centre"
 clause: "10.4"

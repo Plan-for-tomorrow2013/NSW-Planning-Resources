@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.26 Shops and specialised retail premises in Zones E1 and E2"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.26"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Diverse housing"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

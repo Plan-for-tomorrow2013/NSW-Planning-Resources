@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Maximum commercial floor space at 488-494 Old Northern Road, Dural"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

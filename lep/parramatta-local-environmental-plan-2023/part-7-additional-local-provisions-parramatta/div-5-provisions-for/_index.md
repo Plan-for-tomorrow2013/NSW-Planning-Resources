@@ -1,6 +1,6 @@
 ---
 title: "Division 5 Provisions for Parramatta City Centre other than \"Area A\""
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

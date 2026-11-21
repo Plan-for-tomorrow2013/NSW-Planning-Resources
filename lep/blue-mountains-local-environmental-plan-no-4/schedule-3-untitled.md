@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — "
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 9)"
 last_verified: 2023-11-10

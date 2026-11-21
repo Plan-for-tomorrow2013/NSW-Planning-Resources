@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Essential services"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B No strata plan subdivision in certain rural, residential or conservation zones"
-council: "Maitland"
+council: "Maitland City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

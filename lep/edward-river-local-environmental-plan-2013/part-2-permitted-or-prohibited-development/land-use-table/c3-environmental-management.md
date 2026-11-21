@@ -1,6 +1,6 @@
 ---
 title: "Zone C3 — Environmental Management"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 zone_code: C3
 zone: "Environmental Management"

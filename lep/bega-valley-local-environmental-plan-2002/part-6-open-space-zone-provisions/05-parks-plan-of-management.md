@@ -1,6 +1,6 @@
 ---
 title: "Clause 42 Parks plan of management"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Open Space zone provisions"
 clause: "42"

@@ -2,7 +2,7 @@
 title: "Coffs Harbour Local Environmental Plan 2013"
 document_id: epi-2013-0564
 current_from: 2026-10-02
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 ---
 
 # Coffs Harbour Local Environmental Plan 2013

@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Objectives"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "5 — Employment"
 clause: "20"

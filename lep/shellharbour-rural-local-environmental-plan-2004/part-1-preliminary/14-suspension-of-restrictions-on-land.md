@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Suspension of restrictions on land"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "14"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Exceptions to minimum subdivision lot sizes for certain rural subdivisions"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

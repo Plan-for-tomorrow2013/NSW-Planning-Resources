@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.59 Development at 39-79 Hampden Road, Lakemba"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 2 Pedestrian links"
 clause: "6.59"

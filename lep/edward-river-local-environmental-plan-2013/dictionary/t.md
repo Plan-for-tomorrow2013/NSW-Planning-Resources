@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — T"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 dictionary_range: "T"
 last_verified: 2026-07-01

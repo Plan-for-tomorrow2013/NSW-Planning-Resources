@@ -2,7 +2,7 @@
 title: "Cabonne Local Environmental Plan 2012"
 document_id: epi-2013-0002
 current_from: 2026-07-01
-council: "Cabonne"
+council: "Cabonne Council"
 ---
 
 # Cabonne Local Environmental Plan 2012

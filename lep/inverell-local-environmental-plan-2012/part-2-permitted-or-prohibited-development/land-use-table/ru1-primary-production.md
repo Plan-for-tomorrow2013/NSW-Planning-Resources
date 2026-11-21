@@ -1,6 +1,6 @@
 ---
 title: "Zone RU1 — Primary Production"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"

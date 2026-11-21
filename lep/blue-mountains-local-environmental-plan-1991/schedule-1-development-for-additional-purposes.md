@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Development for additional purposes"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 1"
 last_verified: 2023-11-10

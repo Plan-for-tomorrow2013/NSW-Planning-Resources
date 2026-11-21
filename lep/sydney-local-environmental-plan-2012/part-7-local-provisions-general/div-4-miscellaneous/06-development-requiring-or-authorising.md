@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Development requiring or authorising preparation of a development control plan"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.20"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Terrestrial biodiversity"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.5"

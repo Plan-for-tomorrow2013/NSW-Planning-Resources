@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

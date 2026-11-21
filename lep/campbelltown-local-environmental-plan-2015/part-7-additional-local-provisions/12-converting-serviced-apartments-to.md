@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Converting serviced apartments to residential flat buildings or shop top housing"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

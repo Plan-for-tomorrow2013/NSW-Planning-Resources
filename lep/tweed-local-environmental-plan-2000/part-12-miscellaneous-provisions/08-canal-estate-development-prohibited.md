@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Canal estate development prohibited"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "12 — Miscellaneous provisions"
 clause: "61"

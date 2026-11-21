@@ -1,6 +1,6 @@
 ---
 title: "Zone C1 — National Parks and Nature Reserves"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 zone_code: C1
 zone: "National Parks and Nature Reserves"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Erection of rural workers' dwellings in Zone RU1 and Zone RU4"
-council: "Walcha"
+council: "Walcha Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

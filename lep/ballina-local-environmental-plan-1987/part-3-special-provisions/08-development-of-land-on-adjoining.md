@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Development of land on adjoining boundaries"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "16"

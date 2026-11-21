@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions for subdivisions involving battle-axe lots or corner lots in certain zones"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

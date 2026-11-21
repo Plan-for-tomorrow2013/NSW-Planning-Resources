@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 last_verified: 2026-07-31
 ---

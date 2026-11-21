@@ -1,6 +1,6 @@
 ---
 title: "Zone E4 — General Industrial"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 zone_code: E4
 zone: "General Industrial"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Classification or reclassification of public land"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "12 — Miscellaneous provisions"
 clause: "55"

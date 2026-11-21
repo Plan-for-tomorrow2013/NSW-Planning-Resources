@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Classification and reclassification of public land"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

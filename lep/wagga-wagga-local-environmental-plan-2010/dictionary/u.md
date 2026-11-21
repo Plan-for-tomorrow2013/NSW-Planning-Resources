@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-10-16

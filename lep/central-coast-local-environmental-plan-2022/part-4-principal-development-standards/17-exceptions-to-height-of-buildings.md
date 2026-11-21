@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Exceptions to height of buildings—Terrigal Village Centre"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

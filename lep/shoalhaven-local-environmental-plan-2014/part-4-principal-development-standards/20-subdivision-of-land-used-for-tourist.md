@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2H Subdivision of land used for tourist and visitor accommodation"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2H"

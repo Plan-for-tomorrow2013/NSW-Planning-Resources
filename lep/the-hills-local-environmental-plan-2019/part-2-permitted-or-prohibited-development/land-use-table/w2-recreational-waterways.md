@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.5A Density controls for certain residential accommodation"
-council: "Pittwater"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.5A"

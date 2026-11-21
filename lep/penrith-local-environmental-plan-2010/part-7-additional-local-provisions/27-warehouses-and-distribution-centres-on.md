@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Warehouses and distribution centres on land zoned SP4 Enterprise"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.25"

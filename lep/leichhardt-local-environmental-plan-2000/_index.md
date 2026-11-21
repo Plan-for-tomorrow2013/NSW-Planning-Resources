@@ -2,7 +2,7 @@
 title: "Leichhardt Local Environmental Plan 2000"
 document_id: epi-2000-0754
 current_from: 2026-07-01
-council: "Leichhardt"
+council: "Inner West Council"
 ---
 
 # Leichhardt Local Environmental Plan 2000

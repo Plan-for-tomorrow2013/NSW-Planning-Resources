@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.23 Additional floor space ratio and building height"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.23"

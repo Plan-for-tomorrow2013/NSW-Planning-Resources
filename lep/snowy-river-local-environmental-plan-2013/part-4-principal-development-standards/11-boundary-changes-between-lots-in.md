@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2E Boundary changes between lots in certain rural and conservation zones"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2E"

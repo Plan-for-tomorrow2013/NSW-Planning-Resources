@@ -1,6 +1,6 @@
 ---
 title: "Clause 20B Development in the \"Cedar Grove\" urban release area"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "20B"

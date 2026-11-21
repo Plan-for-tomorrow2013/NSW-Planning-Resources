@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions to minimum lot sizes for certain residential development"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

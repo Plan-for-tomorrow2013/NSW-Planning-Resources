@@ -1,6 +1,6 @@
 ---
 title: "Clause 21A Zoning controls for Zone No 10 (a)—the Mixed Uses \"A\" Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "21A"

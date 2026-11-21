@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Significant mineral resources"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

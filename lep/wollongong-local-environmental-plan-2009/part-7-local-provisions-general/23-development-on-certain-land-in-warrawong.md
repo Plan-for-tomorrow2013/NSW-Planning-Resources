@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Development on certain land in Warrawong"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.25"

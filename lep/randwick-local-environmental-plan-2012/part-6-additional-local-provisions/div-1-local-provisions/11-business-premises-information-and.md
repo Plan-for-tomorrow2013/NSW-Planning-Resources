@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Business premises, information and education facilities, office premises, restaurants or cafes and shops in residential zones"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions"
 clause: "6.13"

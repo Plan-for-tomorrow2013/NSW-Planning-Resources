@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Commercial premises on land in Zone MU1 and known as Caerleon"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 2 — Land classified, or reclassified, as operational land—interests changed"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 36)"
 last_verified: 2023-11-10

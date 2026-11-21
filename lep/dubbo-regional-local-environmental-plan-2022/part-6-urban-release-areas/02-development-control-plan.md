@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Development control plan"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.3"

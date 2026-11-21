@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Relationship between Part and remainder of Plan"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.4"

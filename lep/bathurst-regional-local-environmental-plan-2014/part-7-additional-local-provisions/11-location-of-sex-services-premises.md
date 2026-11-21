@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Location of sex services premises"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

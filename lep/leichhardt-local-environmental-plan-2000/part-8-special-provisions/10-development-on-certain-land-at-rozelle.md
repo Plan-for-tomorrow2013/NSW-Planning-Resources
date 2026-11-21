@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Development on certain land at Rozelle"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "39"

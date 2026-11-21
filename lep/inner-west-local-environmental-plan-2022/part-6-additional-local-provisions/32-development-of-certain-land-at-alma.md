@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.34 Development of certain land at Alma Avenue and Stanmore Road, Stanmore and Tupper Street, Enmore"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.34"

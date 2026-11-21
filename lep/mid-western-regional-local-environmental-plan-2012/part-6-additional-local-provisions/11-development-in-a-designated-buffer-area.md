@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development in a designated buffer area"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

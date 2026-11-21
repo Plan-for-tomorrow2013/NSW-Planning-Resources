@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Consent not required in certain cases"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Subdivision of land"
 clause: "35"

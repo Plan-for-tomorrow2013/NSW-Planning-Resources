@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Natural resource—riparian land and waterways"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

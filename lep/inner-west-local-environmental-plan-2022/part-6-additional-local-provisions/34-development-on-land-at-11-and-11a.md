@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.36 Development on land at 11 and 11A Edinburgh Road, Marrickville"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.36"

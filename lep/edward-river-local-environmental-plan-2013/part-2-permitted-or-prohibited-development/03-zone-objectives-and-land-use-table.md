@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.3 Zone objectives and Land Use Table"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.3"

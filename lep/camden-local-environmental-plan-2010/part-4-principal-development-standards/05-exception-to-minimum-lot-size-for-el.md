@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exception to minimum lot size for El Caballo Blanco/Gledswood"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

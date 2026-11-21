@@ -1,6 +1,6 @@
 ---
 title: "Part 11 — Provisions that apply generally in Bega Valley area"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

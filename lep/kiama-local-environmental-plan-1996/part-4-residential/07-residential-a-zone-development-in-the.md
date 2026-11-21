@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Residential \"A\" Zone—Development in the Gerringong Urban Release Area"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "20"

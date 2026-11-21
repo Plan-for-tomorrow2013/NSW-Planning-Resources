@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Meanings of terms"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 7 (1))"
 last_verified: 2026-07-01

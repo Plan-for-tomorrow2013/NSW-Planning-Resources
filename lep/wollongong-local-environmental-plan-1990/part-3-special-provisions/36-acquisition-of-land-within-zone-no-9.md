@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Acquisition of land within Zone No 9"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "35"

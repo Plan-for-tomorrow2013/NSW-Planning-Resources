@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Saving for undetermined applications"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "11"

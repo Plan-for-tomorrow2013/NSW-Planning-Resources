@@ -2,7 +2,7 @@
 title: "Hunters Hill Local Environmental Plan 2012"
 document_id: epi-2013-0034
 current_from: 2026-07-01
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 ---
 
 # Hunters Hill Local Environmental Plan 2012

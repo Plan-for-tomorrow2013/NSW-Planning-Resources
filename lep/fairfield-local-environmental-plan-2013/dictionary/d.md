@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — D"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 dictionary_range: "D"
 last_verified: 2026-07-01

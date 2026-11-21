@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Provision of services"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "21"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Acquisition of land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 9 Development on reserved land"
 clause: "57"

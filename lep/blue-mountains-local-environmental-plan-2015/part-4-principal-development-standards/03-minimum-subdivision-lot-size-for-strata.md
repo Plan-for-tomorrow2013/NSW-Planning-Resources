@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum subdivision lot size for strata plan schemes in certain rural and conservation zones"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

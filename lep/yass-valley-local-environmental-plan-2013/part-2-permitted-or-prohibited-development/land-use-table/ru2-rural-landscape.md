@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

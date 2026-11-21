@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 General controls for development—Zone 5 (a) (Special Uses Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "5 — Special use zone provisions"
 clause: "37"

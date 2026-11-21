@@ -2,7 +2,7 @@
 title: "Carrathool Local Environmental Plan 2012"
 document_id: epi-2012-0332
 current_from: 2026-07-01
-council: "Carrathool"
+council: "Carrathool Shire Council"
 ---
 
 # Carrathool Local Environmental Plan 2012

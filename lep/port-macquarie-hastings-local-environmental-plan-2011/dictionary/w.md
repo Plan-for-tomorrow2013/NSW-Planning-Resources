@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-10-16

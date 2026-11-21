@@ -1,6 +1,6 @@
 ---
 title: "Part 4 — Special provisions"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-07-01
 ---

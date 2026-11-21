@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AB Minimum subdivision lot size for strata subdivision in certain rural, residential zones and environmental zones"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AB"

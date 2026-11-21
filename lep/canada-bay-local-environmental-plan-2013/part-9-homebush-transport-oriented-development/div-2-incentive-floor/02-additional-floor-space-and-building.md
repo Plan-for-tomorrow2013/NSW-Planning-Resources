@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.7 Additional floor space and building heights"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "9 — Homebush Transport Oriented Development Precinct / Division 2 Incentive floor space and building height for key sites"
 clause: "9.7"

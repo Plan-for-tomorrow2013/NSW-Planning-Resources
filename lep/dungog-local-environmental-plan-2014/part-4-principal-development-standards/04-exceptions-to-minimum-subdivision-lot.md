@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Exceptions to minimum subdivision lot size for lot boundary adjustments in Zone RU1"
-council: "Dungog"
+council: "Dungog Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

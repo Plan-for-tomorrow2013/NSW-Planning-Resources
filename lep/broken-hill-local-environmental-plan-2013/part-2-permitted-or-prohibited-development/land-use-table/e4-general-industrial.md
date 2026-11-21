@@ -1,6 +1,6 @@
 ---
 title: "Zone E4 — General Industrial"
-council: "Broken Hill"
+council: "Broken Hill City Council"
 document_type: LEP
 zone_code: E4
 zone: "General Industrial"

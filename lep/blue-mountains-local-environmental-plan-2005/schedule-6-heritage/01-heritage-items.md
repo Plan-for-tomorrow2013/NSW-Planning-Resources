@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 1 — Heritage items"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 6 (Dictionary)"
 last_verified: 2026-07-01

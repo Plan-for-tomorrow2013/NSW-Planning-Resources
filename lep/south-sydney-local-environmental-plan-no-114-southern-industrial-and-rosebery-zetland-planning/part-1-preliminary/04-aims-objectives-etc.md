@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Aims, objectives etc"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "4"

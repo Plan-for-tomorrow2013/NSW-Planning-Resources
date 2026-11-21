@@ -2,7 +2,7 @@
 title: "Moree Plains Local Environmental Plan 2011"
 document_id: epi-2011-0646
 current_from: 2026-07-01
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 ---
 
 # Moree Plains Local Environmental Plan 2011

@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.2 Aims of Plan"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.2"

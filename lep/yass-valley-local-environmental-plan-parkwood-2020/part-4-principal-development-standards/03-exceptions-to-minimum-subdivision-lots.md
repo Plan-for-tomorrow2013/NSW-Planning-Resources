@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions to minimum subdivision lots sizes for certain split zones"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

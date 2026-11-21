@@ -1,6 +1,6 @@
 ---
 title: "Clause 65 Maps"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "8 — Middle Camp site / Division 1 Preliminary"
 clause: "65"

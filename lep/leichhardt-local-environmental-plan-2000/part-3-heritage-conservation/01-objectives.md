@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Objectives"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "3 — Heritage conservation"
 clause: "15"

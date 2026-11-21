@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot size for dual occupancies, multi dwelling housing and residential flat buildings in certain rural and residential zones"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

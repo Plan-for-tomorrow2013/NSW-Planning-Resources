@@ -1,6 +1,6 @@
 ---
 title: "Clause 48 Development within Zone 7 (d)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "7 — Environment Protection zones provisions"
 clause: "48"

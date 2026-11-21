@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Consent considerations"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "8"

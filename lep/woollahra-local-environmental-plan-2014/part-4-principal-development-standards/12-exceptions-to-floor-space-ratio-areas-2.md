@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4B Exceptions to floor space ratio (Areas 2 and 3—selected Zone E1 and Zone MU1 centres)"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4B"

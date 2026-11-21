@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Development of land at Howick Street and George Street, Bathurst"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

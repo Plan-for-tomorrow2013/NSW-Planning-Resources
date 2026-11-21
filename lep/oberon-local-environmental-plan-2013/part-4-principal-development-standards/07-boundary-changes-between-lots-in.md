@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Boundary changes between lots in certain rural, residential and conservation zones"
-council: "Oberon"
+council: "Oberon Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

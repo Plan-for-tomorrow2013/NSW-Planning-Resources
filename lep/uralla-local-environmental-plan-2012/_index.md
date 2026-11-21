@@ -2,7 +2,7 @@
 title: "Uralla Local Environmental Plan 2012"
 document_id: epi-2012-0119
 current_from: 2026-07-01
-council: "Uralla"
+council: "Uralla Shire Council"
 ---
 
 # Uralla Local Environmental Plan 2012

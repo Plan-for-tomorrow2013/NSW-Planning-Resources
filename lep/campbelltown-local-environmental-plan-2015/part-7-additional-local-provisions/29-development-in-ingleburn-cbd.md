@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.31 Development in Ingleburn CBD"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.31"

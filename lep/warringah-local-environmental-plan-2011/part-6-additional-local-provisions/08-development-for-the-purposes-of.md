@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development for the purposes of secondary dwellings in Zones R2 and R3"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

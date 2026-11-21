@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.8 Temporary use of land"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.8"

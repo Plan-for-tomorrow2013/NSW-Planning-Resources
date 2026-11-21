@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Food and drink premises and shops on certain land in Zone E1"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.25"

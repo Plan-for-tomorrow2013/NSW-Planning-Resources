@@ -1,6 +1,6 @@
 ---
 title: "Zone C2 — Environmental Conservation"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 zone_code: C2
 zone: "Environmental Conservation"

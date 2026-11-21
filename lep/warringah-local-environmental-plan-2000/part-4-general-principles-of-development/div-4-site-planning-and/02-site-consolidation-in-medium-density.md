@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Site consolidation in \"medium density areas\""
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 4 Site planning and building design"
 clause: "55"

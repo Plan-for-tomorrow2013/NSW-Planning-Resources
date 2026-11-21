@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Boundary adjustments in Zones RU1, RU3, RU4 and RU5"
-council: "Balranald"
+council: "Balranald Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

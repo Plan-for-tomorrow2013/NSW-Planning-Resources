@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.72 Development at Acacia Street, Belmore"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 2 Pedestrian links"
 clause: "6.72"

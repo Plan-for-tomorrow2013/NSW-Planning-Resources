@@ -2,7 +2,7 @@
 title: "Blue Mountains Local Environmental Plan 2015"
 document_id: epi-2015-0829
 current_from: 2026-07-01
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 ---
 
 # Blue Mountains Local Environmental Plan 2015

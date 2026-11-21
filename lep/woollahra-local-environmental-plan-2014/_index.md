@@ -2,7 +2,7 @@
 title: "Woollahra Local Environmental Plan 2014"
 document_id: epi-2015-0020
 current_from: 2026-08-21
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 ---
 
 # Woollahra Local Environmental Plan 2014

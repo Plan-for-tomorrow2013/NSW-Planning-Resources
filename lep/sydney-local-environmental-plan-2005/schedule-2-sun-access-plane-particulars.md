@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Sun access plane particulars"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 2 (Clause 48 and Dictionary)"
 last_verified: 2023-12-14

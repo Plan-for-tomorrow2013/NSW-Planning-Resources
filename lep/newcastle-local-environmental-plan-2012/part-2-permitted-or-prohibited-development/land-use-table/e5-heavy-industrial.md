@@ -1,6 +1,6 @@
 ---
 title: "Zone E5 — Heavy Industrial"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 zone_code: E5
 zone: "Heavy Industrial"

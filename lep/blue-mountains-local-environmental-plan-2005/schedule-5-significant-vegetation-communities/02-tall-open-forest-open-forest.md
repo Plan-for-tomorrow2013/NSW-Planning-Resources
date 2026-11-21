@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, 2 — Tall open-forest/open-forest"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 5 (Dictionary)"
 last_verified: 2026-07-01

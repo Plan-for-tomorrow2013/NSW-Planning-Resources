@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Minimum building street frontage"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "8 — Local provisions—Wollongong city centre"
 clause: "8.4"

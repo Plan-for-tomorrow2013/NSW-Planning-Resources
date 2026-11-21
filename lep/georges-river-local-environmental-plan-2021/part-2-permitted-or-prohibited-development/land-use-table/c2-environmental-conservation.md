@@ -1,6 +1,6 @@
 ---
 title: "Zone C2 — Environmental Conservation"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 zone_code: C2
 zone: "Environmental Conservation"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Erection of rural workers' dwellings in Zone RU1"
-council: "Guyra"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

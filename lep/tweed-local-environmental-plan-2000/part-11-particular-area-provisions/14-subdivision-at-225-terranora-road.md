@@ -1,6 +1,6 @@
 ---
 title: "Clause 53H Subdivision at 225 Terranora Road, Banora Point"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53H"

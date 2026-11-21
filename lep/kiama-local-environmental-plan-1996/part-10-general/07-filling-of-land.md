@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 Filling of land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "53"

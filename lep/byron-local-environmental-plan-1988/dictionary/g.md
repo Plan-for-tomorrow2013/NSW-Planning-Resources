@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2025-02-14

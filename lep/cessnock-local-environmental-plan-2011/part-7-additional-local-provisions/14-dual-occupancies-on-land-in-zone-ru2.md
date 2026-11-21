@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Dual occupancies on land in Zone RU2"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

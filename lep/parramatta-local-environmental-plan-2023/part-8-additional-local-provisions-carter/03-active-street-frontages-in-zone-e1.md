@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Active street frontages in Zone E1"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "8 — Additional local provisions—Carter Street Precinct"
 clause: "8.4"

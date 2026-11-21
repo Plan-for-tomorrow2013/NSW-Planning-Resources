@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.1AA Commencement"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.1AA"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Development in Zone 1 (c)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "2 — Rural zone provisions"
 clause: "19"

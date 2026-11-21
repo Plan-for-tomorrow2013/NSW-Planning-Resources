@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Exceptions to development standards"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "22"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Investigation areas referred to on zoning map"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "21"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.2 Classification and reclassification of public land"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.2"

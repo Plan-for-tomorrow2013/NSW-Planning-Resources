@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Dwelling-houses—Zones Nos 1 (c), 2 (a2) and 2 (a3)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Dwelling-houses"
 clause: "16"

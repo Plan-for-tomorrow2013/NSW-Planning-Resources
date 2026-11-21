@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Development affecting places or sites of known or potential Aboriginal heritage significance"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Heritage provisions"
 clause: "31"

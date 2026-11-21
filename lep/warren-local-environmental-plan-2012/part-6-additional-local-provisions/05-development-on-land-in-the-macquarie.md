@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development on land in the Macquarie Marshes Nature Reserve"
-council: "Warren"
+council: "Warren Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Earthworks"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 58E Canal estate development prohibited"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "58E"

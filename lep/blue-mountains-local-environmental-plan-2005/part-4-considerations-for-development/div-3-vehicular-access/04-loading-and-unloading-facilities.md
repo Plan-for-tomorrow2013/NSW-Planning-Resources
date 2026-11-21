@@ -1,6 +1,6 @@
 ---
 title: "Clause 101 Loading and unloading facilities"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 3 Vehicular access, parking and roads"
 clause: "101"

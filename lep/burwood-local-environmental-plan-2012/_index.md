@@ -2,7 +2,7 @@
 title: "Burwood Local Environmental Plan 2012"
 document_id: epi-2012-0550
 current_from: 2026-07-01
-council: "Burwood"
+council: "Burwood Council"
 ---
 
 # Burwood Local Environmental Plan 2012

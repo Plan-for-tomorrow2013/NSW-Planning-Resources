@@ -1,6 +1,6 @@
 ---
 title: "Zone SP3 — Tourist"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 zone_code: SP3
 zone: "Tourist"

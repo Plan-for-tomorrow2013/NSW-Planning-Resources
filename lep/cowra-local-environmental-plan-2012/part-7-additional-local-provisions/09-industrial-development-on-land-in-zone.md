@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Industrial development on land in Zone RU1"
-council: "Cowra"
+council: "Cowra Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

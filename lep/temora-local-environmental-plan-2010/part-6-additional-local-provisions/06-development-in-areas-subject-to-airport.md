@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Development in areas subject to airport noise"
-council: "Temora"
+council: "Temora Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

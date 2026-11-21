@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.9 Dwelling house or secondary dwelling affected by natural disaster"
-council: "Bourke"
+council: "Bourke Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.9"

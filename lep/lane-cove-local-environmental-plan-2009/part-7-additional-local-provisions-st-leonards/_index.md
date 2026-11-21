@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions—St Leonards South Area"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

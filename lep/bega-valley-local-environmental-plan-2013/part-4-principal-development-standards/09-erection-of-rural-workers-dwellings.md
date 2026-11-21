@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of rural workers' dwellings"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

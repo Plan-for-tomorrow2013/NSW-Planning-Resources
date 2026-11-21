@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

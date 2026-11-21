@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Essential services"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

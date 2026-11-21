@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.25 Development in local centres"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.25"

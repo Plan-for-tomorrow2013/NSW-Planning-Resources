@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

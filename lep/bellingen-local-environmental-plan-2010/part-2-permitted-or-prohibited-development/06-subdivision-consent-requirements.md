@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.6 Subdivision—consent requirements"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.6"

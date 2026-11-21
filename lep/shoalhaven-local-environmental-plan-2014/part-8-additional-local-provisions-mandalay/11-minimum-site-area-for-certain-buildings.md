@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.11 Minimum site area for certain buildings in Hyam Street Sub-precinct"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
 clause: "8.11"

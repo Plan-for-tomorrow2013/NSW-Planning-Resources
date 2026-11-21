@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2F Erection of rural workers' dwellings in Zone RU1"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2F"

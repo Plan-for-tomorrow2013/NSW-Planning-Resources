@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Purposes referred to in clause 9—Zone 2 (t) (Tourist Area Zone)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 9)"
 last_verified: 2025-02-14

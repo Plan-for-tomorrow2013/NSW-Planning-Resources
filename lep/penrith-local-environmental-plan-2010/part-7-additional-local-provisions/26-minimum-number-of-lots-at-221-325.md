@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.24 Minimum number of lots at 221-325 Luddenham Road, Orchard Hills"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.24"

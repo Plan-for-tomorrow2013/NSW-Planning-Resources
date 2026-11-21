@@ -1,6 +1,6 @@
 ---
 title: "Clause 3.1 Exempt development"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.1"

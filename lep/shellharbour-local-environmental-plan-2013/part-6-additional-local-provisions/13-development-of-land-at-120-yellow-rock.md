@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Development of land at 120 Yellow Rock Road, Tullimbar"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

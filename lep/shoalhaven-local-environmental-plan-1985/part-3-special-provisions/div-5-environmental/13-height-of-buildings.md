@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Height of buildings"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "33"

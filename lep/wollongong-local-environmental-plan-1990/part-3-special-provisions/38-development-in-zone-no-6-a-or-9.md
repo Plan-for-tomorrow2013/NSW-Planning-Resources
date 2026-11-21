@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Development in Zone No 6 (a) or 9"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "37"

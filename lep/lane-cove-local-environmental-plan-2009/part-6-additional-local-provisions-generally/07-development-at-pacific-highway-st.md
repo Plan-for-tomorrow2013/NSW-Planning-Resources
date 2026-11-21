@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development at Pacific Highway, St Leonards"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.6"

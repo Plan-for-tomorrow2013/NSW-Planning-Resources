@@ -1,6 +1,6 @@
 ---
 title: "Clause 56 Building etc not to be erected without consent on reserved land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 9 Development on reserved land"
 clause: "56"

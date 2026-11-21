@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Aim"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "2 — Planning principles"
 clause: "6"

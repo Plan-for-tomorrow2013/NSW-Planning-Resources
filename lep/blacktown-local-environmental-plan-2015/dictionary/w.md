@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-07-31

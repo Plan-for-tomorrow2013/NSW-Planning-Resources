@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.3 Development for the purposes of certain shops"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "10 — St Marys Town Centre"
 clause: "10.3"

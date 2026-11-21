@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Development control plan"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.3"

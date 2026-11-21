@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Tourist and visitor accommodation in certain rural and conservation zones"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

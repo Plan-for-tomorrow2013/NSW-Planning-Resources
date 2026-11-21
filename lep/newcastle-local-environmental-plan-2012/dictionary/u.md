@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-09-04

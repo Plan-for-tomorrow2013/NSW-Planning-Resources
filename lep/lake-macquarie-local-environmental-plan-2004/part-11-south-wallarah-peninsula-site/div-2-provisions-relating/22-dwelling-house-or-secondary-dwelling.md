@@ -1,6 +1,6 @@
 ---
 title: "Clause 157 Dwelling house or secondary dwelling affected by natural disaster"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "11 — South Wallarah Peninsula site / Division 2 Provisions relating to development in South Wallarah Peninsula site"
 clause: "157"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Classification and reclassification of public land"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

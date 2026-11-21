@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Building envelopes, heights, landscaped areas and rear boundary setbacks for development that requires consent"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Development controls for residential and rural-residential zones"
 clause: "12"

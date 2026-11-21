@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Development of certain land at 1A and 1B Queen Street, Auburn"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

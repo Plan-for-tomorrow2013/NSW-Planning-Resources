@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Erection of rural workers' dwellings in Zone RU1 Primary Production"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

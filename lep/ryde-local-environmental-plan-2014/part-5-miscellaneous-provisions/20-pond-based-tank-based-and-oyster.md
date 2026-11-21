@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.19 Pond-based, tank-based and oyster aquaculture"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.19"

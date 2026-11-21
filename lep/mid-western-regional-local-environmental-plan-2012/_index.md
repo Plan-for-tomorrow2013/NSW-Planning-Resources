@@ -2,7 +2,7 @@
 title: "Mid-Western Regional Local Environmental Plan 2012"
 document_id: epi-2012-0374
 current_from: 2026-07-01
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 ---
 
 # Mid-Western Regional Local Environmental Plan 2012

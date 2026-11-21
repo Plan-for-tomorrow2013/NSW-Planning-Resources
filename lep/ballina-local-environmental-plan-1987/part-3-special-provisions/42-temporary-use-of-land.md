@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Temporary use of land"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "41"

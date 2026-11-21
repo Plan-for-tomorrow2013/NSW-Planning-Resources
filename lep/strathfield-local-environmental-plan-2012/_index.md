@@ -2,7 +2,7 @@
 title: "Strathfield Local Environmental Plan 2012"
 document_id: epi-2013-0115
 current_from: 2026-09-11
-council: "Strathfield"
+council: "Strathfield Council"
 ---
 
 # Strathfield Local Environmental Plan 2012

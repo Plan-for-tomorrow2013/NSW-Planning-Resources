@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses and dual occupancies on land in certain rural, residential and conservation zones"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

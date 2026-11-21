@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

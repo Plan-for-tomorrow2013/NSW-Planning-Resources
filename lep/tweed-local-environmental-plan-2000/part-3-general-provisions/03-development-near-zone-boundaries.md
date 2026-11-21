@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Development near zone boundaries"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "3 — General provisions"
 clause: "14"

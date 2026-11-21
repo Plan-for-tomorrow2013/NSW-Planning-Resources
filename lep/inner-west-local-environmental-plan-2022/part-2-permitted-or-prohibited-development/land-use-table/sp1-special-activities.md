@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

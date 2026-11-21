@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Development in Zone 4 (a)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Employment zone provisions"
 clause: "35"

@@ -1,6 +1,6 @@
 ---
 title: "Amendment history"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 last_verified: 2026-07-31
 ---

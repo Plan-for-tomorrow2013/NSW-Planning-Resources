@@ -1,6 +1,6 @@
 ---
 title: "Clause 33B Vehicular access to the Princes Highway (Murramerang Street), Ulladulla"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "33B"

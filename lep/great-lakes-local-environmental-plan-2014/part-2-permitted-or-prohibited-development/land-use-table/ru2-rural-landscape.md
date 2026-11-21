@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

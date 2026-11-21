@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 General controls for development—Zone 3 (d) (the Neighbourhood Business zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Commercial Zones Provisions"
 clause: "28"

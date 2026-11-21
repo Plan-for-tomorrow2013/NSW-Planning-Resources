@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Amendment of other environmental planning instruments"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 4 (4))"
 last_verified: 2026-07-01

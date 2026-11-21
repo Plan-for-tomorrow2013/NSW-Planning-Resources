@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Co-living housing and multi dwelling housing in Zone R2"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

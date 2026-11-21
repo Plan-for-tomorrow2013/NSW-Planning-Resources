@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — A"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 dictionary_range: "A"
 last_verified: 2026-10-02

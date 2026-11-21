@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1 Minimum subdivision lot size"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1"

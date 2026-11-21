@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Considerations for development on environmentally constrained land"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

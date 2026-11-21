@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-09-11

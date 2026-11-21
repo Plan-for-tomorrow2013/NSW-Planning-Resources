@@ -1,6 +1,6 @@
 ---
 title: "Schedule 12 — Requirements for complying development"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 12 (Appendices A-H)"
 last_verified: 2026-07-01

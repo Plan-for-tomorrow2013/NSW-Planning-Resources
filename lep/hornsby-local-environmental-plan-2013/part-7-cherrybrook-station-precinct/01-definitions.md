@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Definitions"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "7 — Cherrybrook Station Precinct"
 clause: "7.1"

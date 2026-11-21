@@ -1,6 +1,6 @@
 ---
 title: "Clause 17B Conservation incentives"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "17B"

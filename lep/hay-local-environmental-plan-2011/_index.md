@@ -2,7 +2,7 @@
 title: "Hay Local Environmental Plan 2011"
 document_id: epi-2011-0642
 current_from: 2026-07-01
-council: "Hay"
+council: "Hay Shire Council"
 ---
 
 # Hay Local Environmental Plan 2011

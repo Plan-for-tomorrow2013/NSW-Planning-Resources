@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3 Height of buildings"
-council: "Gundagai"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3"

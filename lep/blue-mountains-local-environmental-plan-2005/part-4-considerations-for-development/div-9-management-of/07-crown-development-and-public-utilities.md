@@ -1,6 +1,6 @@
 ---
 title: "Clause 134 Crown development and public utilities"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 9 Management of public land and public infrastructure"
 clause: "134"

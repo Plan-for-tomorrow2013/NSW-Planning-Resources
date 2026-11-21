@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4B Exceptions to floor space ratio—town centres and village centres"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4B"

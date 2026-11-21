@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Determination of development applications for development in growth areas"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "8 — Growth areas"
 clause: "8.4"

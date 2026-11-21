@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Maximum number of dwelling houses or dual occupancies on multiple occupancy or rural landsharing community developments"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

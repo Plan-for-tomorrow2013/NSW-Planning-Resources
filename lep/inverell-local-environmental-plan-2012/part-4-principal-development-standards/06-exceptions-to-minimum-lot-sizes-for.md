@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Exceptions to minimum lot sizes for certain residential development in Zone R1"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

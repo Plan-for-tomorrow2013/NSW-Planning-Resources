@@ -1,6 +1,6 @@
 ---
 title: "Clause 50 Development affecting known or potential archaeological sites or relics of non-Aboriginal heritage significance"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Conservation of heritage"
 clause: "50"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Design excellence—St Leonards South Area"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "7 — Additional local provisions—St Leonards South Area"
 clause: "7.6"

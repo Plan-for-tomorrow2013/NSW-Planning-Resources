@@ -1,6 +1,6 @@
 ---
 title: "Clause 47A Exempt and complying development"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "47A"

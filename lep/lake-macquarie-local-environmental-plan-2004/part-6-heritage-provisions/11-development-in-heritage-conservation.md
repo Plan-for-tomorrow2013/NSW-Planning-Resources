@@ -1,6 +1,6 @@
 ---
 title: "Clause 54 Development in heritage conservation areas"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "6 — Heritage provisions"
 clause: "54"

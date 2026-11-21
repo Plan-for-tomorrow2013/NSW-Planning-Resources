@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1F Minimum lot sizes for certain land with split minimum lot sizes"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1F"

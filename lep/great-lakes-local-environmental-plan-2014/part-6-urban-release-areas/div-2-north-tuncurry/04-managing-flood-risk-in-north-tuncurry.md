@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Managing flood risk in North Tuncurry Urban Release Area"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "6 — Urban release areas / Division 2 North Tuncurry Urban Release Area"
 clause: "6.8"

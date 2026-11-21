@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Other exceptions to height of buildings"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

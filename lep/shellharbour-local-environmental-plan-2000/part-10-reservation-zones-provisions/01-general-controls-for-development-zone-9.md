@@ -1,6 +1,6 @@
 ---
 title: "Clause 65 General controls for development—Zone 9 (b) (the Arterial Roads Reservation zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "10 — Reservation Zones Provisions"
 clause: "65"

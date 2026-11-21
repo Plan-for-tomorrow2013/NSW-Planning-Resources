@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Clearing of land"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Land management issues"
 clause: "37"

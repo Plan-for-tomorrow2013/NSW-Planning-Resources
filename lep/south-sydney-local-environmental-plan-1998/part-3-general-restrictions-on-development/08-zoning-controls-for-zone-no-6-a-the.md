@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Zoning controls for Zone No 6 (a)—the Local Recreation Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "16"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum subdivision lot size for certain land at Lightning Ridge"
-council: "Walgett"
+council: "Walgett Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

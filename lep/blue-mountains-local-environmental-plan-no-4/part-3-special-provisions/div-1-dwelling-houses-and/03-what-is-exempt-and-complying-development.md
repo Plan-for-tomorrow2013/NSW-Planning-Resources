@@ -1,6 +1,6 @@
 ---
 title: "Clause 10B What is exempt and complying development?"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Dwelling-houses and boarding-houses"
 clause: "10B"

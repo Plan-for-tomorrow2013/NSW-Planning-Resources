@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Controls for the development of certain land within Zone 1 (a)—Jamberoo Valley"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — Rural Zones Provisions"
 clause: "16"

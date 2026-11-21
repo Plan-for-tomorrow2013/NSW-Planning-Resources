@@ -1,6 +1,6 @@
 ---
 title: "Zone RU6 — Transition"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 zone_code: RU6
 zone: "Transition"

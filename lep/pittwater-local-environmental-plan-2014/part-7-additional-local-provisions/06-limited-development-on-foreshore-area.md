@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Limited development on foreshore area"
-council: "Pittwater"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

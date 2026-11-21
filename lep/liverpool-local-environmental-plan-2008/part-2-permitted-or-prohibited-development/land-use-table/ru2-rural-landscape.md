@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

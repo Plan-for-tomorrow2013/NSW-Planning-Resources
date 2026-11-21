@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Blacktown Health and Education Precinct"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

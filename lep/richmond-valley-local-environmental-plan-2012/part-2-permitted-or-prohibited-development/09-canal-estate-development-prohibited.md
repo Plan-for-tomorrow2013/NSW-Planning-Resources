@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.9 Canal estate development prohibited"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.9"

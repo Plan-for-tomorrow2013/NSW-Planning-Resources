@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Development for the purpose of a backpackers' hostel or serviced apartment"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "43"

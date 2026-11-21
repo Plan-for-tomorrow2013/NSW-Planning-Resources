@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Development within a designated buffer area"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

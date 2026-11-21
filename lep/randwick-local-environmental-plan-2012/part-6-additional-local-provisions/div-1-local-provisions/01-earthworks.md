@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Earthworks"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions"
 clause: "6.2"

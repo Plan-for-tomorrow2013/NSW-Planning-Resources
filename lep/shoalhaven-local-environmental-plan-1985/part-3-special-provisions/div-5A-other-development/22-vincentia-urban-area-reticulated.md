@@ -1,6 +1,6 @@
 ---
 title: "Clause 40F Vincentia urban area—reticulated sewerage system for certain land"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "40F"

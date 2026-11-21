@@ -1,6 +1,6 @@
 ---
 title: "Clause 3.3 Environmentally sensitive areas excluded"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.3"

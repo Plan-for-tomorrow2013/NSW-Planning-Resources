@@ -1,6 +1,6 @@
 ---
 title: "Schedule 16 — Provisions transferred from Jervis Bay Regional Environmental Plan 1996"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 16"
 last_verified: 2026-07-01

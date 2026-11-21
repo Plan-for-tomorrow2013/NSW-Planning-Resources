@@ -1,6 +1,6 @@
 ---
 title: "Clause 58D Public bushland"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "58D"

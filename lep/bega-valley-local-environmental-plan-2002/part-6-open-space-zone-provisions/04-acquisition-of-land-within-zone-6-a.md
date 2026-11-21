@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Acquisition of land within Zone 6 (a)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Open Space zone provisions"
 clause: "41"

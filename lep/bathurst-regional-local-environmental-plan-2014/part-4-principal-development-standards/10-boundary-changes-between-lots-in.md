@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Boundary changes between lots in certain rural and conservation zones"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

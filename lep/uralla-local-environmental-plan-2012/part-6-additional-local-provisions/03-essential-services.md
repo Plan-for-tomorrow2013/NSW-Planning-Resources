@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Essential services"
-council: "Uralla"
+council: "Uralla Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

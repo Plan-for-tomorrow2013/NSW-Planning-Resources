@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Biodiversity protection"
-council: "Weddin"
+council: "Weddin Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.1"

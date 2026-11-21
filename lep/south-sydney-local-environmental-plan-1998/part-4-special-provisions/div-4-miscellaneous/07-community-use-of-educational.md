@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Community use of educational establishments"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "33"

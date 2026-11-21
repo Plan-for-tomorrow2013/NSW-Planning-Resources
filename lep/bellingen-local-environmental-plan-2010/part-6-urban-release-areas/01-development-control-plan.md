@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Development control plan"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.2"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.11 Relocation of Frenchs Forest Police Station"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "8 — Frenchs Forest Precinct"
 clause: "8.11"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.7 Demolition requires consent"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.7"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development of certain land at Sapphire Coast Drive and Tura Beach Drive, Tura Beach"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

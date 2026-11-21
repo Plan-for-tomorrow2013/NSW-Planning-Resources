@@ -1,6 +1,6 @@
 ---
 title: "Clause 51A Development without consent on public reserves or other public land"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "51A"

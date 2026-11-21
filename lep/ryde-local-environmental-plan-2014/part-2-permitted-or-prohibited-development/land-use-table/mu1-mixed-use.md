@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

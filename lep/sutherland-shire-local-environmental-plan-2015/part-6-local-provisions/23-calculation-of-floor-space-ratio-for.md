@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.24 Calculation of floor space ratio for buildings on certain land at Jannali"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.24"

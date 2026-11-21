@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3C Exceptions to building heights (Area K—252-254 New South Head Road, Double Bay)"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3C"

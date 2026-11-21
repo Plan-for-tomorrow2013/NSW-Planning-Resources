@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — F"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 dictionary_range: "F"
 last_verified: 2026-09-25

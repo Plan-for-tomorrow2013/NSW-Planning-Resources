@@ -1,6 +1,6 @@
 ---
 title: "Zone C1 — National Parks and Nature Reserves"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 zone_code: C1
 zone: "National Parks and Nature Reserves"

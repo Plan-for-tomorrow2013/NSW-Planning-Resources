@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions to minimum subdivision lot sizes for certain residential development"
-council: "Kempsey"
+council: "Kempsey Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

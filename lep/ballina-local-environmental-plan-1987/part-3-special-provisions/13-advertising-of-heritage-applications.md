@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Advertising of heritage applications"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "22"

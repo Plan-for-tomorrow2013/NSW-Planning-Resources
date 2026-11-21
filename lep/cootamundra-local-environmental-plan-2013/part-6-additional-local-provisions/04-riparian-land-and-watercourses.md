@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Riparian land and watercourses"
-council: "Cootamundra"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.3 Minimum building setbacks"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.3"

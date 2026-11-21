@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Advertising signs and structures in residential zones"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "21"

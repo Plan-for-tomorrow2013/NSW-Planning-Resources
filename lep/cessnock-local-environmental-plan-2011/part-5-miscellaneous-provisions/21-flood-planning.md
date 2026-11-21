@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.21 Flood planning"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.21"

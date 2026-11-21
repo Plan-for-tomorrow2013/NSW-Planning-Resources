@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.5 Controls relating to secondary dwellings on land in a rural zone"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.5"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Classification and reclassification of public land"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 2 (Clause 28)"
 last_verified: 2022-11-21

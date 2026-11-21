@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.94 Objectives of division"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 3 Punchbowl and Wiley Park Precinct / Subdivision 1 Preliminary"
 clause: "6.94"

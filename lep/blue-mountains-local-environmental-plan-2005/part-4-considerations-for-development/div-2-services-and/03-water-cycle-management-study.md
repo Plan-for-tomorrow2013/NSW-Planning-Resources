@@ -1,6 +1,6 @@
 ---
 title: "Clause 96 Water cycle management study"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 2 Services and infrastructure"
 clause: "96"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — State policies"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 12 (1) (b))"
 last_verified: 2026-07-01

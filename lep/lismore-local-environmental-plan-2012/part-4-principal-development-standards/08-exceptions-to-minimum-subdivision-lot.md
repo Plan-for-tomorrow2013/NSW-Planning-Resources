@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2E Exceptions to minimum subdivision lot sizes for certain split zones"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2E"

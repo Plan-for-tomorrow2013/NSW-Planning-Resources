@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2024-02-23

@@ -1,6 +1,6 @@
 ---
 title: "Clause 1A References to City of Wollongong Local Environmental Plan 1990"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1A"

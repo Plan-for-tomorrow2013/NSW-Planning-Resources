@@ -1,6 +1,6 @@
 ---
 title: "Schedule 9 — Development for certain additional purposes"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 9 (Clause 39)"
 last_verified: 2026-07-01

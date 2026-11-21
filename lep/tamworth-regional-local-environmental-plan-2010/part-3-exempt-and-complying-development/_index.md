@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 last_verified: 2026-10-14
 ---

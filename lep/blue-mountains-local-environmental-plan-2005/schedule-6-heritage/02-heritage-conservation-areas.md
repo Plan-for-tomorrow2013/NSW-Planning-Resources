@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 2 — Heritage conservation areas"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 6 (Dictionary)"
 last_verified: 2026-07-01

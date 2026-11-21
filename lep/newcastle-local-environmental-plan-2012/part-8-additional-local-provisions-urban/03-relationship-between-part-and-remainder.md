@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Relationship between Part and remainder of Plan"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "8 — Additional local provisions—urban release areas"
 clause: "8.4"

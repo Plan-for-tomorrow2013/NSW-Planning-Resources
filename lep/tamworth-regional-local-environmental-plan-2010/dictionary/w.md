@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-10-14

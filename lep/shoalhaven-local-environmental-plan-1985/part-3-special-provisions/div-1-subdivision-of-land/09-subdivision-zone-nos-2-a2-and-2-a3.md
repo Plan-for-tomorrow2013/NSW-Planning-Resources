@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Subdivision—Zone Nos 2 (a2) and 2 (a3)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision of land"
 clause: "13"

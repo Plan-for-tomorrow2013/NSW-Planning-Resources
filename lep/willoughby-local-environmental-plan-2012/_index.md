@@ -2,7 +2,7 @@
 title: "Willoughby Local Environmental Plan 2012"
 document_id: epi-2012-0679
 current_from: 2026-07-01
-council: "Willoughby"
+council: "Willoughby City Council"
 ---
 
 # Willoughby Local Environmental Plan 2012

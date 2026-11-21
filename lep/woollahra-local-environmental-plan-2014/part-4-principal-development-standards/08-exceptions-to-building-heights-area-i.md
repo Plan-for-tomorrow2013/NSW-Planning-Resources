@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3B Exceptions to building heights (Area I—White City Tennis Club)"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3B"

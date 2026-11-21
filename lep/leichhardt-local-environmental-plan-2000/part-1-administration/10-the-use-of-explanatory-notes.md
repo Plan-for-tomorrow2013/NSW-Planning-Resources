@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 The use of explanatory notes"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "10"

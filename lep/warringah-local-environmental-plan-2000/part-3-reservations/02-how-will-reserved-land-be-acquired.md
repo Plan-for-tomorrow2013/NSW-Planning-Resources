@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 How will reserved land be acquired?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "3 — Reservations"
 clause: "35"

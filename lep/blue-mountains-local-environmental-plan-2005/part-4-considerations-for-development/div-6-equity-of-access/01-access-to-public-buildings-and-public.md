@@ -1,6 +1,6 @@
 ---
 title: "Clause 107 Access to public buildings and public land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 6 Equity of access and housing choice"
 clause: "107"

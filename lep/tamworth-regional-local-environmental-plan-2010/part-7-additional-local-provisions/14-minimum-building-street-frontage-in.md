@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Minimum building street frontage in Zone E2"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 Transport accessibility, traffic impacts and car parking"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "53"

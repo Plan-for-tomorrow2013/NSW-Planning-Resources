@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Waste minimisation and recycling"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

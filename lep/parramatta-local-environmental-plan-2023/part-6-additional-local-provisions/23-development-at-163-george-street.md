@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.24 Development at 163 George Street, Parramatta"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.24"

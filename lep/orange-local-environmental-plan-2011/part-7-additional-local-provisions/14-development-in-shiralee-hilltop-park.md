@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Development in Shiralee Hilltop Park Buffer Area"
-council: "Orange"
+council: "Orange City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

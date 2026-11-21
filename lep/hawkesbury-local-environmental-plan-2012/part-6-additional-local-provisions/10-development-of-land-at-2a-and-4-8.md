@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Development of land at 2A and 4-8 Hawkesbury Valley Way and 383-395 George Street, Windsor"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

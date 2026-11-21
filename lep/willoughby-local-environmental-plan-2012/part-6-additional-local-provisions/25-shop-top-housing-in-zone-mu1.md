@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.25 Shop top housing in Zone MU1"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.25"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Protected regrowth for Native Vegetation Act 2003"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

@@ -1,6 +1,6 @@
 ---
 title: "Zone SP3 — Tourist"
-council: "Gundagai"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 zone_code: SP3
 zone: "Tourist"

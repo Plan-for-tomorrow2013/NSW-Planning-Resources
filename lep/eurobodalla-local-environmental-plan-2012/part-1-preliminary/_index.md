@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 last_verified: 2026-08-28
 ---

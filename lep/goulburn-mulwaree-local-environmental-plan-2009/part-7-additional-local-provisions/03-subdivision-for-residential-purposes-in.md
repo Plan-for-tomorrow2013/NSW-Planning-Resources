@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Subdivision for residential purposes in Zones RU5 and R5"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

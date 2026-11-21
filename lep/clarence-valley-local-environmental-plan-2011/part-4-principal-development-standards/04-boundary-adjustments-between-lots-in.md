@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Boundary adjustments between lots in certain rural, residential and conservation zones"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

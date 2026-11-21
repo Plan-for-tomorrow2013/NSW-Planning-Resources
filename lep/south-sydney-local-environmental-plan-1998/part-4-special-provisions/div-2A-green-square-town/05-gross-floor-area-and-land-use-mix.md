@@ -1,6 +1,6 @@
 ---
 title: "Clause 27KF Gross floor area and land use mix"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2A Green Square Town Centre"
 clause: "27KF"

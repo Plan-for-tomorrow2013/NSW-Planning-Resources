@@ -1,6 +1,6 @@
 ---
 title: "Schedule 13 — Development guidelines for Collaroy/Narrabeen Beach"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 13 (Appendix D—Locality D1)"
 last_verified: 2026-07-01

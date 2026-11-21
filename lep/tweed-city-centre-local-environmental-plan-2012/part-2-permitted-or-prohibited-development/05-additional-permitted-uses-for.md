@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.5 Additional permitted uses for particular land"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.5"

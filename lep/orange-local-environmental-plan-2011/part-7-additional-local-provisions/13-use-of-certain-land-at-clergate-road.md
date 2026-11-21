@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Use of certain land at Clergate Road and Leeds Parade, Orange"
-council: "Orange"
+council: "Orange City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

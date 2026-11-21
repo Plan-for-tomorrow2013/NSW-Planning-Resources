@@ -1,6 +1,6 @@
 ---
 title: "Zone R1 — General Residential"
-council: "Cootamundra"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 zone_code: R1
 zone: "General Residential"

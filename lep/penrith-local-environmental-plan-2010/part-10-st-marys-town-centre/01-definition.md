@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.1 Definition"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "10 — St Marys Town Centre"
 clause: "10.1"

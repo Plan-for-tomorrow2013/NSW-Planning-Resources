@@ -1,6 +1,6 @@
 ---
 title: "Schedule 10 — Special Rural Lifestyle Areas"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 10 (Clause 46 (5))"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 16AB Restriction on subdivision"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Dwelling-houses"
 clause: "16AB"

@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

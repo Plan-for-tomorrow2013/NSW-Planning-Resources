@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Bourke"
+council: "Bourke Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

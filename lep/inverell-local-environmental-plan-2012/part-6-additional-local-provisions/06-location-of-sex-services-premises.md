@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Location of sex services premises"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

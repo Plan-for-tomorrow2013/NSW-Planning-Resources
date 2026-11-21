@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Zones indicated on the map"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "8"

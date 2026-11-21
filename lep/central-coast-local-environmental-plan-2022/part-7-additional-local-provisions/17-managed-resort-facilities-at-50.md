@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Managed resort facilities at 50 Summerland Road, Summerland Point"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.7 Active street frontages on certain land"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
 clause: "8.7"

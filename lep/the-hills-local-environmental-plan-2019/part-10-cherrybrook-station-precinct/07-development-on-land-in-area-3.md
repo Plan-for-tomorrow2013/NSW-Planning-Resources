@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.7 Development on land in Area 3"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "10 — Cherrybrook Station Precinct"
 clause: "10.7"

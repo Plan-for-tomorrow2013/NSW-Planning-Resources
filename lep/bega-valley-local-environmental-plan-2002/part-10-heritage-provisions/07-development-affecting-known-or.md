@@ -1,6 +1,6 @@
 ---
 title: "Clause 64 Development affecting known or potential archaeological sites of relics of non-Aboriginal heritage significance"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "10 — Heritage provisions"
 clause: "64"

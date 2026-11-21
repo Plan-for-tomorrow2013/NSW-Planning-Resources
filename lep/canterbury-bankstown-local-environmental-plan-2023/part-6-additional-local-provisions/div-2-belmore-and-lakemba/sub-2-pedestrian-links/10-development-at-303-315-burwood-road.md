@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.68 Development at 303-315 Burwood Road, Belmore"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 2 Pedestrian links"
 clause: "6.68"

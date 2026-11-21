@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Exempt development"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 8)"
 last_verified: 2023-11-10

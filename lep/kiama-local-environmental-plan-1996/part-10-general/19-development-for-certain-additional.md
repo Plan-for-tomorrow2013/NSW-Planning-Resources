@@ -1,6 +1,6 @@
 ---
 title: "Clause 63 Development for certain additional purposes"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "63"

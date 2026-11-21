@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3A — Prohibited development"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 3A (Clause 39A)"
 last_verified: 2026-07-01

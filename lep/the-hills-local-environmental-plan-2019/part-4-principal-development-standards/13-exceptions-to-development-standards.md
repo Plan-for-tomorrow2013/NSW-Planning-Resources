@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.6 Exceptions to development standards"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.6"

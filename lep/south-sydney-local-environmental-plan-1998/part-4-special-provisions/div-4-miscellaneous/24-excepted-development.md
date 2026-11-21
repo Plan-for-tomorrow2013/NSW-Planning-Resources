@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Excepted development"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "55"

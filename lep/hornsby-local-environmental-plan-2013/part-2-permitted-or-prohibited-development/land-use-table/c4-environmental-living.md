@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

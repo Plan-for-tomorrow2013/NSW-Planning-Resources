@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — E"
-council: "Oberon"
+council: "Oberon Council"
 document_type: LEP
 dictionary_range: "E"
 last_verified: 2026-07-01

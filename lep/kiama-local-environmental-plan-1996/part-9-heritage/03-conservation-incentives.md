@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Conservation incentives"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9 — Heritage"
 clause: "43"

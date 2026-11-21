@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Development at 30-36 Peelwood Road, Laggan"
-council: "Upper Lachlan"
+council: "Upper Lachlan Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.14"

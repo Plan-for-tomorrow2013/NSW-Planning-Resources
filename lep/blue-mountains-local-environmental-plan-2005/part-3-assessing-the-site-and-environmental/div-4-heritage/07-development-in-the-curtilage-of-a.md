@@ -1,6 +1,6 @@
 ---
 title: "Clause 76 Development in the curtilage of a heritage item or in a heritage conservation area"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 4 Heritage conservation"
 clause: "76"

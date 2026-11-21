@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Housing for older people or people with disabilities"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 1 General"
 clause: "40"

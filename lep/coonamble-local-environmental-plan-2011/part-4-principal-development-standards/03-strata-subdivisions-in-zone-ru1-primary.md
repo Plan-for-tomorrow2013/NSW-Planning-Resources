@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Strata subdivisions in Zone RU1 Primary Production"
-council: "Coonamble"
+council: "Coonamble Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

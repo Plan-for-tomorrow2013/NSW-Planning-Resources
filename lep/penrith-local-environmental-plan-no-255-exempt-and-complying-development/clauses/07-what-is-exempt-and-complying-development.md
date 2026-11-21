@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 What is exempt and complying development?"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "Clauses"
 clause: "7"

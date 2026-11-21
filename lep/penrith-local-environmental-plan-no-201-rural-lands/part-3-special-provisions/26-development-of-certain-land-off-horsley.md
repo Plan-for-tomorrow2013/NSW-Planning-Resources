@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 Development of certain land off Horsley Road, Mt Vernon"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "32"

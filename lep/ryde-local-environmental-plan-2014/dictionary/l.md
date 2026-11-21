@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — L"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 dictionary_range: "L"
 last_verified: 2026-09-18

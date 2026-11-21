@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1E Subdivision of land not serviced by sewage reticulation system"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1E"

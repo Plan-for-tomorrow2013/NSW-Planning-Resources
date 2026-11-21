@@ -1,6 +1,6 @@
 ---
 title: "Zone SP3 — Tourist"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 zone_code: SP3
 zone: "Tourist"

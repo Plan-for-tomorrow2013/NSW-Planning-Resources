@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Controls to promote commercial hierarchy within Zone 5 (a)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Special Uses Zones Provisions"
 clause: "41"

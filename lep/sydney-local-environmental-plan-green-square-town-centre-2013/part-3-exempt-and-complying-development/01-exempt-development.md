@@ -1,6 +1,6 @@
 ---
 title: "Clause 3.1 Exempt development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.1"

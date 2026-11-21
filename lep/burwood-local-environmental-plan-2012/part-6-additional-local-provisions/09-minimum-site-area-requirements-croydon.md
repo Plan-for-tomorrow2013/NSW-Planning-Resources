@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Minimum site area requirements—Croydon North Masterplan Precinct"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

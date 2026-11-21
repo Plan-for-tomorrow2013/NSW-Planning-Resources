@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot size for certain split lot zones"
-council: "Guyra"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

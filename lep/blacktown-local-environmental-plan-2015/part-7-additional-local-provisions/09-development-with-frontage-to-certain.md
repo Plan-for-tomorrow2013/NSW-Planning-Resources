@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Development with frontage to certain roads in Zone SP2"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

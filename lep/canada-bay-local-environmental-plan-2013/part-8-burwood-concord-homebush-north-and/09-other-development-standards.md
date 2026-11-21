@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.10 Other development standards"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "8 — Burwood-Concord, Homebush North and Kings Bay Precincts"
 clause: "8.10"

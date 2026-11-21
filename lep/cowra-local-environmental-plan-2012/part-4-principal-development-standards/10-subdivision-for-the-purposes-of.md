@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Subdivision for the purposes of intensive livestock agriculture or intensive plant agriculture"
-council: "Cowra"
+council: "Cowra Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

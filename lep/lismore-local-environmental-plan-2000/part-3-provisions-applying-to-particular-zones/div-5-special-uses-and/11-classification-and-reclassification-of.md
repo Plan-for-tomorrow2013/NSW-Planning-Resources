@@ -1,6 +1,6 @@
 ---
 title: "Clause 74 Classification and reclassification of public land as operational land"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 5 Special Uses and Recreation zones"
 clause: "74"

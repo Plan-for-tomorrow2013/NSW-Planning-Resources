@@ -1,6 +1,6 @@
 ---
 title: "Part 8 — 206 Parramatta Road and 122-128 and 130 Pyrmont Bridge Road, Camperdown"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-07-01

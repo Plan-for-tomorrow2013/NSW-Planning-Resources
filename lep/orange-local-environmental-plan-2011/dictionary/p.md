@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — P"
-council: "Orange"
+council: "Orange City Council"
 document_type: LEP
 dictionary_range: "P"
 last_verified: 2026-07-24

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Essential services"
-council: "Corowa"
+council: "Federation Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

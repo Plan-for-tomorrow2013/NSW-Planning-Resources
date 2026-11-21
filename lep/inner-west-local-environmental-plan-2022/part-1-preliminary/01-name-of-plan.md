@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.1 Name of Plan"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.1"

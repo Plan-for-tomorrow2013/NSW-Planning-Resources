@@ -1,6 +1,6 @@
 ---
 title: "Part 8 — Local provisions—Wollongong city centre"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

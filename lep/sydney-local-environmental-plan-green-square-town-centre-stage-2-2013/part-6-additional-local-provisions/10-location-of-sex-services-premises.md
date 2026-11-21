@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Location of sex services premises"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

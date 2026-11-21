@@ -1,6 +1,6 @@
 ---
 title: "Clause 10A Subdivision of certain rural residential land at Glenmore Park"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Development controls for residential and rural-residential zones"
 clause: "10A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 62 Character assessment for the Period Housing Area"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 3 Character and landscape assessment"
 clause: "62"

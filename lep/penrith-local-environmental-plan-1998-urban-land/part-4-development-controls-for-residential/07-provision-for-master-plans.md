@@ -1,6 +1,6 @@
 ---
 title: "Clause 14A Provision for master plans"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Development controls for residential and rural-residential zones"
 clause: "14A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Erection of dual occupancies (attached) and dwelling houses on land in certain rural, residential and conservation zones"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

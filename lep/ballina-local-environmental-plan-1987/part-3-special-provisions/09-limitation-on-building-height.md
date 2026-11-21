@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 Limitation on building height"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "17"

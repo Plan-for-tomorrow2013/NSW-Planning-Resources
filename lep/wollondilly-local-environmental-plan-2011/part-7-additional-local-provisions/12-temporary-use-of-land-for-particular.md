@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Temporary use of land for particular purposes"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

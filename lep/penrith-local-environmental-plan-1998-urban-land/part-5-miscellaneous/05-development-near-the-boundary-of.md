@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Development near the boundary of adjoining zones"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "19"

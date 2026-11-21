@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Earthworks"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.2"

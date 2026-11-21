@@ -1,6 +1,6 @@
 ---
 title: "Zone SP4 — Enterprise"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.25 Farm gate premises"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.25"

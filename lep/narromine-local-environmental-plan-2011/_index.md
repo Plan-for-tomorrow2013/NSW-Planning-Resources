@@ -2,7 +2,7 @@
 title: "Narromine Local Environmental Plan 2011"
 document_id: epi-2011-0648
 current_from: 2026-07-01
-council: "Narromine"
+council: "Narromine Shire Council"
 ---
 
 # Narromine Local Environmental Plan 2011

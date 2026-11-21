@@ -2,7 +2,7 @@
 title: "Lithgow Local Environmental Plan 2014"
 document_id: epi-2014-0824
 current_from: 2026-07-01
-council: "Lithgow"
+council: "Lithgow City Council"
 ---
 
 # Lithgow Local Environmental Plan 2014

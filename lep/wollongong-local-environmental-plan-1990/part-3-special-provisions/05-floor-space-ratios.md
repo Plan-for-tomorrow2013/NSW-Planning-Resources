@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Floor space ratios"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "12"

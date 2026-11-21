@@ -1,6 +1,6 @@
 ---
 title: "Clause 87 Exempt and complying development"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "87"

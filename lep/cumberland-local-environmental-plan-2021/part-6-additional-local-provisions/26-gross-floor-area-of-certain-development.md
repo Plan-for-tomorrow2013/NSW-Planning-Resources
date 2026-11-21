@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.26 Gross floor area of certain development to exclude enclosed balconies"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.26"

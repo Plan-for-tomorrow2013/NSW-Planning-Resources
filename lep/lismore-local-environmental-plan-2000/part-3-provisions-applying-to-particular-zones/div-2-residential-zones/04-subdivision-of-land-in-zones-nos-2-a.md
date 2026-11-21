@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 Subdivision of land in Zones Nos 2 (a) and 2 (v)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 2 Residential zones"
 clause: "51"

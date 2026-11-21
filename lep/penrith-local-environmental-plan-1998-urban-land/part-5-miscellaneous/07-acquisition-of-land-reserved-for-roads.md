@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Acquisition of land reserved for roads"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "20"

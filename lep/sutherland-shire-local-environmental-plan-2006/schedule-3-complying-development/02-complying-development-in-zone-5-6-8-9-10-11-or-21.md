@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3, Part 2 — Complying development in Zone 5, 6, 8, 9, 10, 11 or 21"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 13)"
 last_verified: 2026-07-01

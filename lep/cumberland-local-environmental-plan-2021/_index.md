@@ -2,7 +2,7 @@
 title: "Cumberland Local Environmental Plan 2021"
 document_id: epi-2021-0651
 current_from: 2026-07-01
-council: "Cumberland"
+council: "Cumberland City Council"
 ---
 
 # Cumberland Local Environmental Plan 2021

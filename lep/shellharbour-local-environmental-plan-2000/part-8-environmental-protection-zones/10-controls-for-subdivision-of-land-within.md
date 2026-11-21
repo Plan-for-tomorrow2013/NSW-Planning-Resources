@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Controls for subdivision of land within Zone 7 (f2)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "57"

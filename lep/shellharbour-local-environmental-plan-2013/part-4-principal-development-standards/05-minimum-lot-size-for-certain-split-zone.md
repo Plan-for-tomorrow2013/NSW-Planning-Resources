@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum lot size for certain split zone lots"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

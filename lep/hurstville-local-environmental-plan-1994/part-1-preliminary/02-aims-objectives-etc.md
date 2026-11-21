@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Aims, objectives etc"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "2"

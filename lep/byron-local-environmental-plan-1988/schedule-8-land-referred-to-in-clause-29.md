@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8 — Land referred to in clause 29"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 8 (Clause 29)"
 last_verified: 2025-02-14

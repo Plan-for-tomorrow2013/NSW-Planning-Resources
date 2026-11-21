@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Additional development"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 12)"
 last_verified: 2026-07-01

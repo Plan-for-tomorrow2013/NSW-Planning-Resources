@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Development in Zone 17—Environmental Protection (Low Impact Rural)"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Provisions that apply to particular land"
 clause: "16"

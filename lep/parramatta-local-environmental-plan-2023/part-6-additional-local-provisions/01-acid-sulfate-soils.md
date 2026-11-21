@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Acid sulfate soils"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.1"

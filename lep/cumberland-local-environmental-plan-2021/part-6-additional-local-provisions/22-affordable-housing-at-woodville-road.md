@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.22 Affordable housing at Woodville Road Corridor"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.22"

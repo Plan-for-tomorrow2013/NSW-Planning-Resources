@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Adoption of certain Model Provisions"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

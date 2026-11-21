@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Limited development on foreshore area"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

@@ -2,7 +2,7 @@
 title: "Inverell Local Environmental Plan 2012"
 document_id: epi-2012-0614
 current_from: 2026-07-01
-council: "Inverell"
+council: "Inverell Shire Council"
 ---
 
 # Inverell Local Environmental Plan 2012

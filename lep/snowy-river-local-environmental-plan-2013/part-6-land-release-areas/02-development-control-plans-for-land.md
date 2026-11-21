@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Development control plans for land release areas"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "6 — Land release areas"
 clause: "6.2"

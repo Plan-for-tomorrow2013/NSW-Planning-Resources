@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 Development on public roads"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "45"

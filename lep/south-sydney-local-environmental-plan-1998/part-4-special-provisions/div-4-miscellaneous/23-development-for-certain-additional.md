@@ -1,6 +1,6 @@
 ---
 title: "Clause 54 Development for certain additional purposes"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "54"

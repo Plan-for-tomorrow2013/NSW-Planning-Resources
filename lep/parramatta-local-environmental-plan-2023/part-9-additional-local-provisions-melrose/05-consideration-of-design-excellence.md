@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.4 Consideration of design excellence"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "9 — Additional local provisions—Melrose Park Precinct"
 clause: "9.4"

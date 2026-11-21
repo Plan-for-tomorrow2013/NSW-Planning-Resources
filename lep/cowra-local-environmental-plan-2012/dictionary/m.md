@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Cowra"
+council: "Cowra Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-07-01

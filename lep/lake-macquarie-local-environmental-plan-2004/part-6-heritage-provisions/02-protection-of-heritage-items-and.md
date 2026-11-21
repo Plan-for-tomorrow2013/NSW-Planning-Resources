@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 Protection of heritage items and heritage conservation areas"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "6 — Heritage provisions"
 clause: "44"

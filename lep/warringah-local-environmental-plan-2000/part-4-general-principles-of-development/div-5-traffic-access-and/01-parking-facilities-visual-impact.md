@@ -1,6 +1,6 @@
 ---
 title: "Clause 71 Parking facilities (visual impact)"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 5 Traffic, access and carparking"
 clause: "71"

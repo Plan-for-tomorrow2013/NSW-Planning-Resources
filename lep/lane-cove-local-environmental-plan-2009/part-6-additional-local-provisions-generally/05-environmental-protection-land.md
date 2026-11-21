@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Environmental protection land"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.4"

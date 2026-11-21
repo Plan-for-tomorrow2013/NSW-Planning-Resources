@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.99 Development at Shadforth Street, Wiley Park"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 3 Punchbowl and Wiley Park Precinct / Subdivision 2 General incentive provisions"
 clause: "6.99"

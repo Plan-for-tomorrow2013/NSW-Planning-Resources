@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7 — "
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 7"
 last_verified: 2023-12-14

@@ -2,7 +2,7 @@
 title: "Penrith Local Environmental Plan 1991 (Environmental Heritage Conservation)"
 document_id: epi-1991-0674
 current_from: 2022-03-04
-council: "Penrith"
+council: "Penrith City Council"
 ---
 
 # Penrith Local Environmental Plan 1991 (Environmental Heritage Conservation)

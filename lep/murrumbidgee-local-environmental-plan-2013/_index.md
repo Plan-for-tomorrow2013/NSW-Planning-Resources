@@ -2,7 +2,7 @@
 title: "Murrumbidgee Local Environmental Plan 2013"
 document_id: epi-2013-0471
 current_from: 2026-07-01
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 ---
 
 # Murrumbidgee Local Environmental Plan 2013

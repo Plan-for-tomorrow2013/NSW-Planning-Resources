@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Complying Development"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

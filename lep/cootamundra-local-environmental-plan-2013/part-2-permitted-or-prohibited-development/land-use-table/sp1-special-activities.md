@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Cootamundra"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

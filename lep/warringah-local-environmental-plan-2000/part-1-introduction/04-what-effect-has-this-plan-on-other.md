@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 What effect has this plan on other environmental planning instruments?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "5"

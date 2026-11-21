@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Erection of dwelling-houses on land included in Schedule 2"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "13"

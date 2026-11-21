@@ -2,7 +2,7 @@
 title: "Randwick Local Environmental Plan 2012"
 document_id: epi-2013-0036
 current_from: 2026-07-01
-council: "Randwick"
+council: "Randwick City Council"
 ---
 
 # Randwick Local Environmental Plan 2012

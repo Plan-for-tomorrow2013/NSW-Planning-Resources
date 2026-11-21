@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development in areas subject to aircraft noise"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

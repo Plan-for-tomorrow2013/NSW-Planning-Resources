@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Exceptions to minimum subdivision lot size for boundary adjustments"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

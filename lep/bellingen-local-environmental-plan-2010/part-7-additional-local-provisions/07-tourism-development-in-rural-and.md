@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Tourism development in rural and conservation zones"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

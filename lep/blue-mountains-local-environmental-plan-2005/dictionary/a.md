@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — A"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 dictionary_range: "A"
 last_verified: 2026-07-01

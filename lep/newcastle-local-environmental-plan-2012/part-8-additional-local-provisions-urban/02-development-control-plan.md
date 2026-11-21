@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.3 Development control plan"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "8 — Additional local provisions—urban release areas"
 clause: "8.3"

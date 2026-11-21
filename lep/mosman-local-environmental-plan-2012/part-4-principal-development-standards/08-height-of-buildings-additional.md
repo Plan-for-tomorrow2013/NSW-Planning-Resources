@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Height of buildings (additional provisions)"
-council: "Mosman"
+council: "Mosman Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

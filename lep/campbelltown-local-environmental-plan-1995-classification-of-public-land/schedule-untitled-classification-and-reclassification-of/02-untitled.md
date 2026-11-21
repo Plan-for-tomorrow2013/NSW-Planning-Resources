@@ -1,6 +1,6 @@
 ---
 title: "Schedule, Part 2 — "
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 clause: "Schedule (Clause 4)"
 last_verified: 2020-01-15

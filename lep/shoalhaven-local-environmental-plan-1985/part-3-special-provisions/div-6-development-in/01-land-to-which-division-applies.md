@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Land to which Division applies"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Development in scenic preservation areas"
 clause: "41"

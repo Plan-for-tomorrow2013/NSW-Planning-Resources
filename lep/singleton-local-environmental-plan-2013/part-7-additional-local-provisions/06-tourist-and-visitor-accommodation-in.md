@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Tourist and visitor accommodation in rural and conservation zones"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

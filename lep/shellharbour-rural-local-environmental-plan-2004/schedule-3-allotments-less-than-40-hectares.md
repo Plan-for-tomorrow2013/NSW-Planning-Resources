@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Allotments less than 40 hectares"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 64)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Certain development in Zone C2 Environmental Conservation"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.21"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7 — Land referred to in clause 15"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 7 (Clause 15)"
 last_verified: 2025-02-14

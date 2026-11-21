@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Additional local provisions"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 last_verified: 2026-08-21
 ---

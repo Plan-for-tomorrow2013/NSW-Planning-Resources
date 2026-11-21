@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Adoption of Model Provisions"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "6"

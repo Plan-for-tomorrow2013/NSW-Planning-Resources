@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

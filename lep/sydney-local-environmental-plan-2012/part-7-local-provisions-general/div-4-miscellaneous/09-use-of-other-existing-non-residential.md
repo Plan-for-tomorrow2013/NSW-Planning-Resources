@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.22A Use of other existing non-residential buildings in Zone R1"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.22A"

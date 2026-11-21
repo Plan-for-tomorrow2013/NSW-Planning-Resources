@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "2 — Special provisions"
 clause: "13"

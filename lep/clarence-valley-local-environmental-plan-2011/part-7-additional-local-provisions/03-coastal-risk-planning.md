@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Coastal risk planning"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Development control plan for Dulwich Grove land"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "7 — Dulwich Grove land"
 clause: "7.5"

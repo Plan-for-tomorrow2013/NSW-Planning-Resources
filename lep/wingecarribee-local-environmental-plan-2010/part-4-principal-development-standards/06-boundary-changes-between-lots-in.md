@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Boundary changes between lots in certain rural, residential and conservation zones"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

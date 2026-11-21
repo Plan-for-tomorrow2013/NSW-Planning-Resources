@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.60G 15-23 Hunter Street and 103-107 Pitt Street, Sydney"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 5 Site specific provisions"
 clause: "6.60G"

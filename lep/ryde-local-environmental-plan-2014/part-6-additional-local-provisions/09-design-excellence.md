@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Design excellence"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Protected Area—Ecological Buffer Area"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 2 Protecting the natural environment"
 clause: "47"

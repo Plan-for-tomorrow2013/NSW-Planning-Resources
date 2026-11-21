@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Area covered by this plan"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "2"

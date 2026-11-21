@@ -1,6 +1,6 @@
 ---
 title: "Clause 93 Development at Merimbula Airport"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "12 — Provisions that apply to particular land"
 clause: "93"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Roads"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "52"

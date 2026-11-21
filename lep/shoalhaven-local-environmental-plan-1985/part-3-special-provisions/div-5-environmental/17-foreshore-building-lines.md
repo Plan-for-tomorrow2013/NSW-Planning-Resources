@@ -1,6 +1,6 @@
 ---
 title: "Clause 34A Foreshore building lines"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "34A"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-08-28

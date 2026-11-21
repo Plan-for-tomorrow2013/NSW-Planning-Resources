@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Aims in relation to heritage"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Heritage provisions"
 clause: "27"

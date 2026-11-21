@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Boundary adjustments of land in certain zones"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

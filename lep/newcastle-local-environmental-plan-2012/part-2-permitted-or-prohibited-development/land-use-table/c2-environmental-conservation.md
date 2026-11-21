@@ -1,6 +1,6 @@
 ---
 title: "Zone C2 — Environmental Conservation"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 zone_code: C2
 zone: "Environmental Conservation"

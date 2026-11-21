@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Height of residential flat buildings on certain land at Narellan"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

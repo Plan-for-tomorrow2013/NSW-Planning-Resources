@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-07-01

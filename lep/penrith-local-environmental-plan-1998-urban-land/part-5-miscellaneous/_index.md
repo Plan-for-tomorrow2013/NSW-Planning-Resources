@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 last_verified: 2023-11-01
 ---

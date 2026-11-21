@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Maximum gross floor area for retail premises in Zone MU1"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

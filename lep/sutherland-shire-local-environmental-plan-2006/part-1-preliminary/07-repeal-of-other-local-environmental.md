@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Repeal of other local environmental plans"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "7"

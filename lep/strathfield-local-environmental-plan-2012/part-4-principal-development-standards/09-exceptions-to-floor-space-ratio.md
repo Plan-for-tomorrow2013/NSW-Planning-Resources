@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4B Exceptions to floor space ratio (Strathfield Town Centre)"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4B"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum subdivision lot size for Zones R1 and RU5"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

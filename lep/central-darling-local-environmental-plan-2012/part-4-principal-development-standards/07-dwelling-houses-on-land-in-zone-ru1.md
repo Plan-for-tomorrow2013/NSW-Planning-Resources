@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Dwelling houses on land in Zone RU1"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

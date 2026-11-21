@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-07-01

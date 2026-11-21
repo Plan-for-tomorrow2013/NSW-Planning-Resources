@@ -1,6 +1,6 @@
 ---
 title: "Schedule 9 — "
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 9 (Clause 43)"
 last_verified: 2025-02-14

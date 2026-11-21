@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.30 Development of land at 36 Lonsdale Street and 64-70 Brenan Street, Lilyfield"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.30"

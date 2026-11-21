@@ -1,6 +1,6 @@
 ---
 title: "Clause 47AA Definitions"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9A — Master plan development"
 clause: "47AA"

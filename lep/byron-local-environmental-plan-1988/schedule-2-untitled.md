@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — "
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Dictionary)"
 last_verified: 2025-02-14

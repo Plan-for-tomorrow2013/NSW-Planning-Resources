@@ -1,6 +1,6 @@
 ---
 title: "Clause 83 Tourism development adjacent to waterways"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "11 — Provisions that apply generally in Bega Valley area"
 clause: "83"

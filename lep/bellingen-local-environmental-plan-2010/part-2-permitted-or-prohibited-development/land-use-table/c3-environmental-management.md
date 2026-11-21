@@ -1,6 +1,6 @@
 ---
 title: "Zone C3 — Environmental Management"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 zone_code: C3
 zone: "Environmental Management"

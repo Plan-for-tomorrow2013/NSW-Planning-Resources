@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Development control plans for land release areas"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.2"

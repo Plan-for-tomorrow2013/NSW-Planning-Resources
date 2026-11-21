@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Development to which Part applies"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "7 — Urban release areas"
 clause: "7.1"

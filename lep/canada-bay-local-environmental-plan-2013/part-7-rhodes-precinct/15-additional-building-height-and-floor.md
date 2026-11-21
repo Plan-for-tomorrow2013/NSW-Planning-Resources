@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Additional building height and floor space in Area 1"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.15"

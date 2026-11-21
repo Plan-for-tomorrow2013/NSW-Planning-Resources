@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Car parking ancillary to other development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.1"

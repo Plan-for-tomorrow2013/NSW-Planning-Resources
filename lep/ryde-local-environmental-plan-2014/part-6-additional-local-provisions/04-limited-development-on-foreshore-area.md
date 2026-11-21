@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Limited development on foreshore area"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

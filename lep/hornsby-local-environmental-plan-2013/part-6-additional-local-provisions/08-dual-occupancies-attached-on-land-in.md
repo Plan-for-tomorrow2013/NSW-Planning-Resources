@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Dual occupancies (attached) on land in certain rural zones"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.1A Development on land intended to be acquired for public purposes"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.1A"

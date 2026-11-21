@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — L"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 dictionary_range: "L"
 last_verified: 2026-07-03

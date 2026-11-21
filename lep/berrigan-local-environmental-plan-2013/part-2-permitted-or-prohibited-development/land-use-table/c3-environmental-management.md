@@ -1,6 +1,6 @@
 ---
 title: "Zone C3 — Environmental Management"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 zone_code: C3
 zone: "Environmental Management"

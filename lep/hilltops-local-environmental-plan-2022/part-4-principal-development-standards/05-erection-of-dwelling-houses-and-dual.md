@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses and dual occupancies on land in Zone RU1, RU4 or C3"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

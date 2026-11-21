@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.7 Maps"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.7"

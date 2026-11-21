@@ -1,6 +1,6 @@
 ---
 title: "Clause 65 General principles for development and use of land and buildings"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "11 — Provisions that apply generally in Bega Valley area"
 clause: "65"

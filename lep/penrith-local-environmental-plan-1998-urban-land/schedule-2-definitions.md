@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Definitions"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 4 (1))"
 last_verified: 2023-11-01

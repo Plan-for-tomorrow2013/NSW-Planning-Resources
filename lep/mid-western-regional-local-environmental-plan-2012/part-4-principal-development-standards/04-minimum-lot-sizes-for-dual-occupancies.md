@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot sizes for dual occupancies, manor houses, multi dwelling housing and residential flat buildings"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

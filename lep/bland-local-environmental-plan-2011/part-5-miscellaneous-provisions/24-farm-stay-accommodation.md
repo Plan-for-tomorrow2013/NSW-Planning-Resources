@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.24 Farm stay accommodation"
-council: "Bland"
+council: "Bland Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.24"

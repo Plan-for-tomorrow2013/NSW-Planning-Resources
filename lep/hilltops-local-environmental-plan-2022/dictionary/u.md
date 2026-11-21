@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-07-01

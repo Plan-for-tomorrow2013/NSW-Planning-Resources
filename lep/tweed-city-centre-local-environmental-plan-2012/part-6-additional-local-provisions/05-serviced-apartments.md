@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Serviced apartments"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

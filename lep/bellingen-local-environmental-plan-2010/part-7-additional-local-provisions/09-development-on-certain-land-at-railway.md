@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Development on certain land at Railway Street, Dorrigo"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

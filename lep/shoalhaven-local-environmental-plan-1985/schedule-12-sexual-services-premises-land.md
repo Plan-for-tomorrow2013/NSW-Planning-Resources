@@ -1,6 +1,6 @@
 ---
 title: "Schedule 12 — Sexual services premises land"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 12 (Clause 9)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.7 Demolition requires development consent"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.7"

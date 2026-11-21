@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Boundary changes between lots in certain rural zones"
-council: "Weddin"
+council: "Weddin Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

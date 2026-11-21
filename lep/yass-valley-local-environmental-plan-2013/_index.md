@@ -2,7 +2,7 @@
 title: "Yass Valley Local Environmental Plan 2013"
 document_id: epi-2013-0391
 current_from: 2026-07-01
-council: "Yass Valley"
+council: "Yass Valley Council"
 ---
 
 # Yass Valley Local Environmental Plan 2013

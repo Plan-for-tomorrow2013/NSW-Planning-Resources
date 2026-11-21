@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Development on certain land at Trinity Point, Morisset Park"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.16"

@@ -2,7 +2,7 @@
 title: "Waverley Local Environmental Plan 2012"
 document_id: epi-2012-0540
 current_from: 2026-07-01
-council: "Waverley"
+council: "Waverley Council"
 ---
 
 # Waverley Local Environmental Plan 2012

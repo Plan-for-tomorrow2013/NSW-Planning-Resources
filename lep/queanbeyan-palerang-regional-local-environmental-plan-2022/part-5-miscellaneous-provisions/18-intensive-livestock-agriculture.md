@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.18 Intensive livestock agriculture"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.18"

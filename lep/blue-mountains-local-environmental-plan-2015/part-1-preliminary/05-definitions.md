@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.4 Definitions"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.4"

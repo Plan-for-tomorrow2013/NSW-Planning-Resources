@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2024-02-23
 ---

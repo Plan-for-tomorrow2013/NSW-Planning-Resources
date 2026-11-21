@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6A — Sun access planes"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 6A clause 6.17"
 last_verified: 2026-10-09

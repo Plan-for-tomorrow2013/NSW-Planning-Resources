@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.22 Development in local centres"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.22"

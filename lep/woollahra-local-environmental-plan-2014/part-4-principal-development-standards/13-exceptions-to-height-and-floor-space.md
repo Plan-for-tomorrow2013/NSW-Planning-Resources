@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4C Exceptions to height and floor space ratio (Area 4—Rose Bay)"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4C"

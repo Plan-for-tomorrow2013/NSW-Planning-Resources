@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 3 — Aboriginal places of heritage significance"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 5.10)"
 last_verified: 2026-07-01

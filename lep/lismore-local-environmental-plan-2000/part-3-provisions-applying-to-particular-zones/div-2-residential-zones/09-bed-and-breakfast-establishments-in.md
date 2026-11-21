@@ -1,6 +1,6 @@
 ---
 title: "Clause 57 Bed and breakfast establishments in urban areas"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 2 Residential zones"
 clause: "57"

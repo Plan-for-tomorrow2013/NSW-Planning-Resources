@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

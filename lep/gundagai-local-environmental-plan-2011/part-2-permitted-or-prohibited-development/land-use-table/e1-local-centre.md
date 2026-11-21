@@ -1,6 +1,6 @@
 ---
 title: "Zone E1 — Local Centre"
-council: "Gundagai"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 zone_code: E1
 zone: "Local Centre"

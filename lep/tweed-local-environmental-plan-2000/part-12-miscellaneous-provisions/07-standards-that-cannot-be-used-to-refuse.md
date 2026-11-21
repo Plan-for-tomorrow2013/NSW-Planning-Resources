@@ -1,6 +1,6 @@
 ---
 title: "Clause 60 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "12 — Miscellaneous provisions"
 clause: "60"

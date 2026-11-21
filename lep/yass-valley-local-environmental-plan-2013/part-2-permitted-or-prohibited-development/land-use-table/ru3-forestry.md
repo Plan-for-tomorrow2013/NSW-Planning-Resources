@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

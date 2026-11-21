@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Application of Sydney Local Environmental Plan 2012—street art is exempt development"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "29"

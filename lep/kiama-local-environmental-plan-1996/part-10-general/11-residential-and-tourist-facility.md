@@ -1,6 +1,6 @@
 ---
 title: "Clause 56 Residential and tourist facility development in unserviced urban areas"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "56"

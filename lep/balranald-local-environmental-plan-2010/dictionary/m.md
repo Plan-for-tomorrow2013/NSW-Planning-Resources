@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Balranald"
+council: "Balranald Shire Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-07-01

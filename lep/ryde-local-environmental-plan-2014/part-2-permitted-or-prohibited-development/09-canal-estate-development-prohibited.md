@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.9 Canal estate development prohibited"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.9"

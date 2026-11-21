@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Nominated waterways"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 83)"
 last_verified: 2026-07-01

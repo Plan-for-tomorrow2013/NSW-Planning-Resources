@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Development on key sites"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 last_verified: 2026-08-07
 ---

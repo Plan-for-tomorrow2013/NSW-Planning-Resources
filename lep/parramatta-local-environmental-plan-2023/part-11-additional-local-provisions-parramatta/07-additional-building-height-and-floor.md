@@ -1,6 +1,6 @@
 ---
 title: "Clause 11.7 Additional building height and floor space ratio for certain land"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.7"

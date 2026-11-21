@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Riverton Farm development, Wentworth"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

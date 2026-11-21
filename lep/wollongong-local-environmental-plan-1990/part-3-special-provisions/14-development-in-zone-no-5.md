@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Development in Zone No 5"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "15"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Exceptions to minimum lot sizes for subdivisions in Zone RU1 and Zone C4"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

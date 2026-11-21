@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Provision for design principles in development generally"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Development controls for residential and rural-residential zones"
 clause: "14"

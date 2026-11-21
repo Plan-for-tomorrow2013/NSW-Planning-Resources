@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions to minimum subdivision lot size for rural and large lot residential zones"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

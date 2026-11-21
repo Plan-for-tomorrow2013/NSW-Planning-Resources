@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 40D Development of certain land—Princes Highway and Dolphin Point Road, Dolphin Point"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "40D"

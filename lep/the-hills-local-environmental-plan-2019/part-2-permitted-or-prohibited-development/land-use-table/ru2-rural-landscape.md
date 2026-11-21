@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

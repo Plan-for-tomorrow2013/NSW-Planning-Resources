@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Development for dwelling houses in Zone C2 and fronting the Woronora River"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.11"

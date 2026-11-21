@@ -1,6 +1,6 @@
 ---
 title: "Clause 40E Special requirements in respect of expansion of Vincentia urban area"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "40E"

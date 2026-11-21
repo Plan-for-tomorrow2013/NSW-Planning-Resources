@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8 Repeal of planning instruments applying to land"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 11A Exceptions to minimum subdivision lot size for lot boundary adjustments"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "11A"

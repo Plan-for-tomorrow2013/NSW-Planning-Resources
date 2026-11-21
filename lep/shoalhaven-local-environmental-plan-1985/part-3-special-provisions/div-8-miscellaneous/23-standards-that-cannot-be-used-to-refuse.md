@@ -1,6 +1,6 @@
 ---
 title: "Clause 54M Standards that cannot be used to refuse consent—playing and performing music"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Miscellaneous"
 clause: "54M"

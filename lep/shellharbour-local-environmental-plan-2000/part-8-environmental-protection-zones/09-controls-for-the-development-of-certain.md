@@ -1,6 +1,6 @@
 ---
 title: "Clause 56 Controls for the development of certain land within Zone 7 (e)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "56"

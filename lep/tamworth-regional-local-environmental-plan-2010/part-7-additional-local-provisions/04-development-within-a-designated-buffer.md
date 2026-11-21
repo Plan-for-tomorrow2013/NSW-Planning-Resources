@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Development within a designated buffer area"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

@@ -2,7 +2,7 @@
 title: "Byron Local Environmental Plan 1988"
 document_id: epi-1988-0329
 current_from: 2025-02-14
-council: "Byron"
+council: "Byron Shire Council"
 ---
 
 # Byron Local Environmental Plan 1988

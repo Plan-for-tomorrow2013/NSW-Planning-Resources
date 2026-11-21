@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4G Exceptions to floor space ratio—heritage conservation areas"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4G"

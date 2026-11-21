@@ -1,6 +1,6 @@
 ---
 title: "Clause 63 Land use zones"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "4 — Heathcote Ridge West Menai site"
 clause: "63"

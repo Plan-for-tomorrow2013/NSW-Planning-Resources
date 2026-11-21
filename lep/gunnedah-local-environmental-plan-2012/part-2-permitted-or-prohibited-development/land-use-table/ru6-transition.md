@@ -1,6 +1,6 @@
 ---
 title: "Zone RU6 — Transition"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 zone_code: RU6
 zone: "Transition"

@@ -1,6 +1,6 @@
 ---
 title: "Zone E1 — Local Centre"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 zone_code: E1
 zone: "Local Centre"

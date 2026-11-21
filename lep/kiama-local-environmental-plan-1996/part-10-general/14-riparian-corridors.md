@@ -1,6 +1,6 @@
 ---
 title: "Clause 58A Riparian corridors"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "58A"

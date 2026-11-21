@@ -1,6 +1,6 @@
 ---
 title: "Clause 95 Canal estate development prohibited"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "95"

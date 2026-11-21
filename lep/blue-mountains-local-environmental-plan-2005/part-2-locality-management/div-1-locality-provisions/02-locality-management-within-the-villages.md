@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Locality management within the villages"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 1 Locality provisions"
 clause: "14"

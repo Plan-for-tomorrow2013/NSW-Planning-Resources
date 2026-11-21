@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Development in areas subject to airport noise"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.10"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 48 Subdivision"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "48"

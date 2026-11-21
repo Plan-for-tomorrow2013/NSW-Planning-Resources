@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Riparian land and watercourses"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

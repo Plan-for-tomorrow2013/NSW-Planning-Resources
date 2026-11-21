@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — "
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 34)"
 last_verified: 2026-07-01

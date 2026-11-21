@@ -1,6 +1,6 @@
 ---
 title: "Division 7 Heritage"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

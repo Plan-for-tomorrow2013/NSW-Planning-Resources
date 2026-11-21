@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Location of sex services premises"
-council: "Corowa"
+council: "Federation Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

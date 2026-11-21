@@ -1,6 +1,6 @@
 ---
 title: "Clause 27KJ Area for below-ground communal car parking and retail development in Zone No 11 (b)"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2A Green Square Town Centre"
 clause: "27KJ"

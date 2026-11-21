@@ -1,6 +1,6 @@
 ---
 title: "Division 6 Soil and water management"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

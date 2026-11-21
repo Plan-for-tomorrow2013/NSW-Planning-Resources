@@ -1,6 +1,6 @@
 ---
 title: "Clause 93 Subdivision in the recreation zones and environmental protection zones"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 1 Subdivision"
 clause: "93"

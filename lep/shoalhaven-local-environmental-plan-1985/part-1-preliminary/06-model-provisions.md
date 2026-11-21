@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Model Provisions"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

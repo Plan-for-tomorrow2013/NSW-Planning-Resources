@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2C — Gross floor area"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 2C (Clause 12B)"
 last_verified: 2026-07-01

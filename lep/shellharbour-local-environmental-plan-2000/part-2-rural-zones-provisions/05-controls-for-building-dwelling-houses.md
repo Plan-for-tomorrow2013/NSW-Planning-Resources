@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Controls for building dwelling houses within Zone 1 (a)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — Rural Zones Provisions"
 clause: "15"

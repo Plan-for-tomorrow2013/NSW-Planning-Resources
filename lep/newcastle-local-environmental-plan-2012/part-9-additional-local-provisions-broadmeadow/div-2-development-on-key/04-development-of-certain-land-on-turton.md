@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.9 Development of certain land on Turton Road, New Lambton—Go Karts and stadium forecourt"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "9 — Additional local provisions—Broadmeadow Precinct / Division 2 Development on key sites"
 clause: "9.9"

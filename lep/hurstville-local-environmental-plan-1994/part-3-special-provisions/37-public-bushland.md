@@ -1,6 +1,6 @@
 ---
 title: "Clause 26G Public bushland"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26G"

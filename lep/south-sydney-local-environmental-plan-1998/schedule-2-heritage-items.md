@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Heritage items"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 2 (Schedule 1)"
 last_verified: 2026-07-01

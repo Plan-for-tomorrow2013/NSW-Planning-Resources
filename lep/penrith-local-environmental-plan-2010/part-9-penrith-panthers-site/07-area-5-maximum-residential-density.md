@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.7 Area 5—Maximum residential density"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "9 — Penrith Panthers site"
 clause: "9.7"

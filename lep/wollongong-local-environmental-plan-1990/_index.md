@@ -2,7 +2,7 @@
 title: "Wollongong Local Environmental Plan 1990"
 document_id: epi-1990-0843
 current_from: 2026-07-01
-council: "Wollongong"
+council: "Wollongong City Council"
 ---
 
 # Wollongong Local Environmental Plan 1990

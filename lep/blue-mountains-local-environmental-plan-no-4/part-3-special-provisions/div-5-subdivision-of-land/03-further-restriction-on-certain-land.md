@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Further restriction on certain land within Zone No 1 (a3), 1 (c1), 1 (c2), 1 (c3), 2 (a2) or 7 (e)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Subdivision of land"
 clause: "34"

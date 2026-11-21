@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2023-12-14

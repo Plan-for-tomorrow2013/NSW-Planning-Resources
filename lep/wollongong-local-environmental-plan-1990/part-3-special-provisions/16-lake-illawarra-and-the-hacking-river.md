@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Lake Illawarra and the Hacking River"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "18"

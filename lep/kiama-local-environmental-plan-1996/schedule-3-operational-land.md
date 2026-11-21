@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Operational land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 62)"
 last_verified: 2022-03-04

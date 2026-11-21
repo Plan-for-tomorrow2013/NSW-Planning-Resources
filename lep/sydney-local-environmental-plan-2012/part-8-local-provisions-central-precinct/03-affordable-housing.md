@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.3 Affordable housing"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "8 — Local provisions—Central Precinct"
 clause: "8.3"

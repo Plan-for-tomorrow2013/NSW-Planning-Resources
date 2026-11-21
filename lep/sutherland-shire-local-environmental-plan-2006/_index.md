@@ -2,7 +2,7 @@
 title: "Sutherland Shire Local Environmental Plan 2006"
 document_id: epi-2006-0669
 current_from: 2026-07-01
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 ---
 
 # Sutherland Shire Local Environmental Plan 2006

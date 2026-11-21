@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Development on all land to which this plan applies"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "22"

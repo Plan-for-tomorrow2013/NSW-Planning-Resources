@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 1 — Heritage items other than of indigenous origins"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 51 and Dictionary)"
 last_verified: 2023-11-10

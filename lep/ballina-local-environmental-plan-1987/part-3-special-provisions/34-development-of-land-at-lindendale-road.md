@@ -1,6 +1,6 @@
 ---
 title: "Clause 34B Development of land at Lindendale Road, Wollongbar"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "34B"

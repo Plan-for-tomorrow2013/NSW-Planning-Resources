@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 General controls for development—Zone 2 (b1) (the Residential B1 zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Residential Zones Provisions"
 clause: "21"

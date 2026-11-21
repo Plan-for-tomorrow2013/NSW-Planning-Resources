@@ -2,7 +2,7 @@
 title: "Junee Local Environmental Plan 2012"
 document_id: epi-2012-0674
 current_from: 2026-07-01
-council: "Junee"
+council: "Junee Shire Council"
 ---
 
 # Junee Local Environmental Plan 2012

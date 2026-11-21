@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Other land uses"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 1 Car parking ancillary to other development"
 clause: "7.9"

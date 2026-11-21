@@ -1,6 +1,6 @@
 ---
 title: "Zone W1 — Natural Waterways"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: W1
 zone: "Natural Waterways"

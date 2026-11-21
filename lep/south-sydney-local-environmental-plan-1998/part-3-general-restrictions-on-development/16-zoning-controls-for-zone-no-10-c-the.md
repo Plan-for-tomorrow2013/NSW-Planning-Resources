@@ -1,6 +1,6 @@
 ---
 title: "Clause 21C Zoning controls for Zone No 10 (c)—the Mixed Uses \"C\" Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "21C"

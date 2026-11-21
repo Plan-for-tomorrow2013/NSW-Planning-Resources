@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.22 Managing heritage impacts"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 5 Provisions for Parramatta City Centre other than \"Area A\""
 clause: "7.22"

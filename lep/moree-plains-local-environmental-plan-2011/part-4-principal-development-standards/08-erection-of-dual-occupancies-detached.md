@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Erection of dual occupancies (detached) on land in Zone RU1"
-council: "Moree Plains"
+council: "Moree Plains Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

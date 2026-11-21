@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Lot averaging subdivision in certain residential and conservation zones"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

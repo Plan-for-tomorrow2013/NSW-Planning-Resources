@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Use of existing non-residential buildings in residential zones"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

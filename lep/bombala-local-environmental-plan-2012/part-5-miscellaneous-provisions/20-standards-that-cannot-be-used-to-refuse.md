@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.20 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Bombala"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.20"

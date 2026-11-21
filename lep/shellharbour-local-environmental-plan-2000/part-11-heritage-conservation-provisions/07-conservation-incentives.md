@@ -1,6 +1,6 @@
 ---
 title: "Clause 76 Conservation incentives"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "11 — Heritage Conservation Provisions"
 clause: "76"

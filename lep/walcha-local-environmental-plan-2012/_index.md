@@ -2,7 +2,7 @@
 title: "Walcha Local Environmental Plan 2012"
 document_id: epi-2012-0525
 current_from: 2026-07-01
-council: "Walcha"
+council: "Walcha Council"
 ---
 
 # Walcha Local Environmental Plan 2012

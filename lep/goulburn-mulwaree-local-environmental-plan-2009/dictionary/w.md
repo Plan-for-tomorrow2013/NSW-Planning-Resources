@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-09-04

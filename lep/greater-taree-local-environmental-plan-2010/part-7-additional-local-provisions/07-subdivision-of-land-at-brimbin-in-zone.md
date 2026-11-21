@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Subdivision of land at Brimbin in Zone RU4"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Use of certain land at Glenfield Waste Site"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.21"

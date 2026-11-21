@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-10-09

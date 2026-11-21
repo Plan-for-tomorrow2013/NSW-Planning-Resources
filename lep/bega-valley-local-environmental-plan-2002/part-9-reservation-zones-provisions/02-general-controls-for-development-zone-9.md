@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 General controls for development—Zone 9 (d) (Local Road Reservation Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "9 — Reservation zones provisions"
 clause: "53"

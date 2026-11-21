@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Provisions promoting retail activity"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "7 — Dee Why Town Centre"
 clause: "7.12"

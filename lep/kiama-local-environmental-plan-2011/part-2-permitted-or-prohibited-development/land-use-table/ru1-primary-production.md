@@ -1,6 +1,6 @@
 ---
 title: "Zone RU1 — Primary Production"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"

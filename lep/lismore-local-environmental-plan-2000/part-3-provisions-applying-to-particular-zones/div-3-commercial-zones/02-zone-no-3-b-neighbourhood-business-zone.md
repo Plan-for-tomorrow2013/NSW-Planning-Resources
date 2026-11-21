@@ -1,6 +1,6 @@
 ---
 title: "Clause 59 Zone No 3 (b) (Neighbourhood Business Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 3 Commercial zones"
 clause: "59"

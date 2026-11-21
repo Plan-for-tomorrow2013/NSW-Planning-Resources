@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Relationship to other environmental planning instruments"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "1 — Introduction"
 clause: "3"

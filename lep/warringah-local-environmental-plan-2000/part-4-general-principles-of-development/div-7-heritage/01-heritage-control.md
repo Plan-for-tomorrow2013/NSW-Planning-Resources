@@ -1,6 +1,6 @@
 ---
 title: "Clause 79 Heritage control"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 7 Heritage"
 clause: "79"

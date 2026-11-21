@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.19 Public access through certain land in St Leonards"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.19"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 General controls for development—Zone 1 (d) (the Rural D (Horticulture) zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — Rural Zones Provisions"
 clause: "13"

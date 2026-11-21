@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.27 Dwelling houses on land in Zone SP3"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.27"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Complying development"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
 last_verified: 2026-09-04

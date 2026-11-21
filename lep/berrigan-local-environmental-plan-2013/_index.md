@@ -2,7 +2,7 @@
 title: "Berrigan Local Environmental Plan 2013"
 document_id: epi-2013-0587
 current_from: 2026-08-28
-council: "Berrigan"
+council: "Berrigan Shire Council"
 ---
 
 # Berrigan Local Environmental Plan 2013

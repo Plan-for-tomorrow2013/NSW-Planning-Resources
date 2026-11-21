@@ -1,6 +1,6 @@
 ---
 title: "Clause 104 Privacy for other residential development"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 4 Privacy"
 clause: "104"

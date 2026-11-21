@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development on certain land in Gundaroo and Sutton in Zone R2 Low Density Residential"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

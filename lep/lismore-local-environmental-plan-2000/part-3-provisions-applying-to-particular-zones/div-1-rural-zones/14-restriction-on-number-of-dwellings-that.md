@@ -1,6 +1,6 @@
 ---
 title: "Clause 42A Restriction on number of dwellings that may be created under clause 42"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 1 Rural zones"
 clause: "42A"

@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

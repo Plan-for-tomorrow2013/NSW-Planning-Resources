@@ -1,6 +1,6 @@
 ---
 title: "Clause 19B Development in Zone No 3 (b)—certain land at Princes Highway/North Street/Moss Street, Nowra"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Business and commercial uses"
 clause: "19B"

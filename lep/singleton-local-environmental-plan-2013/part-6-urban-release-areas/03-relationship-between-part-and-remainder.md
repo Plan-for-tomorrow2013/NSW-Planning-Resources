@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Relationship between Part and remainder of Plan"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.4"

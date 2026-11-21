@@ -1,6 +1,6 @@
 ---
 title: "Clause 33A Waste disposal on land near Sydney West Airport"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "33A"

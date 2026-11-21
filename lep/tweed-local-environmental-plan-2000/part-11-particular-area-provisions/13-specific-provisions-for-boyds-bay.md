@@ -1,6 +1,6 @@
 ---
 title: "Clause 53G Specific provisions for Boyds Bay Business Park"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53G"

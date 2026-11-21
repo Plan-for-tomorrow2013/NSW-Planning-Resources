@@ -1,6 +1,6 @@
 ---
 title: "Clause 47AC Amendment or replacement of master plans"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9A — Master plan development"
 clause: "47AC"

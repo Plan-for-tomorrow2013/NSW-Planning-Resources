@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8, Part 3 — Archaeological/townscape/landscape items"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 8 (Dictionary)"
 last_verified: 2023-12-14

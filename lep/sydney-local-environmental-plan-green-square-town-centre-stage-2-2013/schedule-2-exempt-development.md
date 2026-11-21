@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Exempt development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 2 (Clause 3.1)"
 last_verified: 2026-07-01

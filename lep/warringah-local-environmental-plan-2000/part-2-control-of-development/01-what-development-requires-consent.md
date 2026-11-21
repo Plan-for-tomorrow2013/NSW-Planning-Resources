@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 What development requires consent?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "7"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.1 Application of part"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "7 — Urban release areas"
 clause: "7.1"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Health consulting rooms in Zones C3 and C4"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

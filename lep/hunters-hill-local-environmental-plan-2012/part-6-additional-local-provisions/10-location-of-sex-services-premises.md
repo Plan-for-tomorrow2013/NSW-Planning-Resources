@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Location of sex services premises"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

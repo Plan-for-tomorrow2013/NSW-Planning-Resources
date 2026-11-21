@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2F Erection of a dwelling house associated with a rural use other than for the purpose of agriculture"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2F"

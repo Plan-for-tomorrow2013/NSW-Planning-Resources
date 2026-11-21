@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development requiring the preparation of a development control plan"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions"
 clause: "6.12"

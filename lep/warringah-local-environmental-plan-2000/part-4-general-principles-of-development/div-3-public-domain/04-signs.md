@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 Signs"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 3 Public domain"
 clause: "53"

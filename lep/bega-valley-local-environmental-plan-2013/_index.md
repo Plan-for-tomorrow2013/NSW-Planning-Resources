@@ -2,7 +2,7 @@
 title: "Bega Valley Local Environmental Plan 2013"
 document_id: epi-2013-0408
 current_from: 2026-07-01
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 ---
 
 # Bega Valley Local Environmental Plan 2013

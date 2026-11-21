@@ -1,6 +1,6 @@
 ---
 title: "Zone R1 — General Residential"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 zone_code: R1
 zone: "General Residential"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Classification and reclassification of public land as operational"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "Clauses"
 clause: "4"

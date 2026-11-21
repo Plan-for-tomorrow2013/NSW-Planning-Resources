@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.18 Development on certain land at Wangi Wangi"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.18"

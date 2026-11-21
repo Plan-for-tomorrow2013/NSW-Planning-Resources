@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-09-04

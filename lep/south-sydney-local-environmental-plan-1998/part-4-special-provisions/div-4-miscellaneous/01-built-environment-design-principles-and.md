@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Built environment design principles and masterplans"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "28"

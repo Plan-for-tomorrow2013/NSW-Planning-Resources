@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 References to area, width and depth of lot in clauses 39-42"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Provisions that apply to particular kinds of development"
 clause: "38"

@@ -2,7 +2,7 @@
 title: "Hilltops Local Environmental Plan 2022"
 document_id: epi-2022-0874
 current_from: 2026-07-01
-council: "Hilltops"
+council: "Hilltops Council"
 ---
 
 # Hilltops Local Environmental Plan 2022

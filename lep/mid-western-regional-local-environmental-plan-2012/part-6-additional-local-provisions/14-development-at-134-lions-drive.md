@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Development at 134 Lions Drive, Burrundulla"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.15"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1G Lot consolidation in Zone E4 and conservation zones"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1G"

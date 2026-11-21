@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Essential services"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.5"

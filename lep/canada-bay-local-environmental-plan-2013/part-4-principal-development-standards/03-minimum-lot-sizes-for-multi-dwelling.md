@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AB Minimum lot sizes for multi dwelling housing (terraces)"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AB"

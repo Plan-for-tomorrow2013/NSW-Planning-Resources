@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 General controls for development—Zone 9 (c) (Arterial Road Reservation Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "9 — Reservation zones provisions"
 clause: "52"

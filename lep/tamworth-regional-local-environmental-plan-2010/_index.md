@@ -2,7 +2,7 @@
 title: "Tamworth Regional Local Environmental Plan 2010"
 document_id: epi-2011-0027
 current_from: 2026-10-14
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 ---
 
 # Tamworth Regional Local Environmental Plan 2010

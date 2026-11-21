@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Development in the vicinity of items of environmental heritage"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "19"

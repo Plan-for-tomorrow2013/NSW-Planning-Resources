@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Land to which the Plan applies"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "3"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 67 General controls for development—Zone 9 (d) (the Open Space Reservation zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "10 — Reservation Zones Provisions"
 clause: "67"

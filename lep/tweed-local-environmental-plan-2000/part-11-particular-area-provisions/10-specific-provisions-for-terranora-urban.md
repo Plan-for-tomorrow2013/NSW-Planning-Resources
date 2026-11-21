@@ -1,6 +1,6 @@
 ---
 title: "Clause 53D Specific provisions for Terranora Urban Release Area E"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53D"

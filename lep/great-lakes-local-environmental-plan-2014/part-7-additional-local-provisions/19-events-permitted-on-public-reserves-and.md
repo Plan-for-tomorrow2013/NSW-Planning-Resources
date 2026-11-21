@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Events permitted on public reserves and roads without development consent"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.20"

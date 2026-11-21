@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Urban release areas"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

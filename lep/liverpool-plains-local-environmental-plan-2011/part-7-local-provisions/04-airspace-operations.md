@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Airspace operations"
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 document_type: LEP
 part: "7 — Local provisions"
 clause: "7.5"

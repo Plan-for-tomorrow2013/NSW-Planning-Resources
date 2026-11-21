@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses, dual occupancies and tourist and visitor accommodation on land in certain zones"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

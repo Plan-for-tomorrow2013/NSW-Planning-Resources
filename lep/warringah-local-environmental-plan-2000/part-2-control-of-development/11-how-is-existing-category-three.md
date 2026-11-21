@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 How is existing Category Three development dealt with?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "16"

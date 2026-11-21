@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Rural Environmental Protection (Hinterland) and (Foreshore Protection) Zones—Subdivision"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "33"

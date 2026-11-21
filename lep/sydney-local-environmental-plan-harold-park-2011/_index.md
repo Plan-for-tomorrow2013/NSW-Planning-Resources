@@ -2,7 +2,7 @@
 title: "Sydney Local Environmental Plan (Harold Park) 2011"
 document_id: epi-2011-0683
 current_from: 2026-07-01
-council: "Sydney"
+council: "City of Sydney"
 ---
 
 # Sydney Local Environmental Plan (Harold Park) 2011

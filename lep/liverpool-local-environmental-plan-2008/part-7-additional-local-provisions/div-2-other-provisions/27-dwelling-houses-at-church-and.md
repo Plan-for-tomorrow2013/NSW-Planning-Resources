@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.34 Dwelling houses at Church and Campbelltown Roads, Denham Court and Greendale Road, Wallacia—amalgamation of lots"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.34"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-09-25

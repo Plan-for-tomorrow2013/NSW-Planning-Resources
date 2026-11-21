@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses, dual occupancies and secondary dwellings in Zone RU5 and Zone R5"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

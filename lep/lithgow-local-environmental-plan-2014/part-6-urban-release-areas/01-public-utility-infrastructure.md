@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Public utility infrastructure"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.2"

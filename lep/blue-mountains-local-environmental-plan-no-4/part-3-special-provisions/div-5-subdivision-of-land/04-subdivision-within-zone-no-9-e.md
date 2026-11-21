@@ -1,6 +1,6 @@
 ---
 title: "Clause 34A Subdivision within Zone No 9 (e)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Subdivision of land"
 clause: "34A"

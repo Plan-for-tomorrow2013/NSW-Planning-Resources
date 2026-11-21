@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Additional floor space and overshadowing in Area 2"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.16"

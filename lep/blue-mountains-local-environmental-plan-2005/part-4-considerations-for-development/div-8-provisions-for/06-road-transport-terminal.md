@@ -1,6 +1,6 @@
 ---
 title: "Clause 123 Road transport terminal"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 8 Provisions for specific land uses"
 clause: "123"

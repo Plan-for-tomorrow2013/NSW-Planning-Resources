@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Terrestrial biodiversity"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

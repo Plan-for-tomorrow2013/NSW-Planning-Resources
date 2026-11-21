@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.6 Affordable housing contributions scheme"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "8 — Hornsby Transport Oriented Development Precinct / Division 1 General"
 clause: "8.6"

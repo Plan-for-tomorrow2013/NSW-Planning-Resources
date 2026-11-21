@@ -1,6 +1,6 @@
 ---
 title: "Clause 61 Controls for building dwelling houses within Zone 7 (g)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "61"

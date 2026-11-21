@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Seniors housing in Station Gateway East Character Area"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "7 — Rhodes Precinct"
 clause: "7.21"

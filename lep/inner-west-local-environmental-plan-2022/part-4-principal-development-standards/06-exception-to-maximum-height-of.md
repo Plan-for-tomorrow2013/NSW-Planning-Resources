@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Exception to maximum height of buildings in Ashfield town centre"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

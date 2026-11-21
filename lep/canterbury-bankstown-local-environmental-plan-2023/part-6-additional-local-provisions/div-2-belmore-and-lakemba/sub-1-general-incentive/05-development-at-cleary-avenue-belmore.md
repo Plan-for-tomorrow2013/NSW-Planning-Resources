@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.57 Development at Cleary Avenue, Belmore"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 1 General incentive provisions"
 clause: "6.57"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 How can the Council make tree preservation orders?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "31"

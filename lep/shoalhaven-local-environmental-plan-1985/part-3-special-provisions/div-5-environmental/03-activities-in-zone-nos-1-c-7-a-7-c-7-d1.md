@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Activities in Zone Nos 1 (c), 7 (a), 7 (c), 7 (d1), 7 (d2), 7 (e), 7 (f1), 7 (f2) and 7 (f3)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "22"

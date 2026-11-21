@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-07-01

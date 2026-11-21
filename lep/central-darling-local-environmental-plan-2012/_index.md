@@ -2,7 +2,7 @@
 title: "Central Darling Local Environmental Plan 2012"
 document_id: epi-2013-0033
 current_from: 2026-07-01
-council: "Central Darling"
+council: "Central Darling Shire Council"
 ---
 
 # Central Darling Local Environmental Plan 2012

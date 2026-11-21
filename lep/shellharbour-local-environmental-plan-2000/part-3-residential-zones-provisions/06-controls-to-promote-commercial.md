@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Controls to promote commercial hierarchy within Zones 2 (e) and 2 (f)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Residential Zones Provisions"
 clause: "25"

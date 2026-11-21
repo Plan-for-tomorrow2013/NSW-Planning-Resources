@@ -1,6 +1,6 @@
 ---
 title: "Zone R4 — High Density Residential"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 zone_code: R4
 zone: "High Density Residential"

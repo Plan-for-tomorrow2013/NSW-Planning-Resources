@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Maximum gross floor area for commercial premises on certain land at Salt Ash (known as Paul's Corner)"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.20"

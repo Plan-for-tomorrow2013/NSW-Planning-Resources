@@ -1,6 +1,6 @@
 ---
 title: "Part 1 — Preliminary"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 last_verified: 2026-09-11
 ---

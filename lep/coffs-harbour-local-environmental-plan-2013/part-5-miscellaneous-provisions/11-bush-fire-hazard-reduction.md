@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.11 Bush fire hazard reduction"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.11"

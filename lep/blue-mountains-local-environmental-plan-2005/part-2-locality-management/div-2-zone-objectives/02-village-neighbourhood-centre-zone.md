@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Village—Neighbourhood Centre zone"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 2 Zone objectives"
 clause: "19"

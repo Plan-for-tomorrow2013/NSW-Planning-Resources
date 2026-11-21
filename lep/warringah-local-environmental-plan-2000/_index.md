@@ -2,7 +2,7 @@
 title: "Warringah Local Environmental Plan 2000"
 document_id: epi-2000-0690
 current_from: 2026-07-01
-council: "Warringah"
+council: "Northern Beaches Council"
 ---
 
 # Warringah Local Environmental Plan 2000

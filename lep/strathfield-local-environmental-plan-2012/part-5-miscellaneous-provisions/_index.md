@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous provisions"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 last_verified: 2026-09-11
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 30 Rural uses"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Rural uses"
 clause: "30"

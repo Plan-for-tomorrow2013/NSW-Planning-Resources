@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Minimum subdivision lot size for community title schemes on certain land in Zone R5"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 1 — Land classified, or reclassified, before the application of amendments made to s 30 of LGA 1993"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 74)"
 last_verified: 2026-07-01

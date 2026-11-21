@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Minimum lot size for certain residential accommodation in Zones R2 and RU5"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

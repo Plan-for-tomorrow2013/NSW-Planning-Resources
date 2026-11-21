@@ -1,6 +1,6 @@
 ---
 title: "Division 3 Punchbowl and Wiley Park Precinct"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 last_verified: 2026-09-25
 ---

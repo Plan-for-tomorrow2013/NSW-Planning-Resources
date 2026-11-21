@@ -1,6 +1,6 @@
 ---
 title: "Clause 106 Sustainable resource management"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 5 Energy efficiency"
 clause: "106"

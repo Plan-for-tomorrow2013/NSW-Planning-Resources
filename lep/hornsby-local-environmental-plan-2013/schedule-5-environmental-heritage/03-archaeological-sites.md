@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 3 — Archaeological sites"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 clause: "Schedule 5"
 last_verified: 2026-08-07

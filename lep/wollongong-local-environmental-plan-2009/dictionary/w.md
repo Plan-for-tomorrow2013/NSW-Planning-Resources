@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-10-02

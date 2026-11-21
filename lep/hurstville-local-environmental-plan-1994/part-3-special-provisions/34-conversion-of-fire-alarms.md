@@ -1,6 +1,6 @@
 ---
 title: "Clause 26D Conversion of fire alarms"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26D"

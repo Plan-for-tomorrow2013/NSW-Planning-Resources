@@ -1,6 +1,6 @@
 ---
 title: "Part 8 — Crows Nest Transport Oriented Development Precinct"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

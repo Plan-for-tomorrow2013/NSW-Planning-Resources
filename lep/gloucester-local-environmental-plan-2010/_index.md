@@ -2,7 +2,7 @@
 title: "Gloucester Local Environmental Plan 2010"
 document_id: epi-2010-0241
 current_from: 2026-07-01
-council: "Gloucester"
+council: "MidCoast Council"
 ---
 
 # Gloucester Local Environmental Plan 2010

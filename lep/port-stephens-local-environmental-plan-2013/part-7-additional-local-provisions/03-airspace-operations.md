@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Airspace operations"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

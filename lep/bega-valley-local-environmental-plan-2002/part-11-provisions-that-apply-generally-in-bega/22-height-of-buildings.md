@@ -1,6 +1,6 @@
 ---
 title: "Clause 85 Height of buildings"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "11 — Provisions that apply generally in Bega Valley area"
 clause: "85"

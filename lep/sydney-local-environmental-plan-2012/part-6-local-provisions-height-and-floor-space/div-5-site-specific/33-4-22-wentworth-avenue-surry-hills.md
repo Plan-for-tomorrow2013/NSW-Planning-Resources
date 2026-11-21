@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.55 4-22 Wentworth Avenue, Surry Hills"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 5 Site specific provisions"
 clause: "6.55"

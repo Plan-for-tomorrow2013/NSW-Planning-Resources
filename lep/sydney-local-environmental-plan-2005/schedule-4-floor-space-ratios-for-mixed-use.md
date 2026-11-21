@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Floor space ratios for mixed-use development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 4 (Clauses 54 and 55)"
 last_verified: 2023-12-14

@@ -1,6 +1,6 @@
 ---
 title: "Clauses"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 last_verified: 2022-11-21
 ---

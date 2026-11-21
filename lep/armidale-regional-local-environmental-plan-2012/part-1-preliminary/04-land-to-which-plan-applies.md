@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.3 Land to which Plan applies"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.3"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 15A Controls relating to bed and breakfast accommodation"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "3A — Controls relating to miscellaneous permissible uses"
 clause: "15A"

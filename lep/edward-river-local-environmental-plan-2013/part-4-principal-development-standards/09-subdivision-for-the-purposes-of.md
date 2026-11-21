@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Subdivision for the purposes of intensive plant agriculture"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.50 Development at 72, 74 and 76 Minter Street, Canterbury"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.50"

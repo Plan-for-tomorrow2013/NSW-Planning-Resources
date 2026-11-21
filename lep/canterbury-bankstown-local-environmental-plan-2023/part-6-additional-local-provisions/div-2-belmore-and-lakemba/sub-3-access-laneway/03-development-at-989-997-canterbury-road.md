@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.78 Development at 989-997 Canterbury Road, Lakemba"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 3 Access laneway extensions"
 clause: "6.78"

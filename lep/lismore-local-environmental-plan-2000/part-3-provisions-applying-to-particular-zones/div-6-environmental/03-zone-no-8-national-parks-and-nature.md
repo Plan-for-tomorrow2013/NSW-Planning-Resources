@@ -1,6 +1,6 @@
 ---
 title: "Clause 79 Zone No 8 (National Parks and Nature Reserves Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 6 Environmental Protection zones"
 clause: "79"

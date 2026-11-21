@@ -2,7 +2,7 @@
 title: "Inner West Local Environmental Plan 2022"
 document_id: epi-2022-0457
 current_from: 2026-09-04
-council: "Inner West"
+council: "Inner West Council"
 ---
 
 # Inner West Local Environmental Plan 2022

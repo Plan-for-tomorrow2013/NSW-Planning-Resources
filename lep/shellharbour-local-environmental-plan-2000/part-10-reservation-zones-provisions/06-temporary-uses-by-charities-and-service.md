@@ -1,6 +1,6 @@
 ---
 title: "Clause 70 Temporary uses by charities and service clubs within Zone 9 (d)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "10 — Reservation Zones Provisions"
 clause: "70"

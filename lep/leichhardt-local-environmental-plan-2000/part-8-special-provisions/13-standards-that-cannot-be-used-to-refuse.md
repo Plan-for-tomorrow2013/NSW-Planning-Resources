@@ -1,6 +1,6 @@
 ---
 title: "Clause 42 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "42"

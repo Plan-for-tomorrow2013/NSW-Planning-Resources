@@ -1,6 +1,6 @@
 ---
 title: "Clause 42 Development of certain land at Mamre Road, Kemps Creek"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "42"

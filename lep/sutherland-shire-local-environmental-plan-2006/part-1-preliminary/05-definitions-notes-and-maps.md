@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Definitions, notes and maps"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 75 Development affecting known or potential archaeological sites or relics of non-Aboriginal heritage significance"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 4 Heritage conservation"
 clause: "75"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Development on river front areas"
-council: "Corowa"
+council: "Federation Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

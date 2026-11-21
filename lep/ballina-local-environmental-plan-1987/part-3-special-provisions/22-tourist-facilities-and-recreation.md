@@ -1,6 +1,6 @@
 ---
 title: "Clause 28A Tourist facilities and recreation establishments fronting classified roads"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "28A"

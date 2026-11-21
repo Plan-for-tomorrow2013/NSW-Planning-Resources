@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1J Minimum lot sizes for certain land in Menangle Park Urban Release Area"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1J"

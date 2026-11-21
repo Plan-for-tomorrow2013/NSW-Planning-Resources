@@ -1,6 +1,6 @@
 ---
 title: "Clause 13C Subdivision prohibited—part of Lot 2, DP 714140, Riverview Road, Nowra"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision of land"
 clause: "13C"

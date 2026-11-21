@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.8 Use of certain land at Crown Street and Church Street, Wollongong"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "8 — Local provisions—Wollongong city centre"
 clause: "8.8"

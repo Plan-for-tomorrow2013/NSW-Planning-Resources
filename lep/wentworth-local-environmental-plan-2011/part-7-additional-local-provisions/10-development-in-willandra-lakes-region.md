@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Development in Willandra Lakes Region World Heritage Property"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

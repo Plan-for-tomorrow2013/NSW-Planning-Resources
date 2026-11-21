@@ -1,6 +1,6 @@
 ---
 title: "Clause 73 Protection of heritage items, heritage conservation areas, relics and Aboriginal objects"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "11 — Heritage Conservation Provisions"
 clause: "73"

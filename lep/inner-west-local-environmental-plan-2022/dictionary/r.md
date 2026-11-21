@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-09-04

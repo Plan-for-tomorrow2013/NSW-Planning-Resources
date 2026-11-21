@@ -1,6 +1,6 @@
 ---
 title: "Clause 39C Building height on east side of Jonson Street, Byron Bay"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "39C"

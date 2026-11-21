@@ -1,6 +1,6 @@
 ---
 title: "Clause 75C Development in the vicinity of heritage items"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "11 — Heritage Conservation Provisions"
 clause: "75C"

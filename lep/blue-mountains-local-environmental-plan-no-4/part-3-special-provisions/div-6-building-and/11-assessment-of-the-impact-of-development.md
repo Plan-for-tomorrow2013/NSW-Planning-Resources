@@ -1,6 +1,6 @@
 ---
 title: "Clause 43B Assessment of the impact of development adjacent to Zone No 9 (e)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Building and development generally"
 clause: "43B"

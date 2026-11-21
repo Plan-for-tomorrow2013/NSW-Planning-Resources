@@ -1,6 +1,6 @@
 ---
 title: "Clause 77 Zone No 7 (a) (Environment Protection (Natural Vegetation and Wetlands) Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 6 Environmental Protection zones"
 clause: "77"

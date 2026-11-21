@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Development on certain land in Sutton in Zone R5 Large Lot Residential"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

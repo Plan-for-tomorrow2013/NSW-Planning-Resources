@@ -2,7 +2,7 @@
 title: "Forbes Local Environmental Plan 2013"
 document_id: epi-2013-0428
 current_from: 2026-07-01
-council: "Forbes"
+council: "Forbes Shire Council"
 ---
 
 # Forbes Local Environmental Plan 2013

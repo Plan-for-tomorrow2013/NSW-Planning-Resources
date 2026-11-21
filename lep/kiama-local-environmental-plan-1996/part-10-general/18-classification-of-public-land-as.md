@@ -1,6 +1,6 @@
 ---
 title: "Clause 62 Classification of public land as community land and operational land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "62"

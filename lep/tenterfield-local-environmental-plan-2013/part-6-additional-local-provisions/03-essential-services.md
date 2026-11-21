@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Essential services"
-council: "Tenterfield"
+council: "Tenterfield Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

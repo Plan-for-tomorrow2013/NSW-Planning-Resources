@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Temporary use of land in Zone RU2 for purpose of function centre"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

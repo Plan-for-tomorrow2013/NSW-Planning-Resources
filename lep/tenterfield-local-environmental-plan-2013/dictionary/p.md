@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — P"
-council: "Tenterfield"
+council: "Tenterfield Shire Council"
 document_type: LEP
 dictionary_range: "P"
 last_verified: 2026-07-01

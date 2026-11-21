@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Development in areas adjoining national parks and nature reserves"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

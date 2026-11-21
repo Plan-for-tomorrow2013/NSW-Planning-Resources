@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot sizes for dual occupancies, dwelling houses, manor houses, multi dwelling housing and residential flat buildings"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

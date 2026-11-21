@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Industry and warehouse or distribution centres"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 1 Car parking ancillary to other development"
 clause: "7.8"

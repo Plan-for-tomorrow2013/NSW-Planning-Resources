@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Height of buildings on Dulwich Grove land"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "7 — Dulwich Grove land"
 clause: "7.2"

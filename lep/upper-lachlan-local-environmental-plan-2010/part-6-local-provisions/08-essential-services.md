@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Essential services"
-council: "Upper Lachlan"
+council: "Upper Lachlan Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.9"

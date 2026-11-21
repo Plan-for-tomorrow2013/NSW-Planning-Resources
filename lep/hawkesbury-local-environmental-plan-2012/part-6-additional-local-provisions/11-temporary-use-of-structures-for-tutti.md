@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Temporary use of structures for \"Tutti Fruitti Cafe\" on certain land at Kurrajong Heights"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

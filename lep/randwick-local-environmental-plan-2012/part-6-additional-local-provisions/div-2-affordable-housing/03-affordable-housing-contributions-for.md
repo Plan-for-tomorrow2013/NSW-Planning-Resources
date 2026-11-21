@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.27 Affordable housing contributions for other areas"
-council: "Randwick"
+council: "Randwick City Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Affordable housing"
 clause: "6.27"

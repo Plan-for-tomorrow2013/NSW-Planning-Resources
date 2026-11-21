@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Strata subdivision in certain rural and conservation zones"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

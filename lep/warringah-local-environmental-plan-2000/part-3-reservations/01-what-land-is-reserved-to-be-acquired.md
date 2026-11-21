@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 What land is reserved to be acquired for a public purpose?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "3 — Reservations"
 clause: "34"

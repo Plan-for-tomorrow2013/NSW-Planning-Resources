@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Shops on certain land in Zone E1"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

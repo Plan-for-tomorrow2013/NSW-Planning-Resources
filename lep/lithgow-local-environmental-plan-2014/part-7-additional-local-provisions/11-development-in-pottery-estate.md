@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Development in Pottery Estate"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

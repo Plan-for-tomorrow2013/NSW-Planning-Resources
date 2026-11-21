@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8, Part 2 — Building elements"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 8 (Dictionary)"
 last_verified: 2023-12-14

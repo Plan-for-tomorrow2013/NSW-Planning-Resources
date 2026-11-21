@@ -2,7 +2,7 @@
 title: "Eurobodalla Local Environmental Plan 2012"
 document_id: epi-2012-0333
 current_from: 2026-08-28
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 ---
 
 # Eurobodalla Local Environmental Plan 2012

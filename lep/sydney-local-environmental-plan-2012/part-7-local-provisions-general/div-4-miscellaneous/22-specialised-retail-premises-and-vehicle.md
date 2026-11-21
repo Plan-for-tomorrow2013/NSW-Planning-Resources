@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.32 Specialised retail premises and vehicle sales or hire premises in Zone E3"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.32"

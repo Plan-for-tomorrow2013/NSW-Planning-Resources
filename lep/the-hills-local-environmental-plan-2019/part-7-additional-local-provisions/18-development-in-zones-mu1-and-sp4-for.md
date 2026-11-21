@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.19 Development in Zones MU1 and SP4 for purposes of serviced apartments"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.19"

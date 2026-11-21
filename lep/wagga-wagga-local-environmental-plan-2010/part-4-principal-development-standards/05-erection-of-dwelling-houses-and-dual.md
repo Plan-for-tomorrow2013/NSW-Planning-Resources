@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses and dual occupancies on land in certain residential, rural and conservation zones"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

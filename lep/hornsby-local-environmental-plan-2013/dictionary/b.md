@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — B"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 dictionary_range: "B"
 last_verified: 2026-08-07

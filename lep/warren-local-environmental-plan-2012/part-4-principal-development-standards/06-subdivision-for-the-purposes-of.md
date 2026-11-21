@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Subdivision for the purposes of intensive livestock agriculture or intensive plant agriculture in Zone RU1"
-council: "Warren"
+council: "Warren Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

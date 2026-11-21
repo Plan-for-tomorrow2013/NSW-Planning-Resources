@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Minimum subdivision lot size for certain land in Zone R5"
-council: "Narromine"
+council: "Narromine Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — S"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 dictionary_range: "S"
 last_verified: 2026-07-01

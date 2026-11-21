@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11A Integrated tourist development at Wine Country Drive, Palmers Lane and McDonalds Road, Rothbury"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11A"

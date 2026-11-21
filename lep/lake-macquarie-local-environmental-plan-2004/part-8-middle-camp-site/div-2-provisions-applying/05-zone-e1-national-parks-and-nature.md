@@ -1,6 +1,6 @@
 ---
 title: "Clause 71 Zone E1 National Parks and Nature Reserves"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "8 — Middle Camp site / Division 2 Provisions applying to development in Middle Camp site"
 clause: "71"

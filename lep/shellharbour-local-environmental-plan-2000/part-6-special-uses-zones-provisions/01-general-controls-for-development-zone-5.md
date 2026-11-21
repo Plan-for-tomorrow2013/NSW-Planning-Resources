@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 General controls for development—Zone 5 (a) (the Special Uses zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Special Uses Zones Provisions"
 clause: "38"

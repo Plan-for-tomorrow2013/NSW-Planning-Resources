@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

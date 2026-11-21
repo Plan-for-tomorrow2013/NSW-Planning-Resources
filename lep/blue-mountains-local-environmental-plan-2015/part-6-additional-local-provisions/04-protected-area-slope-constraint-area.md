@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Protected area—slope constraint area"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

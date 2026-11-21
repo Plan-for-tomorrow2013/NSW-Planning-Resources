@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions"
-council: "Maitland"
+council: "Maitland City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

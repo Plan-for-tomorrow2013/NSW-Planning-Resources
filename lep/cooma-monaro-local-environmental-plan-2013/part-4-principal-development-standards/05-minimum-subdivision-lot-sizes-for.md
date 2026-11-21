@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum subdivision lot sizes for certain split zones"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

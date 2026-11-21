@@ -1,6 +1,6 @@
 ---
 title: "Clause 94 General provision of services"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 2 Services and infrastructure"
 clause: "94"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 64 Control of infill development within the Period Housing Area"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 3 Character and landscape assessment"
 clause: "64"

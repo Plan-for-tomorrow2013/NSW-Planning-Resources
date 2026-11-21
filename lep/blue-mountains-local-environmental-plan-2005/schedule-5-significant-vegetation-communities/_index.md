@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Significant vegetation communities"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

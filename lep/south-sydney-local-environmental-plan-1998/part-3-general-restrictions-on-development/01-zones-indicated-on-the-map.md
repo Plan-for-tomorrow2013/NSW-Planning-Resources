@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Zones indicated on the map"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "9"

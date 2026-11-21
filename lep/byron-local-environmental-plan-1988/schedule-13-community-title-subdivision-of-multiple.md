@@ -1,6 +1,6 @@
 ---
 title: "Schedule 13 — Community title subdivision of multiple occupancy developments"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 13 (Clause 17B)"
 last_verified: 2025-02-14

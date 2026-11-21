@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

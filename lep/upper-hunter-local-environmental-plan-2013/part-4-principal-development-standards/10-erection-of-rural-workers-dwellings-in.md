@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of rural workers' dwellings in Zone RU1 and Zone RU4"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

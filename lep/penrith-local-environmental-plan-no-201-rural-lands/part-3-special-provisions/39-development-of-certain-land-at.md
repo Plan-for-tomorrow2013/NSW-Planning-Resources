@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Development of certain land at Elizabeth Drive, Luddenham"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "43"

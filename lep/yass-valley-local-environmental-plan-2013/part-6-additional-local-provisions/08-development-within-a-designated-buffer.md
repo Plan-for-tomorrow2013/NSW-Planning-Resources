@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Development within a designated buffer area"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

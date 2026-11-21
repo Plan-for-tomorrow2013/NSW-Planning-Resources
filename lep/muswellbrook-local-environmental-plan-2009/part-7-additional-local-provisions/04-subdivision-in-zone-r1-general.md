@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Subdivision in Zone R1 General Residential and Zone RU5 Village"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

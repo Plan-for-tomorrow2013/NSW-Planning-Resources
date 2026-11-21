@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dual occupancies and dwelling houses on land in certain rural and conservation zones"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

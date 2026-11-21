@@ -1,6 +1,6 @@
 ---
 title: "Part 4 — Heritage provisions"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

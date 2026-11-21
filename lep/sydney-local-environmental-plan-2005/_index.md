@@ -2,7 +2,7 @@
 title: "Sydney Local Environmental Plan 2005"
 document_id: epi-2005-0810
 current_from: 2023-12-14
-council: "Sydney"
+council: "City of Sydney"
 ---
 
 # Sydney Local Environmental Plan 2005

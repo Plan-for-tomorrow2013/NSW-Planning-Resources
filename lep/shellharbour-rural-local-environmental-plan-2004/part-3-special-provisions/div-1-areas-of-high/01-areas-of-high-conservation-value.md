@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Areas of high conservation value"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Areas of high conservation value"
 clause: "36"

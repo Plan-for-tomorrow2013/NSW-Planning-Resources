@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Additional floor space and building heights for land at 3 Halifax Street, Macquarie Park"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

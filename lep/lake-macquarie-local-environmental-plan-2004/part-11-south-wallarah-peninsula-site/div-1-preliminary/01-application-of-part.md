@@ -1,6 +1,6 @@
 ---
 title: "Clause 132 Application of Part"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "11 — South Wallarah Peninsula site / Division 1 Preliminary"
 clause: "132"

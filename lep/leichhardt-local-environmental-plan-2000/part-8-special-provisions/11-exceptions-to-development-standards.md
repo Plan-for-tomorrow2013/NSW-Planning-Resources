@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Exceptions to development standards"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "40"

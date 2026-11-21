@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Development control plan"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "7 — Urban release areas"
 clause: "7.3"

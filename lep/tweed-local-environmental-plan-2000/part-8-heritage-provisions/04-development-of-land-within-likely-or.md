@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 Development of land within likely or known archaeological sites"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "8 — Heritage provisions"
 clause: "44"

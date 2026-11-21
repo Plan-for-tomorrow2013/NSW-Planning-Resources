@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

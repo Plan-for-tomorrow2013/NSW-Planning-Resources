@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Classification and reclassification of public land"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 last_verified: 2026-07-10
 ---

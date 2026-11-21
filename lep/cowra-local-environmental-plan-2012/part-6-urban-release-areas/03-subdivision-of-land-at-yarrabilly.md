@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Subdivision of land at Yarrabilly"
-council: "Cowra"
+council: "Cowra Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.4"

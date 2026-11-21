@@ -1,6 +1,6 @@
 ---
 title: "Zone RE1 — Public Recreation"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 zone_code: RE1
 zone: "Public Recreation"

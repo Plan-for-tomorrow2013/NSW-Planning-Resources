@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Exempt and complying development"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "11"

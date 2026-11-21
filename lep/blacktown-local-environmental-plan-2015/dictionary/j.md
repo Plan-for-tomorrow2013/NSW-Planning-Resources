@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — J"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 dictionary_range: "J"
 last_verified: 2026-07-31

@@ -2,7 +2,7 @@
 title: "Maitland Local Environmental Plan 2011"
 document_id: epi-2011-0681
 current_from: 2026-07-01
-council: "Maitland"
+council: "Maitland City Council"
 ---
 
 # Maitland Local Environmental Plan 2011

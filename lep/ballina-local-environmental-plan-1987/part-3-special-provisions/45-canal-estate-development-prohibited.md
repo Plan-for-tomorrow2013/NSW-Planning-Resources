@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 Canal estate development prohibited"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "44"

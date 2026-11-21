@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Land to which this Division applies"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 North Sydney Centre"
 clause: "6.2"

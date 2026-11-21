@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Industrial development at Glenlee"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

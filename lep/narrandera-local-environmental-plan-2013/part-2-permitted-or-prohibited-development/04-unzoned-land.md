@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.4 Unzoned land"
-council: "Narrandera"
+council: "Narrandera Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.4"

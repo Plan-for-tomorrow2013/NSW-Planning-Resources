@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — F"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 dictionary_range: "F"
 last_verified: 2026-09-04

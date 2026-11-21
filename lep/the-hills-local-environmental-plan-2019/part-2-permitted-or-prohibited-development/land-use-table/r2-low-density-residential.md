@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

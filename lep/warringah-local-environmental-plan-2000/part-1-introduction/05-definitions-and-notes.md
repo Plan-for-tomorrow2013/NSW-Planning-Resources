@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Definitions and notes"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "6"

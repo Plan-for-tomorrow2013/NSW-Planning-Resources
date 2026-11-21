@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 General provisions for the development of land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "3 — Heritage conservation"
 clause: "16"

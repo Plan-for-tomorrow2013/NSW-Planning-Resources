@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development on land at Cooper Street, Strathfield"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

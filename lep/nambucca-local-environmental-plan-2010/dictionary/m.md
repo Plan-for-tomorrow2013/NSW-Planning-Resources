@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-07-01

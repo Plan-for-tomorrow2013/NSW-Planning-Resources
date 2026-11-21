@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — D"
-council: "Tweed City Centre"
+council: "Tweed Shire Council"
 document_type: LEP
 dictionary_range: "D"
 last_verified: 2026-07-01

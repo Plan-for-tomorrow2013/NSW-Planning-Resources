@@ -1,6 +1,6 @@
 ---
 title: "Zone R3 — Medium Density Residential"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 zone_code: R3
 zone: "Medium Density Residential"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — L"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 dictionary_range: "L"
 last_verified: 2026-07-01

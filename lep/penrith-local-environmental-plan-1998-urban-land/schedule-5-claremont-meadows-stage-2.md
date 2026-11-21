@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Claremont Meadows Stage 2"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 37A)"
 last_verified: 2023-11-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Erection of rural workers' dwellings in Zones RU1, RU2, RU4 and RU6"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

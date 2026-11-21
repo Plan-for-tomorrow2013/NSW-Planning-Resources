@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Definitions"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Development at Water Street, Strathfield South"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

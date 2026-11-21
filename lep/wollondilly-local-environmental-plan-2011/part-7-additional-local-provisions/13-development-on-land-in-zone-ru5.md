@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Development on land in Zone RU5"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

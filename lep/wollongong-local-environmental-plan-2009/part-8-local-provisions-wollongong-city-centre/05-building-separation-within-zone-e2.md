@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.6 Building separation within Zone E2 Commercial Centre or Zone MU1 Mixed Use"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "8 — Local provisions—Wollongong city centre"
 clause: "8.6"

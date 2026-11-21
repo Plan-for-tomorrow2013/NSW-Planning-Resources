@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Affordable housing contribution for certain development on Planning Proposal Land"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

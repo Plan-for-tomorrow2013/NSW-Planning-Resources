@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Buffer zones to avoid potential land use conflicts"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "20"

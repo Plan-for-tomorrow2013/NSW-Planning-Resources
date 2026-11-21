@@ -1,6 +1,6 @@
 ---
 title: "Clause 89 Savings and transitional provision"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "89"

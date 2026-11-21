@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 How will the use of land be controlled?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "14"

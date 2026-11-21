@@ -1,6 +1,6 @@
 ---
 title: "Clause 45 General controls for development—Zone 7 (f1) (Coastal Lands Protection Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "7 — Environment Protection zones provisions"
 clause: "45"

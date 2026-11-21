@@ -1,6 +1,6 @@
 ---
 title: "Schedule 9 — Consent to development subject to special requirements"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 9 (Clauses 42 (2))"
 last_verified: 2023-11-10

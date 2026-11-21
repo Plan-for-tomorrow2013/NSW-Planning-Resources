@@ -1,6 +1,6 @@
 ---
 title: "Clause 20C Particular development prohibited in Ocean Street, Kiama"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "20C"

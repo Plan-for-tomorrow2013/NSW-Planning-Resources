@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2, Part 2 — Land reclassified under amended section 30 LG Act"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 68)"
 last_verified: 2026-07-01

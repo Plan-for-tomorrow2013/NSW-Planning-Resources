@@ -1,6 +1,6 @@
 ---
 title: "Clause 79 Development on beds of lakes, rivers etc"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "79"

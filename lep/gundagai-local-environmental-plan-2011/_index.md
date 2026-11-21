@@ -2,7 +2,7 @@
 title: "Gundagai Local Environmental Plan 2011"
 document_id: epi-2011-0507
 current_from: 2026-07-01
-council: "Gundagai"
+council: "Cootamundra-Gundagai Council"
 ---
 
 # Gundagai Local Environmental Plan 2011

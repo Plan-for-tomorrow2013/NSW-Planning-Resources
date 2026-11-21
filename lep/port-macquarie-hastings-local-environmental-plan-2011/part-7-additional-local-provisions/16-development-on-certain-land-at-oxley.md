@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Development on certain land at Oxley Highway, Sancrox"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

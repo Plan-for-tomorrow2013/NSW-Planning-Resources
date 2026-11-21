@@ -1,6 +1,6 @@
 ---
 title: "Clause 53E Specific provisions for Seabreeze Estate—Stage 2"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "53E"

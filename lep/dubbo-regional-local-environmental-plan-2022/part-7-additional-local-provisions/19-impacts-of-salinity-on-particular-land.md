@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.19 Impacts of salinity on particular land at Dubbo"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.19"

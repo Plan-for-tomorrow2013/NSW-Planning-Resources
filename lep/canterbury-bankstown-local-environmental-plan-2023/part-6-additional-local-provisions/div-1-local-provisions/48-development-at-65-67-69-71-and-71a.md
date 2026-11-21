@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.49 Development at 65, 67, 69, 71 and 71A Jeffrey Street, Canterbury"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.49"

@@ -1,6 +1,6 @@
 ---
 title: "Zone W1 — Natural Waterways"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 zone_code: W1
 zone: "Natural Waterways"

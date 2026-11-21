@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Interim development within Zone 5 (a)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Special Uses Zones Provisions"
 clause: "40"

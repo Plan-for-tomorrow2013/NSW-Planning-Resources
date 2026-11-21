@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 last_verified: 2026-07-24
 ---

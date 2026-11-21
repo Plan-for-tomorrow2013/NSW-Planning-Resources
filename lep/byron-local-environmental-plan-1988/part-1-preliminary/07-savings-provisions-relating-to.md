@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Savings provisions relating to development applications"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "6"

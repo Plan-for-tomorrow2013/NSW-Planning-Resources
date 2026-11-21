@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-08-21

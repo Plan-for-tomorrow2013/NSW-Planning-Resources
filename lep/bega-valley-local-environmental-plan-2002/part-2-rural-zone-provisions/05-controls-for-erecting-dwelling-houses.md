@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 Controls for erecting dwelling houses within Zone 1 (a)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "2 — Rural zone provisions"
 clause: "17"

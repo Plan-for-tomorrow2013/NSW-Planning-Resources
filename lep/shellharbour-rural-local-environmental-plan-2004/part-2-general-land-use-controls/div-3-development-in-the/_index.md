@@ -1,6 +1,6 @@
 ---
 title: "Division 3 Development in the special uses zones"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

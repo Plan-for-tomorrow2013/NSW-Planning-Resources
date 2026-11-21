@@ -1,6 +1,6 @@
 ---
 title: "Clause 32B Caravan parks in Zones Nos 1 (b) and 1 (d)"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "32B"

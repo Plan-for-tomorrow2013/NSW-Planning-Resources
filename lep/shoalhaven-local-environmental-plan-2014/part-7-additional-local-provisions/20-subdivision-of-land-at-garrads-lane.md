@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.22 Subdivision of land at Garrads Lane, Milton and The Heights, Narrawallee"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.22"

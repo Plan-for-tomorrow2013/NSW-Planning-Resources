@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2AA Exceptions to minimum lot sizes for certain rural subdivisions"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2AA"

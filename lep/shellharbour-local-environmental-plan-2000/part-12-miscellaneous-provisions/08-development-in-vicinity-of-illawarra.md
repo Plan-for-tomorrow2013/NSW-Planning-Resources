@@ -1,6 +1,6 @@
 ---
 title: "Clause 84 Development in vicinity of Illawarra Regional Airport"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "84"

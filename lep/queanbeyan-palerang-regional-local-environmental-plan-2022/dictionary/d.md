@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — D"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 dictionary_range: "D"
 last_verified: 2026-07-01

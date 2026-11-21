@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 General controls for development—Zone 3 (a) (the Mixed Use Commercial zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Commercial Zones Provisions"
 clause: "27"

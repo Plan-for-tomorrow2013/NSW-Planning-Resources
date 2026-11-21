@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.3 Additional floor space ratio and building heights for Areas 1-35"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "8 — Burwood-Concord, Homebush North and Kings Bay Precincts"
 clause: "8.3"

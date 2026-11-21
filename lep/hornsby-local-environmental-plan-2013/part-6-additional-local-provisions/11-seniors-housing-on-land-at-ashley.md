@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Seniors housing on land at Ashley Street and Webb Avenue, Hornsby"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

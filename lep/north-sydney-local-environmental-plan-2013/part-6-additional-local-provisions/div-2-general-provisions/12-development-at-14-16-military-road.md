@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development at 14-16 Military Road, Neutral Bay"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 General provisions"
 clause: "6.16"

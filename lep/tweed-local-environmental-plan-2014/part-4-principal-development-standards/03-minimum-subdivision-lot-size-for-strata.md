@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum subdivision lot size for strata plan schemes in certain rural zones"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

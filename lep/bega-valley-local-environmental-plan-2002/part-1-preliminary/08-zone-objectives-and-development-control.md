@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Zone objectives and development control table"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "8"

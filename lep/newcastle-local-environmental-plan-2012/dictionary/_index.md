@@ -1,6 +1,6 @@
 ---
 title: "Dictionary"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 last_verified: 2026-09-04
 ---

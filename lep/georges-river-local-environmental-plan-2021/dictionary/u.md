@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-10-09

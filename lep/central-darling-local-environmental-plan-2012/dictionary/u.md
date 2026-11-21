@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — U"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 dictionary_range: "U"
 last_verified: 2026-07-01

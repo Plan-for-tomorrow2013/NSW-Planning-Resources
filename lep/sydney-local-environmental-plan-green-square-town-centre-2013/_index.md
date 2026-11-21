@@ -2,7 +2,7 @@
 title: "Sydney Local Environmental Plan (Green Square Town Centre) 2013"
 document_id: epi-2013-0541
 current_from: 2026-07-01
-council: "Sydney"
+council: "City of Sydney"
 ---
 
 # Sydney Local Environmental Plan (Green Square Town Centre) 2013

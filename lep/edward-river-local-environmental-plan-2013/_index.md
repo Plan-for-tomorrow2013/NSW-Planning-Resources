@@ -2,7 +2,7 @@
 title: "Edward River Local Environmental Plan 2013"
 document_id: epi-2013-0462
 current_from: 2026-07-01
-council: "Edward River"
+council: "Edward River Council"
 ---
 
 # Edward River Local Environmental Plan 2013

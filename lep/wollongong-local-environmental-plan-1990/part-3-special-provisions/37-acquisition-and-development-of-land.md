@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Acquisition and development of land reserved for roads"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "36"

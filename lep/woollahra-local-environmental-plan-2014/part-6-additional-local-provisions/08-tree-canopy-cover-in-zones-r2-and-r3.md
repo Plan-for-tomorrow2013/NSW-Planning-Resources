@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Tree canopy cover in Zones R2 and R3"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

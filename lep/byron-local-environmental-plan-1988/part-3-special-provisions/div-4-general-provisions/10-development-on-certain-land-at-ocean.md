@@ -1,6 +1,6 @@
 ---
 title: "Clause 47A Development on certain land at Ocean Shores"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "47A"

@@ -2,7 +2,7 @@
 title: "Shoalhaven Local Environmental Plan 1985"
 document_id: epi-1985-0175
 current_from: 2026-07-01
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 ---
 
 # Shoalhaven Local Environmental Plan 1985

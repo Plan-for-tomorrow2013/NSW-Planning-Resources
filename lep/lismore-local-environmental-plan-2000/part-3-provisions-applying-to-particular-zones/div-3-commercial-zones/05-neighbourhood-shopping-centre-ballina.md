@@ -1,6 +1,6 @@
 ---
 title: "Clause 62A Neighbourhood shopping centre, Ballina Road and Holland Street, Goonellabah"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 3 Commercial zones"
 clause: "62A"

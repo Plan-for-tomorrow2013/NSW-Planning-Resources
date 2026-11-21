@@ -1,6 +1,6 @@
 ---
 title: "Clause 67 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "67"

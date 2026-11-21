@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Other development not requiring consent"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 7 (b))"
 last_verified: 2026-07-01

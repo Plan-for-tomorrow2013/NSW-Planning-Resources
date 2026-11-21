@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 General provisions for the development of land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Open space, recreation and leisure"
 clause: "26"

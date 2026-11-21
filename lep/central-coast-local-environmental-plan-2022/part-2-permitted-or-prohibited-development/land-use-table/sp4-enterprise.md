@@ -1,6 +1,6 @@
 ---
 title: "Zone SP4 — Enterprise"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"

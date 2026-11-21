@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Development within a designated buffer area"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Heritage items"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 48 and Dictionary)"
 last_verified: 2026-07-01

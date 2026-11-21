@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Additional development"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 39)"
 last_verified: 2026-07-01

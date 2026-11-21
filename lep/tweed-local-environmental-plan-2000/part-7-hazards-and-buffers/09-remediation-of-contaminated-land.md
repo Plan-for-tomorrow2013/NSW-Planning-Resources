@@ -1,6 +1,6 @@
 ---
 title: "Clause 39 Remediation of contaminated land"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Hazards and buffers"
 clause: "39"

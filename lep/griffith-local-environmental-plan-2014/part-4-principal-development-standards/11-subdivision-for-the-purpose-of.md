@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2E Subdivision for the purpose of intensive livestock agriculture or intensive plant agriculture"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2E"

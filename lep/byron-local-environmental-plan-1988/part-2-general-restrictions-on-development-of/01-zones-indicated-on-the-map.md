@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Zones indicated on the map"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "8"

@@ -1,6 +1,6 @@
 ---
 title: "Zone W4 — Working Waterfront"
-council: "Pittwater"
+council: "Northern Beaches Council"
 document_type: LEP
 zone_code: W4
 zone: "Working Waterfront"

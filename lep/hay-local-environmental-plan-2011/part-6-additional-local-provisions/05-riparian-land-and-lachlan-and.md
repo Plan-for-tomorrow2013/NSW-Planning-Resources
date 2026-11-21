@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Riparian land and Lachlan and Murrumbidgee Rivers and other watercourses—general principles"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

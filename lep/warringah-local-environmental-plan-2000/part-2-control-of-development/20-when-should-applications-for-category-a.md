@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 When should applications for category A remediation works not be refused?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "28"

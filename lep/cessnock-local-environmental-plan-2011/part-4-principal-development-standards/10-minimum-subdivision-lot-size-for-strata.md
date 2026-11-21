@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Minimum subdivision lot size for strata plan schemes in certain rural or conservation zones"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

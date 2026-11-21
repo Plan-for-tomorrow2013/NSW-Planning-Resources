@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Model provisions"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "9"

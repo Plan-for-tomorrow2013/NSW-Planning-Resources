@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — T"
-council: "Balranald"
+council: "Balranald Shire Council"
 document_type: LEP
 dictionary_range: "T"
 last_verified: 2026-07-01

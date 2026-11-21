@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.6 Design excellence"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
 clause: "8.6"

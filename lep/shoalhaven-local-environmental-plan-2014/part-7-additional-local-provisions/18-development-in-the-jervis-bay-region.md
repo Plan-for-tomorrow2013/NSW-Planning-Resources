@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Development in the Jervis Bay region"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.20"

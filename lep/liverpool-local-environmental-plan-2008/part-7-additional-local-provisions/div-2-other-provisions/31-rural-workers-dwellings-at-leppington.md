@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.39 Rural workers' dwellings at Leppington Pastoral Company"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.39"

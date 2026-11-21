@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.45 Building height in Belmore and Lakemba Precinct, Canterbury Precinct and Punchbowl and Wiley Park Precinct"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.45"

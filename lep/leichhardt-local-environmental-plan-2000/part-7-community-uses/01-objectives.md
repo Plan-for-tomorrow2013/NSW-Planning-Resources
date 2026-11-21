@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Objectives"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "7 — Community uses"
 clause: "27"

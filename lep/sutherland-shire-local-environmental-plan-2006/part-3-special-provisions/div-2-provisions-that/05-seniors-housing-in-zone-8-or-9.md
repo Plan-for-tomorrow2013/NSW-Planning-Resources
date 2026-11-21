@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 Seniors housing in Zone 8 or 9"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Provisions that apply to particular kinds of development"
 clause: "32"

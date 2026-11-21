@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Serviced apartments"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "7 — Local provisions—general"
 clause: "7.12"

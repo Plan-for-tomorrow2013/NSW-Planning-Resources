@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-09-04

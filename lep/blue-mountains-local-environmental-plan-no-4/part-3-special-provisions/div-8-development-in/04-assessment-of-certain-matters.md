@@ -1,6 +1,6 @@
 ---
 title: "Clause 53 Assessment of certain matters"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Development in escarpment preservation areas"
 clause: "53"

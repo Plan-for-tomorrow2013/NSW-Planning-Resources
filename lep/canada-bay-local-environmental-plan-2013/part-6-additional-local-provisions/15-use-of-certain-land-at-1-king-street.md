@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Use of certain land at 1 King Street, Concord West"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

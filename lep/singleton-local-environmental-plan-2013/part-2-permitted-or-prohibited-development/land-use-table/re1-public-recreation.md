@@ -1,6 +1,6 @@
 ---
 title: "Zone RE1 — Public Recreation"
-council: "Singleton"
+council: "Singleton Council"
 document_type: LEP
 zone_code: RE1
 zone: "Public Recreation"

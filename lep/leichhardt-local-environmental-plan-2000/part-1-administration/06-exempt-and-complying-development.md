@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Exempt and complying development"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "6"

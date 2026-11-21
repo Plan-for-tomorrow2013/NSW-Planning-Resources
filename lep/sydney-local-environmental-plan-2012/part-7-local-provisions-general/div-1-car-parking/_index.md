@@ -1,6 +1,6 @@
 ---
 title: "Division 1 Car parking ancillary to other development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2026-10-09
 ---

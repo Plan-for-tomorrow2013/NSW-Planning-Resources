@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Minimum subdivision lot size for strata plan schemes in certain residential and rural zones"
-council: "Gwydir"
+council: "Gwydir Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

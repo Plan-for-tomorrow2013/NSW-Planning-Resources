@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 Foreshore development and development below DP high water mark"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "5 — Special controls for protection of the environment or for particular land"
 clause: "23"

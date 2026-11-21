@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Urban release areas"
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 81 Classification or reclassification of public land as operational land"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "81"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot size for manor houses, multi dwelling housing (terraces), dual occupancies and secondary dwellings in Zones RU5 and R2"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

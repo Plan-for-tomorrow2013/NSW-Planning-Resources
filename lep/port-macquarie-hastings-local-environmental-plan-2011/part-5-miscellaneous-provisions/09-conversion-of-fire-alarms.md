@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.8 Conversion of fire alarms"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.8"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Exceptions to minimum lot size—subdivision of land in approved land use zones"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.5"

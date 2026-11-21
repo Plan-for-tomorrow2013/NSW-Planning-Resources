@@ -1,6 +1,6 @@
 ---
 title: "Zone R4 — High Density Residential"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 zone_code: R4
 zone: "High Density Residential"

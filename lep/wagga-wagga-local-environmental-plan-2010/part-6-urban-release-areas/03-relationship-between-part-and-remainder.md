@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Relationship between Part and remainder of Plan"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.4"

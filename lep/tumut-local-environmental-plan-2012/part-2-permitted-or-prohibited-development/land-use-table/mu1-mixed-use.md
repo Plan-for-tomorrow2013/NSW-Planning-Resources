@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Tumut"
+council: "Snowy Valleys Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

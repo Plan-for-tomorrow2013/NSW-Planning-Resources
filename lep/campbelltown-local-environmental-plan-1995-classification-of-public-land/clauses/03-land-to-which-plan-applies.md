@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Land to which plan applies"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "Clauses"
 clause: "3"

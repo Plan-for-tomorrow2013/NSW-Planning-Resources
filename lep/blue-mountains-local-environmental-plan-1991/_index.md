@@ -2,7 +2,7 @@
 title: "Blue Mountains Local Environmental Plan 1991"
 document_id: epi-1991-0683
 current_from: 2023-11-10
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 ---
 
 # Blue Mountains Local Environmental Plan 1991

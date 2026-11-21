@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Williams River catchment"
-council: "Dungog"
+council: "Dungog Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

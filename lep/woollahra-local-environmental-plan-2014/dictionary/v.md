@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-08-21

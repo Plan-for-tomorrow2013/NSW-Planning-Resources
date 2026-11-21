@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.18 Intensive livestock agriculture"
-council: "Inverell"
+council: "Inverell Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.18"

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — A"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 dictionary_range: "A"
 last_verified: 2026-07-01

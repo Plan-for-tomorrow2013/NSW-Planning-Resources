@@ -2,7 +2,7 @@
 title: "Liverpool Local Environmental Plan 2008"
 document_id: epi-2008-0403
 current_from: 2026-07-01
-council: "Liverpool"
+council: "Liverpool City Council"
 ---
 
 # Liverpool Local Environmental Plan 2008

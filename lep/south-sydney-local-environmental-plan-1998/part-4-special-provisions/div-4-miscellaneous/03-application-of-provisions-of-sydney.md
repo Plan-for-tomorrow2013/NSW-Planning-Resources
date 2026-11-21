@@ -1,6 +1,6 @@
 ---
 title: "Clause 29A Application of provisions of Sydney Local Environmental Plan 2012"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "29A"

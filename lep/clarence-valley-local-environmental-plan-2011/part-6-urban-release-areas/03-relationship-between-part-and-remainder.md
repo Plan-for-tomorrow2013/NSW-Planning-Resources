@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Relationship between Part and remainder of Plan"
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.4"

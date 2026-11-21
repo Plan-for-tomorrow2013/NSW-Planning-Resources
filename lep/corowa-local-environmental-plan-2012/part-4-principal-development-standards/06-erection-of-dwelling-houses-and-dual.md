@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses and dual occupancies on land in Zones RU1 and C3"
-council: "Corowa"
+council: "Federation Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

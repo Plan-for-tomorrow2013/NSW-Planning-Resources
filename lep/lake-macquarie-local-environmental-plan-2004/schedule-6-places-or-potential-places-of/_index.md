@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Places or potential places of Aboriginal heritage significance"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

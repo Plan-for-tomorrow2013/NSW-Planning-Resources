@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Rural workers' dwellings and secondary dwellings"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

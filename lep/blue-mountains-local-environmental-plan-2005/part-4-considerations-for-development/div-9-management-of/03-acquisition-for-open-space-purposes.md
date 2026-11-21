@@ -1,6 +1,6 @@
 ---
 title: "Clause 130 Acquisition for open space purposes"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 9 Management of public land and public infrastructure"
 clause: "130"

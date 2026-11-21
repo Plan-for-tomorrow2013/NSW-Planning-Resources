@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Subdivision"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "14"

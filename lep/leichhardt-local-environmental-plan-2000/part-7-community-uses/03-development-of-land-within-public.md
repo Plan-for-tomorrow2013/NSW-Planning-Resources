@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Development of land within Public Purpose Zone"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "7 — Community uses"
 clause: "29"

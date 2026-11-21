@@ -1,6 +1,6 @@
 ---
 title: "Clause 117 Bush fire protection and evacuation of Accessible Housing"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 7 Accessible housing"
 clause: "117"

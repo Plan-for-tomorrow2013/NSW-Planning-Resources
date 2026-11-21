@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8A Savings provisions relating to development applications"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8A"

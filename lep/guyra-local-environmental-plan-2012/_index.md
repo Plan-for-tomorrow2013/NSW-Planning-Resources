@@ -2,7 +2,7 @@
 title: "Guyra Local Environmental Plan 2012"
 document_id: epi-2012-0591
 current_from: 2026-07-01
-council: "Guyra"
+council: "Armidale Regional Council"
 ---
 
 # Guyra Local Environmental Plan 2012

@@ -1,6 +1,6 @@
 ---
 title: "Clause 58 Development of flood liable land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "58"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.23 Residential accommodation as part of mixed use development in Zone E3"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.23"

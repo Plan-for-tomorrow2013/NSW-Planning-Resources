@@ -1,6 +1,6 @@
 ---
 title: "Clause 33A Development of land adjacent to North Creek Road, Lennox Head"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "33A"

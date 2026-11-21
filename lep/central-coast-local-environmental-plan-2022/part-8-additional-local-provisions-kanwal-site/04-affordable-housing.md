@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Affordable housing"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "8 — Additional local provisions—Kanwal Site"
 clause: "8.4"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Development at 370 Old Northern Road, Castle Hill"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

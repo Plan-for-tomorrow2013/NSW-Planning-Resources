@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Rural workers' dwellings"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "3 — General provisions"
 clause: "18"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.47 Millers Point heritage conservation area"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 5 Site specific provisions"
 clause: "6.47"

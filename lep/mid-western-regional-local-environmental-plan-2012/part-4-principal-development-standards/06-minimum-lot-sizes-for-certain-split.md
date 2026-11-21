@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Minimum lot sizes for certain split zones"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

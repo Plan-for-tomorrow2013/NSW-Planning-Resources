@@ -2,7 +2,7 @@
 title: "Manly Local Environmental Plan 2013"
 document_id: epi-2013-0140
 current_from: 2026-07-01
-council: "Manly"
+council: "Northern Beaches Council"
 ---
 
 # Manly Local Environmental Plan 2013

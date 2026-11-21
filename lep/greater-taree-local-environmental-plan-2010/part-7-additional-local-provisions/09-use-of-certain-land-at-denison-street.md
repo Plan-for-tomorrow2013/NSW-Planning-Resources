@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Use of certain land at Denison Street and Emerton Close, Cundletown"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"

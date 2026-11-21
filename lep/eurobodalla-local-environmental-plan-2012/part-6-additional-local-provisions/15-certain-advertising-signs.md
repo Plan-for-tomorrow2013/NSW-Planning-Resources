@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.18 Certain advertising signs"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.18"

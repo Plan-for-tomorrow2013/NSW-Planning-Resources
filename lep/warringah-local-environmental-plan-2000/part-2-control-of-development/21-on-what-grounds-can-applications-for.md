@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 On what grounds can applications for housing for older people or people with disabilities not be refused?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "29"

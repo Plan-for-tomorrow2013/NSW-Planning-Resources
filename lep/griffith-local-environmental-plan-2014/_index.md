@@ -2,7 +2,7 @@
 title: "Griffith Local Environmental Plan 2014"
 document_id: epi-2014-0137
 current_from: 2026-07-01
-council: "Griffith"
+council: "Griffith City Council"
 ---
 
 # Griffith Local Environmental Plan 2014

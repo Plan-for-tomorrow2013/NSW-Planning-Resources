@@ -1,6 +1,6 @@
 ---
 title: "Clause 37A Claremont Meadows Stage 2"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "37A"

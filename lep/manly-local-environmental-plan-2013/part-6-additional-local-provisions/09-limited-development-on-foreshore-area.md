@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Limited development on foreshore area"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

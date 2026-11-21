@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Development in Zone 7 (d) Environmental Protection (Scenic/Escarpment)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Environment and resource provisions"
 clause: "26"

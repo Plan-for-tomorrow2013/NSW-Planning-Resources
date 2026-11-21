@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses or dual occupancies on land in certain rural, residential and conservation zones"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

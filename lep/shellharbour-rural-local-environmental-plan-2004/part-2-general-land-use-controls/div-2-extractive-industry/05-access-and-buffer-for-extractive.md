@@ -1,6 +1,6 @@
 ---
 title: "Clause 23A Access and buffer for extractive industry at Croom"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — General land use controls / Division 2 Extractive industry"
 clause: "23A"

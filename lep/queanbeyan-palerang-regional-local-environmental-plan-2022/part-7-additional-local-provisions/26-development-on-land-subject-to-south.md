@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.27 Development on land subject to South Jerrabomberra Regional Jobs Precinct Process"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.27"

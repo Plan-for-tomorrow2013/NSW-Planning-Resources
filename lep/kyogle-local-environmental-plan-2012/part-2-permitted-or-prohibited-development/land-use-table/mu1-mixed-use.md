@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

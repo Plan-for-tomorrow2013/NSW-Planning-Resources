@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Development in areas subject to aircraft noise"
-council: "Narrabri"
+council: "Narrabri Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

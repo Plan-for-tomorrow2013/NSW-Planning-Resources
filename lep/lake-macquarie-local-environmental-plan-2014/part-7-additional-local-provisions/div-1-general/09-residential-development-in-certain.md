@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Residential development in certain employment and mixed use zones"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.10"

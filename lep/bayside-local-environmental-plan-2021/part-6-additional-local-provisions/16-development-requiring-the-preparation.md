@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development requiring the preparation of a development control plan"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

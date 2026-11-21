@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Locality management within the living zones"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 1 Locality provisions"
 clause: "15"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1G Minimum subdivision lot size for boundary adjustments"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1G"

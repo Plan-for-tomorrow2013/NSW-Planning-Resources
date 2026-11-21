@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Height of buildings"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "11"

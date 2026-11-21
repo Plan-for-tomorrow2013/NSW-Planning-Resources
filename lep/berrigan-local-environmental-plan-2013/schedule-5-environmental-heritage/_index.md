@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 last_verified: 2026-08-28
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 General controls for development—Zone 2 (v) (Village Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "3 — Urban zone provisions"
 clause: "25"

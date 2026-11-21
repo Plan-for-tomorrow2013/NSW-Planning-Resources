@@ -1,6 +1,6 @@
 ---
 title: "Zone C1 — National Parks and Nature Reserves"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 zone_code: C1
 zone: "National Parks and Nature Reserves"

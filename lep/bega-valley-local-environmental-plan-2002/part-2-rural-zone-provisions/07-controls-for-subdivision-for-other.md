@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Controls for subdivision for other purposes within Zone 1 (a)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "2 — Rural zone provisions"
 clause: "18"

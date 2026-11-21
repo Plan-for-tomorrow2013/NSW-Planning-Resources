@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Earthworks"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.3"

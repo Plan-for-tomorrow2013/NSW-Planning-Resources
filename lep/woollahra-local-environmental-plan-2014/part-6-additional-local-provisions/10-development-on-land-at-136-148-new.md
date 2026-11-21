@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Development on land at 136-148 New South Head Road, Edgecliff"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

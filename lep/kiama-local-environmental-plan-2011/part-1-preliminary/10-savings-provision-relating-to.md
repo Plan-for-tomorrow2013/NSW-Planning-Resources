@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8A Savings provision relating to development applications"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Ground floor business premises, medical centres and retail premises"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.11"

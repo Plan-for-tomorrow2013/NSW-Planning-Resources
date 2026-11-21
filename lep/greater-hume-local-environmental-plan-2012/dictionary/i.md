@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — I"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 dictionary_range: "I"
 last_verified: 2026-07-01

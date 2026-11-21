@@ -1,6 +1,6 @@
 ---
 title: "Schedule 14 — Permanent occupation of tourist facilities"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 clause: "Schedule 14 (Clause 20B)"
 last_verified: 2026-07-01

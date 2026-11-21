@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — B"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 dictionary_range: "B"
 last_verified: 2026-07-01

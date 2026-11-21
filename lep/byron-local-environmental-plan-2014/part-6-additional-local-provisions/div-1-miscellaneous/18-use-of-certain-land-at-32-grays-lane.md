@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16E Use of certain land at 32 Grays Lane, Tyagarah"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.16E"

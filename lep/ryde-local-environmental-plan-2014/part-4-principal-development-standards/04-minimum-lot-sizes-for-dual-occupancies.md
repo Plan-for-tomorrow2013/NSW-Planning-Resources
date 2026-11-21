@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum lot sizes for dual occupancies"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

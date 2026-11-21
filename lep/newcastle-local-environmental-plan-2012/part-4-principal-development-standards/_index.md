@@ -1,6 +1,6 @@
 ---
 title: "Part 4 — Principal development standards"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 last_verified: 2026-09-04
 ---

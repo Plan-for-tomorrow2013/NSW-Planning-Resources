@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Temporary development of land"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "3 — General provisions"
 clause: "12"

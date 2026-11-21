@@ -1,6 +1,6 @@
 ---
 title: "Clause 18 Development on residential zones"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "18"

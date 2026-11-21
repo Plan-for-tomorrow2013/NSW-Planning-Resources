@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Solar access to key public open spaces in Blacktown CBD"
-council: "Blacktown"
+council: "Blacktown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

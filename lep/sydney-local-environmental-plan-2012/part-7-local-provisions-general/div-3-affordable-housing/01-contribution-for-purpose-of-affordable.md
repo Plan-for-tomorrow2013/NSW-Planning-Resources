@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Contribution for purpose of affordable housing"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 3 Affordable housing"
 clause: "7.13"

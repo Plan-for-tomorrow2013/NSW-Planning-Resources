@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of rural workers' dwellings in Zones RU1 and RU2"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

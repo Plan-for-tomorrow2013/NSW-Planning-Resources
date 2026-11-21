@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Consent authority"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "1 — Introduction"
 clause: "4"

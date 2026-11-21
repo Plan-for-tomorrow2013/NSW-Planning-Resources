@@ -2,7 +2,7 @@
 title: "Cobar Local Environmental Plan 2012"
 document_id: epi-2012-0358
 current_from: 2026-07-01
-council: "Cobar"
+council: "Cobar Shire Council"
 ---
 
 # Cobar Local Environmental Plan 2012

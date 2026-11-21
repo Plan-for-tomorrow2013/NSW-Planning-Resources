@@ -1,6 +1,6 @@
 ---
 title: "Schedule 16 — Principles and standards for housing for older people or people with disabilities"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 16 (Clause 40)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.39 Development on certain land at Lords Road, Leichhardt"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.39"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Exempt development"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 3.1)"
 last_verified: 2026-07-01

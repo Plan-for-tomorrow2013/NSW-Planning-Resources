@@ -1,6 +1,6 @@
 ---
 title: "Clause 13A Subdivision within Zone No 7 (c1)"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "13A"

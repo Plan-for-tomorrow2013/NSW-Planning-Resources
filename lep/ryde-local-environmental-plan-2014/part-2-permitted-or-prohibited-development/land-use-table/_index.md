@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 last_verified: 2026-09-18
 ---

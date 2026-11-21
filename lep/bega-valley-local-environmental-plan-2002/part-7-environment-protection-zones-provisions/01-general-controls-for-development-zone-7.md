@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 General controls for development—Zone 7 (b) (Environment Protection Foreshore Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "7 — Environment Protection zones provisions"
 clause: "43"

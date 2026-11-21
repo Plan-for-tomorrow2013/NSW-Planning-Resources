@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Affordable housing contributions scheme for Homebush TOD Precinct"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "7 — Homebush Transport Oriented Development Precinct / Division 1 General"
 clause: "7.5"

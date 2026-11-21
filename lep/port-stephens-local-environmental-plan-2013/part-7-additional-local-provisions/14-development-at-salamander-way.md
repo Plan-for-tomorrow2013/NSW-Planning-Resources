@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Development at Salamander Way, Salamander Bay (known as Horizons)"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16"

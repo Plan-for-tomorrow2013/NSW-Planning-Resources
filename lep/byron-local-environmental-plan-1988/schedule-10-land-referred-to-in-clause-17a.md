@@ -1,6 +1,6 @@
 ---
 title: "Schedule 10 — Land referred to in clause 17A"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 10 (Clause 17A)"
 last_verified: 2025-02-14

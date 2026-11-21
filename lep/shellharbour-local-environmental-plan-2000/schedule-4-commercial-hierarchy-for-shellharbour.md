@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Commercial hierarchy for Shellharbour City local government area"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 4 (Clauses 25, 29, 41)"
 last_verified: 2026-07-01

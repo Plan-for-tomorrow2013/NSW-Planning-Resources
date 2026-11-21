@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Consent authority"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "5"

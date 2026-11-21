@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

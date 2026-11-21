@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Effect of the Plan on other environmental planning instruments"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "4"

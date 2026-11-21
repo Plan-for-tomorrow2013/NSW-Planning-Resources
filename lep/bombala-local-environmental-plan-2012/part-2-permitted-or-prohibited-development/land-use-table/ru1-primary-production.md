@@ -1,6 +1,6 @@
 ---
 title: "Zone RU1 — Primary Production"
-council: "Bombala"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"

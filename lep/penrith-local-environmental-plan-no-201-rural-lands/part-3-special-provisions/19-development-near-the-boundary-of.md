@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Development near the boundary of adjoining zones"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "28"

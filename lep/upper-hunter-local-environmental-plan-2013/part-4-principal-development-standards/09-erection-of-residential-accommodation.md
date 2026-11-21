@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of residential accommodation on land in certain rural and conservation zones"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

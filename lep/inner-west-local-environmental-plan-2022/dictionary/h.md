@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-09-04

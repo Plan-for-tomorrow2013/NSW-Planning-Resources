@@ -2,7 +2,7 @@
 title: "Bathurst Regional Local Environmental Plan 2014"
 document_id: epi-2014-0729
 current_from: 2026-07-03
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 ---
 
 # Bathurst Regional Local Environmental Plan 2014

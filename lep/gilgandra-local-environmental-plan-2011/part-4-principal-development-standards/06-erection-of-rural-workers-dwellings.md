@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of rural workers' dwellings"
-council: "Gilgandra"
+council: "Gilgandra Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

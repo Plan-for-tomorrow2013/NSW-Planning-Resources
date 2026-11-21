@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Tree preservation orders"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "14"

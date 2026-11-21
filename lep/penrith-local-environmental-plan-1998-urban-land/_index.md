@@ -2,7 +2,7 @@
 title: "Penrith Local Environmental Plan 1998 (Urban Land)"
 document_id: epi-1999-0009
 current_from: 2023-11-01
-council: "Penrith"
+council: "Penrith City Council"
 ---
 
 # Penrith Local Environmental Plan 1998 (Urban Land)

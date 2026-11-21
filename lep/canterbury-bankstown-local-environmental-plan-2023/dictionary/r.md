@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-09-25

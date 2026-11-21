@@ -1,6 +1,6 @@
 ---
 title: "Clause 23C Development on Lot 11, DP 626845, 1 Allowrie Street, Jamberoo (the Jamberoo RSL Hall site)"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Business"
 clause: "23C"

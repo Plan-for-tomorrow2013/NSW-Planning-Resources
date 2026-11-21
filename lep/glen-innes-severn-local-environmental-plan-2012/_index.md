@@ -2,7 +2,7 @@
 title: "Glen Innes Severn Local Environmental Plan 2012"
 document_id: epi-2012-0467
 current_from: 2026-07-01
-council: "Glen Innes Severn"
+council: "Glen Innes Severn Council"
 ---
 
 # Glen Innes Severn Local Environmental Plan 2012

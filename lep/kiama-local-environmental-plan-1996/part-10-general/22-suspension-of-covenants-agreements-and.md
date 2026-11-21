@@ -1,6 +1,6 @@
 ---
 title: "Clause 64A Suspension of covenants, agreements and other instruments—residential land"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "64A"

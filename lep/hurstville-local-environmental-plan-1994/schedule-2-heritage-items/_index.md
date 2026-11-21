@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2 — Heritage items"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — T"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 dictionary_range: "T"
 last_verified: 2026-08-28

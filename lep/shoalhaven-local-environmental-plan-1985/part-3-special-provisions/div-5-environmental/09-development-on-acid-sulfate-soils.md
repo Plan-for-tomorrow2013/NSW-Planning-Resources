@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Development on acid sulfate soils"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5 Environmental management"
 clause: "27"

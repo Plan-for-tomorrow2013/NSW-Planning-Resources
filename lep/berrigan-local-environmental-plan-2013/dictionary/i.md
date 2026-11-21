@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — I"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 dictionary_range: "I"
 last_verified: 2026-08-28

@@ -1,6 +1,6 @@
 ---
 title: "Clause 27J Non-residential development on development sites in Zones Nos 10 (b) and 10 (c)"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2 Development at Green Square"
 clause: "27J"

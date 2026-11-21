@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 General controls for development—Zone 7 (f2) (Coastal Lands Acquisition Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "7 — Environment Protection zones provisions"
 clause: "46"

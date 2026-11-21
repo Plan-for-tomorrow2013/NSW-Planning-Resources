@@ -1,6 +1,6 @@
 ---
 title: "Clause 1 What is the name of this plan?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "1"

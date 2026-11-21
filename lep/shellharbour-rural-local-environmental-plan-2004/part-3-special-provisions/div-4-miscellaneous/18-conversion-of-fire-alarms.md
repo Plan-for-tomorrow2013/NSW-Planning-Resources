@@ -1,6 +1,6 @@
 ---
 title: "Clause 64E Conversion of fire alarms"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Miscellaneous"
 clause: "64E"

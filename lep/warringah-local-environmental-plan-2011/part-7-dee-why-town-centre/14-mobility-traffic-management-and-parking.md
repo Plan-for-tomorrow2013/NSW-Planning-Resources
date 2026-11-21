@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Mobility, traffic management and parking"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "7 — Dee Why Town Centre"
 clause: "7.13"

@@ -1,6 +1,6 @@
 ---
 title: "Zone E1 — Local Centre"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 zone_code: E1
 zone: "Local Centre"

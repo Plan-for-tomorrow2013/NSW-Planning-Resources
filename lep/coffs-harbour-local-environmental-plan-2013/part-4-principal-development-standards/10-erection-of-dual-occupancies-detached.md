@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2E Erection of dual occupancies (detached) on land in certain rural and residential zones"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2E"

@@ -1,6 +1,6 @@
 ---
 title: "Zone R2 — Low Density Residential"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 zone_code: R2
 zone: "Low Density Residential"

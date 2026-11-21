@@ -1,6 +1,6 @@
 ---
 title: "Clause 19A Zone No 3 (g) objectives for certain land at Princes Highway/Cambewarra Road, Bomaderry"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Business and commercial uses"
 clause: "19A"

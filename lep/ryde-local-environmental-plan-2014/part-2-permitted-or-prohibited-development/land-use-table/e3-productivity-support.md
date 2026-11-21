@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.65 Part of Pyrmont Station complex at 37-69 Union Street, Pyrmont"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 6 Pyrmont Peninsula"
 clause: "6.65"

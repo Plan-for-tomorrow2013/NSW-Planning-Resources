@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Building separation"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "7 — Additional local provisions—Newcastle City Centre"
 clause: "7.4"

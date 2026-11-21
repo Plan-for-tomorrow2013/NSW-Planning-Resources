@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Development in proximity of sewage treatment plants and waste disposal facilities"
-council: "Coolamon"
+council: "Coolamon Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

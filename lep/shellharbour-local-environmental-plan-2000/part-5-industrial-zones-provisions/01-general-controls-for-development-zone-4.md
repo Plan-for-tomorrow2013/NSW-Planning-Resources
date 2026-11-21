@@ -1,6 +1,6 @@
 ---
 title: "Clause 30 General controls for development—Zone 4 (a) (the Light Industrial zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "5 — Industrial Zones Provisions"
 clause: "30"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Interpretation"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

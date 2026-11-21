@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3, Part 2 — Complying development certificate conditions"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
 last_verified: 2026-07-03

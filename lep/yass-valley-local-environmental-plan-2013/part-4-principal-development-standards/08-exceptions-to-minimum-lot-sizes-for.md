@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Exceptions to minimum lot sizes for certain rural subdivisions"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

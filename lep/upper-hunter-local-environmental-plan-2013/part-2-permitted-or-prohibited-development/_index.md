@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Permitted or prohibited development"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 last_verified: 2026-08-21
 ---

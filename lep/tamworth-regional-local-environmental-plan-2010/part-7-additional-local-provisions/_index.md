@@ -1,6 +1,6 @@
 ---
 title: "Part 7 — Additional local provisions"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 last_verified: 2026-10-14
 ---

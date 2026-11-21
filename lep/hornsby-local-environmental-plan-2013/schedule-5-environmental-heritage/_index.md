@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 last_verified: 2026-08-07
 ---

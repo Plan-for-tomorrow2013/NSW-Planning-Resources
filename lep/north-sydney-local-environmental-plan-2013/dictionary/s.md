@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — S"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 dictionary_range: "S"
 last_verified: 2026-07-01

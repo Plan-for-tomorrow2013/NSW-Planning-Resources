@@ -1,6 +1,6 @@
 ---
 title: "Clause 5 Interpretation"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "5"

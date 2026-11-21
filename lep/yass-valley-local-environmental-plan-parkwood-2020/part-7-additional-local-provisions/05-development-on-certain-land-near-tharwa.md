@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Development on certain land near Tharwa Sands quarry"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

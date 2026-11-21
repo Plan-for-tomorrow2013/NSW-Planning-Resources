@@ -2,7 +2,7 @@
 title: "Tweed Local Environmental Plan 2014"
 document_id: epi-2014-0177
 current_from: 2026-07-01
-council: "Tweed"
+council: "Tweed Shire Council"
 ---
 
 # Tweed Local Environmental Plan 2014

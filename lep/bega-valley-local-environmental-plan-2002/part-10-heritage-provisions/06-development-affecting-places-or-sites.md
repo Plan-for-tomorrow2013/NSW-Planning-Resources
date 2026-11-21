@@ -1,6 +1,6 @@
 ---
 title: "Clause 63 Development affecting places or sites of known or potential Aboriginal heritage significance"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "10 — Heritage provisions"
 clause: "63"

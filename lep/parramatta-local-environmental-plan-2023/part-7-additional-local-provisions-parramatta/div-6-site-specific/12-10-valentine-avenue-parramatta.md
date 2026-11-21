@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.40 10 Valentine Avenue, Parramatta"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.40"

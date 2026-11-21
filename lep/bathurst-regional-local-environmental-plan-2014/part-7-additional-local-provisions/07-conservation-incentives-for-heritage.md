@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Conservation incentives for heritage conservation areas"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Development with restricted access to roads in rural and environment protection zones"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 25 (2))"
 last_verified: 2026-07-01

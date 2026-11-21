@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-07-10

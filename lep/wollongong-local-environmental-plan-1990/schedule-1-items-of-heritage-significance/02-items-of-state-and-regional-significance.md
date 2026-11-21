@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1, Part 2 — Items of State and regional significance"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 6 (1))"
 last_verified: 2026-07-01

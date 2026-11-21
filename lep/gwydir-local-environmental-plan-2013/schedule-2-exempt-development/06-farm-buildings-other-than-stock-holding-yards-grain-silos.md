@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2, Part 6 — Farm buildings (other than stock holding yards, grain silos and grain bunkers)"
-council: "Gwydir"
+council: "Gwydir Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 3.1)"
 last_verified: 2026-07-01

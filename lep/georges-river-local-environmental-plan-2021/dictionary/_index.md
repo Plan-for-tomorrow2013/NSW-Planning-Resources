@@ -1,6 +1,6 @@
 ---
 title: "Dictionary"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 last_verified: 2026-10-09
 ---

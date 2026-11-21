@@ -1,6 +1,6 @@
 ---
 title: "Clause 4 Aims of this plan"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "4"

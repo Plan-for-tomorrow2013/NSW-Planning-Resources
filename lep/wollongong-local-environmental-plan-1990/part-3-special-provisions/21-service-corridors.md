@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 Service corridors"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "23"

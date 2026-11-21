@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Development control table: Open Space Zone"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Open space, recreation and leisure"
 clause: "25"

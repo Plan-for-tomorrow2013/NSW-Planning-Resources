@@ -1,6 +1,6 @@
 ---
 title: "Clause 93 Conversion of fire alarms"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "93"

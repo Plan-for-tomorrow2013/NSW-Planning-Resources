@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Employment"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

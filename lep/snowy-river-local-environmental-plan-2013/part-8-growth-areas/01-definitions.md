@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Definitions"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "8 — Growth areas"
 clause: "8.1"

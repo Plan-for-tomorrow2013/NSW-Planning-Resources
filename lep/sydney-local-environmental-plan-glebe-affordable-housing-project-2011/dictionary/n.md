@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — N"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "N"
 last_verified: 2024-02-23

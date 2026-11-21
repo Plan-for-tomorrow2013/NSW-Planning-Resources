@@ -2,7 +2,7 @@
 title: "Weddin Local Environmental Plan 2011"
 document_id: epi-2011-0622
 current_from: 2026-07-01
-council: "Weddin"
+council: "Weddin Shire Council"
 ---
 
 # Weddin Local Environmental Plan 2011

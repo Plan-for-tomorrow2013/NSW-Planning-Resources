@@ -1,6 +1,6 @@
 ---
 title: "Clause 43 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "43"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 64D Standards that cannot be used to refuse consent—playing and performing music"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "64D"

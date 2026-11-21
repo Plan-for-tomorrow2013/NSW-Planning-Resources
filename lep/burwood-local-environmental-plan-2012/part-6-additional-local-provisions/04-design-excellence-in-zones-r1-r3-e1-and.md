@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Design excellence in Zones R1, R3, E1 and MU1"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

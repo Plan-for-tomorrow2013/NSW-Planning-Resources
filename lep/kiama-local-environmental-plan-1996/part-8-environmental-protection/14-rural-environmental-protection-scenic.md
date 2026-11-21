@@ -1,6 +1,6 @@
 ---
 title: "Clause 40 Rural Environmental Protection (Scenic), (Hinterland) and (Foreshore Protection) Zones—Tree Plantation and Harvesting"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "40"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 42A Assessment of certain additional factors in Zone No 9 (e)"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 6 Building and development generally"
 clause: "42A"

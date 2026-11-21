@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 General controls for development—Zone 4 (c) (the Extractive Industrial zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "5 — Industrial Zones Provisions"
 clause: "32"

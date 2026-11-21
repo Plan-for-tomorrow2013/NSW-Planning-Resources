@@ -2,7 +2,7 @@
 title: "Balranald Local Environmental Plan 2010"
 document_id: epi-2010-0363
 current_from: 2026-07-01
-council: "Balranald"
+council: "Balranald Shire Council"
 ---
 
 # Balranald Local Environmental Plan 2010

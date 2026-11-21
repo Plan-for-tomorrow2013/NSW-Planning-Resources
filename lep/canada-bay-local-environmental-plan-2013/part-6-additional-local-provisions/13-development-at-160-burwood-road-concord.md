@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Development at 160 Burwood Road, Concord"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.15"

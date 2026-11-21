@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum lot sizes for multi dwelling housing and residential flat buildings"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

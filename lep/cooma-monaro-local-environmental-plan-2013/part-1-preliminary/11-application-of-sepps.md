@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.9 Application of SEPPs"
-council: "Cooma-Monaro"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.9"

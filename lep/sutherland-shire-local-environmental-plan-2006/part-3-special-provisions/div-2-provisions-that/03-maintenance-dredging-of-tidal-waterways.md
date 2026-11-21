@@ -1,6 +1,6 @@
 ---
 title: "Clause 30 Maintenance dredging of tidal waterways"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Provisions that apply to particular kinds of development"
 clause: "30"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Subdivision and erection of dwelling house on certain land at Wisemans Ferry Road, Somersby"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.13"

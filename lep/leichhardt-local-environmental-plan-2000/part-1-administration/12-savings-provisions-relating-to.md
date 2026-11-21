@@ -1,6 +1,6 @@
 ---
 title: "Clause 11A Savings provisions relating to development applications"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "11A"

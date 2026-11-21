@@ -1,6 +1,6 @@
 ---
 title: "Division 2 Incentive floor space and building height for key sites"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 last_verified: 2026-09-11
 ---

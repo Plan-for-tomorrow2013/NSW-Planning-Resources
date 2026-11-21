@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Residential flat buildings—parking"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Residential flat buildings"
 clause: "20"

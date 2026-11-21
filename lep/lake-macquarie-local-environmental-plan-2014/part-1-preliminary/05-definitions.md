@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.4 Definitions"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.4"

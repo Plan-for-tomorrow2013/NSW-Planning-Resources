@@ -1,6 +1,6 @@
 ---
 title: "Clause 3 Aims of plan"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "3"

@@ -2,7 +2,7 @@
 title: "Campbelltown Local Environmental Plan 1995—Classification of Public Land"
 document_id: epi-1995-0193
 current_from: 2020-01-15
-council: "Campbelltown"
+council: "Campbelltown City Council"
 ---
 
 # Campbelltown Local Environmental Plan 1995—Classification of Public Land

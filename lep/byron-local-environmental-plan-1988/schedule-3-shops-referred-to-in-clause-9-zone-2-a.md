@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Shops referred to in clause 9—Zone 2 (a) (Residential Zone)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 3 (Clause 9)"
 last_verified: 2025-02-14

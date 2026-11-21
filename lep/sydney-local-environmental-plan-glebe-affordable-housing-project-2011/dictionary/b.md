@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — B"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "B"
 last_verified: 2024-02-23

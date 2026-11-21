@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Active street frontages in Zone E1"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

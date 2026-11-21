@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Ground floor development on land in Zone E2"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.16"

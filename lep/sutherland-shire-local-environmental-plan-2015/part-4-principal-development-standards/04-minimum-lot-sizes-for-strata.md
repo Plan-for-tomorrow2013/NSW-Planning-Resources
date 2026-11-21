@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum lot sizes for strata subdivisions of dual occupancies in certain conservation zones"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

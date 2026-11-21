@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

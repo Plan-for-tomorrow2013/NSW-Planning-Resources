@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.52B Development at 10 London Street and 43 North Parade, Campsie"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.52B"

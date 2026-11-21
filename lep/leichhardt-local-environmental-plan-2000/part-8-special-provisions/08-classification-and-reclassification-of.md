@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Classification and reclassification of public land as operational land"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — Special provisions"
 clause: "37"

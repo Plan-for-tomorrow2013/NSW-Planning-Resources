@@ -1,6 +1,6 @@
 ---
 title: "Clause 66 Zone No 5 (b) (Special Uses (Technology Park) Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 5 Special Uses and Recreation zones"
 clause: "66"

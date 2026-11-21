@@ -1,6 +1,6 @@
 ---
 title: "Schedule — Classification and reclassification of public land as operational"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 last_verified: 2020-01-15
 ---

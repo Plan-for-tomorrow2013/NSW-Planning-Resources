@@ -1,6 +1,6 @@
 ---
 title: "Clause 62 Savings"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "62"

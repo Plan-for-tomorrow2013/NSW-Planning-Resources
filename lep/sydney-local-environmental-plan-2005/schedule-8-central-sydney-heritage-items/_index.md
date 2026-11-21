@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8 — Central Sydney heritage items"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 last_verified: 2023-12-14
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Development of land within Zones Nos 1 (a), 1 (b) and 1 (c) near designated roads"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "19"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development in areas subject to aircraft noise"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 Development in Zone 3 (e) Special Tourist (Jack Evans Boatharbour)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "51"

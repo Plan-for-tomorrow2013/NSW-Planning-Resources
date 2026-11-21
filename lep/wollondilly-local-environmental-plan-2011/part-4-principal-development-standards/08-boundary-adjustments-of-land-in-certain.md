@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Boundary adjustments of land in certain rural, residential and conservation zones"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

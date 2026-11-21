@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Design excellence for development in South West Rocks"
-council: "Kempsey"
+council: "Kempsey Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

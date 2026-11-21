@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 General locality management"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 1 Locality provisions"
 clause: "13"

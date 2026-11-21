@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.2 Definitions"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "8 — Glenfield Precinct"
 clause: "8.2"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 29 Controls to promote commercial hierarchy"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Commercial Zones Provisions"
 clause: "29"

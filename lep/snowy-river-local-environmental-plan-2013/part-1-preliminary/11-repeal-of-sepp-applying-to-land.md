@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.8B Repeal of SEPP applying to land"
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8B"

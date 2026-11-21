@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.2 Use of land for residential accommodation"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "8 — 206 Parramatta Road and 122-128 and 130 Pyrmont Bridge Road, Camperdown"
 clause: "8.2"

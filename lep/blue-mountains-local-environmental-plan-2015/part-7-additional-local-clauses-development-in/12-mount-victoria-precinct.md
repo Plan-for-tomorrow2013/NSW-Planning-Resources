@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.10 Mount Victoria Precinct"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "7 — Additional local clauses—development in villages"
 clause: "7.10"

@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 last_verified: 2026-08-21
 ---

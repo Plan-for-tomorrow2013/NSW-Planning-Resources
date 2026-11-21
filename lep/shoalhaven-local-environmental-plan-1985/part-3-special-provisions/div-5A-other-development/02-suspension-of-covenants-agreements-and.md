@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Suspension of covenants, agreements and instruments"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 5A Other development"
 clause: "37"

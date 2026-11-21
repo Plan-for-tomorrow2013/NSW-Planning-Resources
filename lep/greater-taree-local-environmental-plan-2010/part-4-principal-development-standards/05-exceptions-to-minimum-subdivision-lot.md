@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Exceptions to minimum subdivision lot size for land in Zone RU1 or C2"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

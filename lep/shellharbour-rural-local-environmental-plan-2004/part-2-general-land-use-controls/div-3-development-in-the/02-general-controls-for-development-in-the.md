@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 General controls for development in the 5 (b) Special Railway Uses Zone"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — General land use controls / Division 3 Development in the special uses zones"
 clause: "26"

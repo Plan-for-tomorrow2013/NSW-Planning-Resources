@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.33 153 Macquarie Street and part of 1A Civic Place, Parramatta"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 6 Site specific provisions"
 clause: "7.33"

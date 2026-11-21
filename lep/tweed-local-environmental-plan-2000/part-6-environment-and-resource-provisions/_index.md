@@ -1,6 +1,6 @@
 ---
 title: "Part 6 — Environment and resource provisions"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

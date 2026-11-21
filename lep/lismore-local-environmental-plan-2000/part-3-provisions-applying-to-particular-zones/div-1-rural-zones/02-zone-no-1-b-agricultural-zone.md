@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Zone No 1 (b) (Agricultural Zone)"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 1 Rural zones"
 clause: "31"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum lot sizes for dual occupancies, multi dwelling housing and residential flat buildings"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

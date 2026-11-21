@@ -1,6 +1,6 @@
 ---
 title: "Clause 12B Gross floor area"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "12B"

@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Permitted or prohibited development"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

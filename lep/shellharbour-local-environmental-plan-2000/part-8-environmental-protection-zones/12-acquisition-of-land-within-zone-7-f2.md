@@ -1,6 +1,6 @@
 ---
 title: "Clause 59 Acquisition of land within Zone 7 (f2)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "59"

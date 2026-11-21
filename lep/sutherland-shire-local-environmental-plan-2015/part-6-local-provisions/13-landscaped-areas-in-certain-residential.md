@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Landscaped areas in certain residential, employment, conservation and waterway zones"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.14"

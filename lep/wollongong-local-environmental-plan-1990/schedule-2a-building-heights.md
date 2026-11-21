@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2A — Building heights"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 2A (Clause 12A)"
 last_verified: 2026-07-01

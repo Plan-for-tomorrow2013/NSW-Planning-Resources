@@ -1,6 +1,6 @@
 ---
 title: "Clause 82 Development on land identified on acid sulfate soils planning maps"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "11 — Provisions that apply generally in Bega Valley area"
 clause: "82"

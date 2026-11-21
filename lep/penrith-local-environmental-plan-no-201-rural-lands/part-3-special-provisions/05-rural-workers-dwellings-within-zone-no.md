@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Rural workers' dwellings within Zone No 1 (a) or 7"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "14"

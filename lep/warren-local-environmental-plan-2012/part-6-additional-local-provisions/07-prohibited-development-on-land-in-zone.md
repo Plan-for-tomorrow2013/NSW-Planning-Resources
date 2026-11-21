@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Prohibited development on land in Zone RU6"
-council: "Warren"
+council: "Warren Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

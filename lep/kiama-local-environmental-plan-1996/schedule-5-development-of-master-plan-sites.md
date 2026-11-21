@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Development of master plan sites"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 clause: "Schedule 5 (Clauses 47AA and 47AB)"
 last_verified: 2022-03-04

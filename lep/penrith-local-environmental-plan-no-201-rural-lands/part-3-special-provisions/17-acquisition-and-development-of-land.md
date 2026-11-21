@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Acquisition and development of land within Zone No 5 (d)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26"

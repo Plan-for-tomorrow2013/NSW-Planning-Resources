@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4 Floor space ratio"
-council: "Waverley"
+council: "Waverley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4"

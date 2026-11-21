@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Restaurants or cafes and take away food and drink premises in Zone E4"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.14"

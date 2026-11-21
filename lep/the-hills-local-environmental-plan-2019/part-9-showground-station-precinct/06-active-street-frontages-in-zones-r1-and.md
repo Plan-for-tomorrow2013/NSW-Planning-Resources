@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.6 Active street frontages in Zones R1 and E1"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.6"

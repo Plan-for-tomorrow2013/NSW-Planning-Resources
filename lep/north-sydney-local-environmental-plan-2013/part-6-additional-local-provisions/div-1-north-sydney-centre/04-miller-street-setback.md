@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Miller Street setback"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 North Sydney Centre"
 clause: "6.4"

@@ -1,6 +1,6 @@
 ---
 title: "Amendment history"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 last_verified: 2026-10-02
 ---

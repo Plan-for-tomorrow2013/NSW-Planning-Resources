@@ -1,6 +1,6 @@
 ---
 title: "Clause 8A Determination of zone boundaries"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "8A"

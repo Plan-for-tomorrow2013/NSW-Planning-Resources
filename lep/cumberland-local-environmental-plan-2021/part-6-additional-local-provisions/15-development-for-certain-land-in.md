@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Development for certain land in Wentworthville Town Centre"
-council: "Cumberland"
+council: "Cumberland City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.15"

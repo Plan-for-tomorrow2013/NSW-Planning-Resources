@@ -1,6 +1,6 @@
 ---
 title: "Clause 34C Development of land at McLeans Ridges Road, Wollongbar"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "34C"

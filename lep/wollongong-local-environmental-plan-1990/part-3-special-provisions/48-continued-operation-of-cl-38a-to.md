@@ -1,6 +1,6 @@
 ---
 title: "Clause 42 Continued operation of cl 38A to certain development applications"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "42"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Residential \"A\" and \"B\" Zones—Dwelling-houses"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "15"

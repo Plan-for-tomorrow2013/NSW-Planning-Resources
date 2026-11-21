@@ -1,6 +1,6 @@
 ---
 title: "Clause 71 Determination of development applications for heritage"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 4 Heritage conservation"
 clause: "71"

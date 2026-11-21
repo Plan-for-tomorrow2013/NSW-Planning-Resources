@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Erection of dual occupancies (detached) in Zone RU1 and Zone RU2"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

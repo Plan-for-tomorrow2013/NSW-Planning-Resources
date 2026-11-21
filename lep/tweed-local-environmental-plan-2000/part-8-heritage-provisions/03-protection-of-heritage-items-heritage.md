@@ -1,6 +1,6 @@
 ---
 title: "Clause 42 Protection of heritage items, heritage conservation areas and relics"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "8 — Heritage provisions"
 clause: "42"

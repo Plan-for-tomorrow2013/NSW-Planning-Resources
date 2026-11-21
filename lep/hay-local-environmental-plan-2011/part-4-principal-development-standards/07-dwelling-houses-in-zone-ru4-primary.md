@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Dwelling houses in Zone RU4 Primary Production Small Lots"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

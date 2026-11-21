@@ -1,6 +1,6 @@
 ---
 title: "Clause 94 Standards that cannot be used to refuse consent—playing and performing music"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "94"

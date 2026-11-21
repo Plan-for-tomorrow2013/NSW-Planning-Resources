@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — O"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 dictionary_range: "O"
 last_verified: 2026-07-01

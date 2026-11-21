@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dual occupancies (attached), dwelling houses and secondary dwellings in Zone RU1"
-council: "Lachlan"
+council: "Lachlan Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

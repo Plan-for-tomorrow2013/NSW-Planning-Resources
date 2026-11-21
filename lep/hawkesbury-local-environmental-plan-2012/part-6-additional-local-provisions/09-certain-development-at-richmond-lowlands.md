@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Certain development at Richmond Lowlands"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

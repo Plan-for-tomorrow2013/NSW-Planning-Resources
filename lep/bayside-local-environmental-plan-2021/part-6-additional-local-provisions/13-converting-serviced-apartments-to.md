@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13 Converting serviced apartments to residential flat buildings"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.13"

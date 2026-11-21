@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.13A Green grid links"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.13A"

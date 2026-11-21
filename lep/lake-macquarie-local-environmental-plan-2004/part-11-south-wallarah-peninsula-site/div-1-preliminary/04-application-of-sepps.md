@@ -1,6 +1,6 @@
 ---
 title: "Clause 135 Application of SEPPs"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "11 — South Wallarah Peninsula site / Division 1 Preliminary"
 clause: "135"

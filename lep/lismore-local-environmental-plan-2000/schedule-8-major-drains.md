@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8 — Major drains"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 8 Clause 28A"
 last_verified: 2026-07-01

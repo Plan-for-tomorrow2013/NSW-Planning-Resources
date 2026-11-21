@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Public utility infrastructure"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.4"

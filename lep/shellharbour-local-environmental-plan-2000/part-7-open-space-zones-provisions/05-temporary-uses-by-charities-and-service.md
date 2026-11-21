@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Temporary uses by charities and service clubs within Zones 6 (a) and 6 (b)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "7 — Open Space Zones Provisions"
 clause: "47"

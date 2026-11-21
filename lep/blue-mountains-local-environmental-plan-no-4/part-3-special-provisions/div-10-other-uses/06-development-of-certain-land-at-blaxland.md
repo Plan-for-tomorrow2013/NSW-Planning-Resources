@@ -1,6 +1,6 @@
 ---
 title: "Clause 61AA Development of certain land at Blaxland (Great Western Highway near Hope Street) for integrated housing"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "61AA"

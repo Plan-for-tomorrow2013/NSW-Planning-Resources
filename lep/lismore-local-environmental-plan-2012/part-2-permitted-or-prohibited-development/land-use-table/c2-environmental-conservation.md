@@ -1,6 +1,6 @@
 ---
 title: "Zone C2 — Environmental Conservation"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 zone_code: C2
 zone: "Environmental Conservation"

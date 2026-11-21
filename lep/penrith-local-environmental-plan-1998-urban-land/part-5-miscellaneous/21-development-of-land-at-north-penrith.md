@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Development of land at North Penrith"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "35"

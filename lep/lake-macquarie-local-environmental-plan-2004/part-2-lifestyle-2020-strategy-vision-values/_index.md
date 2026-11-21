@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Lifestyle 2020 Strategy—vision, values and aims"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

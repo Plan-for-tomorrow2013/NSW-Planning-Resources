@@ -2,7 +2,7 @@
 title: "Great Lakes Local Environmental Plan 2014"
 document_id: epi-2014-0176
 current_from: 2026-07-01
-council: "Great Lakes"
+council: "MidCoast Council"
 ---
 
 # Great Lakes Local Environmental Plan 2014

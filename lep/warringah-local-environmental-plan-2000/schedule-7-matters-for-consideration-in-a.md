@@ -1,6 +1,6 @@
 ---
 title: "Schedule 7 — Matters for consideration in a subdivision of land"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 7 (Clause 21 (3))"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Development on certain land at Ada Street, Cardiff"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 1 General"
 clause: "7.15"

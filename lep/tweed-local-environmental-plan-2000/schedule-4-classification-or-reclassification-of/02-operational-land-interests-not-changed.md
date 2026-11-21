@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 2 — Operational land—interests not changed"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 55)"
 last_verified: 2026-07-01

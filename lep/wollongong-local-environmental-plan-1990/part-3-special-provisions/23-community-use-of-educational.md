@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Community use of educational establishments"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "25"

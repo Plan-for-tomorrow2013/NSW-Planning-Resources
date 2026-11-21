@@ -1,6 +1,6 @@
 ---
 title: "Clause 11.6 Sun access controls"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "11 — Additional local provisions—Parramatta North Precinct"
 clause: "11.6"

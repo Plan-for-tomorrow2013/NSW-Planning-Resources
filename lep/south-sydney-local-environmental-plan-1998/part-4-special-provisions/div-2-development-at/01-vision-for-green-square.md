@@ -1,6 +1,6 @@
 ---
 title: "Clause 27A Vision for Green Square"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 2 Development at Green Square"
 clause: "27A"

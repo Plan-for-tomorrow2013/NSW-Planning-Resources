@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Minimum subdivision lot size for strata plan schemes in certain rural and residential zones"
-council: "Lockhart"
+council: "Lockhart Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

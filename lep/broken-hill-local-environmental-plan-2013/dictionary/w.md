@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — W"
-council: "Broken Hill"
+council: "Broken Hill City Council"
 document_type: LEP
 dictionary_range: "W"
 last_verified: 2026-07-10

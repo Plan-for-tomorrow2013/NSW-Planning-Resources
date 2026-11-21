@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Existing dwellings on unsubdivided land"
-council: "Lithgow"
+council: "Lithgow City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

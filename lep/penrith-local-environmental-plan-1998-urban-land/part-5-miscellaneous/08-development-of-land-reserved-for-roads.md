@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Development of land reserved for roads"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "21"

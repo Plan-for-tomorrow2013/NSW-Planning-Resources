@@ -2,7 +2,7 @@
 title: "Clarence Valley Local Environmental Plan 2011"
 document_id: epi-2011-0701
 current_from: 2026-07-01
-council: "Clarence Valley"
+council: "Clarence Valley Council"
 ---
 
 # Clarence Valley Local Environmental Plan 2011

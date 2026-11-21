@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

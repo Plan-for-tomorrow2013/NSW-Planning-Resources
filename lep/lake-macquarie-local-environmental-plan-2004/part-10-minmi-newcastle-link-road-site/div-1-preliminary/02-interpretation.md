@@ -1,6 +1,6 @@
 ---
 title: "Clause 107 Interpretation"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "10 — Minmi-Newcastle Link Road site / Division 1 Preliminary"
 clause: "107"

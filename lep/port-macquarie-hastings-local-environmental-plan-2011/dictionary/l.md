@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — L"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 dictionary_range: "L"
 last_verified: 2026-10-16

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Limited development on foreshore area"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

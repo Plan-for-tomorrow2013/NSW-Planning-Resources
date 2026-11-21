@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Objectives of Division"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 North Sydney Centre"
 clause: "6.1"

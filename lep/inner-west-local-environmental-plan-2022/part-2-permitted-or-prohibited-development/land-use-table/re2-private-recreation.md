@@ -1,6 +1,6 @@
 ---
 title: "Zone RE2 — Private Recreation"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 zone_code: RE2
 zone: "Private Recreation"

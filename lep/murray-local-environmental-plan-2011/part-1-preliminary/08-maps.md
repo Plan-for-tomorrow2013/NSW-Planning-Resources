@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.7 Maps"
-council: "Murray"
+council: "Murray River Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.7"

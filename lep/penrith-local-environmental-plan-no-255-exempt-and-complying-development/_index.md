@@ -2,7 +2,7 @@
 title: "Penrith Local Environmental Plan No 255—Exempt and Complying Development"
 document_id: epi-2000-0122
 current_from: 2022-11-21
-council: "Penrith"
+council: "Penrith City Council"
 ---
 
 # Penrith Local Environmental Plan No 255—Exempt and Complying Development

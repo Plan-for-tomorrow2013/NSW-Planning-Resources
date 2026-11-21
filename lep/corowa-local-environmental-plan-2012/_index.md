@@ -2,7 +2,7 @@
 title: "Corowa Local Environmental Plan 2012"
 document_id: epi-2012-0303
 current_from: 2026-07-01
-council: "Corowa"
+council: "Federation Council"
 ---
 
 # Corowa Local Environmental Plan 2012

@@ -1,6 +1,6 @@
 ---
 title: "Land Use Table"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

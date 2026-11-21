@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Classification and reclassification of public land as operational land"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 37B)"
 last_verified: 2026-07-01

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Kyalite Stables development on Edward River"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

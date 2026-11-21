@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.4 Definitions"
-council: "Narrabri"
+council: "Narrabri Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.4"

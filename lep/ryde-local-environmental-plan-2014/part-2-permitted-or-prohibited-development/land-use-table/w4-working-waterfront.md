@@ -1,6 +1,6 @@
 ---
 title: "Zone W4 — Working Waterfront"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 zone_code: W4
 zone: "Working Waterfront"

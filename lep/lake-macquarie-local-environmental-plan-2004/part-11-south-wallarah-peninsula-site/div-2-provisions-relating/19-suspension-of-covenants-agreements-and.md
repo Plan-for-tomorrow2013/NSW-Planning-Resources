@@ -1,6 +1,6 @@
 ---
 title: "Clause 154 Suspension of covenants, agreements and instruments"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "11 — South Wallarah Peninsula site / Division 2 Provisions relating to development in South Wallarah Peninsula site"
 clause: "154"

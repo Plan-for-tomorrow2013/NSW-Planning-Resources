@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

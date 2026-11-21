@@ -2,7 +2,7 @@
 title: "Hornsby Local Environmental Plan 2013"
 document_id: epi-2013-0569
 current_from: 2026-08-07
-council: "Hornsby"
+council: "Hornsby Shire Council"
 ---
 
 # Hornsby Local Environmental Plan 2013

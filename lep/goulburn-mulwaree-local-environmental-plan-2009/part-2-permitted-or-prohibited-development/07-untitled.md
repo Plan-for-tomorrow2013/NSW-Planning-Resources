@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.6C"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.6C"

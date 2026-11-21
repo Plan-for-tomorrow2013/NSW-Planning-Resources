@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Landscaped area for dwelling houses and secondary dwellings"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

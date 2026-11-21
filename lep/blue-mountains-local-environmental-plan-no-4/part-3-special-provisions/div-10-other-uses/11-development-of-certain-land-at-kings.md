@@ -1,6 +1,6 @@
 ---
 title: "Clause 64 Development of certain land at King's Tableland"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "64"

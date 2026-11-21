@@ -1,6 +1,6 @@
 ---
 title: "Zone R4 — High Density Residential"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 zone_code: R4
 zone: "High Density Residential"

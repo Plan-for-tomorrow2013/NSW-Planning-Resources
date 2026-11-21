@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Principal objectives"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "2 — Planning principles"
 clause: "7"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Land for which the corporation is an acquiring authority"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 clause: "Schedule 5 (Clause 26)"
 last_verified: 2026-07-01

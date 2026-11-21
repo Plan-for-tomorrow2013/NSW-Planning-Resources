@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Development affecting places or sites of known or potential Aboriginal heritage significance"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "16"

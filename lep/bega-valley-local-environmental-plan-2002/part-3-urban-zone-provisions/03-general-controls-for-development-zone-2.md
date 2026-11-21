@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 General controls for development—Zone 2 (c) (Residential Tourist Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "3 — Urban zone provisions"
 clause: "22"

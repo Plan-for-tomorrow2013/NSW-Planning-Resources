@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Minimum site areas for dual occupancies and multi dwelling housing in Zones R1, R2, R3 and RU5"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

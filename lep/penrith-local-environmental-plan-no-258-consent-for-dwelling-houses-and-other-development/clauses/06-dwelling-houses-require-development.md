@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Dwelling houses require development consent"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "Clauses"
 clause: "6"

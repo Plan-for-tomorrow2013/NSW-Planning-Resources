@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Development on land in Area 3"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "7 — Cherrybrook Station Precinct"
 clause: "7.6"

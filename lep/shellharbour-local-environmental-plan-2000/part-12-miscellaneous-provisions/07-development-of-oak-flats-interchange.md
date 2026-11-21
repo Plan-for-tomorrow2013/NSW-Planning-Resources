@@ -1,6 +1,6 @@
 ---
 title: "Clause 83 Development of Oak Flats interchange site, Pioneer Drive, Oak Flats"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "83"

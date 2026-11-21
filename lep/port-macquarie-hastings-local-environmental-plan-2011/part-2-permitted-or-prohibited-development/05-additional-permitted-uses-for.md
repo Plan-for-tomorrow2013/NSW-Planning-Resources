@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.5 Additional permitted uses for particular land"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.5"

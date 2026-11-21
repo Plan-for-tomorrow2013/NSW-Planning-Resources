@@ -1,6 +1,6 @@
 ---
 title: "Clause 56 Preservation of trees or vegetation"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Miscellaneous"
 clause: "56"

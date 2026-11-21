@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Bland"
+council: "Bland Shire Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

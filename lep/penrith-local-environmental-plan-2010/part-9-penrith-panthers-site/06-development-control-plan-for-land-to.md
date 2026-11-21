@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.6 Development control plan for land to which this Part applies"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "9 — Penrith Panthers site"
 clause: "9.6"

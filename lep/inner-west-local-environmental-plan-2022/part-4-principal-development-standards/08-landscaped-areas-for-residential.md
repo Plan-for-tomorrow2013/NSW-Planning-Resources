@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3C Landscaped areas for residential accommodation in Zone R1"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3C"

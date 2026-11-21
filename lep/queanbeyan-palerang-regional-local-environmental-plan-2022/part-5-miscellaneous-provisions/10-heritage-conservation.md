@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.10 Heritage conservation"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.10"

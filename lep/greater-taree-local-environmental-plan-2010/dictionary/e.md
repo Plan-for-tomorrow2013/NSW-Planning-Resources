@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — E"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 dictionary_range: "E"
 last_verified: 2026-07-01

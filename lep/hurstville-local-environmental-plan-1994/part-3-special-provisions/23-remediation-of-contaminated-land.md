@@ -1,6 +1,6 @@
 ---
 title: "Clause 22B Remediation of contaminated land"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "22B"

@@ -2,7 +2,7 @@
 title: "Urana Local Environmental Plan 2011"
 document_id: epi-2011-0508
 current_from: 2026-07-01
-council: "Urana"
+council: "Federation Council"
 ---
 
 # Urana Local Environmental Plan 2011

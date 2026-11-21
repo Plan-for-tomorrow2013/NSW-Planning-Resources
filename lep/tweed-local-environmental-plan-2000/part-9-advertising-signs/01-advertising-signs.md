@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Advertising signs"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "9 — Advertising signs"
 clause: "47"

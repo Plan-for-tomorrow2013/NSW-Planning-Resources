@@ -1,6 +1,6 @@
 ---
 title: "Clause 72 Zone E2 Environmental Conservation"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Illawarra Regional Business Park site / Division 2 Provisions applying to development within Illawarra Regional Business Park site"
 clause: "72"

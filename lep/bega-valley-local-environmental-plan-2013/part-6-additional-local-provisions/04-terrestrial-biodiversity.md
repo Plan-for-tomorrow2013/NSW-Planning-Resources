@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Terrestrial biodiversity"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

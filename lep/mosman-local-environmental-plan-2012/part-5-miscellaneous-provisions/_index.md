@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous provisions"
-council: "Mosman"
+council: "Mosman Municipal Council"
 document_type: LEP
 last_verified: 2026-08-14
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Zone W4 — Working Waterfront"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 zone_code: W4
 zone: "Working Waterfront"

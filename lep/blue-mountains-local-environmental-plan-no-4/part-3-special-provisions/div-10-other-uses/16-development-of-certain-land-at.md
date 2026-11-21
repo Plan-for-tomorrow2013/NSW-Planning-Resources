@@ -1,6 +1,6 @@
 ---
 title: "Clause 66B Development of certain land at Springwood for integrated housing"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 10 Other uses"
 clause: "66B"

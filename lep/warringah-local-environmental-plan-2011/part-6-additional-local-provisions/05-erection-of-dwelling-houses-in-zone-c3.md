@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Erection of dwelling houses in Zone C3 Environmental Management"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

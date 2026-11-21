@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A No strata title subdivision in certain zones"
-council: "Gilgandra"
+council: "Gilgandra Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

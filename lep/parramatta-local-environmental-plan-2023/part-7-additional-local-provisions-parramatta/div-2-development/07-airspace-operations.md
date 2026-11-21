@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Airspace operations"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "7 — Additional local provisions—Parramatta City Centre / Division 2 Development standards generally"
 clause: "7.9"

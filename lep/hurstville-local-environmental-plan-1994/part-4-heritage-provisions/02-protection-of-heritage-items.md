@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Protection of heritage items"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "4 — Heritage provisions"
 clause: "28"

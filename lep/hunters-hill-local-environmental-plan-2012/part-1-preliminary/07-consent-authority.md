@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.6 Consent authority"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.6"

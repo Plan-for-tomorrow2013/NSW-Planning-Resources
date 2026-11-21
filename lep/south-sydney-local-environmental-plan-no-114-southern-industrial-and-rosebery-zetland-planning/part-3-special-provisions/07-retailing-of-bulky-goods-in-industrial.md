@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Retailing of bulky goods in industrial zones"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "16"

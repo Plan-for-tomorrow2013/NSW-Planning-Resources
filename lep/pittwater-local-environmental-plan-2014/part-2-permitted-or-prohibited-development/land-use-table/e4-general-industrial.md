@@ -1,6 +1,6 @@
 ---
 title: "Zone E4 — General Industrial"
-council: "Pittwater"
+council: "Northern Beaches Council"
 document_type: LEP
 zone_code: E4
 zone: "General Industrial"

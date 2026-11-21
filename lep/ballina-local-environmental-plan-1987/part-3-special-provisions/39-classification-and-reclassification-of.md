@@ -1,6 +1,6 @@
 ---
 title: "Clause 38 Classification and reclassification of public land"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "38"

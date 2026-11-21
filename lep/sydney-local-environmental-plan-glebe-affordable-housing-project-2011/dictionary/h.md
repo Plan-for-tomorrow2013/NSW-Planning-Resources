@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2024-02-23

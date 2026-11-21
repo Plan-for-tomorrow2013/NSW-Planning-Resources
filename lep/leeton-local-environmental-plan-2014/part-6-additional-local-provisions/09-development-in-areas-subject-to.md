@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development in areas subject to aircraft noise"
-council: "Leeton"
+council: "Leeton Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

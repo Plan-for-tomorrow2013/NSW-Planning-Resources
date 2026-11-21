@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Development on land at 118 and 120 Niagara Street, Armidale"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

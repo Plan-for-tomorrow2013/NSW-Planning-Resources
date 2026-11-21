@@ -1,6 +1,6 @@
 ---
 title: "Clause 113 Location and access to services"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 7 Accessible housing"
 clause: "113"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 1.9A Suspension of covenants, agreements and instruments"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.9A"

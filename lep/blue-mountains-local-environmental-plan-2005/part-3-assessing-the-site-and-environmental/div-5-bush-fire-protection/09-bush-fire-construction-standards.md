@@ -1,6 +1,6 @@
 ---
 title: "Clause 86 Bush fire construction standards"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 5 Bush fire protection"
 clause: "86"

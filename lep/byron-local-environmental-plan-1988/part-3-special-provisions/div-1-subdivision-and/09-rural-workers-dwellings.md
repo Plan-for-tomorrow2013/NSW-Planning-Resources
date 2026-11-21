@@ -1,6 +1,6 @@
 ---
 title: "Clause 16 Rural workers' dwellings"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision and dwelling-houses"
 clause: "16"

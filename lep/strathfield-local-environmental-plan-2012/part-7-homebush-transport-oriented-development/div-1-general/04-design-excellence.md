@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.4 Design excellence"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "7 — Homebush Transport Oriented Development Precinct / Division 1 General"
 clause: "7.4"

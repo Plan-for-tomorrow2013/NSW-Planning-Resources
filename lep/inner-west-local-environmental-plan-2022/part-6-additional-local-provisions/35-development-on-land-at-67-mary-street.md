@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.37 Development on land at 67 Mary Street, St Peters"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.37"

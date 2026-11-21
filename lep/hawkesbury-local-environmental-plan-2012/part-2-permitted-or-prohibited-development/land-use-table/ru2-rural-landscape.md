@@ -1,6 +1,6 @@
 ---
 title: "Zone RU2 — Rural Landscape"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"

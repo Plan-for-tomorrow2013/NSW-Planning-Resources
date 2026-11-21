@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.7 Development below mean high water mark"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.7"

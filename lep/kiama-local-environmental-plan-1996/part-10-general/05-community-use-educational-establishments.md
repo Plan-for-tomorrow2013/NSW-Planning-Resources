@@ -1,6 +1,6 @@
 ---
 title: "Clause 51 Community use—educational establishments"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "51"

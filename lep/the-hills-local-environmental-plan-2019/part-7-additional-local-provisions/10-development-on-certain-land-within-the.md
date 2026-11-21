@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Development on certain land within the Sydney Metro Northwest Urban Renewal Corridor"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11"

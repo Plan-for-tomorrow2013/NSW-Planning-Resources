@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Mount Panorama commercial motor race hosting"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Exceptions to minimum lot sizes for certain rural subdivisions"
-council: "Walcha"
+council: "Walcha Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

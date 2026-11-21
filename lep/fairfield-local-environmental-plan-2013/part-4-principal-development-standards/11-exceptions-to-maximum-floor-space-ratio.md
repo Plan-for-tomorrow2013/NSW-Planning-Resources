@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4B Exceptions to maximum floor space ratio for certain land in Zone R3"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4B"

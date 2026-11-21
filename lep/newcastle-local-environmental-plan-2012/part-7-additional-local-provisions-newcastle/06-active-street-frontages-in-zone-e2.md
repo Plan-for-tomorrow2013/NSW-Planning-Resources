@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Active street frontages in Zone E2"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "7 — Additional local provisions—Newcastle City Centre"
 clause: "7.6"

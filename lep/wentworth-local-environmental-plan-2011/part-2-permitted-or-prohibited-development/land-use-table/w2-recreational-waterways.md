@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

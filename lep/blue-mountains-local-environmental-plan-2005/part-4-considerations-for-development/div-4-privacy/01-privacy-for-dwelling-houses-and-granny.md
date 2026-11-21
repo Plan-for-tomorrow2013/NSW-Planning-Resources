@@ -1,6 +1,6 @@
 ---
 title: "Clause 103 Privacy for dwelling houses and granny flats"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 4 Privacy"
 clause: "103"

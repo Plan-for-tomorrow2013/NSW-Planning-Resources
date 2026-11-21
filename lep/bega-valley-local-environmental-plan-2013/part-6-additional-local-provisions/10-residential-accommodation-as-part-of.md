@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Residential accommodation as part of mixed use development in Zones E1 and E2"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

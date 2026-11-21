@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — "
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 last_verified: 2022-03-04
 ---

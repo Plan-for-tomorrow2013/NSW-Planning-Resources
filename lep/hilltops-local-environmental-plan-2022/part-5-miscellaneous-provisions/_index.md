@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous provisions"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

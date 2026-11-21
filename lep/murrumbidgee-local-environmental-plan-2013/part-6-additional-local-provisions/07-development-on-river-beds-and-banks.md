@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Development on river beds and banks"
-council: "Murrumbidgee"
+council: "Murrumbidgee Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

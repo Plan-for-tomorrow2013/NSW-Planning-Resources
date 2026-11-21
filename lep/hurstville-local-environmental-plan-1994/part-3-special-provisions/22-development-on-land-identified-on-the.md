@@ -1,6 +1,6 @@
 ---
 title: "Clause 22A Development on land identified on the Acid Sulfate Soils Planning Map"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "22A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 112 Who can live in accessible housing?"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "4 — Considerations for development / Division 7 Accessible housing"
 clause: "112"

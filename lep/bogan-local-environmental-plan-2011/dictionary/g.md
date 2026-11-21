@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — G"
-council: "Bogan"
+council: "Bogan Shire Council"
 document_type: LEP
 dictionary_range: "G"
 last_verified: 2026-07-24

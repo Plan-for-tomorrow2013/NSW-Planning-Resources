@@ -2,7 +2,7 @@
 title: "Ryde Local Environmental Plan 2014"
 document_id: epi-2014-0608
 current_from: 2026-09-18
-council: "Ryde"
+council: "City of Ryde"
 ---
 
 # Ryde Local Environmental Plan 2014

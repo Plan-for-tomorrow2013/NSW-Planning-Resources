@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Definition"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "8 — Additional local provisions—Mandalay and Nowra Riverfront Precincts"
 clause: "8.1"

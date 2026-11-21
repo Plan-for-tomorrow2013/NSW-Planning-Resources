@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Minimum lot sizes for dwelling houses on land within Zone No 2"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "11"

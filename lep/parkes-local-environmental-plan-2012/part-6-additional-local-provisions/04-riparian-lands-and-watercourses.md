@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Riparian lands and watercourses"
-council: "Parkes"
+council: "Parkes Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

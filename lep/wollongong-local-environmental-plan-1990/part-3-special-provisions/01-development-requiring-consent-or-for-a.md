@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Development requiring consent or for a temporary period"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "10"

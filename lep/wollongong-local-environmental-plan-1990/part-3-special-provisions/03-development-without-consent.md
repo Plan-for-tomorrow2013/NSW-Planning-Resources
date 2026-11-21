@@ -1,6 +1,6 @@
 ---
 title: "Clause 10B Development without consent"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "10B"

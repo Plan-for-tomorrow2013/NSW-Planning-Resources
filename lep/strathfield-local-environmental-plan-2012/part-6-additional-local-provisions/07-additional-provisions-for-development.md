@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Additional provisions for development in Strathfield Town Centre"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

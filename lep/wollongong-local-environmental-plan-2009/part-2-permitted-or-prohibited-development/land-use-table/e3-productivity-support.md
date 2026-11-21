@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

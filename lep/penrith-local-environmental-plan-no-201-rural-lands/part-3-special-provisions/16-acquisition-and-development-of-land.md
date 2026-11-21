@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Acquisition and development of land reserved for roads"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "25"

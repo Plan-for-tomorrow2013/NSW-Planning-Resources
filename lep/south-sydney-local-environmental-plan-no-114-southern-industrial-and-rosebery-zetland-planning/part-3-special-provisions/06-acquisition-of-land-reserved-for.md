@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Acquisition of land reserved for arterial roads"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "15"

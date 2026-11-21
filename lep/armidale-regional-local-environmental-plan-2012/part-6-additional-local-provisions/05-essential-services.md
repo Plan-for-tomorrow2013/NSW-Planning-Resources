@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Essential services"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

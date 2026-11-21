@@ -1,6 +1,6 @@
 ---
 title: "Clause 40B Standards that cannot be used to refuse consent—playing and performing music"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "2 — Locality management / Division 3 Permissibility of land use"
 clause: "40B"

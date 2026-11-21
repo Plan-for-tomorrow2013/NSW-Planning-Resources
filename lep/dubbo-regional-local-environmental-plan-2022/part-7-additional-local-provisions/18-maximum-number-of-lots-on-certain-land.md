@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.18 Maximum number of lots on certain land at \"Area C\""
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.18"

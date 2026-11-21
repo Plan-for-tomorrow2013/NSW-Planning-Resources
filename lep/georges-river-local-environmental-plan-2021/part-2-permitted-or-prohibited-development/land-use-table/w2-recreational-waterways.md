@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

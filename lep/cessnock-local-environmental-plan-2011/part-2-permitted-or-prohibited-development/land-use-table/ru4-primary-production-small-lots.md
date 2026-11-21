@@ -1,6 +1,6 @@
 ---
 title: "Zone RU4 — Primary Production Small Lots"
-council: "Cessnock"
+council: "Cessnock City Council"
 document_type: LEP
 zone_code: RU4
 zone: "Primary Production Small Lots"

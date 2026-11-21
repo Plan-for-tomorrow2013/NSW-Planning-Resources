@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.60P 881-885 Bourke Street and 207-229 Young Street, Waterloo"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 5 Site specific provisions"
 clause: "6.60P"

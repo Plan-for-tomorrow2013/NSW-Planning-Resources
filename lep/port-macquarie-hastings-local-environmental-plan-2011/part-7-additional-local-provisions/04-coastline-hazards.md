@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.6 Coastline hazards"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.6"

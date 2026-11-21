@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.8 Service access way requirements"
-council: "Canada Bay"
+council: "City of Canada Bay Council"
 document_type: LEP
 part: "8 — Burwood-Concord, Homebush North and Kings Bay Precincts"
 clause: "8.8"

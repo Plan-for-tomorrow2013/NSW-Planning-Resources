@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.1 Aims of Part"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.1"

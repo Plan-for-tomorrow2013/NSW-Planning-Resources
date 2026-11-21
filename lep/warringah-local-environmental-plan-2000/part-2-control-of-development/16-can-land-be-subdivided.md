@@ -1,6 +1,6 @@
 ---
 title: "Clause 21 Can land be subdivided?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "21"

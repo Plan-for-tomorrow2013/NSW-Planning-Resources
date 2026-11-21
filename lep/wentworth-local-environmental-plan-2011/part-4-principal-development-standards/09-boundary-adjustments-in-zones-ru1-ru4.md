@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2D Boundary adjustments in Zones RU1, RU4 and C3"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2D"

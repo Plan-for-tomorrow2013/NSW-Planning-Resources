@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.5 Development requiring the preparation of a development control plan"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.5"

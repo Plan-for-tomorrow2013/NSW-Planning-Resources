@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Zone objectives and development control table"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "9"

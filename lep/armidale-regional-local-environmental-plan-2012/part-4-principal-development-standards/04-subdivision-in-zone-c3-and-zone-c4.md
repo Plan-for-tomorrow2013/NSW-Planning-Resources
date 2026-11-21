@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Subdivision in Zone C3 and Zone C4"
-council: "Armidale Regional"
+council: "Armidale Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

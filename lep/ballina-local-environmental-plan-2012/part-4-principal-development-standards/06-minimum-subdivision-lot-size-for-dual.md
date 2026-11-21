@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1CB Minimum subdivision lot size for dual occupancies in Zone R2"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1CB"

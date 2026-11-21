@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — T"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 dictionary_range: "T"
 last_verified: 2026-09-04

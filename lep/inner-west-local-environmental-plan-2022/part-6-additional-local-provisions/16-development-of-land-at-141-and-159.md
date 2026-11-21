@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.16 Development of land at 141 and 159 Allen Street, Leichhardt"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.16"

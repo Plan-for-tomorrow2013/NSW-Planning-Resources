@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Subdivision of land within Zone No 1, 7 (a), 7 (b) or 7 (d)"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "13"

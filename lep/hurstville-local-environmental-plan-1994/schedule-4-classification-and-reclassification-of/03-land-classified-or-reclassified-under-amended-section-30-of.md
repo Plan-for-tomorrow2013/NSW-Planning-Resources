@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 3 — Land classified, or reclassified, under amended section 30 of Local Government Act 1993—interests changed"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 26A)"
 last_verified: 2026-07-01

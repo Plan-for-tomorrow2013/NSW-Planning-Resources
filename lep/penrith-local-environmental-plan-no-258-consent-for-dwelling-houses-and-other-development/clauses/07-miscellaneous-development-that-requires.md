@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Miscellaneous development that requires development consent"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "Clauses"
 clause: "7"

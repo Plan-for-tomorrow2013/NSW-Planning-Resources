@@ -1,6 +1,6 @@
 ---
 title: "Clause 66 Detailed landscape plan for certain residential development"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Assessing the site and environmental context / Division 3 Character and landscape assessment"
 clause: "66"

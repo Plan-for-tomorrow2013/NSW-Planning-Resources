@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1H Exceptions to minimum subdivision lot sizes for certain residential development—West Byron Bay site"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1H"

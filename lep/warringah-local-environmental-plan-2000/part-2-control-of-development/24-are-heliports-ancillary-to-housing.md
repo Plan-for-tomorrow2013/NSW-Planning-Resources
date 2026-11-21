@@ -1,6 +1,6 @@
 ---
 title: "Clause 33 Are heliports ancillary to housing?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "33"

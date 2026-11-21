@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6B — View planes"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 6B clause 6.19"
 last_verified: 2026-10-09

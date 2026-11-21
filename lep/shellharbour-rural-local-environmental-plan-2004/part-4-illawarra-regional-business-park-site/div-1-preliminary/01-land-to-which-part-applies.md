@@ -1,6 +1,6 @@
 ---
 title: "Clause 65 Land to which Part applies"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Illawarra Regional Business Park site / Division 1 Preliminary"
 clause: "65"

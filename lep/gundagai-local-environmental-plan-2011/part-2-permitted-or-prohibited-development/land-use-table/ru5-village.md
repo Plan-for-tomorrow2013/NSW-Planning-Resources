@@ -1,6 +1,6 @@
 ---
 title: "Zone RU5 — Village"
-council: "Gundagai"
+council: "Cootamundra-Gundagai Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"

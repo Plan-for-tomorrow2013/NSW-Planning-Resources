@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of rural workers' dwellings on land in Zone RU1 and Zone RU2"
-council: "Yass Valley"
+council: "Yass Valley Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

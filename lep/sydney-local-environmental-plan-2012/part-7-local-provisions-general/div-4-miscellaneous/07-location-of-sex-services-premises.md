@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.21 Location of sex services premises"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.21"

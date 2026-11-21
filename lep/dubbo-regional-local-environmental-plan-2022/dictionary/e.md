@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — E"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 dictionary_range: "E"
 last_verified: 2026-09-18

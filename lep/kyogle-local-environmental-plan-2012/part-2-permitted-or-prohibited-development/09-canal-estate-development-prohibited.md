@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.9 Canal estate development prohibited"
-council: "Kyogle"
+council: "Kyogle Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.9"

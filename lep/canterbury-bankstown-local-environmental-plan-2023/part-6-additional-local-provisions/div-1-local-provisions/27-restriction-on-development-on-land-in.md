@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.28 Restriction on development on land in Area 2"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.28"

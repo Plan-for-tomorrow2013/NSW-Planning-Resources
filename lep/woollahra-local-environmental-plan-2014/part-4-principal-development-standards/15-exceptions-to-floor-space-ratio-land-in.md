@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4E Exceptions to floor space ratio—land in Zone R2"
-council: "Woollahra"
+council: "Woollahra Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4E"

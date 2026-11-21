@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.8 Conversion of fire alarms"
-council: "Hunters Hill"
+council: "Hunter's Hill Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.8"

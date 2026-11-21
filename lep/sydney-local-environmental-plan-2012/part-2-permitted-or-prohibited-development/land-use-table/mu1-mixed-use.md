@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

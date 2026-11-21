@@ -2,7 +2,7 @@
 title: "Muswellbrook Local Environmental Plan 2009"
 document_id: epi-2009-0129
 current_from: 2026-07-24
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 ---
 
 # Muswellbrook Local Environmental Plan 2009

@@ -2,7 +2,7 @@
 title: "Wollongong Local Environmental Plan 2009"
 document_id: epi-2010-0076
 current_from: 2026-10-02
-council: "Wollongong"
+council: "Wollongong City Council"
 ---
 
 # Wollongong Local Environmental Plan 2009

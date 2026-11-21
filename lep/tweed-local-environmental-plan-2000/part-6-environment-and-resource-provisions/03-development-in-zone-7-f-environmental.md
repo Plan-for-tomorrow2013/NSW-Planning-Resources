@@ -1,6 +1,6 @@
 ---
 title: "Clause 27 Development in Zone 7 (f) Environmental Protection (Coastal Lands)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Environment and resource provisions"
 clause: "27"

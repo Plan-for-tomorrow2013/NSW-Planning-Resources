@@ -1,6 +1,6 @@
 ---
 title: "Clause 5.6 Architectural roof features"
-council: "Port Macquarie-Hastings"
+council: "Port Macquarie-Hastings Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.6"

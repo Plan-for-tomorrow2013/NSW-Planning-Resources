@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.4 Unzoned land"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.4"

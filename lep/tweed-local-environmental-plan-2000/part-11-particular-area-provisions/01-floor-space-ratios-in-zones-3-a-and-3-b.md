@@ -1,6 +1,6 @@
 ---
 title: "Clause 50 Floor space ratios in Zones 3 (a) and 3 (b) at Tweed Heads"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "11 — Particular area provisions"
 clause: "50"

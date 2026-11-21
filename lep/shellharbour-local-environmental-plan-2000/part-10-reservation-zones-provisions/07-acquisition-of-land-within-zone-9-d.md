@@ -1,6 +1,6 @@
 ---
 title: "Clause 71 Acquisition of land within Zone 9 (d)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "10 — Reservation Zones Provisions"
 clause: "71"

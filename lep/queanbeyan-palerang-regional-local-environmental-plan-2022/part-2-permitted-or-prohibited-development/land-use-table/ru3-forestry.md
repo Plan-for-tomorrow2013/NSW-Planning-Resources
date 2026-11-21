@@ -1,6 +1,6 @@
 ---
 title: "Zone RU3 — Forestry"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"

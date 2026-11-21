@@ -1,6 +1,6 @@
 ---
 title: "Zone W1 — Natural Waterways"
-council: "Bellingen"
+council: "Bellingen Shire Council"
 document_type: LEP
 zone_code: W1
 zone: "Natural Waterways"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Residential accommodation in Zone R4 or E1"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

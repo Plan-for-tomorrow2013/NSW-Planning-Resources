@@ -1,6 +1,6 @@
 ---
 title: "Zone SP2 — Infrastructure"
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 document_type: LEP
 zone_code: SP2
 zone: "Infrastructure"

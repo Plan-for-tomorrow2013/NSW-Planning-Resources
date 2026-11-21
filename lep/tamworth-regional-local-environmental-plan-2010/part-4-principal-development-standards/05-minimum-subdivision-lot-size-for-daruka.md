@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1AC Minimum subdivision lot size for Daruka Road and Piper Street"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AC"

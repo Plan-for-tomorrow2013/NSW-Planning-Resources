@@ -1,6 +1,6 @@
 ---
 title: "Clause 11 Site controls for dual occupancy and multi-unit housing development"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "4 — Development controls for residential and rural-residential zones"
 clause: "11"

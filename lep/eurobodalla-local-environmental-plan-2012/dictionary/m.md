@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — M"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 dictionary_range: "M"
 last_verified: 2026-08-28

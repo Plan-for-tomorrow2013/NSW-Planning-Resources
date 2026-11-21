@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 General Business, Special Business (Heritage) and Neighbourhood Business Zones—Shops and Commercial Premises"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "5 — Business"
 clause: "23"

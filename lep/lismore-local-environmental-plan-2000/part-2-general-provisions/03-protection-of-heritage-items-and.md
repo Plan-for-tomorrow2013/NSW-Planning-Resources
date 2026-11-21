@@ -1,6 +1,6 @@
 ---
 title: "Clause 13 Protection of heritage items and heritage conservation areas"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "13"

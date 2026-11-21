@@ -1,6 +1,6 @@
 ---
 title: "Zone C4 — Environmental Living"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"

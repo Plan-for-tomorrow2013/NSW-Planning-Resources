@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.5 Riparian land, wetlands and waterways"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.5"

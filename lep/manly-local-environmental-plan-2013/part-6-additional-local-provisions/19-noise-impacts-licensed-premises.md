@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21 Noise impacts—licensed premises"
-council: "Manly"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.21"

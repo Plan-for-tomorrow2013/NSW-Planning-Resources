@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.3 Minimum building street frontage"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "7 — Additional local provisions—Newcastle City Centre"
 clause: "7.3"

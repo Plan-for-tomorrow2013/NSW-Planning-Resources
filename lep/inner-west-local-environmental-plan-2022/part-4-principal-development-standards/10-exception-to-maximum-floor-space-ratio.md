@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Exception to maximum floor space ratio for active street frontages"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

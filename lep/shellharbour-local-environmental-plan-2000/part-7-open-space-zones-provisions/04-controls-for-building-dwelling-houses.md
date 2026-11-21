@@ -1,6 +1,6 @@
 ---
 title: "Clause 46 Controls for building dwelling houses within Zone 6 (a)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "7 — Open Space Zones Provisions"
 clause: "46"

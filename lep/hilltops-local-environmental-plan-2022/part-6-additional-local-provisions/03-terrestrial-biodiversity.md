@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Terrestrial biodiversity"
-council: "Hilltops"
+council: "Hilltops Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

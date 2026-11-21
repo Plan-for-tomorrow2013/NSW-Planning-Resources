@@ -2,7 +2,7 @@
 title: "Orange Local Environmental Plan 2011"
 document_id: epi-2012-0055
 current_from: 2026-07-24
-council: "Orange"
+council: "Orange City Council"
 ---
 
 # Orange Local Environmental Plan 2011

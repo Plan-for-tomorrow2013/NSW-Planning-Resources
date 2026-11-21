@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Minimum commercial floor space in Norwest Town Centre"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

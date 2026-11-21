@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Availability of essential services"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "3 — General provisions"
 clause: "15"

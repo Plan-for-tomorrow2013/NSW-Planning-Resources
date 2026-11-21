@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4, Part 3 — Land classified, or reclassified, as community land"
-council: "Berrigan"
+council: "Berrigan Shire Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 5.2)"
 last_verified: 2026-08-28

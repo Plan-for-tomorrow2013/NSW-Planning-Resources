@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

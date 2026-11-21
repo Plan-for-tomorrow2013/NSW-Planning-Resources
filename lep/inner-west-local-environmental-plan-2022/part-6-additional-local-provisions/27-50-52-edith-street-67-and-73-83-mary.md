@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.27 50-52 Edith Street, 67 and 73-83 Mary Street and 43 Roberts Street, St Peters"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.27"

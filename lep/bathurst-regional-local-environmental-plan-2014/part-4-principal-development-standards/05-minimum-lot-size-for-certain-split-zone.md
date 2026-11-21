@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum lot size for certain split zone lots"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

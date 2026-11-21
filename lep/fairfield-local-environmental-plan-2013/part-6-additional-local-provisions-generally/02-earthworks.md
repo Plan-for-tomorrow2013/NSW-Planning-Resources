@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Earthworks"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.2"

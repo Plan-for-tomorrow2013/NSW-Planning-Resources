@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Salinity"
-council: "Narrandera"
+council: "Narrandera Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

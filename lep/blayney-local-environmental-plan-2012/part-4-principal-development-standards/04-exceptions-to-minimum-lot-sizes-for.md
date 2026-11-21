@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Exceptions to minimum lot sizes for certain land near Browns Creek Road in Zone R5 Large Residential"
-council: "Blayney"
+council: "Blayney Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

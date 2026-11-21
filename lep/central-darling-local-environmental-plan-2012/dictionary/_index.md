@@ -1,6 +1,6 @@
 ---
 title: "Dictionary"
-council: "Central Darling"
+council: "Central Darling Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

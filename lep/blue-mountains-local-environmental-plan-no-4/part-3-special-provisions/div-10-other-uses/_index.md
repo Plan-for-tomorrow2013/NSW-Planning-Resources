@@ -1,6 +1,6 @@
 ---
 title: "Division 10 Other uses"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

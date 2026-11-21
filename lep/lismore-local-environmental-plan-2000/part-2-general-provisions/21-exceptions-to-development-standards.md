@@ -1,6 +1,6 @@
 ---
 title: "Clause 28C Exceptions to development standards"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "2 — General provisions"
 clause: "28C"

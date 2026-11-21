@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Exempt development"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 7 (a))"
 last_verified: 2026-07-01

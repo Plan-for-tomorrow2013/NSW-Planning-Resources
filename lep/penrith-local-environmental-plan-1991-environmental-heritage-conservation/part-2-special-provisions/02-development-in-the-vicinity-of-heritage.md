@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Development in the vicinity of heritage items"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "2 — Special provisions"
 clause: "9"

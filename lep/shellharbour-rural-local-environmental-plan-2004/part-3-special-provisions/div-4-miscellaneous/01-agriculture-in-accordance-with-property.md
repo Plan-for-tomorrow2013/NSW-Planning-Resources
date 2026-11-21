@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Agriculture in accordance with property management plan"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 Miscellaneous"
 clause: "52"

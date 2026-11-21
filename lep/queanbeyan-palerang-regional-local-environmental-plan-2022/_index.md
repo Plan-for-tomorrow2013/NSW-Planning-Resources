@@ -2,7 +2,7 @@
 title: "Queanbeyan-Palerang Regional Local Environmental Plan 2022"
 document_id: epi-2022-0600
 current_from: 2026-07-01
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 ---
 
 # Queanbeyan-Palerang Regional Local Environmental Plan 2022

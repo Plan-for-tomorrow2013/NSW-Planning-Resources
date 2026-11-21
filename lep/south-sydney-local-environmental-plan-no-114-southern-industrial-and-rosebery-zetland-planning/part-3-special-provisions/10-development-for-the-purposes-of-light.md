@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Development for the purposes of light industry, warehouses and car repair stations in Zone No 2 (d)"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "19"

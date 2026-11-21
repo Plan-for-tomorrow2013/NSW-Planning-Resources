@@ -1,6 +1,6 @@
 ---
 title: "Clause 17 Residential \"A\" and \"B\" Zones—Integrated Housing Development"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Residential"
 clause: "17"

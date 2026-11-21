@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Community use of schools"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "41"

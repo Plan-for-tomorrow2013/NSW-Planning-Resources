@@ -1,6 +1,6 @@
 ---
 title: "Clause 86 Development on land identified on Acid Sulfate Soils Planning Maps"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "12 — Miscellaneous Provisions"
 clause: "86"

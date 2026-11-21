@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Development in areas subject to aircraft noise"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

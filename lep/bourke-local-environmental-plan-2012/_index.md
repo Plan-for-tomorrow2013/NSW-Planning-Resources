@@ -2,7 +2,7 @@
 title: "Bourke Local Environmental Plan 2012"
 document_id: epi-2013-0021
 current_from: 2026-07-01
-council: "Bourke"
+council: "Bourke Shire Council"
 ---
 
 # Bourke Local Environmental Plan 2012

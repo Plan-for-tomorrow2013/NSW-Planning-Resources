@@ -1,6 +1,6 @@
 ---
 title: "Clause 50 Height restrictions for buildings"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "50"

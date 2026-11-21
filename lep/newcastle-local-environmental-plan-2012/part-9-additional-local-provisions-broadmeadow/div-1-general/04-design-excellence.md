@@ -1,6 +1,6 @@
 ---
 title: "Clause 9.4 Design excellence"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "9 — Additional local provisions—Broadmeadow Precinct / Division 1 General"
 clause: "9.4"

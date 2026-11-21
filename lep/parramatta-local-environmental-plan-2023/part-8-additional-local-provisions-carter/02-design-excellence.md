@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.2 Design excellence"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 part: "8 — Additional local provisions—Carter Street Precinct"
 clause: "8.2"

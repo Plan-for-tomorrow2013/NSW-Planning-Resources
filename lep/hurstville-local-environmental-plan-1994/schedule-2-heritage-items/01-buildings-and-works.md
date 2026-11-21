@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2, Part 1 — Buildings and works"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 5 (1))"
 last_verified: 2026-07-01

@@ -2,7 +2,7 @@
 title: "Cessnock Local Environmental Plan 2011"
 document_id: epi-2011-0702
 current_from: 2026-07-24
-council: "Cessnock"
+council: "Cessnock City Council"
 ---
 
 # Cessnock Local Environmental Plan 2011

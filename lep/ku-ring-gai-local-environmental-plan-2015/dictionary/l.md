@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — L"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 dictionary_range: "L"
 last_verified: 2026-07-31

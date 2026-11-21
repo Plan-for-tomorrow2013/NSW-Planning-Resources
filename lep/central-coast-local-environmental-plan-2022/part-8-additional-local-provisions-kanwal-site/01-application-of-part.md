@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.1 Application of part"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "8 — Additional local provisions—Kanwal Site"
 clause: "8.1"

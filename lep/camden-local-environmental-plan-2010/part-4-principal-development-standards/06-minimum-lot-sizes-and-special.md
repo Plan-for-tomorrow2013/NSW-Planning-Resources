@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1D Minimum lot sizes and special provisions for dual occupancies"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1D"

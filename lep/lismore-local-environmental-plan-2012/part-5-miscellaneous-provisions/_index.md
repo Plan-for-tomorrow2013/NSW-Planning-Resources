@@ -1,6 +1,6 @@
 ---
 title: "Part 5 — Miscellaneous provisions"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 last_verified: 2026-10-16
 ---

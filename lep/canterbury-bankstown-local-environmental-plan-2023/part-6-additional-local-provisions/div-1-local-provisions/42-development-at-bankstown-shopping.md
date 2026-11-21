@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.43 Development at Bankstown Shopping Centre, 1 and 1A North Terrace, Bankstown"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.43"

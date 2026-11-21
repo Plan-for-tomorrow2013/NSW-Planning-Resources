@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Aims and objectives of this plan"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "2 — Aims and objectives"
 clause: "7"

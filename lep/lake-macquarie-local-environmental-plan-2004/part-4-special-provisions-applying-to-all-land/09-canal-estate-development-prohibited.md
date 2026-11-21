@@ -1,6 +1,6 @@
 ---
 title: "Clause 21D Canal estate development prohibited"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Special provisions applying to all land"
 clause: "21D"

@@ -1,6 +1,6 @@
 ---
 title: "Schedule 8 — Operational land"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 8 (Clause 68)"
 last_verified: 2023-11-10

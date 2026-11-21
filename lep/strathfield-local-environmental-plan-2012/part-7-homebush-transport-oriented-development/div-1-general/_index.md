@@ -1,6 +1,6 @@
 ---
 title: "Division 1 General"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 last_verified: 2026-09-11
 ---

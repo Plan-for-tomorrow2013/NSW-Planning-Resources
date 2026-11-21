@@ -1,6 +1,6 @@
 ---
 title: "Schedule 2, Part 3 — Deferred heritage items"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 6)"
 last_verified: 2022-03-04

@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Rural/residential development within Zone No 1 (c)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "15"

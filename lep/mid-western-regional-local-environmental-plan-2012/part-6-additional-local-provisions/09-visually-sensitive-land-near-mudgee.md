@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Visually sensitive land near Mudgee"
-council: "Mid-Western Regional"
+council: "Mid-Western Regional Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.10"

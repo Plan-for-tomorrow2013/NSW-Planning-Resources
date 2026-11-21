@@ -1,6 +1,6 @@
 ---
 title: "Clause 21B Zoning controls for Zone No 10 (b)—the Mixed Uses \"B\" Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "21B"

@@ -2,7 +2,7 @@
 title: "Shellharbour Local Environmental Plan 2000"
 document_id: epi-2000-0230
 current_from: 2026-07-01
-council: "Shellharbour"
+council: "Shellharbour City Council"
 ---
 
 # Shellharbour Local Environmental Plan 2000

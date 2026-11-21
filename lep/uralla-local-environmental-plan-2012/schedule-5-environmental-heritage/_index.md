@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Environmental heritage"
-council: "Uralla"
+council: "Uralla Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

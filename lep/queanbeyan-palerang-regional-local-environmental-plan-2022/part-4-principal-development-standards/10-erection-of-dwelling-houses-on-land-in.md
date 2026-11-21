@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Erection of dwelling houses on land in certain rural, residential, mixed use and conservation zones"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

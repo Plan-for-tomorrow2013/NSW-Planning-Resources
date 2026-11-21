@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Development between Christie and Lithgow Streets, St Leonards"
-council: "Lane Cove"
+council: "Lane Cove Council"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.8"

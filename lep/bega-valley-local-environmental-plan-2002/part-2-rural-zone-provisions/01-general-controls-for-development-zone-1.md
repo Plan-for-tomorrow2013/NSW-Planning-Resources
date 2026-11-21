@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 General controls for development—Zone 1 (a) (Rural General Zone)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "2 — Rural zone provisions"
 clause: "12"

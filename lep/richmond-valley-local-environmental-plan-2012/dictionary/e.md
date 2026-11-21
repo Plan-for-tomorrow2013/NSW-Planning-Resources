@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — E"
-council: "Richmond Valley"
+council: "Richmond Valley Council"
 document_type: LEP
 dictionary_range: "E"
 last_verified: 2026-07-01

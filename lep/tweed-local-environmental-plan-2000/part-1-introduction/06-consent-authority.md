@@ -1,6 +1,6 @@
 ---
 title: "Clause 6 Consent authority"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "1 — Introduction"
 clause: "6"

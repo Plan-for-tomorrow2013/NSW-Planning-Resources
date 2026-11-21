@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.7 Terrestrial biodiversity"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.7"

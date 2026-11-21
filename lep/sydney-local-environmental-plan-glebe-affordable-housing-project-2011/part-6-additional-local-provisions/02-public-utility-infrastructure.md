@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Public utility infrastructure"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.3"

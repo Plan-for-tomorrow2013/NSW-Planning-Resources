@@ -2,7 +2,7 @@
 title: "Dubbo Regional Local Environmental Plan 2022"
 document_id: epi-2022-0108
 current_from: 2026-09-18
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 ---
 
 # Dubbo Regional Local Environmental Plan 2022

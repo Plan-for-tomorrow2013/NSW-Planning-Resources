@@ -1,6 +1,6 @@
 ---
 title: "Clause 34 Bulky goods retailing within Zones 4 (a) and 4 (a3)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "5 — Industrial Zones Provisions"
 clause: "34"

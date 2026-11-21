@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Development within Zone No 1 (d) (Investigation Zone)"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 3 Certain development"
 clause: "37"

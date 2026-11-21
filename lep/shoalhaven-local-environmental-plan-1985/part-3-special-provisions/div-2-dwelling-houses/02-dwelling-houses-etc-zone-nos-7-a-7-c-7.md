@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Dwelling-houses etc—Zone Nos 7 (a), 7 (c), 7 (d1), 7 (e), 7 (f1) and 7 (f3)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Dwelling-houses"
 clause: "15"

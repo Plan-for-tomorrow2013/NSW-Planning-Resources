@@ -1,6 +1,6 @@
 ---
 title: "Clause 31 Development for the purpose of advertisements"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "31"

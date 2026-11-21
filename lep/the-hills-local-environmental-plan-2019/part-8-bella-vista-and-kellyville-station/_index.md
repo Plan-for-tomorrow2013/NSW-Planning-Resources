@@ -1,6 +1,6 @@
 ---
 title: "Part 8 — Bella Vista and Kellyville Station Precincts"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 last_verified: 2026-09-04
 ---

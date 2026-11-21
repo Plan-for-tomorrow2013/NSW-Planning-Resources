@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.11 Use of land in Zone MU1 in Area 2"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "7 — Cherrybrook Station Precinct"
 clause: "7.11"

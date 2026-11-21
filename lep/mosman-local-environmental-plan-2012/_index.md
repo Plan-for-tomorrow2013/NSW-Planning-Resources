@@ -2,7 +2,7 @@
 title: "Mosman Local Environmental Plan 2012"
 document_id: epi-2011-0647
 current_from: 2026-08-14
-council: "Mosman"
+council: "Mosman Municipal Council"
 ---
 
 # Mosman Local Environmental Plan 2012

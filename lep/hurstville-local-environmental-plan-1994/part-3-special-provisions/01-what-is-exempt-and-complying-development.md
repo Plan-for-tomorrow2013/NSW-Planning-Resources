@@ -1,6 +1,6 @@
 ---
 title: "Clause 9A What is exempt and complying development"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "9A"

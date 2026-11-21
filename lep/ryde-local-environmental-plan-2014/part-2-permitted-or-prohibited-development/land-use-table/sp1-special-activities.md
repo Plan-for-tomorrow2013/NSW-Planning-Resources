@@ -1,6 +1,6 @@
 ---
 title: "Zone SP1 — Special Activities"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 zone_code: SP1
 zone: "Special Activities"

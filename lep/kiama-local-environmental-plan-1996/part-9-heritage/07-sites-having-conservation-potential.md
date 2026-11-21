@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Sites having conservation potential"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9 — Heritage"
 clause: "47"

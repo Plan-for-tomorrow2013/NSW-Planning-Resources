@@ -1,6 +1,6 @@
 ---
 title: "Clause 44 Safety area"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 part: "3 — Provisions applying to particular zones / Division 1 Rural zones"
 clause: "44"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.15 Development in Gordon Town Centre"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.15"

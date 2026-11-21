@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2E Erection of dual occupancies on land in Zone R2 or R3"
-council: "Wingecarribee"
+council: "Wingecarribee Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2E"

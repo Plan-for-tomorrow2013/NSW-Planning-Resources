@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Minimum lot size for dual occupancies in residential zones"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Aim of the plan"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "1 — Preliminary / Division 2 Planning principles"
 clause: "10"

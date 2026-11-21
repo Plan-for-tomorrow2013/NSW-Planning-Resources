@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Assessing the site and environmental context"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

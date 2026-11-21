@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1 Minimum subdivision lot size"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1"

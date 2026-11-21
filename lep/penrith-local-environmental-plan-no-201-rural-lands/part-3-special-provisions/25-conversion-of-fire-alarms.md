@@ -1,6 +1,6 @@
 ---
 title: "Clause 31C Conversion of fire alarms"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "31C"

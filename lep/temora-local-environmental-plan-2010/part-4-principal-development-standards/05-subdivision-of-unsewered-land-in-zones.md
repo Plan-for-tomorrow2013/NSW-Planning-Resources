@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Subdivision of unsewered land in Zones RU1 and RU5"
-council: "Temora"
+council: "Temora Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

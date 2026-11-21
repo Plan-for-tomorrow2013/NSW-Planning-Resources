@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Earthworks"
-council: "Gloucester"
+council: "MidCoast Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

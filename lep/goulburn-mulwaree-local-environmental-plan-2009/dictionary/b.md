@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — B"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 dictionary_range: "B"
 last_verified: 2026-09-04

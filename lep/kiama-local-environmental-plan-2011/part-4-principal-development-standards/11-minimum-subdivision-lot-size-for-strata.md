@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Minimum subdivision lot size for strata plans in Zone RU1, Zone RU2 and Zone C3"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

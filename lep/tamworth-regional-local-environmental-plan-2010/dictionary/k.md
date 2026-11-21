@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — K"
-council: "Tamworth Regional"
+council: "Tamworth Regional Council"
 document_type: LEP
 dictionary_range: "K"
 last_verified: 2026-10-14

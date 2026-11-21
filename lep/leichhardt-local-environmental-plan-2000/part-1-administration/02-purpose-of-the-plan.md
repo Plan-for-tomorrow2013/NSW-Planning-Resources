@@ -1,6 +1,6 @@
 ---
 title: "Clause 2 Purpose of the Plan"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "2"

@@ -1,6 +1,6 @@
 ---
 title: "Zone RU6 — Transition"
-council: "Griffith"
+council: "Griffith City Council"
 document_type: LEP
 zone_code: RU6
 zone: "Transition"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Relationship between Part and remainder of Plan"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "6 — Urban release areas / Division 1 General"
 clause: "6.4"

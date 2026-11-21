@@ -2,7 +2,7 @@
 title: "Penrith Local Environmental Plan 2010"
 document_id: epi-2010-0540
 current_from: 2026-07-24
-council: "Penrith"
+council: "Penrith City Council"
 ---
 
 # Penrith Local Environmental Plan 2010

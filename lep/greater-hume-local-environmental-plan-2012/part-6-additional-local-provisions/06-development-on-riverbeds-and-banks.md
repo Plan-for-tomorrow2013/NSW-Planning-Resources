@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Development on riverbeds and banks"
-council: "Greater Hume"
+council: "Greater Hume Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

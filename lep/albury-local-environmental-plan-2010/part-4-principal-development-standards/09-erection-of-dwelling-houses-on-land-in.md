@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses on land in certain residential, rural and conservation zones"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

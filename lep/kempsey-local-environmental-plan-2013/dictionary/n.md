@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — N"
-council: "Kempsey"
+council: "Kempsey Shire Council"
 document_type: LEP
 dictionary_range: "N"
 last_verified: 2026-07-01

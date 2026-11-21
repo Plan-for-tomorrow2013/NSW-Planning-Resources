@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.10 Studio dwellings in Zone R1"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 part: "6 — Urban release areas / Division 2 North Tuncurry Urban Release Area"
 clause: "6.10"

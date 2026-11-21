@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.6 Exceptions to development standards"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.6"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.1 Definitions"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "10 — Cherrybrook Station Precinct"
 clause: "10.1"

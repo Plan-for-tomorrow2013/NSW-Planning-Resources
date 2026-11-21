@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Lot averaging subdivision in certain rural, residential and conservation zones"
-council: "Goulburn Mulwaree"
+council: "Goulburn Mulwaree Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

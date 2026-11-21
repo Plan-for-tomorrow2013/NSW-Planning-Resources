@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.12 Maximum gross floor area of commercial premises"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.12"

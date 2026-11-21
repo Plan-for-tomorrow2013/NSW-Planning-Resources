@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.17 Affordable housing in certain areas in Redmond Place Precinct"
-council: "Orange"
+council: "Orange City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.17"

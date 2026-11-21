@@ -1,6 +1,6 @@
 ---
 title: "Part 2 — Permitted or prohibited development"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 last_verified: 2026-09-25
 ---

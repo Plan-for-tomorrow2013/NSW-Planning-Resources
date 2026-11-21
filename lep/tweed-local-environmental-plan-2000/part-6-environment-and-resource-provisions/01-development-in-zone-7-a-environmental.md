@@ -1,6 +1,6 @@
 ---
 title: "Clause 25 Development in Zone 7 (a) Environmental Protection (Wetlands and Littoral Rainforests) and on adjacent land"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "6 — Environment and resource provisions"
 clause: "25"

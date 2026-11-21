@@ -1,6 +1,6 @@
 ---
 title: "Clause 8.4 Design guide"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "8 — Hornsby Transport Oriented Development Precinct / Division 1 General"
 clause: "8.4"

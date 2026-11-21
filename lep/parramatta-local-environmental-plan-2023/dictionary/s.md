@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — S"
-council: "Parramatta"
+council: "City of Parramatta Council"
 document_type: LEP
 dictionary_range: "S"
 last_verified: 2026-09-04

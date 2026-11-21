@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.27A Active street frontages—build-to-rent housing and co-living housing in Zone SP5"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "7 — Local provisions—general / Division 4 Miscellaneous"
 clause: "7.27A"

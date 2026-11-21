@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Development of land at 168 Norton Street, Leichhardt"
-council: "Inner West"
+council: "Inner West Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.8 Concurrence of Planning Secretary"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"

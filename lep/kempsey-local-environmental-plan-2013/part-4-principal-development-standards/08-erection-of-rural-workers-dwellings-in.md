@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of rural workers' dwellings in certain rural and conservation zones"
-council: "Kempsey"
+council: "Kempsey Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

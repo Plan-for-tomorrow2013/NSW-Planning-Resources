@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.4A Floor space ratio—Wollongong city centre"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4A"

@@ -2,7 +2,7 @@
 title: "Lake Macquarie Local Environmental Plan 2014"
 document_id: epi-2014-0605
 current_from: 2026-07-01
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 ---
 
 # Lake Macquarie Local Environmental Plan 2014

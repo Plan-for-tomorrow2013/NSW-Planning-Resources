@@ -1,6 +1,6 @@
 ---
 title: "Clause 28 Tourist accommodation"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "28"

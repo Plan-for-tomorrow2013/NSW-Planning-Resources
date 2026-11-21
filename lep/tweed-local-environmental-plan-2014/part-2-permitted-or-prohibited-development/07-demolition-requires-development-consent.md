@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.7 Demolition requires development consent"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.7"

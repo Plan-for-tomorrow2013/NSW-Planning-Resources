@@ -1,6 +1,6 @@
 ---
 title: "Zone E2 — Commercial Centre"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 zone_code: E2
 zone: "Commercial Centre"

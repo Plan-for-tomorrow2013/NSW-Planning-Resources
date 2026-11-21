@@ -1,6 +1,6 @@
 ---
 title: "Clause 52 Tree preservation"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 4 General provisions"
 clause: "52"

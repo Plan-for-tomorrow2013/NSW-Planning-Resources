@@ -1,6 +1,6 @@
 ---
 title: "Clause 19 Additional requirements for development in the 1 (a) Agriculture and 1 (rl) Rural Landscape Zones"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "2 — General land use controls / Division 1 Development in the 1 (a) Agriculture and 1 (rl) Rural Landscape Zones"
 clause: "19"

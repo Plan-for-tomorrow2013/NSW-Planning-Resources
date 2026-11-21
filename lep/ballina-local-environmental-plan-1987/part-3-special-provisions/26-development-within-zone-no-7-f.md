@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 Development within Zone No 7 (f)"
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "32"

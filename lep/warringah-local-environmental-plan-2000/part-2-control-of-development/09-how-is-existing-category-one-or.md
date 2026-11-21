@@ -1,6 +1,6 @@
 ---
 title: "Clause 14A How is existing Category One or Category Two development dealt with?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "14A"

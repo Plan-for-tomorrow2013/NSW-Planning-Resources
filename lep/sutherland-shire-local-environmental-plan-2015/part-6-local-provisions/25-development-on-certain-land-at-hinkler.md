@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.26 Development on certain land at Hinkler Avenue and Taren Point Road, Caringbah"
-council: "Sutherland Shire"
+council: "Sutherland Shire Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.26"

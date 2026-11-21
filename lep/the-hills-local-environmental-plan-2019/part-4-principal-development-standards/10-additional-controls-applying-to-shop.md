@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.3A Additional controls applying to shop top housing and residential flat buildings as part of mixed use development"
-council: "The Hills"
+council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"

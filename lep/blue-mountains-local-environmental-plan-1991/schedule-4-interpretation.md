@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Interpretation"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 4"
 last_verified: 2023-11-10

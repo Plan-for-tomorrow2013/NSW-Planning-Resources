@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Dwelling houses and dual occupancies in Zone 1 (1), 7 (1), 7 (2), 7 (3) or 10"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "5 — Special controls for protection of the environment or for particular land"
 clause: "26"

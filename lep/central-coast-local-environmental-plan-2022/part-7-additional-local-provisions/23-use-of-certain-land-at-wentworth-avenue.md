@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.24 Use of certain land at Wentworth Avenue and Pacific Highway, Doyalson"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.24"

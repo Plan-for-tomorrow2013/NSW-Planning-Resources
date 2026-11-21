@@ -1,6 +1,6 @@
 ---
 title: "Clause 66 Interpretation"
-council: "Shellharbour Rural"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "4 — Illawarra Regional Business Park site / Division 1 Preliminary"
 clause: "66"

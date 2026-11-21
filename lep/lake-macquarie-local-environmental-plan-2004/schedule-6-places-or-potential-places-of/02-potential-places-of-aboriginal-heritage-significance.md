@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6, Part 2 — Potential places of Aboriginal heritage significance"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 50 and Dictionary)"
 last_verified: 2023-11-10

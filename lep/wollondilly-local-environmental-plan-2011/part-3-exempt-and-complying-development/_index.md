@@ -1,6 +1,6 @@
 ---
 title: "Part 3 — Exempt and complying development"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

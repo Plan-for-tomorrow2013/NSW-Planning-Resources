@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-09-25

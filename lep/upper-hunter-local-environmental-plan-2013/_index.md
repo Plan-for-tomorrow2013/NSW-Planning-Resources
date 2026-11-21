@@ -2,7 +2,7 @@
 title: "Upper Hunter Local Environmental Plan 2013"
 document_id: epi-2013-0756
 current_from: 2026-08-21
-council: "Upper Hunter"
+council: "Upper Hunter Shire Council"
 ---
 
 # Upper Hunter Local Environmental Plan 2013

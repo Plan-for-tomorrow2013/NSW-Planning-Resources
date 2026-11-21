@@ -1,6 +1,6 @@
 ---
 title: "Clause 32 Aircraft noise"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "7 — Hazards and buffers"
 clause: "32"

@@ -1,6 +1,6 @@
 ---
 title: "Zone W3 — Working Waterways"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: W3
 zone: "Working Waterways"

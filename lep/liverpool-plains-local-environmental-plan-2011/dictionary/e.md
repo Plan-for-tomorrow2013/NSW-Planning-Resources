@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — E"
-council: "Liverpool Plains"
+council: "Liverpool Plains Shire Council"
 document_type: LEP
 dictionary_range: "E"
 last_verified: 2026-07-31

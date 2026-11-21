@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Agricultural related business development in Zones C3 and RU2"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

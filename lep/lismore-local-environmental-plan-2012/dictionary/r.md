@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — R"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 dictionary_range: "R"
 last_verified: 2026-10-16

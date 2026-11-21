@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Exception to minimum lot sizes for certain land at Lakeside Urban Release Area"
-council: "Camden"
+council: "Camden Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

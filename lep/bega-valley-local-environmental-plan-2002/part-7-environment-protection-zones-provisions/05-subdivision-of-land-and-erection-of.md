@@ -1,6 +1,6 @@
 ---
 title: "Clause 47 Subdivision of land and erection of dwelling within Zones 7 (d), 7 (f1) and 7 (f2)"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "7 — Environment Protection zones provisions"
 clause: "47"

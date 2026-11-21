@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — C"
-council: "Muswellbrook"
+council: "Muswellbrook Shire Council"
 document_type: LEP
 dictionary_range: "C"
 last_verified: 2026-07-24

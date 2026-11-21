@@ -1,6 +1,6 @@
 ---
 title: "Zone E3 — Productivity Support"
-council: "Great Lakes"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: E3
 zone: "Productivity Support"

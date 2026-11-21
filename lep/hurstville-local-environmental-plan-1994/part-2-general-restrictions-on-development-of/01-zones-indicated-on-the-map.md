@@ -1,6 +1,6 @@
 ---
 title: "Clause 7 Zones indicated on the map"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "7"

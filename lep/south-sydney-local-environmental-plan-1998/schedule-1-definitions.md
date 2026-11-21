@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Definitions"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 clause: "Schedule 1 (Clause 5)"
 last_verified: 2026-07-01

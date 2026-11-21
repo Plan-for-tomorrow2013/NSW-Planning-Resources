@@ -1,6 +1,6 @@
 ---
 title: "Zone MU1 — Mixed Use"
-council: "Walcha"
+council: "Walcha Council"
 document_type: LEP
 zone_code: MU1
 zone: "Mixed Use"

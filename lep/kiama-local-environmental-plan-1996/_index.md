@@ -2,7 +2,7 @@
 title: "Kiama Local Environmental Plan 1996"
 document_id: epi-1996-0334
 current_from: 2022-03-04
-council: "Kiama"
+council: "Kiama Municipal Council"
 ---
 
 # Kiama Local Environmental Plan 1996

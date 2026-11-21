@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Use of prescribed materials"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 8 Development in escarpment preservation areas"
 clause: "55"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 36 Development of Certain Land Near Blue Angle Creek, Gerroa"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "8 — Environmental protection"
 clause: "36"

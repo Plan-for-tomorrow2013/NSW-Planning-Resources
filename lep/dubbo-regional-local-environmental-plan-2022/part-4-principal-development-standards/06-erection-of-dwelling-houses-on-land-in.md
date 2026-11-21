@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2C Erection of dwelling houses on land in certain rural zones"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2C"

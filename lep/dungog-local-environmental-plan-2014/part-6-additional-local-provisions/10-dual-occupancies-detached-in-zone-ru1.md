@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Dual occupancies (detached) in Zone RU1"
-council: "Dungog"
+council: "Dungog Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

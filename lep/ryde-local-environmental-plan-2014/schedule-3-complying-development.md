@@ -1,6 +1,6 @@
 ---
 title: "Schedule 3 — Complying development"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 clause: "Schedule 3 (Clause 3.2)"
 last_verified: 2026-09-18

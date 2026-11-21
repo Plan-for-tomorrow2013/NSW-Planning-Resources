@@ -1,6 +1,6 @@
 ---
 title: "Schedule 4 — Additional uses"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 clause: "Schedule 4 (Clause 88)"
 last_verified: 2026-07-01

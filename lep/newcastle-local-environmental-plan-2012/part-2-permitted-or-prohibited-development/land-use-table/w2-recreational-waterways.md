@@ -1,6 +1,6 @@
 ---
 title: "Zone W2 — Recreational Waterways"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"

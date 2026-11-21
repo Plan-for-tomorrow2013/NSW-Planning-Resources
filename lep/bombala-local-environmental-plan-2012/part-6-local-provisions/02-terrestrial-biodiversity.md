@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.3 Terrestrial biodiversity"
-council: "Bombala"
+council: "Snowy Monaro Regional Council"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.3"

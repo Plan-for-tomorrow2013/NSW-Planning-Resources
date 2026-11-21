@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — "
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 1 (Clauses 9, 22 and 41)"
 last_verified: 2023-11-10

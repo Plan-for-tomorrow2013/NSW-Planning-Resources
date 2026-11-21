@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1C Minimum subdivision lot size for strata subdivisions in certain rural, residential and conservation zones"
-council: "Bega Valley"
+council: "Bega Valley Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1C"

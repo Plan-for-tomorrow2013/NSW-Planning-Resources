@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions to minimum lot sizes for development in Zone R2 and Zone R3"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

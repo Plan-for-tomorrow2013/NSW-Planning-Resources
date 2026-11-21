@@ -1,6 +1,6 @@
 ---
 title: "Clause 22 Advertising of heritage applications"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "3 — Special provisions / Division 2 Environmental heritage"
 clause: "22"

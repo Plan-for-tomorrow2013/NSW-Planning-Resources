@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.81 Development at Edison Street, Belmore"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 Belmore and Lakemba Precinct / Subdivision 3 Access laneway extensions"
 clause: "6.81"

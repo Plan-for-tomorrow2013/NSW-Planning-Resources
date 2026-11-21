@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.20 Overshadowing of certain public places"
-council: "Coffs Harbour"
+council: "Coffs Harbour City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.20"

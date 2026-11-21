@@ -1,6 +1,6 @@
 ---
 title: "Clause 2.2 Zoning of land to which Plan applies"
-council: "Dubbo Regional"
+council: "Dubbo Regional Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.2"

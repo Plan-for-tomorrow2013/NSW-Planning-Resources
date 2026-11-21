@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Minimum lot size for dual occupancies in Zone R2"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

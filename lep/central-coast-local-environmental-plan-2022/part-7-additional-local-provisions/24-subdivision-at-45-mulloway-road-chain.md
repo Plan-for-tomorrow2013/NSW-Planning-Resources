@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.25 Subdivision at 45 Mulloway Road, Chain Valley Bay"
-council: "Central Coast"
+council: "Central Coast Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.25"

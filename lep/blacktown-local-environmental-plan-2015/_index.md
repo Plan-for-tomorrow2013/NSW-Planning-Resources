@@ -2,7 +2,7 @@
 title: "Blacktown Local Environmental Plan 2015"
 document_id: epi-2015-0239
 current_from: 2026-07-31
-council: "Blacktown"
+council: "Blacktown City Council"
 ---
 
 # Blacktown Local Environmental Plan 2015

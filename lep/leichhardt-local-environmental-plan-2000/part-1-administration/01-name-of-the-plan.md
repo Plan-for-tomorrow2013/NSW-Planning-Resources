@@ -1,6 +1,6 @@
 ---
 title: "Clause 1 Name of the Plan"
-council: "Leichhardt"
+council: "Inner West Council"
 document_type: LEP
 part: "1 — Administration"
 clause: "1"

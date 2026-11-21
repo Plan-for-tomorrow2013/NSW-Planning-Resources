@@ -1,6 +1,6 @@
 ---
 title: "Clause 23 General controls for development—Zone 2 (e) (the Mixed Use Residential E zone)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "3 — Residential Zones Provisions"
 clause: "23"

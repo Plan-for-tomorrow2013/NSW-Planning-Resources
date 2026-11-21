@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, 6 — Blue Mountains Riparian Complex"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 5 (Dictionary)"
 last_verified: 2026-07-01

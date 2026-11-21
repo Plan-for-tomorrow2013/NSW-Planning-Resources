@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21E Tower cluster areas"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 4 Design excellence / Subdivision 2 Design excellence requirements"
 clause: "6.21E"

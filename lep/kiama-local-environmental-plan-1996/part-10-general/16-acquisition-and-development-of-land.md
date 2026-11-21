@@ -1,6 +1,6 @@
 ---
 title: "Clause 60 Acquisition and development of land within the proposed recreation zone"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "60"

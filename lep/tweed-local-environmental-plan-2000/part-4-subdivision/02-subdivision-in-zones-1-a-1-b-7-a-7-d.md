@@ -1,6 +1,6 @@
 ---
 title: "Clause 20 Subdivision in Zones 1 (a), 1 (b), 7 (a), 7 (d) and 7 (l)"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 part: "4 — Subdivision"
 clause: "20"

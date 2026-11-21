@@ -1,6 +1,6 @@
 ---
 title: "Clause 37 Non-residential development in Zone No 10"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "4 — Special provisions / Division 4 Miscellaneous"
 clause: "37"

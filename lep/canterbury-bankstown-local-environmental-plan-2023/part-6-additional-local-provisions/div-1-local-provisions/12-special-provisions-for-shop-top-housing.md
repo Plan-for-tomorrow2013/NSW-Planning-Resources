@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Special provisions for shop top housing"
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Local provisions—general"
 clause: "6.12"

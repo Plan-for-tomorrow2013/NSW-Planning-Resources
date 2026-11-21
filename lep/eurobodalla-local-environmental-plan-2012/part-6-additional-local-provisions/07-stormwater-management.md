@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.9 Stormwater management"
-council: "Eurobodalla"
+council: "Eurobodalla Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.9"

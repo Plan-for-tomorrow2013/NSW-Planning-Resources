@@ -1,6 +1,6 @@
 ---
 title: "Schedule 12 — Development by public authorities"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 clause: "Schedule 12 (Clause 62)"
 last_verified: 2025-02-14

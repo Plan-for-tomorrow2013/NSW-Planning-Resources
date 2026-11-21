@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.21 Dwellings at 126 Greville Street, Chatswood and part of 25 Millwood Avenue, Chatswood West"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.21"

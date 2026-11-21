@@ -1,6 +1,6 @@
 ---
 title: "Clause 24 Acquisition of land within Zone No 6 (d) by the corporation"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "5 — Miscellaneous"
 clause: "24"

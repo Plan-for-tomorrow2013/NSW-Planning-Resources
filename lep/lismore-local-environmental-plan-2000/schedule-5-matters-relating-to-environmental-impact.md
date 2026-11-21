@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Matters relating to environmental impact"
-council: "Lismore"
+council: "Lismore City Council"
 document_type: LEP
 clause: "Schedule 5 (Clauses 40 (2) (a) and 51 (2))"
 last_verified: 2026-07-01

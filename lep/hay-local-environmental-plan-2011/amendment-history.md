@@ -1,6 +1,6 @@
 ---
 title: "Amendment history"
-council: "Hay"
+council: "Hay Shire Council"
 document_type: LEP
 last_verified: 2026-07-01
 ---

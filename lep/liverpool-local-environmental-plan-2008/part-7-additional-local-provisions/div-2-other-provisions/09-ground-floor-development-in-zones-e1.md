@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.16 Ground floor development in Zones E1 and MU4"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "7 — Additional local provisions / Division 2 Other provisions"
 clause: "7.16"

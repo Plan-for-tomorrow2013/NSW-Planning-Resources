@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Location of sex services premises"
-council: "Ku-ring-gai"
+council: "Ku-ring-gai Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.2 Cabramatta—floor space ratio"
-council: "Fairfield"
+council: "Fairfield City Council"
 document_type: LEP
 part: "7 — Additional local clauses—Town Centres"
 clause: "7.2"

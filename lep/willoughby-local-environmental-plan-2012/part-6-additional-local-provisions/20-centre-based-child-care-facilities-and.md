@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.20 Centre-based child care facilities and respite day care centres at Tyneside Avenue, Willoughby North"
-council: "Willoughby"
+council: "Willoughby City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.20"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Strata subdivisions in certain rural or conservation zones"
-council: "Gloucester"
+council: "MidCoast Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

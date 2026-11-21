@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.60 30-62 Barcom Avenue, Darlinghurst"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions—height and floor space / Division 5 Site specific provisions"
 clause: "6.60"

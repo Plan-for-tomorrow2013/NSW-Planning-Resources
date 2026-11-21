@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.15 Development on land in and surrounding the Albury Regional Jobs Precinct"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"

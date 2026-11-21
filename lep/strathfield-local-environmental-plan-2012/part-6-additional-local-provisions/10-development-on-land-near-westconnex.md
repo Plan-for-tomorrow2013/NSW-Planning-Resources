@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.12 Development on land near WestConnex Underwood Road Ventilation Facility"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.12"

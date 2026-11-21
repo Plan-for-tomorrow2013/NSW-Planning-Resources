@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 What matters are considered before consent is granted?"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "2 — Control of development"
 clause: "12"

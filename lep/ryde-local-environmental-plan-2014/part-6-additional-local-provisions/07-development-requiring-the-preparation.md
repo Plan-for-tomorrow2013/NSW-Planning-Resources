@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.8 Development requiring the preparation of a development control plan"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.8"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 9 Zone objectives and development control table"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "3 — Land use zones"
 clause: "9"

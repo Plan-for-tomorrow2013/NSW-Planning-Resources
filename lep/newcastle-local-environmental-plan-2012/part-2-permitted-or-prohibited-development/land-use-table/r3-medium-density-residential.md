@@ -1,6 +1,6 @@
 ---
 title: "Zone R3 — Medium Density Residential"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 zone_code: R3
 zone: "Medium Density Residential"

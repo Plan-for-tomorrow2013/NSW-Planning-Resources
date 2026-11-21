@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Land in Zone R4 High Density Residential"
-council: "Newcastle"
+council: "City of Newcastle"
 document_type: LEP
 part: "6 — Additional local provisions—generally"
 clause: "6.4"

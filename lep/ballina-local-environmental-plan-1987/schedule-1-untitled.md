@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — "
-council: "Ballina"
+council: "Ballina Shire Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 5)"
 last_verified: 2026-07-31

@@ -2,7 +2,7 @@
 title: "Lane Cove Local Environmental Plan 2009"
 document_id: epi-2010-0049
 current_from: 2026-07-01
-council: "Lane Cove"
+council: "Lane Cove Council"
 ---
 
 # Lane Cove Local Environmental Plan 2009

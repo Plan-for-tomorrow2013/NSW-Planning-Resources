@@ -1,6 +1,6 @@
 ---
 title: "Clause 26 Development in flood prone land"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "26"

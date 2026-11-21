@@ -1,6 +1,6 @@
 ---
 title: "Clause 76 Management of stormwater"
-council: "Warringah"
+council: "Northern Beaches Council"
 document_type: LEP
 part: "4 — General principles of development control / Division 6 Soil and water management"
 clause: "76"

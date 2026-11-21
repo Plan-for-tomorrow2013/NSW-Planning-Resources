@@ -1,6 +1,6 @@
 ---
 title: "Clause 12B Lot densities—Zone No 1 (c)"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "3 — Special provisions / Division 1 Subdivision of land"
 clause: "12B"

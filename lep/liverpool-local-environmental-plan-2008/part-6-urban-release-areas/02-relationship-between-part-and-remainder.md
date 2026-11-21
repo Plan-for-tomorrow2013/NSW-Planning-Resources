@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.2 Relationship between Part and remainder of Plan"
-council: "Liverpool"
+council: "Liverpool City Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.2"

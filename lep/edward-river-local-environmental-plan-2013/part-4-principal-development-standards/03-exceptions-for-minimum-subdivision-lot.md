@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1A Exceptions for minimum subdivision lot sizes for certain split zones"
-council: "Edward River"
+council: "Edward River Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"

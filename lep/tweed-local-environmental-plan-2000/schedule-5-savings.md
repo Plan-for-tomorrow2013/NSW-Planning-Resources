@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5 — Savings"
-council: "Tweed"
+council: "Tweed Shire Council"
 document_type: LEP
 clause: "Schedule 5 (Clauses 13 (2) and 58)"
 last_verified: 2026-07-01

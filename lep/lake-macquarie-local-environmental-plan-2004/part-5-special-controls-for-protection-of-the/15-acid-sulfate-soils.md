@@ -1,6 +1,6 @@
 ---
 title: "Clause 35 Acid sulfate soils"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "5 — Special controls for protection of the environment or for particular land"
 clause: "35"

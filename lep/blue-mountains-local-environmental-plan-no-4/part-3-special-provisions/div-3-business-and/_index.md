@@ -1,6 +1,6 @@
 ---
 title: "Division 3 Business and commercial uses"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 last_verified: 2023-11-10
 ---

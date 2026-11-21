@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.17 Temporary use of certain moveable dwellings for secondary dwellings"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.17"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 21G Zoning controls for Zone No 11 (b)—the Green Square Town Centre Public Domain Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "21G"

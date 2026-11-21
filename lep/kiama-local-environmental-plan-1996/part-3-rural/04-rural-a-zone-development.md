@@ -1,6 +1,6 @@
 ---
 title: "Clause 12 Rural \"A\" Zone—Development"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "3 — Rural"
 clause: "12"

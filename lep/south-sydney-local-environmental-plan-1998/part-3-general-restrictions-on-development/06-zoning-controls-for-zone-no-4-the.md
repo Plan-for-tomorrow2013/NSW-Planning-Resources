@@ -1,6 +1,6 @@
 ---
 title: "Clause 14 Zoning controls for Zone No 4—the Industrial Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "14"

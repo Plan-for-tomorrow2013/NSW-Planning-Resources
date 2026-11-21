@@ -1,6 +1,6 @@
 ---
 title: "Zone SP3 — Tourist"
-council: "Greater Taree"
+council: "MidCoast Council"
 document_type: LEP
 zone_code: SP3
 zone: "Tourist"

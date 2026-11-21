@@ -1,6 +1,6 @@
 ---
 title: "Clause 1A Relationship to Penrith Local Environmental Plan 1991 (Environmental Heritage Conservation)"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1A"

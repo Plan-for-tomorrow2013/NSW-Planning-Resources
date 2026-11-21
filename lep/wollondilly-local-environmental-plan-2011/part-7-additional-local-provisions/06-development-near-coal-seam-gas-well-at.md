@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.7 Development near coal seam gas well at Menangle"
-council: "Wollondilly"
+council: "Wollondilly Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.7"

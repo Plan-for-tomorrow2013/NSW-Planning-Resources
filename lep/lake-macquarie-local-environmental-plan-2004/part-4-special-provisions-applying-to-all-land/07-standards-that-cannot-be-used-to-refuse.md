@@ -1,6 +1,6 @@
 ---
 title: "Clause 21B Standards that cannot be used to refuse consent—playing and performing music"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "4 — Special provisions applying to all land"
 clause: "21B"

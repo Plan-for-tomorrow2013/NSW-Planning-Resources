@@ -1,6 +1,6 @@
 ---
 title: "Clause 1 Name of plan"
-council: "Campbelltown"
+council: "Campbelltown City Council"
 document_type: LEP
 part: "Clauses"
 clause: "1"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 41 Heritage aims and objectives"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "9 — Heritage"
 clause: "41"

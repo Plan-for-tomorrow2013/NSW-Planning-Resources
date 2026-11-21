@@ -1,6 +1,6 @@
 ---
 title: "Clause 55 Controls for building dwelling houses within Zones 7 (d) and 7 (e)"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 part: "8 — Environmental Protection Zones Provisions"
 clause: "55"

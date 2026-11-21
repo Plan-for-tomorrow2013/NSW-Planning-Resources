@@ -2,7 +2,7 @@
 title: "Coolamon Local Environmental Plan 2011"
 document_id: epi-2011-0077
 current_from: 2026-07-01
-council: "Coolamon"
+council: "Coolamon Shire Council"
 ---
 
 # Coolamon Local Environmental Plan 2011

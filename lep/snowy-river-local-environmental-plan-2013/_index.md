@@ -2,7 +2,7 @@
 title: "Snowy River Local Environmental Plan 2013"
 document_id: epi-2013-0700
 current_from: 2026-07-01
-council: "Snowy River"
+council: "Snowy Monaro Regional Council"
 ---
 
 # Snowy River Local Environmental Plan 2013

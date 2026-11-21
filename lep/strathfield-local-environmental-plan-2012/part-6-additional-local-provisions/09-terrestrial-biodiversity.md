@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.11 Terrestrial biodiversity"
-council: "Strathfield"
+council: "Strathfield Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.11"

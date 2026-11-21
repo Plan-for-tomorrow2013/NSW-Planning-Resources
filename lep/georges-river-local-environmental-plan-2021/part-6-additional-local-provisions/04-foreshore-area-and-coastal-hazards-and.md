@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.4 Foreshore area and coastal hazards and risk"
-council: "Georges River"
+council: "Georges River Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.4"

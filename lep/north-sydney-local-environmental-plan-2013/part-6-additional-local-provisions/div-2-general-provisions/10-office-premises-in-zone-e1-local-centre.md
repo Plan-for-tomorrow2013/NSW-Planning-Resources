@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Office premises in Zone E1 Local Centre"
-council: "North Sydney"
+council: "North Sydney Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 2 General provisions"
 clause: "6.14"

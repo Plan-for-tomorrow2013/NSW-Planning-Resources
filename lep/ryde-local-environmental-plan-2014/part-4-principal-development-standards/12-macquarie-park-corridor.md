@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.5B Macquarie Park Corridor"
-council: "Ryde"
+council: "City of Ryde"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.5B"

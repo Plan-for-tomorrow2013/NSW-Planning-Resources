@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.14 Essential services"
-council: "Wagga Wagga"
+council: "Wagga Wagga City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.14"

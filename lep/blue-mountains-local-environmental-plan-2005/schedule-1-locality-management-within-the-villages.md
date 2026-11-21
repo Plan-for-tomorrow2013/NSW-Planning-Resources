@@ -1,6 +1,6 @@
 ---
 title: "Schedule 1 — Locality management within the Villages"
-council: "Blue Mountains"
+council: "Blue Mountains City Council"
 document_type: LEP
 clause: "Schedule 1 (Clauses 14 and 82 (3))"
 last_verified: 2026-07-01

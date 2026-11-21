@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.9 Use of moveable dwellings"
-council: "Nambucca"
+council: "Nambucca Valley Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"

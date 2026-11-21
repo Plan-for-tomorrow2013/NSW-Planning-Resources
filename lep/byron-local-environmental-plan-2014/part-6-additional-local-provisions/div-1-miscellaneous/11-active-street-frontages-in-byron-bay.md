@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.14 Active street frontages in Byron Bay town centre"
-council: "Byron"
+council: "Byron Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions / Division 1 Miscellaneous"
 clause: "6.14"

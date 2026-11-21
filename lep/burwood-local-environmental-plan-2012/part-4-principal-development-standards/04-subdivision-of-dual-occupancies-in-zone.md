@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.1B Subdivision of dual occupancies in Zone R2"
-council: "Burwood"
+council: "Burwood Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1B"

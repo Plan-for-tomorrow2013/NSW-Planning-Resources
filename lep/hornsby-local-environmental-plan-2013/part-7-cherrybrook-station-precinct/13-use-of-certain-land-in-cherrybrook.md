@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.13 Use of certain land in Cherrybrook Station Precinct"
-council: "Hornsby"
+council: "Hornsby Shire Council"
 document_type: LEP
 part: "7 — Cherrybrook Station Precinct"
 clause: "7.13"

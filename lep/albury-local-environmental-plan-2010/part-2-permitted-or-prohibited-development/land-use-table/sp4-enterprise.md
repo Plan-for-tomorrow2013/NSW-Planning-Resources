@@ -1,6 +1,6 @@
 ---
 title: "Zone SP4 — Enterprise"
-council: "Albury"
+council: "Albury City Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"

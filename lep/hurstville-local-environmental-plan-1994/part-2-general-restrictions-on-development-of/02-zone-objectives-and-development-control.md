@@ -1,6 +1,6 @@
 ---
 title: "Clause 8 Zone objectives and development control table"
-council: "Hurstville"
+council: "Georges River Council"
 document_type: LEP
 part: "2 — General restrictions on development of land"
 clause: "8"

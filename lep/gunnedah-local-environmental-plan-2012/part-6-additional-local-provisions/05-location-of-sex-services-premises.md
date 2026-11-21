@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Location of sex services premises"
-council: "Gunnedah"
+council: "Gunnedah Shire Council"
 document_type: LEP
 part: "6 — Additional local provisions"
 clause: "6.6"

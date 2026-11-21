@@ -1,6 +1,6 @@
 ---
 title: "Clause 3.2 Complying development"
-council: "Queanbeyan-Palerang Regional"
+council: "Queanbeyan-Palerang Regional Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.2"

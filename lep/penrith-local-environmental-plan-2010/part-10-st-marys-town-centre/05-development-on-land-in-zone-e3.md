@@ -1,6 +1,6 @@
 ---
 title: "Clause 10.5 Development on land in Zone E3"
-council: "Penrith"
+council: "Penrith City Council"
 document_type: LEP
 part: "10 — St Marys Town Centre"
 clause: "10.5"

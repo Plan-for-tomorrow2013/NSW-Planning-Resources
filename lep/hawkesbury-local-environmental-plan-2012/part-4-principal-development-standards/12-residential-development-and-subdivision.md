@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2A Residential development and subdivision prohibited on certain land"
-council: "Hawkesbury"
+council: "Hawkesbury City Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"

@@ -1,6 +1,6 @@
 ---
 title: "Clause 4.2B Erection of dwelling houses on land in Zones RU1, RU4, R5, C3 and C4"
-council: "Wentworth"
+council: "Wentworth Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2B"

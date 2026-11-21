@@ -1,6 +1,6 @@
 ---
 title: "Schedule 6 — Exceptions"
-council: "Shellharbour"
+council: "Shellharbour City Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 82)"
 last_verified: 2026-07-01

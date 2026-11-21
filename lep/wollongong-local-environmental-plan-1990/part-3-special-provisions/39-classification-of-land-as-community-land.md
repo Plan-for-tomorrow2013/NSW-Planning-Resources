@@ -1,6 +1,6 @@
 ---
 title: "Clause 37A Classification of land as community land"
-council: "Wollongong"
+council: "Wollongong City Council"
 document_type: LEP
 part: "3 — Special provisions"
 clause: "37A"

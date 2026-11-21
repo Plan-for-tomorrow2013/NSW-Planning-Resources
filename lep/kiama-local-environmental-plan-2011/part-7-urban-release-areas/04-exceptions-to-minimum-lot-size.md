@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.5 Exceptions to minimum lot size—subdivision of land in approved land use zones"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "7 — Urban release areas"
 clause: "7.5"

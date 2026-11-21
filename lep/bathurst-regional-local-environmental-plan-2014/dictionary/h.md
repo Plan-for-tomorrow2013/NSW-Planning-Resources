@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — H"
-council: "Bathurst Regional"
+council: "Bathurst Regional Council"
 document_type: LEP
 dictionary_range: "H"
 last_verified: 2026-07-03

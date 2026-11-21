@@ -1,6 +1,6 @@
 ---
 title: "Clause 15 Zoning controls for Zone No 5—the Special Uses Zone"
-council: "South Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "3 — General restrictions on development"
 clause: "15"

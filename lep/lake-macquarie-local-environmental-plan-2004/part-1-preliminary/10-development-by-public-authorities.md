@@ -1,6 +1,6 @@
 ---
 title: "Clause 10 Development by public authorities"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "10"

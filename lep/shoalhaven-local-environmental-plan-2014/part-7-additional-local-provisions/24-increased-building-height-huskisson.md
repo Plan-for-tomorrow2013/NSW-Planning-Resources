@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.26 Increased building height Huskisson Town Centre"
-council: "Shoalhaven"
+council: "Shoalhaven City Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.26"

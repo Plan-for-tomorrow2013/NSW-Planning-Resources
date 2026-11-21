@@ -1,6 +1,6 @@
 ---
 title: "Dictionary — V"
-council: "Bayside"
+council: "Bayside Council"
 document_type: LEP
 dictionary_range: "V"
 last_verified: 2026-09-25

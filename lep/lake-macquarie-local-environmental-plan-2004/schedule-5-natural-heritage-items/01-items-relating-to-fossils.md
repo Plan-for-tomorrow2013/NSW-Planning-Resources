@@ -1,6 +1,6 @@
 ---
 title: "Schedule 5, Part 1 — Items relating to fossils"
-council: "Lake Macquarie"
+council: "Lake Macquarie City Council"
 document_type: LEP
 clause: "Schedule 5 (Dictionary)"
 last_verified: 2023-11-10

@@ -1,6 +1,6 @@
 ---
 title: "Clause 6.6 Additional gross floor area for certain BASIX affected development"
-council: "Sydney"
+council: "City of Sydney"
 document_type: LEP
 part: "6 — Local provisions"
 clause: "6.6"

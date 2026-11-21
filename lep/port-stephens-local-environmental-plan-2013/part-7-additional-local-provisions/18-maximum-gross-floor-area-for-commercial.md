@@ -1,6 +1,6 @@
 ---
 title: "Clause 7.24 Maximum gross floor area for commercial premises and neighbourhood supermarkets at Fullerton Cove"
-council: "Port Stephens"
+council: "Port Stephens Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.24"

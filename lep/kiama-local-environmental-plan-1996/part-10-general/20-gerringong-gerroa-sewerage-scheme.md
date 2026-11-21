@@ -1,6 +1,6 @@
 ---
 title: "Clause 63A Gerringong—Gerroa sewerage scheme"
-council: "Kiama"
+council: "Kiama Municipal Council"
 document_type: LEP
 part: "10 — General"
 clause: "63A"
