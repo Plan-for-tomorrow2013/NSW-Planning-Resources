@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Planning Systems) 2021"
 document_id: epi-2021-0724
-current_from: 2026-10-02
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Planning Systems) 2021
@@ -87,12 +87,13 @@ current_from: 2026-10-02
 |  | (422) | *State Environmental Planning Policy (Planning Systems) Amendment (Independent Planning Commission) 2026*. LW 18.8.2026. Date of commencement of Sch 1[1] [3] [4] and [8]: not in force; date of commencement of Sch 1[2] and [5]–[7], on publication on LW, sec 2(b). |
 |  | (502) | *State Environmental Planning Policy (Planning Systems) Amendment (Independent Planning Commission) (No 2) 2026*. LW 9.9.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (549) | *State Environmental Planning Policy Amendment (Coffs Harbour Jetty Foreshore Precinct) 2026*. LW 2.10.2026. Date of commencement, on publication on LW, sec 2. |
+|  | (582) | *State Environmental Planning Policy Amendment (Land Transformation Precincts) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
 |  |  |
 |---|---|
-| Sec 2.2 | Am 2022 (152), Sch 1[1]; 2022 (827), Sch 2[1]; 2023 (523), Sch 2.2[1]; 2025 (82), Sch 2[1] [2]; 2025 (423), Sch 4[1]; 2026 (367), Sch 1[1]; 2026 (408), Sch 5[1]; 2026 (409), Sch 3[1]; 2026 (549), Sch 2[1]. |
+| Sec 2.2 | Am 2022 (152), Sch 1[1]; 2022 (827), Sch 2[1]; 2023 (523), Sch 2.2[1]; 2025 (82), Sch 2[1] [2]; 2025 (423), Sch 4[1]; 2026 (367), Sch 1[1]; 2026 (408), Sch 5[1]; 2026 (409), Sch 3[1]; 2026 (549), Sch 2[1]; 2026 (582), Sch 2[1]. |
 | Sec 2.3 | Am 2025 (82), Sch 2[3]. |
 | Part 2.2, Div 1, heading | Ins 2025 (616), Sch 1[1]. |
 | Sec 2.6 | Am 2025 (618), Sch 1[1]. |
@@ -185,7 +186,7 @@ current_from: 2026-10-02
 | Chapter 5 | Ins 2026 (128), Sch 1. Rep 2026 (286), Sch 1.4[2]. |
 | Sec 5.1 | Ins 2026 (128), Sch 1. Rep 2026 (286), Sch 1.4[2]. |
 | Sch 1 | Am 2022 (99), Sch 2[1]–[5]; 2022 (112), Sch 2.4; 2022 (202), sec 4; 2022 (349), Sch 2; 2022 (768), Sch 2[1] [2]; 2022 (825), Sch 2; 2023 (523), Sch 2.2[5]–[7]; 2023 (664), Sch 2.2[1]–[4]; 2024 (74), Sch 2[1]–[4]; 2024 (115), Sch 2.1; 2024 (334), Sch 2[1]–[3]; 2024 (653), Sch 1[3]–[9]; 2025 (3), Sch 1; 2026 (367), Sch 1[2]–[7]; 2026 (405), Sch 1[1]–[4]. |
-| Sch 2 | Am 2022 (827), Sch 2[2]; 2023 (523), Sch 2.2[8]; 2023 (664), Sch 2.2[5]; 2024 (584), Sch 2; 2024 (594), Sch 3; 2024 (653), Sch 1[10]; 2025 (82), Sch 2[4]–[7]; 2025 (171), Sch 2; 2025 (350), Sch 2; 2025 (403), Sch 2; 2025 (423), Sch 4[2]; 2025 (617), Sch 1; 2025 (618), Sch 1[2]; 2026 (168), Sch 1; 2026 (367), Sch 1[8]; 2026 (408), Sch 5[2]; 2026 (409), Sch 3[2]; 2026 (549), Sch 2[2]. |
+| Sch 2 | Am 2022 (827), Sch 2[2]; 2023 (523), Sch 2.2[8]; 2023 (664), Sch 2.2[5]; 2024 (584), Sch 2; 2024 (594), Sch 3; 2024 (653), Sch 1[10]; 2025 (82), Sch 2[4]–[7]; 2025 (171), Sch 2; 2025 (350), Sch 2; 2025 (403), Sch 2; 2025 (423), Sch 4[2]; 2025 (617), Sch 1; 2025 (618), Sch 1[2]; 2026 (168), Sch 1; 2026 (367), Sch 1[8]; 2026 (408), Sch 5[2]; 2026 (409), Sch 3[2]; 2026 (549), Sch 2[2]; 2026 (582), Sch 2[2]. |
 | Sch 3 | Am 2022 (742), Sch 2[3]; 2023 (523), Sch 2.2[9]; 2025 (692), Sch 3; 2026 (367), Sch 1[9]–[11]. |
 | Sch 4 | Am 2023 (7), sec 3; 2023 (68), Sch 1; 2023 (97), Sch 1; 2023 (278), sec 3; 2023 (523), Sch 2.2[10]; 2025 (500), Sch 1; 2025 (652), Sch 1. |
 | Sch 5 | Am 2022 (410), Sch 1; 2022 (541), sec 3; 2022 (616), sec 3; 2022 (617), Sch 1; 2022 (655), Sch 1[1]–[6]; 2022 (774), Sch 1; 2022 (792), sec 3; 2022 (876), Sch 1[1]–[4]; 2023 (1), Sch 1[1]–[3]; 2023 (66), sec 3(1) (2); 2023 (96), Sch 1; 2023 (498), sec 3; 2024 (176), Sch 1[1]–[3]; 2024 (237), Sch 1; 2024 (238), Sch 1; 2024 (239), Sch 1; 2024 (240), Sch 1; 2024 (241), Sch 1; 2024 (242), Sch 1; 2026 (23), Sch 1; 2026 (24), Sch 1; 2026 (234), Sch 1; 2026 (366), Sch 1; 2026 (407), Sch 1[1] [2]. |

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -262,7 +262,7 @@ current_from: 2026-09-11
 - (e) if it is likely to affect a State or local heritage item or a heritage conservation area—must involve no more than minimal impact on the heritage significance of the item or area, and be in accordance with any applicable heritage conservation management plan, and
 - (f) must be installed in accordance with the manufacturer’s specifications, if applicable, and
 - (g) must not involve the removal or pruning of a tree or other vegetation that requires a permit or approval, unless the removal or pruning is undertaken in accordance with a permit or approval, and
-  > **Note—** A permit or approval may be granted under *State Environmental Planning Policy (Vegetation in Non-Rural Areas) 2017*.
+  > **Note—** A permit or approval may be granted under *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
 - (h) must not involve the removal of asbestos, unless that removal is undertaken in accordance with *Code of practice: How to safely remove asbestos* published by SafeWork NSW in December 2022, and
 - (i) must not be carried out on land that is in a declared area of outstanding biodiversity value under the *Biodiversity Conservation Act 2016* or declared critical habitat under the *Fisheries Management Act 1994*, Part 7A, and
 - (j) must not be carried out on land in a wilderness area within the meaning of the *Wilderness Act 1987*.
@@ -277,7 +277,7 @@ current_from: 2026-09-11
 
 > **Note.** A service approval is required to operate an early education and care facility that is an education and care service to which the *Children (Education and Care Services) National Law (NSW)* applies or a State regulated education and care service to which the *Children (Education and Care Services) Supplementary Provisions Act 2011* applies. Approved services are subject to various operational requirements under that legislation, including requirements for the physical environment of the approved service.
 
-**s 3.16:** Am 2024 (609), Sch 2[2].
+**s 3.16:** Am 2024 (609), Sch 2[2]; 2026 (583), Sch 9[6].
 
 ##### 3.17 Exempt development for Schedule 5 purposes carried out by public authorities in connection with educational establishments
 
@@ -311,8 +311,7 @@ current_from: 2026-09-11
 - (b) not be exempt development under this Chapter, and
 - (c) be permissible, with development consent, under an environmental planning instrument applying to the land on which the development is carried out, and
 - (d) meet the relevant provisions of the *Building Code of Australia*, and
-- (e) not involve the removal or pruning of a tree or other vegetation that requires a permit or approval, unless the removal or pruning is undertaken in accordance with a permit or approval, and
-  > **Note—** A permit or approval may be granted under *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+- (e) not involve clearing vegetation with the meaning of *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2, unless the clearing is authorised by and done in accordance with that policy, and
 - (f) not be carried out within 1 metre of any public sewer, if the development comprises the erection of a building, except with the written approval of the authority that has management or control of that sewer, and
 - (g) if it is on land that is—
   - (i) within or above a rail corridor or interim rail corridor, or
@@ -350,7 +349,7 @@ current_from: 2026-09-11
 
 > **Note 2.** *State Environmental Planning Policy (Planning Systems) 2021*, Schedule 1, section 15(2) declares to be State significant development, development that has an estimated development cost of more than $50 million for the purposes of the erection of a building, or alterations or additions to an existing building, at an existing school.
 
-**s 3.18:** Am 2022 (629), Sch 3.19[5]; 2023 (523), Sch 2.8[3]–[7]; 2025 (692), Sch 1[91].
+**s 3.18:** Am 2022 (629), Sch 3.19[5]; 2023 (523), Sch 2.8[3]–[7]; 2025 (692), Sch 1[91]; 2026 (583), Sch 9[7].
 
 ##### 3.19 Land on which complying development may not be carried out—bush fire prone land
 
@@ -369,13 +368,33 @@ current_from: 2026-09-11
 
 **s 3.19:** Am 2024 (585), Sch 1[14].
 
-##### 3.20 Development affecting certain trees or vegetation
+##### 3.20 Development affecting vegetation
 
-Complying development under this Chapter is not required to satisfy the requirements of section 3.18(2)(e), to the extent that it relates to a permit or approval required under an environmental planning instrument, in respect of the removal or pruning of a tree or other vegetation if—
+(1) Despite section 3.18(2)(e) and *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, section 2.6, a permit issued under *State Environmental Planning Policy (Biodiversity and Conservation) 2021* to clear vegetation is not required for complying development under Division 5 if the development is authorised by a complying development certificate.
 
-- (a) in the case of any tree, it is not listed as a significant tree on a register kept by the council, and
-- (b) the tree or vegetation is within 3 metres of the development, and
-- (c) the tree or vegetation has a height that is less than 8 metres.
+(2) A complying development certificate may authorise clearing vegetation for complying development if—
+
+- (a) the vegetation is not listed on a register of significant trees kept by the council, and
+- (b) the vegetation has a height of less than 6m, and
+- (c) the vegetation, whether living or dead, does not have a hollow that—
+  - (i) can be seen, and
+  - (ii) has a width of at least 5cm, and
+  - (iii) appears to have depth, and
+  - (iv) is at least 1m above the ground, and
+- (d) the vegetation is within 3m of the development, and
+- (e) the clearing does not exceed the biodiversity offsets scheme threshold within the meaning of *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2, and
+- (f) vegetation is planted to replace the cleared vegetation that meets the following requirements—
+  - (i) if a development control plan applies to the land and sets requirements for replanting cleared vegetation—the replacement vegetation complies with the requirements or alternative action is undertaken as agreed with the council,
+  - (ii) if a development control plan that sets requirements for replanting cleared vegetation does not apply to the land and a tree was cleared—the replacement tree must be capable of achieving a height of at least 5m at maturity,
+  - (iii) if a development control plan that sets requirements for replanting cleared vegetation does not apply to the land and vegetation other than a tree was cleared—the replacement vegetation must be similar in size, at maturity, to the vegetation cleared.
+
+(3) In this section—
+
+***clear*** vegetation has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+***vegetation*** has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+**s 3.20:** Subst 2026 (583), Sch 9[8].
 
 ##### 3.20A Development affecting heritage item or heritage conservation area
 

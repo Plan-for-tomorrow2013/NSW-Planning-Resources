@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -365,7 +365,7 @@ The objectives of this Part are as follows—
 - (b) the development is in a cemetery or burial ground and the proposed development—
   - (i) is the creation of a new grave or monument, or excavation or disturbance of land for the purpose of conserving or repairing monuments or grave markers, and
   - (ii) would not cause disturbance to human remains, relics, Aboriginal objects in the form of grave goods, or to an Aboriginal place of heritage significance, or
-- (c) the development is limited to the removal of a tree or other vegetation that the Council is satisfied is a risk to human life or property, or
+- (c) the development is limited to the removal of vegetation authorised in writing by the Council that the Council is satisfied poses an imminent risk to human life or habitable property, or
 - (d) the development is exempt development.
 
 #### 15 Heritage conservation

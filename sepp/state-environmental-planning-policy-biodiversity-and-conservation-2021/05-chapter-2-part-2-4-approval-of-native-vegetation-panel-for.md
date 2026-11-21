@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -31,7 +31,7 @@ current_from: 2026-08-07
 (4) An approval may only be granted under this Part if the land is being cleared for a purpose specified in the application for approval and—
 
 - (a) the land can be used for that purpose without—
-  - (i) development consent, other than a complying development certificate, or
+  - (i) development consent, or
   - (ii) State significant infrastructure approval under the Act, and
 - (b) the clearing of the land is not part of an activity that is carried out by, or that requires the approval of, a determining authority within the meaning of Part 5 of the Act.
 
@@ -54,6 +54,8 @@ The Native Vegetation Panel is also to take into consideration any biodiversity 
 (10) An approval under this Part may be granted subject to a condition that any development consent that authorises the clearing of native vegetation on the land is surrendered under the Act. Any such development consent may be granted subject to a condition that any approval under this Part is surrendered.
 
 (11) An application for approval under this Part may be made jointly by or on behalf of a group of landholders. In that case, the application is to be assessed and determined under this Part having regard to the whole area that is the subject of the application.
+
+**s 2.14:** Am 2026 (583), Sch 1[14].
 
 #### 2.15 Biodiversity development assessment report and retirement of biodiversity credits
 

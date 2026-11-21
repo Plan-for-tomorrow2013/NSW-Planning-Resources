@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -33,12 +33,14 @@ current_from: 2026-08-07
   - (i) does not include any trees belonging to the koala use tree species listed in Schedule 3 for the relevant koala management area, or
   - (ii) is not core koala habitat, or
 - (b) information the council is satisfied demonstrates that the land subject of the development application—
-  - (i) does not include any trees with a diameter at breast height over bark of more than 10 centimetres, or
+  - (i) does not include any trees with a diameter at standard height over bark of more than 10 centimetres, or
   - (ii) includes only horticultural or agricultural plantations.
 
 (6) In this section—
 
 ***koala assessment report***, for development, means a report prepared by a suitably qualified and experienced person about the likely and potential impacts of the development on koalas or koala habitat and the proposed management of those impacts.
+
+**s 4.9:** Am 2026 (583), Sch 1[15].
 
 #### 4.10 Development assessment process—other land
 

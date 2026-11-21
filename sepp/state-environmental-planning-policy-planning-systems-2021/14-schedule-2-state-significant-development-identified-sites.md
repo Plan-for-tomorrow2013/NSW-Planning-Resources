@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Planning Systems) 2021"
 document_id: epi-2021-0724
-current_from: 2026-10-02
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Planning Systems) 2021
@@ -203,4 +203,11 @@ Development on land identified as “Coffs Harbour Jetty Foreshore Precinct” o
 - (a) is for the purposes of a principal subdivision establishing major lots, or
 - (b) has an estimated development cost of more than $30 million.
 
-**sch 2:** Am 2022 (827), Sch 2[2]; 2023 (523), Sch 2.2[8]; 2023 (664), Sch 2.2[5]; 2024 (584), Sch 2; 2024 (594), Sch 3; 2024 (653), Sch 1[10]; 2025 (82), Sch 2[4]–[7]; 2025 (171), Sch 2; 2025 (350), Sch 2; 2025 (403), Sch 2; 2025 (423), Sch 4[2]; 2025 (617), Sch 1; 2025 (618), Sch 1[2]; 2026 (168), Sch 1; 2026 (367), Sch 1[8]; 2026 (408), Sch 5[2]; 2026 (409), Sch 3[2]; 2026 (549), Sch 2[2].
+### 29 Development in Macquarie Coal Complex and Mt Arthur Coal Mine Land Transformation Precincts
+
+Development on land identified as the following on the *State Significant Development Sites Map—Post Mining Land Transformation Precincts* with an estimated development cost of at least $30 million—
+
+- (a) “Macquarie Coal Complex Land Transformation Precinct”,
+- (b) “Mt Arthur Coal Mine Land Transformation Precinct”.
+
+**sch 2:** Am 2022 (827), Sch 2[2]; 2023 (523), Sch 2.2[8]; 2023 (664), Sch 2.2[5]; 2024 (584), Sch 2; 2024 (594), Sch 3; 2024 (653), Sch 1[10]; 2025 (82), Sch 2[4]–[7]; 2025 (171), Sch 2; 2025 (350), Sch 2; 2025 (403), Sch 2; 2025 (423), Sch 4[2]; 2025 (617), Sch 1; 2025 (618), Sch 1[2]; 2026 (168), Sch 1; 2026 (367), Sch 1[8]; 2026 (408), Sch 5[2]; 2026 (409), Sch 3[2]; 2026 (549), Sch 2[2]; 2026 (582), Sch 2[2].

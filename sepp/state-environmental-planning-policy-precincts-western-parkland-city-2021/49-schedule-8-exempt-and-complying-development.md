@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -19,4 +19,4 @@ current_from: 2026-07-17
 | Drainage | No 5 (a) (with lettering “Drainage”) under *Blacktown Local Environmental Plan 1988* | No 6 (a) under *Penrith Local Environmental Plan 1998 (Urban Land)* |
 | Regional Open Space | No 6 (c) under *Blacktown Local Environmental Plan 1988* | No 6 (d) under *Penrith Local Environmental Plan 1998 (Urban Land)* |
 
-**Appendix 8:** Am 2022 (461), Sch 2.2[9]–[14]; 2022 (835), Sch 4[24]; 2023 (120), Sch 2[8]–[10]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.36[3] [4]; 2024 (92), Sch 1[2]–[7]; 2026 (286), Sch 1.8[23] [24].
+**Appendix 8:** Am 2022 (461), Sch 2.2[9]–[14]; 2022 (835), Sch 4[24]; 2023 (120), Sch 2[8]–[10]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.36[3] [4]; 2024 (92), Sch 1[2]–[7]; 2026 (286), Sch 1.8[23] [24]; 2026 (583), Sch 8[23].

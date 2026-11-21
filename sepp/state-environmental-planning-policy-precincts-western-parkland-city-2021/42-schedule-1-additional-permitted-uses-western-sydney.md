@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -59,6 +59,6 @@ Development for the purposes of exhibition homes is permitted with development c
 
 [Repealed]
 
-**Appendix 1:** Am 2022 (835), Sch 4[23]; 2023 (524), Sch 1.2[2]; 2023 (609), Sch 2.21[16]–[18]; 2024 (92), Sch 1[2]; 2026 (286), Sch 1.8[15].
+**Appendix 1:** Am 2022 (835), Sch 4[23]; 2023 (524), Sch 1.2[2]; 2023 (609), Sch 2.21[16]–[18]; 2024 (92), Sch 1[2]; 2026 (286), Sch 1.8[15]; 2026 (583), Sch 8[9] [10].
 
 **sch 1:** Am 2022 (112), Sch 1.1[51]; 2022 (206), cl 4(2); 2026 (213), Sch 1[2].

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -41,6 +41,6 @@ section 5.17A
 
 (2) Development for the purposes of a heliport is permitted with development consent.
 
-**Appendix 4:** Am 2022 (181), cl 5; 2022 (835), Sch 4[24]; 2023 (524), Sch 1.2[1]; 2024 (92), Sch 1[2]; 2026 (6), Sch 1[1]–[3]; 2026 (175), Sch 1; 2026 (286), Sch 1.8[18]; 2026 (312), Sch 1[5].
+**Appendix 4:** Am 2022 (181), cl 5; 2022 (835), Sch 4[24]; 2023 (524), Sch 1.2[1]; 2024 (92), Sch 1[2]; 2026 (6), Sch 1[1]–[3]; 2026 (175), Sch 1; 2026 (286), Sch 1.8[18]; 2026 (312), Sch 1[5]; 2026 (583), Sch 8[13]–[15].
 
 **sch 4:** Subst 2023 (369), Sch 1[6].

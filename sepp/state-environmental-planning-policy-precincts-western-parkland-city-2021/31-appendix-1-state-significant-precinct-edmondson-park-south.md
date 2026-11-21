@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -510,9 +510,9 @@ If development for the purposes of a secondary dwelling is permitted under this 
 
 (4) The refusal by the relevant council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the relevant council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the relevant council is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the relevant council.
 
-(6) This section does not apply to a tree or other vegetation that the relevant council is satisfied is a risk to human life or property.
+(6) The relevant council must not give a written authorisation under subsection (5) unless the council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property, or
 
 (7) A permit under this section cannot allow any ringbarking, cutting down, topping, lopping, removal, injuring or destruction of a tree or other vegetation—
 
@@ -593,7 +593,7 @@ However, consent under this section is not required if—
 - (b) the development is in a cemetery or burial ground and the proposed development—
   - (i) is the creation of a new grave or monument, or excavation or disturbance of land for the purpose of conserving or repairing monuments or grave markers, and
   - (ii) would not cause disturbance to human remains, relics, Aboriginal objects in the form of grave goods, or to a place of Aboriginal heritage significance, or
-- (c) the development is limited to the removal of a tree or other vegetation that the relevant council is satisfied is a risk to human life or property, or
+- (c) the development is limited to the removal of vegetation authorised in writing by the relevant council that the council is satisfied poses an imminent risk to human life or habitable property, or
 - (d) the development is exempt development.
 
 **(4) Effect on heritage significance**

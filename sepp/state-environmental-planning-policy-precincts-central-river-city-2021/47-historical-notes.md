@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -33,6 +33,7 @@ current_from: 2026-09-01
 | **2026** | (133) | *State Environmental Planning Policy (Precincts—Central River City) Amendment (Sydney Olympic Park Master Plan 2050) 2026*. LW 1.4.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (286) | *State Environmental Planning Policy Amendment (Concurrences and Consultations) 2026*. LW 19.6.2026. Date of commencement, 1.7.2026, sec 2. |
 |  | (464) | *State Environmental Planning Policy Amendment (Community Participation Plans) 2026*. LW 24.8.2026. Date of commencement, 1.9.2026, sec 2. |
+|  | (583) | *State Environmental Planning Policy Amendment (Vegetation) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
@@ -61,10 +62,11 @@ current_from: 2026-09-01
 | Sec 3.26 | Am 2022 (835), Sch 1[4]. |
 | Sec 3.27 | Am 2022 (835), Sch 1[17]–[20]. |
 | Sec 3.28 | Am 2022 (835), Sch 1[21]–[23]. |
+| Sec 3.29 | Am 2026 (583), Sch 5[1]–[3]. |
 | Sec 4.25 | Am 2026 (286), Sch 1.5[6]. |
 | Sec 5.4 | Am 2024 (63), Sch 1[2] [3]. |
 | Sec 5.7A | Ins 2023 (524), Sch 2.1[4]. |
-| Sec 5.31 | Am 2024 (63), Sch 1[4] [5]. |
+| Sec 5.31 | Am 2024 (63), Sch 1[4] [5]; 2026 (583), Sch 5[4]. |
 | Sec 5.35 | Am 2023 (524), Sch 1.2[1]. |
 | Sec 5.45 | Am 2023 (83), Sch 2.4[1] [2]. |
 | Sec 5.52 | Ins 2022 (629), Sch 3.13. |
@@ -75,17 +77,17 @@ current_from: 2026-09-01
 | Appendix 3, heading | Subst 2022 (835), Sch 1[26]. |
 | Appendix 3 | Am 2023 (524), Sch 1.2[2]. |
 | Appendix 4, heading | Subst 2022 (835), Sch 1[27]. Am 2023 (698), Sch 2.2[1] [2]. |
-| Appendix 4 | Am 2022 (372), Sch 1[1]–[3]; 2023 (524), Sch 1.2[2]; 2023 (554), Sch 2.33; 2026 (133), Sch 1[2]–[18]; 2026 (286), Sch 1.5[7]; 2026 (464), Sch 1[1]. |
-| Appendix 5 | Am 2022 (166), cl 5(1) (2); 2022 (204), cl 4(1) (2); 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[6]; 2026 (286), Sch 1.5[8]. |
-| Appendix 6 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]. |
-| Appendix 7 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (584), Sch 1[2]; 2025 (692), Sch 4[1]; 2026 (286), Sch 1.5[9]. |
-| Appendix 8 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]. |
-| Appendix 9 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (692), Sch 4[2]; 2026 (286), Sch 1.5[10]. |
-| Appendix 10 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7] [8]; 2026 (286), Sch 1.5[11]. |
-| Appendix 11 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (237), Sch 1[2]; 2025 (692), Sch 4[3]; 2026 (286), Sch 1.5[12]. |
-| Appendix 12 | Am 2022 (645), cl 5; 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2026 (286), Sch 1.5[13]. |
-| Appendix 13 | Ins 2022 (835), Sch 4[25] (transferred and renumbered from *State Environmental Planning Policy (Precincts—Western Parkland City) 2021*, Appendix 3). Am 2022 (835), Sch 1[29]; 2023 (458), Sch 3.4[2]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (692), Sch 4[4]. |
-| Appendix 14 | Ins 2025 (237), Sch 1[3]. |
+| Appendix 4 | Am 2022 (372), Sch 1[1]–[3]; 2023 (524), Sch 1.2[2]; 2023 (554), Sch 2.33; 2026 (133), Sch 1[2]–[18]; 2026 (286), Sch 1.5[7]; 2026 (464), Sch 1[1]; 2026 (583), Sch 5[5]. |
+| Appendix 5 | Am 2022 (166), cl 5(1) (2); 2022 (204), cl 4(1) (2); 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[6]; 2026 (286), Sch 1.5[8]; 2026 (583), Sch 5[6]–[17]. |
+| Appendix 6 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2026 (583), Sch 5[7]–[13] [18]. |
+| Appendix 7 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (584), Sch 1[2]; 2025 (692), Sch 4[1]; 2026 (286), Sch 1.5[9]; 2026 (583), Sch 5[7]–[15] [18]. |
+| Appendix 8 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2026 (583), Sch 5[7]–[14] [18]. |
+| Appendix 9 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (692), Sch 4[2]; 2026 (286), Sch 1.5[10]; 2026 (583), Sch 5[7]–[15] [18]. |
+| Appendix 10 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7] [8]; 2026 (286), Sch 1.5[11]; 2026 (583), Sch 5[6]–[15] [18]. |
+| Appendix 11 | Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (237), Sch 1[2]; 2025 (692), Sch 4[3]; 2026 (286), Sch 1.5[12]; 2026 (583), Sch 5[7]–[15] [18]. |
+| Appendix 12 | Am 2022 (645), cl 5; 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2026 (286), Sch 1.5[13]; 2026 (583), Sch 5[15]. |
+| Appendix 13 | Ins 2022 (835), Sch 4[25] (transferred and renumbered from *State Environmental Planning Policy (Precincts—Western Parkland City) 2021*, Appendix 3). Am 2022 (835), Sch 1[29]; 2023 (458), Sch 3.4[2]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (692), Sch 4[4]; 2026 (583), Sch 5[7]–[14] [18]. |
+| Appendix 14 | Ins 2025 (237), Sch 1[3]. Am 2026 (583), Sch 5[15] [19]. |
 | Sch 1, heading | Am 2024 (63), Sch 1[9]. |
 | Sch 1 | Am 2024 (63), Sch 1[10]. |
 | Sch 2, heading | Am 2024 (63), Sch 1[11]. |

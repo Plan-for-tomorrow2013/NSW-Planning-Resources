@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -31,4 +31,4 @@ current_from: 2026-09-01
 | ****6 Community advertising**** | - (a) A permanent fixed sign must not exceed 1.5m<sup>2</sup> in area and must not be higher than 3m above the ground or pavement level. - (b) A temporary sign may not display an advertisement for more than 7 consecutive days or for a total of more than 28 days in any year. |
 | ****Outdoor eating areas**** | - (a) Must comply with the approved development control plan for Outdoor Eating Areas. - (b) A licence for the activity must be obtained from the Council before any outdoor eating activities are undertaken. |
 
-**Appendix 13:** Ins 2022 (835), Sch 4[25] (transferred and renumbered from State Environmental Planning Policy (Precincts—Western Parkland City) 2021, Appendix 3). Am 2022 (835), Sch 1[29]; 2023 (458), Sch 3.4[2]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (692), Sch 4[4].
+**Appendix 13:** Ins 2022 (835), Sch 4[25] (transferred and renumbered from State Environmental Planning Policy (Precincts—Western Parkland City) 2021, Appendix 3). Am 2022 (835), Sch 1[29]; 2023 (458), Sch 3.4[2]; 2023 (524), Sch 1.2[1]; 2024 (63), Sch 1[7]; 2025 (692), Sch 4[4]; 2026 (583), Sch 5[7]–[14] [18].

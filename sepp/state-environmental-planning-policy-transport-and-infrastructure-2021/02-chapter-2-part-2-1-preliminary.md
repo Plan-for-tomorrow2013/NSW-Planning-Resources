@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -27,6 +27,8 @@ The aim of this Chapter is to facilitate the effective delivery of infrastructur
 #### 2.2 Land to which Chapter applies
 
 Except as otherwise provided by this Chapter, this Chapter applies to the State.
+
+**s 2.2:** Am 2026 (583), Sch 9[1].
 
 #### 2.3 Interpretation—general
 

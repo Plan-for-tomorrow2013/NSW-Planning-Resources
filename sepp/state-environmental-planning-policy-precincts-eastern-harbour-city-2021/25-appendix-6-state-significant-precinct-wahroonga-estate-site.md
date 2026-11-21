@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -250,15 +250,16 @@ Bush fire hazard reduction work authorised by the *Rural Fires Act 1997* may be 
 
 (4) The refusal by Hornsby Council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by Hornsby Council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree that Hornsby Council is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by Hornsby Council.
 
-(6) This section does not apply to a tree that Hornsby Council is satisfied is a risk to human life or property.
+(6) Hornsby Council must not give written authorisation under subsection (5) unless Hornsby Council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (8) This section does not apply to or in respect of—
 
-- (a) the clearing of native vegetation that is authorised by a development consent or property vegetation plan under the *Native Vegetation Act 2003* or that is otherwise permitted under Division 2 or 3 of Part 3 of that Act, or
+- (a) clearing vegetation that is authorised by a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (a1) clearing vegetation that is authorised by a development consent within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
 - (b) action required or authorised to be done by or under the *Electricity Supply Act 1995*, the *Roads Act 1993* or the *Surveying Act 2002*, or
-- (c) plants declared to be noxious weeds under the *Noxious Weeds Act 1993*.
+- (c) clearing vegetation that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2.
 
 #### 25 Public utility infrastructure
 

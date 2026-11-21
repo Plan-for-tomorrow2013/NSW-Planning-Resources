@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -66,6 +66,6 @@ Items identified in the Heritage Items Site Identification Manual and known as�
 
 The area identified in the Heritage Items Site Identification Manual containing the heritage items 1 to 8 inclusive.
 
-**Appendix 4:** Am 2022 (372), Sch 1[1]–[3]; 2023 (524), Sch 1.2[2]; 2023 (554), Sch 2.33; 2026 (133), Sch 1[2]–[18]; 2026 (286), Sch 1.5[7]; 2026 (464), Sch 1[1].
+**Appendix 4:** Am 2022 (372), Sch 1[1]–[3]; 2023 (524), Sch 1.2[2]; 2023 (554), Sch 2.33; 2026 (133), Sch 1[2]–[18]; 2026 (286), Sch 1.5[7]; 2026 (464), Sch 1[1]; 2026 (583), Sch 5[5].
 
 **sch 4:** Subst 2024 (63), Sch 1[16].

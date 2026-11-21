@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Regional) 2021"
 document_id: epi-2021-0727
-current_from: 2026-07-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Regional) 2021
@@ -31,9 +31,11 @@ current_from: 2026-07-01
 - (a) be installed in accordance with the manufacturer’s specifications, if applicable, and
 - (b) not involve the removal, pruning or other clearing of vegetation that requires a permit, development consent or other approval unless it is undertaken in accordance with a permit, development consent or other approval.
 
-> **Note.** See *State Environmental Planning Policy (Vegetation in Non-Rural Areas) 2017* and Part 5A of the *Local Land Services Act 2013*.
+> **Note.** See *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2 and Part 5A of the *Local Land Services Act 2013*.
 
 (6) A heading to an item in Schedule 6 is part of that Schedule.
+
+**s 5.19:** Am 2026 (583), Sch 7[2].
 
 #### 5.20 Complying development
 

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -22,4 +22,4 @@ Upper Castlereagh School and Residence, part portion 54, Parish of Castlereagh, 
 
 Methodist Cemetery, part portion 71, Parish of Castlereagh, County of Cumberland (shown as Heritage Item No 6 on the structure plan).
 
-**Appendix 6:** Am 2022 (835), Sch 4[24]; 2023 (524), Sch 1.2[1]; 2023 (609), Sch 2.21[19]–[21]; 2024 (92), Sch 1[2]; 2026 (286), Sch 1.8[20].
+**Appendix 6:** Am 2022 (835), Sch 4[24]; 2023 (524), Sch 1.2[1]; 2023 (609), Sch 2.21[19]–[21]; 2024 (92), Sch 1[2]; 2026 (286), Sch 1.8[20]; 2026 (583), Sch 8[19]–[21].

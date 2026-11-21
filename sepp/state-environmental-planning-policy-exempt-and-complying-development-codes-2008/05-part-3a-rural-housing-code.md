@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Exempt and Complying Development Codes) 2008"
 document_id: epi-2008-0572
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Exempt and Complying Development Codes) 2008
@@ -108,17 +108,30 @@ is not development specified for this code.
 
 **pt 3A, div 2:** Ins 2010 (656), Sch 1 [120].
 
-#### 3A.7 When separate permits are not required under this Part
+#### 3A.7 When separate permits are not required under this part
 
-A complying development certificate for complying development under Division 1 is taken to satisfy any requirement under this Policy for a permit, approval or development consent to remove or prune a tree or other vegetation on a lot if—
+(1) Despite clause 1.18(1)(h) and *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, section 2.6, a permit issued under *State Environmental Planning Policy (Biodiversity and Conservation) 2021* to clear vegetation is not required for complying development under Division 1 if the development is authorised by a complying development certificate.
 
-- (a) the tree is not listed on a significant tree register or register of significant trees kept by the council, and
-- (b) the tree or vegetation will be within 3m of development that is a building that has an area of more than 25m<sup>2</sup>, and
-- (c) the tree or vegetation has a height that is less than—
-  - (i) for development that is the erection of a new dwelling house—8m and is not required to be retained as a condition of consent to the subdivision of the lot, or
-  - (ii) for any other development—6m.
+(2) A complying development certificate may authorise clearing vegetation for complying development if—
 
-**cl 3A.7:** Ins 2010 (656), Sch 1 [120]. Subst 2013 (706), Sch 1 [136]. Am 2021 (545), Sch 2[1].
+- (a) the vegetation has a height of less than 6m, and
+- (b) the vegetation, whether living or dead, does not have a hollow that—
+  - (i) can be seen, and
+  - (ii) has a width of at least 5cm, and
+  - (iii) appears to have depth, and
+  - (iv) is at least 1m above the ground, and
+- (c) the development involves the erection of at least one new dwelling with an area of at least 25m<sup>2</sup>, and
+- (d) the vegetation is within 3m of the dwelling.
+
+(3) A certifier may only issue a complying development certificate that authorises clearing vegetation if the certifier is satisfied the vegetation will be replaced in accordance with the following requirements before an occupation certificate is issued for the dwelling—
+
+- (a) if a development control plan applies to the land that specifies requirements relating to replanting vegetation—the vegetation will be replaced in accordance with the requirements,
+- (b) otherwise—the vegetation will be replaced by vegetation that—
+  - (i) is similar in size, at maturity, to the cleared vegetation, and
+  - (ii) is native vegetation within the meaning of the *Local Land Services Act 2013*, Part 5A, and
+  - (iii) for a tree—is capable of achieving a height of at least 5m at maturity.
+
+**cl 3A.7:** Ins 2010 (656), Sch 1 [120]. Subst 2013 (706), Sch 1 [136]. Am 2021 (545), Sch 2[1]. Subst 2026 (583), Sch 2[9].
 
 ### Division 3 Development standards for this code
 

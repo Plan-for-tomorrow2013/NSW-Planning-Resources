@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -29,17 +29,18 @@ current_from: 2026-09-01
 
 #### 3.29 Vegetation to which Part applies
 
-(1) This Part applies to native vegetation within the meaning of the *Native Vegetation Act 2003*.
+(1) This Part applies to native vegetation within the meaning of the *Local Land Services Act 2013*, Part 5A.
 
-(2) This Part does not apply to any particular native vegetation that the council of the area concerned is satisfied—
+(2) This part does not apply to the clearing of native vegetation that is authorised in writing by the council of the area concerned.
 
-- (a) is dying or dead and is not required as the habitat of native fauna, or
-- (b) is a risk to human life or property.
+(2A) A council must not give written authorisation under subsection (2) unless the council is satisfied the native vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (3) This Part does not apply to any native vegetation—
 
 - (a) within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
-- (b) declared to be noxious weeds under the *Noxious Weeds Act 1993*.
+- (b) that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2.
+
+**s 3.29:** Am 2026 (583), Sch 5[1]–[3].
 
 #### 3.30 Consent for clearing native vegetation
 

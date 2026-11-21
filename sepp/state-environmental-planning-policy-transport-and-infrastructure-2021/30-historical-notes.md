@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -56,12 +56,14 @@ current_from: 2026-09-11
 |  | (343) | *State Environmental Planning Policy (Transport and Infrastructure) Amendment 2026*. LW 3.7.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (408) | *State Environmental Planning Policy Amendment (Cherrybrook Station Precinct) 2026*. LW 7.8.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (511) | *Newcastle Local Environmental Plan Amendment (Transport and Infrastructure) 2026*. LW 11.9.2026. Date of commencement, on publication on LW, cl 2. |
+|  | (583) | *State Environmental Planning Policy Amendment (Vegetation) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
 |  |  |
 |---|---|
 | Sec 1.3 | Am 2024 (585), Sch 1[1]; 2025 (291), Sch 3[1]; 2025 (692), Sch 1[1]; 2026 (343), Sch 1[1]. |
+| Sec 2.2 | Am 2026 (583), Sch 9[1]. |
 | Sec 2.3 | Am 2023 (523), Sch 2.8[1]; 2023 (609), Sch 2.22[1]; 2024 (654), Sch 1[1]. |
 | Sec 2.4 | Am 2022 (517), Sch 1[1]. Subst 2025 (692), Sch 1[2]. |
 | Sec 2.7 | Am 2024 (654), Sch 1[2]–[7]; 2025 (692), Sch 1[3] [4]. |
@@ -114,7 +116,7 @@ current_from: 2026-09-11
 | Sec 2.62A | Ins 2024 (585), Sch 1[11]. Am 2026 (343), Sch 1[3]. |
 | Sec 2.63 | Am 2022 (742), Sch 1[5]; 2025 (291), Sch 3[2]; 2025 (692), Sch 1[46]. |
 | Sec 2.63A | Ins 2022 (132), Sch 1[7]. Rep 2024 (585), Sch 1[12]. |
-| Sec 2.64 | Am 2025 (692), Sch 1[47]. |
+| Sec 2.64 | Am 2025 (692), Sch 1[47]; 2026 (583), Sch 9[2]. |
 | Sec 2.69 | Am 2022 (826), Sch 1.3[1] [2]; 2025 (423), Sch 5; 2025 (692), Sch 1[48]. |
 | Sec 2.70 | Am 2022 (528), sec 4(1). |
 | Sec 2.70A | Ins 2022 (826), Sch 1.3[3]. |
@@ -209,7 +211,7 @@ current_from: 2026-09-11
 | Sec 2.175 | Ins 2024 (505), Sch 1[1]. |
 | Part 2.3, Div 29, Subdiv 3 | Ins 2024 (505), Sch 1[1]. |
 | Sec 2.176 | Ins 2024 (505), Sch 1[1]. |
-| Sec 2.177 | Ins 2024 (505), Sch 1[1]. |
+| Sec 2.177 | Ins 2024 (505), Sch 1[1]. Am 2026 (583), Sch 9[3]–[5]. |
 | Sec 2.178 | Ins 2024 (505), Sch 1[1]. |
 | Sec 2.179 | Ins 2024 (505), Sch 1[1]. |
 | Part 2.3, Div 30 | Ins 2025 (692), Sch 1[87]. |
@@ -222,10 +224,11 @@ current_from: 2026-09-11
 | Sec 3.10 | Am 2023 (609), Sch 2.22[4]. |
 | Sec 3.12 | Am 2026 (343), Sch 1[6]. |
 | Sec 3.15 | Am 2022 (517), Sch 1[2] [3]. |
-| Sec 3.16 | Am 2024 (609), Sch 2[2]. |
+| Sec 3.16 | Am 2024 (609), Sch 2[2]; 2026 (583), Sch 9[6]. |
 | Sec 3.17 | Am 2022 (742), Sch 1[14]; 2025 (291), Sch 3[3]; 2025 (692), Sch 1[89] [90]. |
-| Sec 3.18 | Am 2022 (629), Sch 3.19[5]; 2023 (523), Sch 2.8[3]–[7]; 2025 (692), Sch 1[91]. |
+| Sec 3.18 | Am 2022 (629), Sch 3.19[5]; 2023 (523), Sch 2.8[3]–[7]; 2025 (692), Sch 1[91]; 2026 (583), Sch 9[7]. |
 | Sec 3.19 | Am 2024 (585), Sch 1[14]. |
+| Sec 3.20 | Subst 2026 (583), Sch 9[8]. |
 | Sec 3.20A | Ins 2026 (343), Sch 1[7]. |
 | Sec 3.21 | Am 2022 (517), Sch 1[4]; 2023 No 35, Sch 4.40. |
 | Sec 3.22 | Rep 2026 (286), Sch 1.11[6]. |
@@ -240,7 +243,7 @@ current_from: 2026-09-11
 | Sec 3.39 | Am 2022 (742), Sch 1[16] [17]; 2024 (115), Sch 1[6]; 2024 (585), Sch 1[29]–[33]; 2025 (291), Sch 3[4]; 2025 (692), Sch 1[95]–[98]. |
 | Sec 3.40 | Am 2022 (742), Sch 1[16] [17]; 2024 (115), Sch 1[7]–[9]; 2024 (585), Sch 1[34]–[37]; 2025 (692), Sch 1[99]. |
 | Sec 3.41 | Am 2022 (742), Sch 1[16]. |
-| Sec 3.42 | Am 2025 (692), Sch 1[100] [101]. |
+| Sec 3.42 | Am 2025 (692), Sch 1[100] [101]; 2026 (583), Sch 9[9]. |
 | Sec 3.43A | Ins 2025 (692), Sch 1[102]. |
 | Sec 3.44 | Am 2022 (517), Sch 1[6]; 2022 (727), Sch 1[33] [34]. |
 | Sec 3.46 | Am 2024 (654), Sch 1[46]. |
@@ -288,9 +291,9 @@ current_from: 2026-09-11
 | Sec 5.26A | Ins 2026 (512), Sch 1[1]. |
 | Sec 5.27 | Am 2023 (523), Sch 2.8[13]. |
 | Sec 5.28 | Am 2023 (523), Sch 2.8[13]. |
-| Sec 5.29 | Am 2022 (373), Sch 1[6] [28]–[33]. |
+| Sec 5.29 | Am 2022 (373), Sch 1[6] [28]–[33]; 2026 (583), Sch 9[10]–[20]. |
 | Sec 5.30 | Am 2022 (373), Sch 1[6] [32] [34]. |
-| Sec 5.31 | Am 2022 (373), Sch 1[35] [36]; 2022 (517), Sch 1[19] [20]; 2025 (618), Sch 3[3]; 2025 (692), Sch 1[135]. |
+| Sec 5.31 | Am 2022 (373), Sch 1[35] [36]; 2022 (517), Sch 1[19] [20]; 2025 (618), Sch 3[3]; 2025 (692), Sch 1[135]; 2026 (583), Sch 9[21]. |
 | Chapter 6 | Ins 2022 (248), Sch 1[1]. |
 | Part 6.1 | Ins 2022 (248), Sch 1[1]. |
 | Sec 6.1 | Ins 2022 (248), Sch 1[1]. |

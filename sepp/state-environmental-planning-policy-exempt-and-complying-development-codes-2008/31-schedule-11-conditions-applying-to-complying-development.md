@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Exempt and Complying Development Codes) 2008"
 document_id: epi-2008-0572
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Exempt and Complying Development Codes) 2008

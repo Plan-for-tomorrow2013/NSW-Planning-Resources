@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -29,9 +29,9 @@ For the purposes of section 3.15 of the Act, the corporation will be the relevan
 
 (4) The refusal by the council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the council is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the council.
 
-(6) This section does not apply to a tree or other vegetation that the council is satisfied is a risk to human life or property.
+(6) The council must not give a written authorisation under subsection (5) unless the council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (7) A permit under this section cannot allow any ringbarking, cutting down, topping, lopping, removal, injuring or destruction of a tree or other vegetation that is or forms part of a heritage item unless the council is satisfied that the proposed activity—
 
@@ -51,6 +51,8 @@ For the purposes of section 3.15 of the Act, the corporation will be the relevan
 - (e) plants declared to be noxious weeds under the *Noxious Weeds Act 1993*.
 
 > **Note.** Part 6 of *State Environmental Planning Policy (Sydney Region Growth Centres) 2006* applies to land under this Chapter that is in an environmental conservation area shown on the *Environmental Conservation Areas Map* and in a growth centre (within the meaning of that Policy). That Part provides that a person must not clear native vegetation on any such land without approval under Part 3A of the Act (as continued by Schedule 6A to the Act) or development consent.
+
+**s 7.21:** Am 2026 (583), Sch 8[8].
 
 #### 7.22 Bush fire hazard reduction
 

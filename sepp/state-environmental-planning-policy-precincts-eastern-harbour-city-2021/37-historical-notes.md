@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -33,6 +33,7 @@ current_from: 2026-09-01
 |  | (610) | *State Environmental Planning Policy (Precincts—Eastern Harbour City) Amendment (Barangaroo Modification) 2025*. LW 7.11.2025. Date of commencement, on publication on LW, sec 2. |
 | **2026** | (286) | *State Environmental Planning Policy Amendment (Concurrences and Consultations) 2026*. LW 19.6.2026. Date of commencement, 1.7.2026, sec 2. |
 |  | (464) | *State Environmental Planning Policy Amendment (Community Participation Plans) 2026*. LW 24.8.2026. Date of commencement, 1.9.2026, sec 2. |
+|  | (583) | *State Environmental Planning Policy Amendment (Vegetation) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
@@ -68,16 +69,16 @@ current_from: 2026-09-01
 | Appendix 2, heading | Subst 2022 (835), Sch 2[9]. |
 | Appendix 2 | Am 2022 (835), Sch 2[9]; 2026 (286), Sch 1.6[6]. |
 | Appendix 3, heading | Subst 2022 (835), Sch 2[10]. |
-| Appendix 3 | Am 2022 (835), Sch 2[10]; 2023 (291), Sch 1 [1]–[3]; 2023 (524), Sch 1.2[1]; 2023 (698), Sch 2.3[1] [2]; 2026 (464), Sch 2[1]. |
+| Appendix 3 | Am 2022 (835), Sch 2[10]; 2023 (291), Sch 1 [1]–[3]; 2023 (524), Sch 1.2[1]; 2023 (698), Sch 2.3[1] [2]; 2026 (464), Sch 2[1]; 2026 (583), Sch 6[1]–[8]. |
 | Appendix 4, heading | Subst 2022 (835), Sch 2[11]. |
 | Appendix 4 | Am 2022 (835), Sch 2[11]. |
 | Appendix 5, heading | Subst 2022 (835), Sch 2[12]. |
 | Appendix 5 | Am 2022 (835), Sch 2[12]; 2023 (524), Sch 1.2[1]; 2023 (698), Sch 2.3[3]–[6]; 2025 (610), Sch 1[1]–[3]. |
 | Appendix 6, heading | Subst 2022 (835), Sch 2[13]. |
-| Appendix 6 | Am 2022 (835), Sch 2[13]; 2023 (524), Sch 1.2[2]. |
+| Appendix 6 | Am 2022 (835), Sch 2[13]; 2023 (524), Sch 1.2[2]; 2026 (583), Sch 6[9]–[11]. |
 | Appendix 7, heading | Subst 2022 (835), Sch 2[14]. |
 | Appendix 7 | Am 2022 (629), Sch 3.14[8]; 2022 (835), Sch 2[14]; 2023 (524), Sch 1.2[1]; 2023 (538), Sch 1; 2023 (698), Sch 2.3[7]–[11]. |
-| Appendix 8 | Ins 2022 (769), Sch 1[3]. Am 2023 (523), Sch 2.4[3]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.34. |
+| Appendix 8 | Ins 2022 (769), Sch 1[3]. Am 2023 (523), Sch 2.4[3]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.34; 2026 (583), Sch 6[12]. |
 | Sch 2 | Am 2025 (610), Sch 1[4]. |
 | Sch 4 | Am 2022 (769), Sch 1[4]. |
 | Sch 9 | Rep 2021 (726), Sch 9. Ins 2022 (769), Sch 1[5]. |

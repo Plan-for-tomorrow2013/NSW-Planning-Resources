@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Planning Systems) 2021"
 document_id: epi-2021-0724
-current_from: 2026-10-02
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Planning Systems) 2021
@@ -89,6 +89,8 @@ The aims of this Chapter are as follows—
 
 ***State Significant Development Sites Map—Parramatta North Site*** means the *State Environmental Planning Policy (Planning Systems) 2021—State Significant Development Sites Map—Parramatta North Site*.
 
+***State Significant Development Sites Map—Post Mining Land Transformation Precincts*** means the *State Environmental Planning Policy (Planning Systems) 2021—State Significant Development Sites Map—Post Mining Land Transformation Precincts*.
+
 ***State Significant Infrastructure Sites Map*** means the *State Environmental Planning Policy (State and Regional Development) 2011—State Significant Infrastructure Sites Map*.
 
 ***Sydney Metro*** means Sydney Metro constituted under the *Transport Administration Act 1988*, section 38.
@@ -103,7 +105,7 @@ The aims of this Chapter are as follows—
 
 (4) Notes included in this Chapter do not form part of this Chapter.
 
-**s 2.2:** Am 2022 (152), Sch 1[1]; 2022 (827), Sch 2[1]; 2023 (523), Sch 2.2[1]; 2025 (82), Sch 2[1] [2]; 2025 (423), Sch 4[1]; 2026 (367), Sch 1[1]; 2026 (408), Sch 5[1]; 2026 (409), Sch 3[1]; 2026 (549), Sch 2[1].
+**s 2.2:** Am 2022 (152), Sch 1[1]; 2022 (827), Sch 2[1]; 2023 (523), Sch 2.2[1]; 2025 (82), Sch 2[1] [2]; 2025 (423), Sch 4[1]; 2026 (367), Sch 1[1]; 2026 (408), Sch 5[1]; 2026 (409), Sch 3[1]; 2026 (549), Sch 2[1]; 2026 (582), Sch 2[1].
 
 #### 2.3 Maps
 

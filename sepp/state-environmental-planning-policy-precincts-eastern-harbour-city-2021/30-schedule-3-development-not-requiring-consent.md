@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -31,4 +31,4 @@ The following development does not require consent if it would be permissible wi
 
 The development specified in this Schedule does not include development to which *State Environmental Planning Policy (Infrastructure) 2007* applies.
 
-**Appendix 3:** Am 2022 (835), Sch 2[10]; 2023 (291), Sch 1 [1]–[3]; 2023 (524), Sch 1.2[1]; 2023 (698), Sch 2.3[1] [2]; 2026 (464), Sch 2[1].
+**Appendix 3:** Am 2022 (835), Sch 2[10]; 2023 (291), Sch 1 [1]–[3]; 2023 (524), Sch 1.2[1]; 2023 (698), Sch 2.3[1] [2]; 2026 (464), Sch 2[1]; 2026 (583), Sch 6[1]–[8].

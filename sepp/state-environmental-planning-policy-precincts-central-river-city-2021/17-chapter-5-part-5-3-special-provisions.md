@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -259,7 +259,7 @@ unless it is satisfied that the development meets Australian Standard 2021 regar
 - (c) installing skylights that would not be visible from the street or other public places,
 - (d) demolition or erection of rear or side fences,
 - (e) lopping or removing structures or trees for safety reasons,
-- (f) removing dead or dying trees,
+- (f) [Repealed]
 - (g) other development the Council considers would not adversely affect the heritage significance of a heritage item.
 
 (3) When determining a development application required by this section, the Council—
@@ -267,7 +267,7 @@ unless it is satisfied that the development meets Australian Standard 2021 regar
 - (a) must consider the effect of the development on the heritage significance of the heritage item and its setting, and
 - (b) may consider any conservation plan that assesses the impact of the proposal on the heritage significance of the heritage item and its setting, and
 
-**s 5.31:** Am 2024 (63), Sch 1[4] [5].
+**s 5.31:** Am 2024 (63), Sch 1[4] [5]; 2026 (583), Sch 5[4].
 
 ##### 5.32 Development of known or potential archaeological sites
 

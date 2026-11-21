@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -436,24 +436,24 @@ except with the consent of the consent authority.
 
 (3) In this section, ***heritage item*** means a building, work, relic, tree or place that is indicated as a heritage item on the *Heritage Map*.
 
-#### 28 Preservation of trees or vegetation
+#### 28 Preservation of vegetation
 
-(1) The objective of this section is to preserve the amenity of the Redfern–Waterloo Authority Sites through the preservation of trees and other vegetation.
+(1) The objective of this section is to preserve the amenity of the Redfern–Waterloo Authority Sites through the preservation of vegetation.
 
-(2) This section applies to species or kinds of trees or other vegetation that are identified for the purposes of this section by a development control plan adopted by the consent authority.
+(2) This section applies to species or kinds of vegetation that are identified for the purposes of this section by a development control plan adopted by the consent authority.
 
-> **Note.** A development control plan may prescribe the trees or other vegetation to which this section applies by reference to species, size, location or other manner.
+> **Note.** A development control plan may prescribe the vegetation to which this section applies by reference to species, size, location or other manner.
 
-(3) A person must not ringbark, cut down, top, lop, remove, injure or wilfully destroy any tree or other vegetation to which any such development control plan applies without the authority conferred by—
+(3) A person must not clear vegetation to which any such development control plan applies without the authority conferred by—
 
 - (a) development consent, or
 - (b) a permit granted by the consent authority.
 
 (4) The refusal by the consent authority to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the consent authority to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the consent authority is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the consent authority.
 
-(6) This section does not apply to a tree or other vegetation that the consent authority is satisfied is a risk to human life or property.
+(6) The consent authority must not give written authorisation under subsection (5) unless the consent authority is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (7) A permit under this section cannot allow any ringbarking, cutting down, topping, lopping, removal, injuring or destruction of a tree or other vegetation that is or forms part of a heritage item (within the meaning of section 27).
 
@@ -461,11 +461,18 @@ except with the consent of the consent authority.
 
 (8) This section does not apply to or in respect of—
 
-- (a) the clearing of native vegetation that is authorised by a development consent or property vegetation plan under the *Native Vegetation Act 2003* or that is a routine agricultural management activity within the meaning of that Act carried out on land to which that Act applies, or
+- (a) clearing vegetation that is authorised by a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (a1) clearing vegetation that is authorised by a development consent within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
 - (b) the clearing of vegetation on State protected land (within the meaning of clause 4 of Schedule 3 to the *Native Vegetation Act 2003*) that is authorised by a development consent under the provisions of the *Native Vegetation Conservation Act 1997* as continued in force by that clause, or
-- (c) trees or other vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
+- (c) vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
 - (d) action required or authorised to be done by or under the *Electricity Supply Act 1995*, the *Roads Act 1993* or the *Surveying Act 2002*, or
-- (e) plants declared to be noxious weeds under the *Noxious Weeds Act 1993*.
+- (e) clearing vegetation that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2.
+
+(9) In this section—
+
+***clear*** vegetation has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+***vegetation*** has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
 
 #### 29 Community use of educational establishments
 

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -324,8 +324,7 @@ current_from: 2026-09-11
   - (ii) to operate or store machinery, materials or waste required by the development on a road or footpath reserve, and
 - (f) if it is the alteration or erection of improvements on land in a mine subsidence district within the meaning of the *Mine Subsidence Compensation Act 1961*, have the prior approval of the Mine Subsidence Board, and
   > **Note.** Information about mine subsidence is information that is a prescribed matter for the purpose of a planning certificate under section 10.7(2) of the Act.
-- (g) not involve the removal or pruning of a tree or other vegetation that requires a permit or development consent for removal or pruning, unless that removal or pruning is undertaken in accordance with a permit or development consent, and
-  > **Note.** A permit for the removal or pruning of a tree or other vegetation may be granted under a local environmental plan. A development consent for the removal of native vegetation may be granted under the *Native Vegetation Act 2003*.
+- (g) not involve clearing vegetation with the meaning of the *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2, unless the clearing is authorised by and done in accordance with that policy, and
 - (h) not be carried out within 1m of any public sewer, if the development comprises the erection of a building, except with the written approval of the authority that has management or control of that sewer, and
 - (i) not involve the removal of asbestos, unless that removal is undertaken in accordance with *Code of practice: How to safely remove asbestos* published by SafeWork NSW in December 2022.
 

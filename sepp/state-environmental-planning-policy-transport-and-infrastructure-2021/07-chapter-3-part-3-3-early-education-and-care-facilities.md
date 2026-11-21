@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021

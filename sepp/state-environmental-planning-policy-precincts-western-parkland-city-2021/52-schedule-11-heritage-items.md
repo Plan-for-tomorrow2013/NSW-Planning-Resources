@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -30,3 +30,5 @@ current_from: 2026-07-17
 |  | Kemps Creek | Kemps Creek Forest | Off Gurner Avenue | Lot 11, DP 806494 | Local | 1 |
 |  | West Hoxton | Kirkpatrick and Boyland Park | 225 Fifteenth Avenue | Lot 1, DP 307334 | Local | 13 |
 |  | West Hoxton | Carnes Hill vegetation group | Twenty Fifth Avenue | Lot 8, DP 231528 | Local | 14 |
+
+**Appendix 11:** Ins 2024 (207), Sch 1[12]. Am 2024 (269), Sch 1[1] [2]; 2026 (286), Sch 1.8[29] [30]; 2026 (583), Sch 8[26].

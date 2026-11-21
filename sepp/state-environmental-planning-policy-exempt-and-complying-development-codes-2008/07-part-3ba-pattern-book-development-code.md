@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Exempt and Complying Development Codes) 2008"
 document_id: epi-2008-0572
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Exempt and Complying Development Codes) 2008
@@ -232,13 +232,28 @@ A wall constructed within 900mm of a lot boundary must be built in accordance wi
 
 #### 3BA.11 Setbacks from protected trees
 
-(1) A complying development certificate for complying development under this part is taken to satisfy any requirement under this policy for a permit, approval or development consent to remove or prune a tree or other vegetation on the lot if—
+**(1) Pruning and removal of vegetation**
 
-- (a) the tree is not listed on a register of significant trees kept by the council, and
-- (b) the tree or vegetation will be within 3m of any building that has an area of more than 25m<sup>2</sup>, and
-- (c) the tree or vegetation has a height that is less than—
-  - (i) for development that is the erection of a new dual occupancy or manor house—8m and is not required to be retained as a condition of consent, or
-  - (ii) in any other case—6m.
+Despite clause 1.18(1)(h) and *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, section 2.6, a permit issued under *State Environmental Planning Policy (Biodiversity and Conservation) 2021* to clear vegetation is not required for complying development under this part if the development is authorised by a complying development certificate.
+
+(1A) A complying development certificate may authorise clearing vegetation for complying development if—
+
+- (a) the vegetation has a height of less than 6m, and
+- (b) the vegetation, whether living or dead, does not have a hollow that—
+  - (i) can be seen, and
+  - (ii) has a width of at least 5cm, and
+  - (iii) appears to have depth, and
+  - (iv) is at least 1m above the ground, and
+- (c) the development involves the erection of at least one new dwelling with an area of at least 25m<sup>2</sup>, and
+- (d) the vegetation is within 3m of the dwelling.
+
+(1B) A certifier may only issue a complying development certificate that authorises clearing vegetation if the certifier is satisfied the vegetation will be replaced in accordance with the following requirements before an occupation certificate is issued for the dwelling—
+
+- (a) if a development control plan applies to the land that specifies requirements relating to replanting vegetation—the vegetation will be replaced in accordance with the requirements,
+- (b) otherwise—the vegetation will be replaced by vegetation that—
+  - (i) is similar in size, at maturity, to the cleared vegetation, and
+  - (ii) is native vegetation within the meaning of the *Local Land Services Act 2013*, Part 5A, and
+  - (iii) for a tree—is capable of achieving a height of at least 5m at maturity.
 
 (2) Development under this code must be at least 3m from each protected tree on the lot and any adjacent lot, measured from the base of the trunk of the tree.
 
@@ -249,9 +264,9 @@ A wall constructed within 900mm of a lot boundary must be built in accordance wi
 - (c) an awning, blind or canopy,
 - (d) a fence, screen, or child-resistant barrier associated with a swimming pool or spa pool.
 
-> **Note—** ***Development consent*** and ***protected tree*** are defined in clause 1.5.
+> **Note—** ***Protected tree*** is defined in clause 1.5.
 
-**cl 3BA.11:** Ins 2025 (355), Sch 1[6].
+**cl 3BA.11:** Ins 2025 (355), Sch 1[6]. Am 2026 (583), Sch 2[12] [13].
 
 #### 3BA.12 Conditions specified in Schedule 6A and 6B apply
 

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Industry and Employment) 2021"
 document_id: epi-2021-0723
-current_from: 2026-07-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Industry and Employment) 2021
@@ -24,6 +24,7 @@ current_from: 2026-07-01
 | **2024** | (566) | *State Environmental Planning Policy (Industry and Employment) Amendment (Western Sydney Employment Area) 2024*. LW 8.11.2024. Date of commencement, on publication on LW, sec 2. |
 | **2025** | (723) | *State Environmental Planning Policy Amendment (Central Precinct) 2025*. LW 15.8.2025. Date of commencement, on publication on LW, sec 2. |
 | **2026** | (286) | *State Environmental Planning Policy Amendment (Concurrences and Consultations) 2026*. LW 19.6.2026. Date of commencement, 1.7.2026, sec 2. |
+|  | (583) | *State Environmental Planning Policy Amendment (Vegetation) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
@@ -34,6 +35,7 @@ current_from: 2026-07-01
 | Sec 2.26 | Am 2023 (524), Sch 1.3[1]; 2023 (554), Sch 2.32[1]. |
 | Sec 2.27 | Am 2024 (566), Sch 1. |
 | Sec 2.28 | Rep 2023 (554), Sch 2.32[2]. |
+| Sec 2.31 | Am 2026 (583), Sch 4[1]–[7]. |
 | Sec 2.33 | Am 2022 (416), Sch 2.4[1]. |
 | Sec 2.34 | Am 2023 (523), Sch 2.1[1] [2]. Rep 2026 (286), Sch 1.3[1]. |
 | Sec 2.35 | Am 2023 (523), Sch 2.1[1] [2]. Rep 2026 (286), Sch 1.3[1]. |
@@ -47,5 +49,5 @@ current_from: 2026-07-01
 | Sec 3.15 | Am 2026 (286), Sch 1.3[4]. |
 | Sec 3.16 | Rep 2026 (286), Sch 1.3[5]. |
 | Sch 2 | Am 2023 (609), Sch 2.19[2] [3]. |
-| Sch 4 | Am 2023 (523), Sch 2.1[3]; 2023 (554), Sch 2.32[3]; 2026 (286), Sch 1.3[6]. |
+| Sch 4 | Am 2023 (523), Sch 2.1[3]; 2023 (554), Sch 2.32[3]; 2026 (286), Sch 1.3[6]; 2026 (583), Sch 4[8]. |
 | Sch 6 | Rep 2022 (723), Sch 6. |

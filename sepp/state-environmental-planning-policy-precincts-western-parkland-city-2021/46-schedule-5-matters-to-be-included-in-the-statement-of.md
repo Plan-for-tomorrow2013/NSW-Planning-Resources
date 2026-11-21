@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -53,4 +53,4 @@ current_from: 2026-07-17
 - (h) measures to be taken to conserve and preserve items of environmental heritage listed in Schedule 3 including, where appropriate, a conservation plan, and
 - (i) access to, the supply of water from any existing service to, and the supply of and access to municipal and utility services to, land to which Chapter 5 applies other than that part of that land the subject of the application.
 
-**Appendix 5:** Am 2022 (94), cl 5(2); 2022 (835), Sch 4[24]; 2023 (112), cl 5(1) (2); 2023 (524), Sch 1.2[1]; 2024 (92), Sch 1[2]; 2025 (314), Sch 1[4]–[11]; 2025 (419), Sch 1[1] [2]; 2026 (286), Sch 1.8[19]; 2026 (312), Sch 1[6] [7].
+**Appendix 5:** Am 2022 (94), cl 5(2); 2022 (835), Sch 4[24]; 2023 (112), cl 5(1) (2); 2023 (524), Sch 1.2[1]; 2024 (92), Sch 1[2]; 2025 (314), Sch 1[4]–[11]; 2025 (419), Sch 1[1] [2]; 2026 (286), Sch 1.8[19]; 2026 (312), Sch 1[6] [7]; 2026 (583), Sch 8[16]–[18].

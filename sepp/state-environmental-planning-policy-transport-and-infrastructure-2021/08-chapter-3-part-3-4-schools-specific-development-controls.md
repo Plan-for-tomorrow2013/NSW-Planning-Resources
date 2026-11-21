@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -391,11 +391,11 @@ current_from: 2026-09-11
 A complying development certificate for development that is complying development under this Part is subject to the following conditions (in addition to the conditions set out in section 3.18)—
 
 - (a) any demolition work must be carried out in accordance with AS 2601—2001*The demolition of structures*, published by Standards Australia on 13 September 2001,
-- (b) any removal or pruning of vegetation must be carried out in accordance with AS 4970—2009*Protection of trees on development sites*,
+- (b) any removal or pruning of vegetation must be carried out in accordance with AS 4970:2025*Protection of trees on development sites*,
 - (c) development must be carried out in accordance with all relevant requirements of the Blue Book.
 - (d) [Repealed]
 
-**s 3.42:** Am 2025 (692), Sch 1[100] [101].
+**s 3.42:** Am 2025 (692), Sch 1[100] [101]; 2026 (583), Sch 9[9].
 
 #### 3.43 State significant development for the purpose of schools—application of development standards in environmental planning instruments
 

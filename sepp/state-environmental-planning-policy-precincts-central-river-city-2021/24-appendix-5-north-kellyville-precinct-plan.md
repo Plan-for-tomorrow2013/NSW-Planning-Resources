@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -188,7 +188,7 @@ in accordance with the conditions (if any) specified in that Schedule in relatio
 - (a) be installed in accordance with the manufacturer’s specifications, if applicable, and
 - (b) not involve the removal, pruning or other clearing of vegetation that requires a permit, development consent or other approval unless it is undertaken in accordance with a permit, development consent or other approval.
 
-> **Note.** See *State Environmental Planning Policy (Vegetation in Non-Rural Areas) 2017* and Part 5A of the *Local Land Services Act 2013*.
+> **Note—** See *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2 and the *Local Land Services Act 2013*, Part 5A.
 
 (6) A heading to an item in Schedule 2 is part of that Schedule.
 
@@ -830,24 +830,24 @@ If development for the purposes of a secondary dwelling is permitted under this 
 
 ***private service provider*** means a person or body that has entered into an agreement that is in force with New South Wales Fire Brigades to monitor fire alarm systems.
 
-#### 5.9 Preservation of trees or vegetation
+#### 5.9 Preservation of vegetation
 
-(1) The objective of this section is to preserve the amenity of the area through the preservation of trees and other vegetation.
+(1) The objective of this section is to preserve the amenity of the area through the preservation of vegetation.
 
-(2) This section applies to species or kinds of trees or other vegetation that are prescribed for the purposes of this section by a development control plan made by the Planning Secretary.
+(2) This section applies to species or kinds of vegetation that are prescribed for the purposes of this section by a development control plan made by the Planning Secretary.
 
-> **Note.** A development control plan may prescribe the trees or other vegetation to which this section applies by reference to species, size, location or other manner.
+> **Note.** A development control plan may prescribe the vegetation to which this section applies by reference to species, size, location or other manner.
 
-(3) A person must not ringbark, cut down, top, lop, remove, injure or wilfully destroy any tree or other vegetation to which any such development control plan applies without the authority conferred by—
+(3) A person must not clear vegetation to which any such development control plan applies without the authority conferred by—
 
 - (a) development consent, or
 - (b) a permit granted by the Council.
 
 (4) The refusal by the Council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the Council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the Council is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the Council.
 
-(6) This section does not apply to a tree or other vegetation that the Council is satisfied is a risk to human life or property.
+(6) The Council must not give written authorisation under subsection (5) unless the Council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (7) A permit under this section cannot allow any ringbarking, cutting down, topping, lopping, removal, injuring or destruction of a tree or other vegetation—
 
@@ -858,13 +858,20 @@ If development for the purposes of a secondary dwelling is permitted under this 
 
 (8) This section does not apply to or in respect of—
 
-- (a) the clearing of native vegetation that is authorised by a development consent or property vegetation plan under the *Native Vegetation Act 2003* or that is otherwise permitted under Division 2 or 3 of Part 3 of that Act, or
+- (a) clearing vegetation that is authorised by a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (a1) clearing vegetation that is authorised by a development consent within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
 - (b) the clearing of vegetation on State protected land (within the meaning of clause 4 of Schedule 3 to the *Native Vegetation Act 2003*) that is authorised by a development consent under the provisions of the *Native Vegetation Conservation Act 1997* as continued in force by that clause, or
-- (c) trees or other vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
+- (c) vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
 - (d) action required or authorised to be done by or under the *Electricity Supply Act 1995*, the *Roads Act 1993* or the *Surveying Act 2002*, or
-- (e) plants declared to be noxious weeds under the *Noxious Weeds Act 1993*, or
+- (e) clearing vegetation that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2, or
 - (f) existing native vegetation areas to which section 6.2 of this Precinct Plan applies, or
 - (g) native vegetation retention areas or riparian protection areas to which section 6.3 of this Precinct Plan applies.
+
+(9) In this section—
+
+***clear*** vegetation has the same meaning as in the *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+***vegetation*** has the same meaning as in the *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
 
 #### 5.10 Heritage conservation
 
@@ -901,7 +908,7 @@ However, consent under this section is not required if—
 - (b) the development is in a cemetery or burial ground and the proposed development—
   - (i) is the creation of a new grave or monument, or excavation or disturbance of land for the purpose of conserving or repairing monuments or grave markers, and
   - (ii) would not cause disturbance to human remains, relics, Aboriginal objects in the form of grave goods, or to a place of Aboriginal heritage significance, or
-- (c) the development is limited to the removal of a tree or other vegetation that the Council is satisfied is a risk to human life or property, or
+- (c) the development is limited to the removal of vegetation authorised in writing by the Council that the Council is satisfied poses an imminent risk to human life or habitable property, or
 - (d) the development is exempt development.
 
 **(4) Effect on heritage significance**
@@ -1001,15 +1008,14 @@ Bush fire hazard reduction work authorised by the *Rural Fires Act 1997* may be 
 - (a) within a native vegetation retention area as shown on the *Native Vegetation Protection Map*, or
 - (b) within a riparian protection area as shown on the *Riparian Protection Area Map*.
 
-(3) This section does not apply to any native vegetation that the consent authority is satisfied—
+(3) This section does not apply to clearing native vegetation that is authorised in writing by the consent authority.
 
-- (a) is dying or dead and is not required as the habitat of native fauna, or
-- (b) is a risk to human life or property.
+(3A) The consent authority must not give a written authorisation under subsection (3) unless the consent authority is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (4) This section does not apply to any native vegetation—
 
 - (a) within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
-- (b) declared to be noxious weeds under the *Noxious Weeds Act 1993*.
+- (b) that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2.
 
 (5) A person must not clear native vegetation on land to which this section applies without—
 

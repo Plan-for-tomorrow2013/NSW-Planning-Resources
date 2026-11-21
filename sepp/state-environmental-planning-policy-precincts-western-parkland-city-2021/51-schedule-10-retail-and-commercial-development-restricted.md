@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -19,4 +19,4 @@ Development for the purpose of—
 - medical centres,
 - restaurants.
 
-**Appendix 10:** Ins 2023 (370), Sch 1[8]. Am 2023 (523), Sch 2.6[7] [8]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.36[1] [6]; 2024 (207), Sch 1[2]–[11]; 2025 (486), Sch 1[2]; 2026 (190), Sch 1[1] [2]; 2026 (286), Sch 1.8[27] [28].
+**Appendix 10:** Ins 2023 (370), Sch 1[8]. Am 2023 (523), Sch 2.6[7] [8]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.36[1] [6]; 2024 (207), Sch 1[2]–[11]; 2025 (486), Sch 1[2]; 2026 (190), Sch 1[1] [2]; 2026 (286), Sch 1.8[27] [28]; 2026 (583), Sch 8[25].

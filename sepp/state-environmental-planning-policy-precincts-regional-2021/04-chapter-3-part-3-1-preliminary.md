@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Regional) 2021"
 document_id: epi-2021-0727
-current_from: 2026-07-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Regional) 2021
@@ -118,3 +118,23 @@ This Chapter applies to land within an Activation Precinct.
 - (b) an application for a complying development certificate.
 
 **s 3.5A:** Ins 2023 (609), Sch 2.20[1]. Am 2025 (513), Sch 1[2].
+
+#### 3.5B Suspension of covenants, agreements and instruments
+
+(1) For the purpose of enabling development on land in a zone to be carried out in accordance with this chapter or with a development consent granted under the Act, an agreement, covenant or other similar instrument that restricts the carrying out of that development does not apply to the extent necessary to serve the purpose.
+
+(2) This section does not apply—
+
+- (a) to a covenant imposed by the council or that the council requires to be imposed, or
+- (b) to a biodiversity stewardship agreement within the meaning of the *Biodiversity Conservation Act 2016*, Part 5, Division 2, or
+- (c) to a relevant instrument within the meaning of the *Crown Land Management Act 2016*, section 13.4, or
+- (d) to a conservation agreement within the meaning of the *National Parks and Wildlife Act 1974*, or
+- (e) to a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (f) to a Trust agreement within the meaning of the *Nature Conservation Trust Act 2001* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (g) to a planning agreement within the meaning of the Act, Division 7.1.
+
+(3) This section does not affect the rights or interests of a public authority under a registered instrument.
+
+(4) The Governor, before the making of this section, approved subsections (1)–(3) under the Act, section 3.16.
+
+**s 3.5B:** Ins 2026 (582), Sch 3[1].

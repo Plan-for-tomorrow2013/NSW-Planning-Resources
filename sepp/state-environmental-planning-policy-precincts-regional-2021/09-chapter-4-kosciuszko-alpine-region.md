@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Regional) 2021"
 document_id: epi-2021-0727
-current_from: 2026-07-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Regional) 2021
@@ -575,7 +575,7 @@ Bush fire hazard reduction work authorised by the *Rural Fires Act 1997* is perm
 
 (3) Development consent is not required under this section for the following development—
 
-- (a) development that involves only the removal of a tree or other vegetation that the consent authority is satisfied is a risk to human life or property,
+- (a) the development is limited to the removal of vegetation authorised in writing by the council that the council is satisfied poses an imminent risk to human life or habitable property,
 - (b) exempt development,
 - (c) development that does not require development consent under section 4.14.
 
@@ -594,7 +594,7 @@ Bush fire hazard reduction work authorised by the *Rural Fires Act 1997* is perm
 
 (6) [Repealed]
 
-**s 4.21:** Subst 2022 (824), Sch 1[1]. Am 2026 (286), Sch 1.7[1].
+**s 4.21:** Subst 2022 (824), Sch 1[1]. Am 2026 (286), Sch 1.7[1]; 2026 (583), Sch 7[1].
 
 #### 4.22 Conservation incentives
 

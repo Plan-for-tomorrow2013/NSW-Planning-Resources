@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -73,9 +73,9 @@ If development for the purposes of a roadside stall is permitted under this Chap
 
 (4) The refusal by the council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the Planning Secretary is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the council.
 
-(6) This section does not apply to a tree or other vegetation that the Planning Secretary is satisfied is a risk to human life or property.
+(6) The council must not give a written authorisation under subsection (5) unless the council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (7) A permit under this section cannot allow any ringbarking, cutting down, topping, lopping, removal, injuring or destruction of a tree or other vegetation—
 
@@ -93,10 +93,12 @@ unless the Planning Secretary is satisfied that the proposed activity—
 
 - (a) the clearing of native vegetation—
   - (i) approved under Division 6 of Part 5A of the *Local Land Services Act 2013*, or
-  - (ii) in accordance with a permit or approval under *State Environmental Planning Policy (Vegetation in Non-Rural Areas) 2017*, or
+  - (ii) in accordance with a permit or approval under *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2, or
   - (iii) authorised by a development consent or a property vegetation plant that was approved under the *Native Vegetation Act 2003* before the repeal of that Act and that was in force on that repeal, or
 - (b) trees or other vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 2012*, or
 - (c) action required or authorised to be done by or under the *Electricity Supply Act 1995*, the *Roads Act 1993* or the *Surveying and Spatial Information Act 2002*, or
 - (d) a weed identified in a local strategic plan (approved by the Minister under Division 2 of Part 4 of the *Local Land Services Act 2013*) for a region that includes land to which this Chapter applies, as a weed that is or should be prevented, managed, controlled or eradicated in the region.
 
 > **Note.** Permissibility may be a matter that is determined by or under any of these Acts.
+
+**s 5.26:** Am 2026 (583), Sch 8[4] [5].

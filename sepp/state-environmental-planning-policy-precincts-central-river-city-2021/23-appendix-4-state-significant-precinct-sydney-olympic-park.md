@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -586,7 +586,7 @@ However, consent under this section is not required if—
 - (a) the applicant has notified the consent authority of the proposed development and the consent authority has advised the applicant in writing before any work is carried out that it is satisfied that the proposed development—
   - (i) is of a minor nature, or is for the maintenance of the heritage item, archaeological site, or a building, work, relic, tree or place within a heritage conservation area, and
   - (ii) would not adversely affect the significance of the heritage item, archaeological site or heritage conservation area, or
-- (b) the development is limited to the removal of a tree or other vegetation that the consent authority is satisfied is a risk to human life or property, or
+- (b) the development is limited to the removal of vegetation authorised in writing by the consent authority that the consent authority is satisfied poses an imminent risk to human life or habitable property, or
 - (c) the development is exempt development.
 
 **(3) Effect on heritage significance**

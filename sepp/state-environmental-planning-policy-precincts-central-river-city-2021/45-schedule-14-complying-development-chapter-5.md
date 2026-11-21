@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -40,4 +40,4 @@ current_from: 2026-09-01
 | ****Demolition**** | - (a) Demolition is only permitted of a building the erection of which is identified in this Schedule as complying development. - (b) Not including decontamination, rehabilitation or remediation of a contaminated site. - (c) Demolition must be carried out in accordance with any relevant Australian Standards. |
 | ****Subdivision for one or more of the following purposes only:**** - (a) widening of a public road by a public authority, - (b) adjusting a boundary between allotments, but only if the new lots comply with Chapter 5. The subdivision must not result in an increased number of lots, the re-orientation of the existing allotments or redefinition of the Mean High Water Mark, - (c) correcting an encroachment on an allotment, but only if the new lots comply with Chapter 5, - (d) strata subdivision of any building, except dual occupancy housing, approved and constructed after 1 July 1988 subject to the development conforming with all conditions of any applicable development consent, - (e) consolidating allotments, if it is development, - (f) the creation of an allotment for public reserve purposes but only where the residue lot or lots comply with the minimum size standards of Chapter 5. |  |
 
-**Appendix 14:** Ins 2025 (237), Sch 1[3].
+**Appendix 14:** Ins 2025 (237), Sch 1[3]. Am 2026 (583), Sch 5[15] [19].

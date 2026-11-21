@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Exempt and Complying Development Codes) 2008"
 document_id: epi-2008-0572
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Exempt and Complying Development Codes) 2008
@@ -149,6 +149,8 @@ This Policy does not apply to development to which *State Environmental Planning
 
 ***class***, in relation to a building or part of a building, has the same meaning as in the *Environmental Planning and Assessment Regulation 2000*.
 
+***clear*** vegetation has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
 ***collection point*** has the same meaning as in Part 5 of the *Waste Avoidance and Resource Recovery Act 2001*.
 
 ***Industrial and Business Alterations Code*** means the code for complying development set out in Part 5.
@@ -249,7 +251,8 @@ and any fence, swimming pool or spa pool and child-resistant barrier that is not
 - (g) land identified in this or any other environmental planning instrument as being of high Aboriginal cultural significance or high biodiversity significance,
 - (h) land reserved under the *National Parks and Wildlife Act 1974* or land to which Part 11 of that Act applies,
 - (i) land reserved or dedicated under the *Crown Land Management Act 2016* for the preservation of flora, fauna, geological formations or for other environmental protection purposes,
-- (j) land identified as being critical habitat under the *Threatened Species Conservation Act 1995* or Part 7A of the *Fisheries Management Act 1994*.
+- (j) land that is a declared area of outstanding biodiversity value under the *Biodiversity Conservation Act 2016*,
+- (k) land identified as critical habitat under the *Fisheries Management Act 1994*, Part 7A.
 
 ***exempt development code*** means any of the following codes—
 
@@ -487,6 +490,8 @@ but does not include any of the following—
 
 ***the Act*** means the *Environmental Planning and Assessment Act 1979*.
 
+***vegetation*** has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
 ***water utility*** means—
 
 - (a) a council or county council exercising water supply functions under Division 2 of Part 3 of Chapter 6 of the *Local Government Act 1993*, or
@@ -517,7 +522,7 @@ but does not include any of the following—
 
 (6) Notes and diagrams included in this Policy do not form part of this Policy.
 
-**cl 1.5:** Am 2009 (74), Sch 1 [3]; 2009 (387), Sch 1 [2]–[4]; 2010 (135), Sch 1 [3] [4]; 2010 (656), Sch 1 [3]–[6]; 2012 (670), Sch 2 [1]; 2013 (706), Sch 1 [2]–[12]; 2016 (310), Sch 4.29 [2]; 2017 (269), Sch 1 [1]–[6]; 2017 (270), Sch 1 [2] [3]; 2017 (359), Sch 1 [1] [2]; 2018 (68), Sch 2 [1]; 2018 (106), Sch 2.13; 2018 (132), Sch 1 [1] [2] (am 2018 (370), Sch 1 [1] [2]) [3]–[6]; 2018 (190), Sch 1 [1]–[4]; 2018 (505), Sch 1.3 [1]; 2018 (569), Sch 1 [1]–[5]; 2019 (621), Schs 2.25[1] and 6[1]; 2020 (69), Sch 2.3[1] [2]; 2020 (331), Sch 1[1] [2]; 2020 (696), cl 4(1); 2021 (16), Sch 1[2]–[4]; 2021 (545), Sch 2[1]; 2021 (596), cl 4(1); 2021 (777), Sch 1[1]; 2022 (47), Sch 1[1]; 2022 (72), Sch 1.52[4] [5]; 2022 (593), Sch 1[1]; 2022 (629), Sch 3.11[1]; 2022 (768), Sch 1[1] [2]; 2023 (83), Sch 2.2[1] [2]; 2023 (458), Sch 3.2[1]; 2023 (609), Sch 2.17[1] [2]; 2024 (483), Sch 2[2]; 2025 (355), Sch 1[1].
+**cl 1.5:** Am 2009 (74), Sch 1 [3]; 2009 (387), Sch 1 [2]–[4]; 2010 (135), Sch 1 [3] [4]; 2010 (656), Sch 1 [3]–[6]; 2012 (670), Sch 2 [1]; 2013 (706), Sch 1 [2]–[12]; 2016 (310), Sch 4.29 [2]; 2017 (269), Sch 1 [1]–[6]; 2017 (270), Sch 1 [2] [3]; 2017 (359), Sch 1 [1] [2]; 2018 (68), Sch 2 [1]; 2018 (106), Sch 2.13; 2018 (132), Sch 1 [1] [2] (am 2018 (370), Sch 1 [1] [2]) [3]–[6]; 2018 (190), Sch 1 [1]–[4]; 2018 (505), Sch 1.3 [1]; 2018 (569), Sch 1 [1]–[5]; 2019 (621), Schs 2.25[1] and 6[1]; 2020 (69), Sch 2.3[1] [2]; 2020 (331), Sch 1[1] [2]; 2020 (696), cl 4(1); 2021 (16), Sch 1[2]–[4]; 2021 (545), Sch 2[1]; 2021 (596), cl 4(1); 2021 (777), Sch 1[1]; 2022 (47), Sch 1[1]; 2022 (72), Sch 1.52[4] [5]; 2022 (593), Sch 1[1]; 2022 (629), Sch 3.11[1]; 2022 (768), Sch 1[1] [2]; 2023 (83), Sch 2.2[1] [2]; 2023 (458), Sch 3.2[1]; 2023 (609), Sch 2.17[1] [2]; 2024 (483), Sch 2[2]; 2025 (355), Sch 1[1]; 2026 (583), Sch 2[1] [2].
 
 #### 1.6 Interpretation—references to land use zones
 
@@ -883,8 +888,7 @@ the development is complying development under this Policy.
 - (f) if it is the alteration or erection of improvements on land in a mine subsidence district within the meaning of the *Mine Subsidence Compensation Act 1961*, have the prior approval of the Mine Subsidence Board, and
   > **Note.** Information about mine subsidence is information that is a prescribed matter for the purpose of a planning certificate under section 10.7(2) of the Act, but the information is not included in a certificate issued under clause 279(2) of *Environmental Planning and Assessment Regulation 2000*.
 - (g) not be the construction or installation of a skylight or roof window on land in the local government area of Coonamble, Gilgandra, Warrumbungle Shire or Dubbo Regional, and
-- (h) for development involving the removal or pruning of a tree or other vegetation that requires a permit, approval or development consent—before the complying development certificate is issued, have the permit, approval or development consent.
-  > **Note—** A permit or approval may be required under *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2 or other legislation. Paragraph (h) may not apply to some removal or pruning of trees. See, for example, clause 3.33.
+- (h) for development involving the clearing of vegetation that requires development consent or a permit under *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2—before the complying development certificate is issued, have the development consent or permit.
 
 (2) The erection of a new dwelling house or an addition to a dwelling house on land in the 20-25 ANEF contours is complying development for this Policy, if the development is constructed in accordance with AS 2021:2015, *Acoustics—Aircraft noise intrusion—Building siting and construction*.
 
@@ -894,7 +898,13 @@ the development is complying development under this Policy.
 
 (4) Development is not permissible with consent for the purposes of subclause (1)(b) if the development is permissible only because of the *Standard Instrument (Local Environmental Plans) Order 2006*, Schedule 1, clause 5.
 
-**cl 1.18:** Am 2009 (74), Sch 1 [8]; 2009 (387), Sch 1 [12] [13]; 2010 (135), Sch 1 [6]. Subst 2010 (656), Sch 1 [20]. Am 2013 (706), Sch 1 [28]–[32]; 2016 (310), Sch 4.29 [4]; 2017 (269), Sch 1 [7]; 2017 (270), Sch 1 [6]; 2018 (68), Sch 2 [1]; 2021 (16), Sch 1[7]; 2021 (545), Sch 2[4]; 2021 (777), Sch 1[4] [5]; 2022 (47), Sch 1[2];2022 (72), Sch 1.52[10]; 2022 (727), Sch 3; 2023 (79), Sch 1[2].
+(5) A complying development certificate cannot be issued for development involving the clearing of—
+
+- (a) vegetation on land that is not private land within the meaning of the *Local Land Services Act 2013*, or
+- (b) a tree listed on a register of significant trees kept by the council, or
+- (c) native vegetation if the clearing exceeds the biodiversity offsets scheme threshold within the meaning of *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+**cl 1.18:** Am 2009 (74), Sch 1 [8]; 2009 (387), Sch 1 [12] [13]; 2010 (135), Sch 1 [6]. Subst 2010 (656), Sch 1 [20]. Am 2013 (706), Sch 1 [28]–[32]; 2016 (310), Sch 4.29 [4]; 2017 (269), Sch 1 [7]; 2017 (270), Sch 1 [6]; 2018 (68), Sch 2 [1]; 2021 (16), Sch 1[7]; 2021 (545), Sch 2[4]; 2021 (777), Sch 1[4] [5]; 2022 (47), Sch 1[2];2022 (72), Sch 1.52[10]; 2022 (727), Sch 3; 2023 (79), Sch 1[2]; 2026 (583), Sch 2[3] [4].
 
 #### 1.19 Land on which complying development may not be carried out
 
@@ -906,8 +916,9 @@ To be complying development specified for the Housing Code, the Inland Code, the
 - (b) land that is reserved for a public purpose by an environmental planning instrument, or
 - (c) land identified on an Acid Sulfate Soils Map as being Class 1 or Class 2, or
 - (c1) significantly contaminated land, or
-- (d) land that is subject to a biobanking agreement under Part 7A of the *Threatened Species Conservation Act 1995* or a property vegetation plan approved under the *Native Vegetation Act 2003*, or
-- (d1) land that is subject to a private land conservation agreement under the *Biodiversity Conservation Act 2016* or that is a set aside area under section 60ZC of the *Local Land Services Act 2013*, or
+- (d) land that is subject to a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (d1) land that is subject to a private land conservation agreement within the meaning of the *Biodiversity Conservation Act 2016*, Part 5, or
+- (d2) land that is a set aside area under the *Local Land Services Act 2013*, section 60ZC, or
 - (e) land identified by an environmental planning instrument as being—
   - (i) within a buffer area, or
   - (ii) within a river front area, or
@@ -979,7 +990,7 @@ Nothing in this clause prevents complying development being carried out on part 
 
 The amendment made to subclause (1) by *State Environmental Planning Policy (Exempt and Complying Development Codes) Amendment (Inland Code) 2019* applies to applications for complying development certificates made, but not finally determined, on or after 1 January 2019.
 
-**cl 1.19:** Am 2009 (74), Sch 1 [9]–[11]. Subst 2009 (387), Sch 1 [14]. Am 2010 (135), Sch 1 [7]–[9]; 2010 (244), Sch 1 [4]; 2010 (639), Sch 1 [2]; 2010 (656), Sch 1 [21] [22]; 2011 (28), Sch 1.7; 2011 (99), Sch 1 [4]–[6]. Subst 2013 (706), Sch 1 [33]. Am 2014 No 74, Sch 3.29; 2015 (728), cl 4; 2017 (269), Sch 1 [2] [8] [9]; 2017 (270), Sch 1 [7]; 2017 (454), cl 29; 2018 (132), Sch 1 [7]–[10]; 2018 (190), Sch 1 [5]; 2018 (569), Sch 1 [7] [8]; 2018 (665), Sch 1.1 [1]; 2019 (67), cl 4 (1) (2); 2019 (621), Sch 6[2]; 2020 (331), Sch 1[1]; 2021 (224), cl 4(1); 2021 (366), Sch 1[1]; 2022 (72), Sch 1.52[11]; 2022 (259), cl 4; 2022 (593), Sch 1[3]–[6]; 2022 (629), Sch 3.11[2]; 2024 (274), Sch 2; 2024 (609), Sch 1[4]; 2025 (81), Sch 2[1]; 2025 (355), Sch 1[2]–[5]; 2025 (597), Sch 10; 2025 (684), Sch 2.
+**cl 1.19:** Am 2009 (74), Sch 1 [9]–[11]. Subst 2009 (387), Sch 1 [14]. Am 2010 (135), Sch 1 [7]–[9]; 2010 (244), Sch 1 [4]; 2010 (639), Sch 1 [2]; 2010 (656), Sch 1 [21] [22]; 2011 (28), Sch 1.7; 2011 (99), Sch 1 [4]–[6]. Subst 2013 (706), Sch 1 [33]. Am 2014 No 74, Sch 3.29; 2015 (728), cl 4; 2017 (269), Sch 1 [2] [8] [9]; 2017 (270), Sch 1 [7]; 2017 (454), cl 29; 2018 (132), Sch 1 [7]–[10]; 2018 (190), Sch 1 [5]; 2018 (569), Sch 1 [7] [8]; 2018 (665), Sch 1.1 [1]; 2019 (67), cl 4 (1) (2); 2019 (621), Sch 6[2]; 2020 (331), Sch 1[1]; 2021 (224), cl 4(1); 2021 (366), Sch 1[1]; 2022 (72), Sch 1.52[11]; 2022 (259), cl 4; 2022 (593), Sch 1[3]–[6]; 2022 (629), Sch 3.11[2]; 2024 (274), Sch 2; 2024 (609), Sch 1[4]; 2025 (81), Sch 2[1]; 2025 (355), Sch 1[2]–[5]; 2025 (597), Sch 10; 2025 (684), Sch 2; 2026 (583), Sch 2[5].
 
 #### 1.19A Land on which complying development may not be carried out—bush fire prone land
 
@@ -1023,13 +1034,14 @@ The amendment made to subclause (1) by *State Environmental Planning Policy (Exe
 - (c) to a covenant imposed by an owner or former owner of the land concerned, other than a covenant that has been required by a council to be imposed, or
 - (d) to any relevant instrument within the meaning of section 13.4 of the *Crown Land Management Act 2016*, or
 - (e) to any conservation agreement within the meaning of the *National Parks and Wildlife Act 1974*, or
-- (f) to any Trust agreement within the meaning of the *Nature Conservation Trust Act 2001*, or
-- (g) to any property vegetation plan approved under the *Native Vegetation Act 2003*, or
-- (h) to any biobanking agreement within the meaning of Part 7A of the *Threatened Species Conservation Act 1995*, or
+- (f) to any Trust agreement within the meaning of the *Nature Conservation Trust Act 2001* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (g) to a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (h) to a biodiversity stewardship agreement under the *Biodiversity Conservation Act 2016*, or
+- (h1) to a conservation agreement under the *Biodiversity Conservation Act 2016*, or
 - (i) to any planning agreement within the meaning of Division 7.1 of the Act.
 
 (3) This clause does not affect the rights or interests of any public authority under any registered instrument.
 
 (4) Under section 28 of the Act, the Governor, before the making of this clause, approved of subclauses (1)–(3).
 
-**cl 1.20:** Ins 2013 (706), Sch 1 [33]. Am 2018 (68), Sch 2 [1]; 2019 (621), Sch 2.25[2].
+**cl 1.20:** Ins 2013 (706), Sch 1 [33]. Am 2018 (68), Sch 2 [1]; 2019 (621), Sch 2.25[2]; 2026 (583), Sch 2[6].

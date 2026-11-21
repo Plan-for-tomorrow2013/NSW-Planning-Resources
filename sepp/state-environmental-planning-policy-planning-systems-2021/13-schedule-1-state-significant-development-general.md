@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Planning Systems) 2021"
 document_id: epi-2021-0724
-current_from: 2026-10-02
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Planning Systems) 2021

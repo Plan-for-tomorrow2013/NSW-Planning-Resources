@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -10,7 +10,10 @@ current_from: 2026-08-07
 
 #### 2.9 Vegetation to which Part applies
 
-(1) This Part applies to vegetation in any non-rural area of the State that is declared by a development control plan to be vegetation to which this Part applies.
+(1) This part applies to vegetation—
+
+- (a) in a non-rural area of the State that is declared by a development control plan to be vegetation to which this part applies, and
+- (b) planted in accordance with a development control order.
 
 (2) A development control plan may make the declaration in any manner, including by reference to any of the following—
 
@@ -24,11 +27,21 @@ current_from: 2026-08-07
 - (a) declared by a development control plan to be vegetation to which *State Environmental Planning Policy (Vegetation in Non-Rural Areas) 2017*, Part 3 applies, or
 - (b) prescribed by a development control plan under the standard instrument set out in the *Standard Instrument (Local Environmental Plans) Order 2006*, clause 5.9, as in force immediately before 25 August 2017.
 
-**s 2.9:** Am 2022 (571), Sch 1.2.
+**s 2.9:** Am 2022 (571), Sch 1.2; 2026 (583), Sch 1[11].
 
 #### 2.10 Council may issue permit for clearing of vegetation
 
 (1) A council may issue a permit to a landholder to clear vegetation to which this Part applies in any non-rural area of the State.
+
+(1A) A council must not issue a permit to clear vegetation unless the council has considered the following—
+
+- (a) the health of the vegetation,
+- (b) the age of the vegetation,
+- (c) the size of the vegetation,
+- (d) the biodiversity value of the vegetation,
+- (e) the impact that clearing the vegetation would have on other vegetation on the lot or on adjoining lots,
+- (f) whether there are viable alternatives to clearing the vegetation,
+- (g) another matter set out in a development control plan or policy adopted by the council.
 
 (2) A permit cannot be granted to clear native vegetation in any non-rural area of the State that exceeds the biodiversity offsets scheme threshold.
 
@@ -43,6 +56,10 @@ unless the council is satisfied that the proposed activity—
 - (d) would not adversely affect the heritage significance of the heritage item, Aboriginal object, Aboriginal place of heritage significance or heritage conservation area.
 
 (4) A permit may be granted under this Part subject to any conditions specified in the permit.
+
+(5) A permit may be granted under this part to allow for the carrying out of development.
+
+**s 2.10:** Am 2026 (583), Sch 1[12] [13].
 
 #### 2.11 Miscellaneous provisions relating to permits
 

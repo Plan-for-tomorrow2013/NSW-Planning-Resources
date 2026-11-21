@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Exempt and Complying Development Codes) 2008"
 document_id: epi-2008-0572
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Exempt and Complying Development Codes) 2008
@@ -1522,15 +1522,28 @@ Any wall constructed within 900mm of a lot boundary must be built in accordance 
 
 #### 3.33 Setbacks of dwelling houses, attached development and detached development from protected trees
 
-**(1) Pruning and removal of trees**
+**(1) Pruning and removal of vegetation**
 
-A complying development certificate for complying development under Division 1 is taken to satisfy any requirement under this Policy for a permit, approval or development consent to remove or prune a tree or other vegetation on the lot if—
+Despite clause 1.18(1)(h) and *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, section 2.6, a permit issued under *State Environmental Planning Policy (Biodiversity and Conservation) 2021* to clear vegetation is not required for complying development under Division 1 if the development is authorised by a complying development certificate.
 
-- (a) the tree is not listed on a register of significant trees kept by the council, and
-- (b) the tree or vegetation will be within 3m of any building that has an area of more than 25m<sup>2</sup>, and
-- (c) the tree or vegetation has a height that is less than—
-  - (i) for development that is the erection of a dwelling house—8m and is not required to be retained as a condition of consent, or
-  - (ii) in any other case—6m.
+(1A) A complying development certificate may authorise clearing vegetation for complying development if—
+
+- (a) the vegetation has a height of less than 6m, and
+- (b) the vegetation, whether living or dead, does not have a hollow that—
+  - (i) can be seen, and
+  - (ii) has a width of at least 5cm, and
+  - (iii) appears to have depth, and
+  - (iv) is at least 1m above the ground, and
+- (c) the development involves the erection of at least one new dwelling with an area of at least 25m<sup>2</sup>, and
+- (d) the vegetation is within 3m of the dwelling.
+
+(1B) A certifier may only issue a complying development certificate that authorises clearing vegetation if the certifier is satisfied the vegetation will be replaced in accordance with the following requirements before an occupation certificate is issued for the dwelling—
+
+- (a) if a development control plan applies to the land that specifies requirements relating to replanting vegetation—the vegetation will be replaced in accordance with the requirements,
+- (b) otherwise—the vegetation will be replaced by vegetation that—
+  - (i) is similar in size, at maturity, to the cleared vegetation, and
+  - (ii) is native vegetation within the meaning of the *Local Land Services Act 2013*, Part 5A, and
+  - (iii) for a tree—is capable of achieving a height of at least 5m at maturity.
 
 **(2) Setbacks from protected trees**
 
@@ -1543,7 +1556,7 @@ Development under this code must be at least 3m from each protected tree on the 
 - (c) an awning, blind or canopy,
 - (d) a fence, screen, or child-resistant barrier associated with a swimming pool or spa pool.
 
-> **Note 1.** ***Development consent***, ***dwelling house*** and ***protected tree*** are defined in clause 1.5.
+> **Note 1.** ***Dwelling house*** and ***protected tree*** are defined in clause 1.5.
 
 > **Note 2.** ***Council***, ***excavation***, ***fill***, ***ground level (existing)***, ***spa pool*** and ***swimming pool*** have the same meanings as they have in the Standard Instrument.
 
@@ -1551,7 +1564,7 @@ Development under this code must be at least 3m from each protected tree on the 
 
 > **Note 4.** A separate permit, approval or development consent may be required if the branches or roots of a protected tree on the lot or on an adjoining lot are required to be pruned or removed.
 
-**cl 3.33:** Am 2009 (74), Sch 1 [34] [35]; 2009 (603), Sch 1 [2]; 2010 No 59, Sch 2.87 [2]; 2010 (656), Sch 1 [52]. Subst 2010 (656), Sch 1 [112]. Am 2011 (99), Sch 1 [19]; 2011 (600), Sch 1 [4] [5]. Subst 2013 (706), Sch 1 [122]; 2017 (269), Sch 1 [14]. Am 2021 (545), Sch 2[1]; 2024 (609), Sch 1[45].
+**cl 3.33:** Am 2009 (74), Sch 1 [34] [35]; 2009 (603), Sch 1 [2]; 2010 No 59, Sch 2.87 [2]; 2010 (656), Sch 1 [52]. Subst 2010 (656), Sch 1 [112]. Am 2011 (99), Sch 1 [19]; 2011 (600), Sch 1 [4] [5]. Subst 2013 (706), Sch 1 [122]; 2017 (269), Sch 1 [14]. Am 2021 (545), Sch 2[1]; 2024 (609), Sch 1[45]; 2026 (583), Sch 2[7] [8].
 
 #### 3.34 Conditions applying to complying development certificates under this code
 

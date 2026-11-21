@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Industry and Employment) 2021"
 document_id: epi-2021-0723
-current_from: 2026-07-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Industry and Employment) 2021
@@ -14,17 +14,7 @@ section 2.3(1)
 
 ***Airport*** means the Western Sydney International (Nancy-Bird) Walton Airport.
 
-***biodiversity*** means biological diversity.
-
-***biological diversity*** has the same meaning as in the *Threatened Species Conservation Act 1995*.
-
-> **Note.** The term is defined as follows—
->
-> ***biological diversity*** means the diversity of life and is made up of the following 3 components—
->
-> - (a) genetic diversity—the variety of genes (or units of heredity) in any population,
-> - (b) species diversity—the variety of species,
-> - (c) ecosystem diversity—the variety of communities or ecosystems.
+***biodiversity*** has the same meaning as in the *Biodiversity Conservation Act 2016*.
 
 ***building*** has the same meaning as in the Act.
 
@@ -104,4 +94,4 @@ and includes heritage items situated on or within that area.
 
 ***truck depot*** means a building or place used for the servicing and parking of trucks, earthmoving machinery and the like.
 
-**sch 4:** Am 2023 (523), Sch 2.1[3]; 2023 (554), Sch 2.32[3]; 2026 (286), Sch 1.3[6].
+**sch 4:** Am 2023 (523), Sch 2.1[3]; 2023 (554), Sch 2.32[3]; 2026 (286), Sch 1.3[6]; 2026 (583), Sch 4[8].

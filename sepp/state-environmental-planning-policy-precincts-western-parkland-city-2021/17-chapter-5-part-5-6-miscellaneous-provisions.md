@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -49,7 +49,7 @@ However, development consent under this section is not required if—
 - (b) the development is in a cemetery or burial ground and the proposed development—
   - (i) is the creation of a new grave or monument, or excavation or disturbance of land for the purpose of conserving or repairing monuments or grave markers, and
   - (ii) would not cause disturbance to human remains, relics, Aboriginal objects in the form of grave goods, or to an Aboriginal place of heritage significance, or
-- (c) the development is limited to the removal of a tree or other vegetation that the consent authority is satisfied is a risk to human life or property, or
+- (c) the development is limited to the removal of vegetation authorised in writing by the consent authority that the consent authority is satisfied poses an imminent risk to human life or habitable property, or
 - (d) the development is exempt development.
 
 **(4) Effect of proposed development on heritage significance**
@@ -103,7 +103,7 @@ The consent authority may grant consent to development for any purpose of a buil
 - (d) the proposed development would not adversely affect the heritage significance of the heritage item, including its setting, or the heritage significance of the Aboriginal place of heritage significance, and
 - (e) the proposed development would not have any significant adverse effect on the amenity of the surrounding area.
 
-**s 5.33:** Am 2026 (286), Sch 1.8[12].
+**s 5.33:** Am 2026 (286), Sch 1.8[12]; 2026 (583), Sch 8[6].
 
 #### 5.34 Bush fire hazard reduction
 

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -31,16 +31,21 @@ current_from: 2026-08-07
 | **2026** | (79) | *State Environmental Planning Policy (Biodiversity and Conservation) Amendment (Miscellaneous) 2026*. LW 6.3.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (286) | *State Environmental Planning Policy Amendment (Concurrences and Consultations) 2026*. LW 19.6.2026. Date of commencement, 1.7.2026, sec 2. |
 |  | (408) | *State Environmental Planning Policy Amendment (Cherrybrook Station Precinct) 2026*. LW 7.8.2026. Date of commencement, on publication on LW, sec 2. |
+|  | (583) | *State Environmental Planning Policy Amendment (Vegetation) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
 |  |  |
 |---|---|
-| Sec 2.2 | Am 2024 No 96, Sch 3[1]. |
-| Sec 2.3 | Am 2024 (42), Sch 1.38[1]–[4]. |
+| Sec 2.1 | Am 2026 (583), Sch 1[1]. |
+| Sec 2.2 | Am 2024 No 96, Sch 3[1]; 2026 (583), Sch 1[2]–[4]. |
+| Sec 2.3 | Am 2024 (42), Sch 1.38[1]–[4]; 2026 (583), Sch 1[5]–[7]. |
 | Sec 2.5 | Am 2026 (79), Sch 1[1]. |
-| Sec 2.7 | Am 2024 (42), Sch 1.38[5]. |
-| Sec 2.9 | Am 2022 (571), Sch 1.2. |
+| Sec 2.6 | Am 2026 (583), Sch 1[8] [9]. |
+| Sec 2.7 | Am 2024 (42), Sch 1.38[5]; 2026 (583), Sch 1[10]. |
+| Sec 2.9 | Am 2022 (571), Sch 1.2; 2026 (583), Sch 1[11]. |
+| Sec 2.10 | Am 2026 (583), Sch 1[12] [13]. |
+| Sec 2.14 | Am 2026 (583), Sch 1[14]. |
 | Sec 2.15 | Am 2024 No 96, Sch 3[2]. |
 | Part 2.5, heading | Am 2024 (42), Sch 1.38[6]. |
 | Sec 2.25 | Am 2024 (42), Sch 1.38[7]–[10]. |
@@ -59,6 +64,7 @@ current_from: 2026-08-07
 | Sec 3.14 | Am 2024 (42), Sch 1.38[16]. |
 | Sec 4.2 | Am 2023 (83), Sch 2.1[2]. |
 | Sec 4.7 | Am 2026 (79), Sch 1[2] [3]. |
+| Sec 4.9 | Am 2026 (583), Sch 1[15]. |
 | Sec 4.13 | Am 2026 (79), Sch 1[4]. |
 | Sec 5.2 | Am 2026 (79), Sch 1[5]. |
 | Sec 5.3 | Subst 2026 (79), Sch 1[6]. |
@@ -139,7 +145,7 @@ current_from: 2026-08-07
 | Part 6.4 | Ins 2022 (629), Sch 1[1]. |
 | Sec 6.51 | Ins 2022 (629), Sch 1[1]. |
 | Sec 6.52 | Ins 2022 (629), Sch 1[1]. |
-| Sec 6.53 | Ins 2022 (629), Sch 1[1]. |
+| Sec 6.53 | Ins 2022 (629), Sch 1[1]. Am 2026 (583), Sch 1[16] [17]. |
 | Sec 6.54 | Ins 2022 (629), Sch 1[1]. Am 2026 (286), Sch 1.1[10]. |
 | Sec 6.55 | Ins 2022 (629), Sch 1[1]. Rep 2026 (286), Sch 1.1[4]. |
 | Sec 6.56 | Ins 2022 (629), Sch 1[1]. |
@@ -316,13 +322,12 @@ current_from: 2026-08-07
 | Sec 13.5 | Am 2024 (233), Sch 1. |
 | Sec 13.6 | Ins 2022 (461), Sch 1[2]. |
 | Part 13.3 | Ins 2022 (461), Sch 1[2]. |
-| Sec 13.7 | Ins 2022 (461), Sch 1[2]. |
+| Sec 13.7 | Ins 2022 (461), Sch 1[2]. Am 2026 (583), Sch 1[18] [19]. |
 | Sec 13.8 | Ins 2022 (461), Sch 1[2]. |
 | Sec 13.9 | Ins 2022 (461), Sch 1[2]. |
-| Sec 13.10 | Ins 2022 (461), Sch 1[2]. |
+| Sec 13.10 | Ins 2022 (461), Sch 1[2]. Am 2022 (767), Sch 1[2]. |
 | Part 13.4 | Ins 2022 (461), Sch 1[2]. |
-| Sec 13.10 | Am 2022 (767), Sch 1[2]. |
-| Sec 13.11 | Ins 2022 (461), Sch 1[2]. |
+| Sec 13.11 | Ins 2022 (461), Sch 1[2]. Am 2026 (583), Sch 1[20] [21]. |
 | Sec 13.12 | Ins 2022 (461), Sch 1[2]. |
 | Sec 13.13 | Ins 2022 (461), Sch 1[2]. |
 | Sec 13.14 | Ins 2022 (461), Sch 1[2]. |

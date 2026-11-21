@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Central River City) 2021"
 document_id: epi-2021-0725
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Central River City) 2021
@@ -47,6 +47,6 @@ Each of the following issues and any additional relevant issues required to be c
 - The findings and recommendations of relevant ecological studies prepared for the Sydney Olympic Park Authority or the Australian Department of Defence for the Homebush Bay Area and any ecological plan of management based on these studies.
 - Whether new areas of native vegetation and fauna habitats need to be created to compensate for any loss of vegetation within environmental conservation areas.
 
-**Appendix 7:** Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (584), Sch 1[2]; 2025 (692), Sch 4[1]; 2026 (286), Sch 1.5[9].
+**Appendix 7:** Am 2022 (835), Sch 1[28]; 2023 (524), Sch 1.2[1]; 2024 (584), Sch 1[2]; 2025 (692), Sch 4[1]; 2026 (286), Sch 1.5[9]; 2026 (583), Sch 5[7]–[15] [18].
 
 **sch 7:** Am 2024 (63), Sch 1[18].

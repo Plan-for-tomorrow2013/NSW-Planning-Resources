@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -1273,11 +1273,20 @@ In this Division—
 - (c) commercial premises, providing goods or services to staff or patients of, or visitors to, a health services facility (or to staff of, or visitors to, other premises within the boundaries of a health services facility),
 - (d) any premises to service patients or staff of, or visitors to, a health services facility (or to service staff of, or visitors to, other premises within the boundaries of a health services facility) that consist of an administration building or a car park,
 - (e) demolition of buildings,
-- (f) the removal or pruning of a tree or other vegetation if —
-  - (i) the tree is not listed on a register of significant trees kept by the council, and
-  - (ii) the tree or vegetation is within 3 metres of a building within the boundaries of the health services facility, and
-  - (iii) the tree or vegetation has a height of less than 8 metres, and
-  - (iv) in the case of removal of a tree—a replacement tree capable of achieving a mature height of 3 metres or more is planted within the boundaries of the health services facility,
+- (f) clearing vegetation within the meaning of *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2 if—
+  - (i) the vegetation is not listed on a register of significant trees kept by the council, and
+  - (ii) the vegetation is within 3 metres of a building within the boundaries of the health services facility, and
+  - (iii) the vegetation has a height of less than 6m, and
+  - (iv) the vegetation, whether living or dead, does not have a hollow that—
+    - (A) can be seen, and
+    - (B) has a width of at least 5cm, and
+    - (C) appears to have depth, and
+    - (D) is at least 1m above the ground, and
+  - (v) the clearing of vegetation does not exceed the biodiversity offsets scheme threshold within the meaning of *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2, and
+  - (vi) vegetation is planted to replace the cleared vegetation that meets the following requirements—
+    - (A) if a development control plan applies to the land and sets requirements for replanting cleared vegetation—the replacement vegetation complies with the requirements or alternative action is undertaken as agreed with the council,
+    - (B) if a development control plan that sets requirements for replanting cleared vegetation does not apply to the land and a tree was cleared—the replacement tree must be capable of achieving a height of at least 5m at maturity,
+    - (C) if a development control plan that sets requirements for replanting cleared vegetation does not apply to the land and vegetation other than a tree was cleared—the replacement vegetation must be similar in size, at maturity, to the vegetation cleared,
 - (g) an environmental facility,
 - (h) an information and education facility,
 - (i) a recreation facility (indoor),
@@ -1293,7 +1302,7 @@ In this Division—
 
 > **Note.** Certain development on bush fire prone land (such as a hospital) is not complying development (see section 100B of the *Rural Fires Act 1997*).
 
-**s 2.64:** Am 2025 (692), Sch 1[47].
+**s 2.64:** Am 2025 (692), Sch 1[47]; 2026 (583), Sch 9[2].
 
 ##### 2.65 Complying development—additional condition
 
@@ -4090,15 +4099,30 @@ The development must not contravene a condition of a development consent, other 
 
 ###### 2.177 Removal and pruning of trees and vegetation
 
-The development is not required to satisfy the requirements of section 2.22(2)(g), to the extent that it relates to a permit or approval required under an environmental planning instrument, in relation to the removal or pruning of a tree or other vegetation if—
+(1) The development is not required to satisfy the requirements of section 2.22(2)(g), to the extent that it relates to a permit or approval for clearing vegetation under *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2 if—
 
-- (a) for a tree—the tree is not listed as a significant tree on a register kept by the council, and
-- (b) the tree or vegetation is within 3m of the development, and
-- (c) the tree or vegetation has a height of less than 8m, and
-- (d) for the removal of a tree—a replacement tree capable of achieving a mature height of 3m or more is planted within the boundaries of the cemetery, and
-- (e) no more than 250m<sup>2</sup> of native vegetation is removed.
+- (a) the vegetation is not listed on a register of significant trees kept by the council, and
+- (b) the vegetation is within 3 metres of the development, and
+- (c) the vegetation has a height of less than 6m, and
+- (d) the vegetation, whether living or dead, does not have a hollow that—
+  - (i) can be seen, and
+  - (ii) has a width of at least 5cm, and
+  - (iii) appears to have depth, and
+  - (iv) is at least 1m above the ground, and
+- (e) the clearing of vegetation does not exceed the biodiversity offsets scheme threshold within the meaning of *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2, and
+- (f) no more than 250m<sup>2</sup> of native vegetation, within the meaning of the *Local Land Services Act 2013*, Part 5A, is cleared, and
+- (g) vegetation is planted to replace the cleared vegetation that meets the following requirements—
+  - (i) if a development control plan applies to the land and sets requirements for replanting cleared vegetation—the replacement vegetation complies with the requirements or alternative action is undertaken as agreed with the council,
+  - (ii) if a development control plan that sets requirements for replanting cleared vegetation does not apply to the land and a tree was cleared—the replacement tree must be capable of achieving a height of at least 5m at maturity,
+  - (iii) if a development control plan that sets requirements for replanting cleared vegetation does not apply to the land and vegetation other than a tree was cleared—the replacement vegetation must be similar in size, at maturity, to the vegetation cleared.
 
-**s 2.177:** Ins 2024 (505), Sch 1[1].
+(2) In this section—
+
+***clear*** vegetation has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+***vegetation*** has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+**s 2.177:** Ins 2024 (505), Sch 1[1]. Am 2026 (583), Sch 9[3]–[5].
 
 ###### 2.178 Heritage development
 

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -63,4 +63,4 @@ Erection of boundary fences that comply with any relevant covenant and Council p
 
 Erection of flagpoles not more than 6 metres high that are structurally adequate, but only one per site.
 
-**Appendix 6:** Am 2022 (835), Sch 2[13]; 2023 (524), Sch 1.2[2].
+**Appendix 6:** Am 2022 (835), Sch 2[13]; 2023 (524), Sch 1.2[2]; 2026 (583), Sch 6[9]–[11].

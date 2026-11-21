@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -1260,7 +1260,9 @@ In this Part—
   - (i) is in a cemetery or burial ground, and
   - (ii) is the creation of a new grave or monument, or excavation or disturbance of land for the purposes of conserving or repairing monuments or grave markers, and
   - (iii) will not cause disturbance to human remains, relics or Aboriginal objects in the form of grave goods or to an Aboriginal place of heritage significance,
-- (b) development that involves only the removal of a tree or other vegetation the consent authority is satisfied is a risk to human life or property.
+- (b) development that involves only the removal of a tree or other vegetation authorised in writing by the consent authority.
+
+(2A) A consent authority must not give written authorisation under subsection (2)(b) unless the consent authority is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (3) The consent authority may, before work is carried out, give written notice to an applicant for development consent for heritage development that development consent is not required if the consent authority is satisfied the development—
 
@@ -1282,7 +1284,7 @@ In this Part—
 - (e) the extent to which the development will affect the form of historic subdivisions,
 - (f) other matters the consent authority considers relevant.
 
-**s 6.53:** Ins 2022 (629), Sch 1[1].
+**s 6.53:** Ins 2022 (629), Sch 1[1]. Am 2026 (583), Sch 1[16] [17].
 
 #### 6.54 Aboriginal places of heritage significance
 

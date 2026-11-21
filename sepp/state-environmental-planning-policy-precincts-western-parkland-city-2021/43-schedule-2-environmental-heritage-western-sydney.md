@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -31,6 +31,6 @@ section 4.26
 | Luddenham | St James Anglican Church and cemetery | 3101–3125 The Northern Road | Lot 2, DP 529143 | Local | I14 |
 | Luddenham | Showground | 428–452 Park Road | Lot 1, DP 931631; Lot 2, DP 972057 | Local | I15 |
 
-**Appendix 2:** Am 2022 (93), Sch 1[1] [2]; 2022 (835), Sch 4[24]; 2023 (524), Sch 1.2[1]; 2024 (92), Sch 1[2]; 2025 (314), Sch 1[2] [3]; 2026 (286), Sch 1.8[16]; 2026 (312), Sch 1[3].
+**Appendix 2:** Am 2022 (93), Sch 1[1] [2]; 2022 (835), Sch 4[24]; 2023 (524), Sch 1.2[1]; 2024 (92), Sch 1[2]; 2025 (314), Sch 1[2] [3]; 2026 (286), Sch 1.8[16]; 2026 (312), Sch 1[3]; 2026 (583), Sch 8[11] [12].
 
 **sch 2:** Am 2022 (112), Sch 1.1[53].

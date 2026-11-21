@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Transport and Infrastructure) 2021"
 document_id: epi-2021-0732
-current_from: 2026-09-11
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Transport and Infrastructure) 2021
@@ -868,26 +868,26 @@ is complying development.
 
 ### Part 5.5 Miscellaneous
 
-#### 5.29 Preservation of trees or vegetation
+#### 5.29 Preservation of vegetation
 
-(1) The objective of this section is to preserve the amenity of the area, including biodiversity values, through the preservation of trees and other vegetation.
+(1) The objective of this section is to preserve the amenity of the area, including biodiversity values, through the preservation of vegetation.
 
-(2) This section applies to species or kinds of trees or other vegetation on land to which this Chapter applies (other than the Lease Area) that are prescribed for the purposes of this section by a development control plan made by the Council of the area in which they are situated or by the Planning Secretary.
+(2) This section applies to species or kinds of vegetation on land to which this Chapter applies (other than the Lease Area) that are prescribed for the purposes of this section by a development control plan made by the Council of the area in which they are situated or by the Planning Secretary.
 
-> **Note.** A development control plan may prescribe the trees or other vegetation to which this section applies by reference to species, size, location or other manner.
+> **Note.** A development control plan may prescribe the vegetation to which this section applies by reference to species, size, location or other manner.
 
-(3) A person must not cut down, top, remove, injure or wilfully destroy any tree or other vegetation to which any such development control plan applies without the authority conferred by—
+(3) A person must not clear vegetation to which any such development control plan applies without the authority conferred by—
 
 - (a) development consent, or
-- (b) a permit or an approval granted by the Council of the area in which the tree or vegetation is situated.
+- (b) a permit granted by the Council of the area in which the tree or vegetation is situated.
 
-(4) The refusal by the Council to grant a permit or an approval to a person who has duly applied for the grant of the permit or approval is taken for the purposes of the Act to be a refusal by the Council to grant consent for the carrying out of the activity for which a permit was sought.
+(4) The refusal by the Council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the Council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the Council of the area in which the tree or vegetation is situated is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the Council.
 
-(6) This section does not apply to a tree or other vegetation that the Council of the area in which the tree or vegetation is situated is satisfied is a risk to human life or property.
+(6) The Council must not give written authorisation under subsection (5) unless the Council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
-(7) A permit or approval must not allow cutting down, topping, pruning, removal, injuring or destruction of a tree or other vegetation—
+(7) A permit must not allow the clearing of a tree or other vegetation—
 
 - (a) that is or forms part of a heritage item, or
 - (b) that is or forms part of an Aboriginal object or that is within an Aboriginal place of heritage significance,
@@ -901,18 +901,17 @@ unless the Council is satisfied that the proposed activity—
 
 (8) This section does not apply to or in respect of—
 
-- (a) the clearing of native vegetation—
-  - (i) that is authorised by a development consent or property vegetation plan under the *Native Vegetation Act 2003*, or
-  - (ii) that is otherwise permitted under Division 2 or 3 of Part 3 of that Act, or
+- (a) clearing vegetation that is authorised by a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (a1) clearing vegetation that is authorised by a development consent within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
 - (b) the clearing of vegetation on State protected land (within the meaning of clause 4 of Schedule 3 to the *Native Vegetation Act 2003*) that is authorised by a development consent under the provisions of the *Native Vegetation Conservation Act 1997* as continued in force by that clause, or
-- (c) trees or other vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
+- (c) vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 2012*, or
 - (d) action required or authorised to be done by or under the *Electricity Supply Act 1995*, the *Roads Act 1993* or the *Surveying and Spatial Information Act 2002*, or
-- (e) plants declared to be noxious weeds under the *Noxious Weeds Act 1993*, or
+- (e) clearing vegetation that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2, or
 - (f) plants declared to be marine vegetation under the *Fisheries Management Act 1994*.
 
 > **Note.** Permissibility may be a matter that is determined by or under any of these Acts.
 
-**s 5.29:** Am 2022 (373), Sch 1[6] [28]–[33].
+**s 5.29:** Am 2022 (373), Sch 1[6] [28]–[33]; 2026 (583), Sch 9[10]–[20].
 
 #### 5.30 Other trees or vegetation
 
@@ -950,7 +949,7 @@ However, development consent under this section is not required if—
 - (a) the applicant has notified the consent authority of the proposed development and the consent authority has advised the applicant in writing before any work is carried out that it is satisfied that the proposed development—
   - (i) is of a minor nature or is for the maintenance of the heritage item, and
   - (ii) would not adversely affect the heritage significance of the heritage item, or
-- (b) the development is limited to the removal of a tree or other vegetation that the Council is satisfied is a risk to human life or property, or
+- (b) the development is limited to the removal of vegetation authorised in writing by the Council that the Council is satisfied— poses an imminent risk to human life or habitable property, or
 - (c) the development is making changes to the exterior of a heritage item, including in the case of a building making structural changes to the detail, fabric, finish or appearance of the building, or
 - (d) the development is exempt development.
 
@@ -1039,7 +1038,7 @@ The consent authority may grant consent to development for any purpose of a buil
 
 > **Note 2—** Heritage items marked with an (*A) are archaeological sites.
 
-**s 5.31:** Am 2022 (373), Sch 1[35] [36]; 2022 (517), Sch 1[19] [20]; 2025 (618), Sch 3[3]; 2025 (692), Sch 1[135].
+**s 5.31:** Am 2022 (373), Sch 1[35] [36]; 2022 (517), Sch 1[19] [20]; 2025 (618), Sch 3[3]; 2025 (692), Sch 1[135]; 2026 (583), Sch 9[21].
 
 #### 5.32 Application of consultation requirements
 

@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -910,9 +910,9 @@ If development for the purposes of a secondary dwelling is permitted under this 
 
 (4) The refusal by the Council to grant a permit to a person who has duly applied for the grant of the permit is taken for the purposes of the Act to be a refusal by the Council to grant consent for the carrying out of the activity for which a permit was sought.
 
-(5) This section does not apply to a tree or other vegetation that the Council is satisfied is dying or dead and is not required as the habitat of native fauna.
+(5) This section does not apply to clearing vegetation that is authorised in writing by the Council.
 
-(6) This section does not apply to a tree or other vegetation that the Council is satisfied is a risk to human life or property.
+(6) The Council must not give written authorisation under subsection (5) unless the Council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (7) This section does not apply to or in respect of—
 
@@ -965,7 +965,7 @@ However, development consent under this section is not required if—
 - (b) the development is in a cemetery or burial ground and the proposed development—
   - (i) is the creation of a new grave or monument, or excavation or disturbance of land for the purpose of conserving or repairing monuments or grave markers, and
   - (ii) would not cause disturbance to human remains, relics, Aboriginal objects in the form of grave goods, or to an Aboriginal place of heritage significance, or
-- (c) the development is limited to the removal of a tree or other vegetation that the Council is satisfied is a risk to human life or property, or
+- (c) the development is limited to the removal of vegetation authorised in writing by the Council that the Council is satisfied poses an imminent risk to human life or habitable property, or
 - (d) the development is exempt development.
 
 **(4) Effect of proposed development on heritage significance**
@@ -1070,10 +1070,9 @@ Bush fire hazard reduction work authorised by the *Rural Fires Act 1997* may be 
 
 (2) This section applies to land within a native vegetation retention area as shown on the *Native Vegetation Protection Map*.
 
-(3) This section does not apply to native vegetation that the Council is satisfied—
+(3) This section does not apply to clearing vegetation that is authorised in writing by the Council.
 
-- (a) is dying or dead and is not required as the habitat of native fauna, or
-- (b) is a risk to human life or property.
+(3A) The Council must not give written authorisation under subsection (3) unless the Council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (4) This section does not apply to any native vegetation—
 

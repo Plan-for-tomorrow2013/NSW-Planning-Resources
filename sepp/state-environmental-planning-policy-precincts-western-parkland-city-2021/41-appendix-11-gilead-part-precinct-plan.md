@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -446,7 +446,7 @@ Development consent under this section is not required if—
 - (b) the development is in a cemetery or burial ground and the development—
   - (i) is the creation of a new grave or monument, or the excavation or disturbance of land for the purpose of conserving or repairing monuments or grave markers, and
   - (ii) would not cause disturbance to human remains, relics, Aboriginal objects in the form of grave goods, or to an Aboriginal place of heritage significance, or
-- (c) the development is limited to the removal of a tree or other vegetation the Council is satisfied is a risk to human life or property, or
+- (c) the development is limited to the removal of vegetation authorised in writing by the Council that the Council is satisfied poses an imminent risk to human life or habitable property, or
 - (d) the development is exempt development.
 
 **(4) Effect of development on heritage significance**
@@ -761,5 +761,3 @@ section 5.10
 | Precinct | Item name | Address | Property description | Significance | Item no |
 |---|---|---|---|---|---|
 | Gilead (Part) | “Glen Lorne” | 982 Appin Road | Part of Lot 2, DP 603674 | Local | I55 |
-
-**Appendix 11:** Ins 2024 (207), Sch 1[12]. Am 2024 (269), Sch 1[1] [2]; 2026 (286), Sch 1.8[29] [30].

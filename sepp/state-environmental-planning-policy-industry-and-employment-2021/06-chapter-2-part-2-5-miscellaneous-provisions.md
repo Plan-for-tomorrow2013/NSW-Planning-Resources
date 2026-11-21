@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Industry and Employment) 2021"
 document_id: epi-2021-0723
-current_from: 2026-07-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Industry and Employment) 2021
@@ -56,31 +56,36 @@ In determining a development application that relates to land to which this Chap
 - (c) high quality landscaping is provided, and
 - (d) the scale and character of the development is compatible with other employment-generating development in the precinct concerned.
 
-#### 2.31 Preservation of trees or vegetation
+#### 2.31 Preservation of vegetation
 
-(1) The objective of this section is to preserve the amenity of the area through the preservation of trees and other vegetation.
+(1) The objective of this section is to preserve the amenity of the area through the preservation of vegetation.
 
-(2) This section applies to species or kinds of trees or other vegetation that are prescribed for the purposes of this section by a development control plan made under Division 3.6 of the Act.
+(2) This section applies to species or kinds of vegetation that are prescribed for the purposes of this section by a development control plan made under Division 3.6 of the Act.
 
-> **Note.** Any such development control plan may prescribe the trees or other vegetation to which this section applies by reference to species, size, location or other manner.
+> **Note.** Any such development control plan may prescribe the vegetation to which this section applies by reference to species, size, location or other manner.
 
-(3) A person must not ringbark, cut down, top, lop, remove, injure or wilfully destroy any tree or other vegetation to which any such development control plan applies without the authority conferred by—
+(3) A person must not clear vegetation to which a development control plan applies without the authority conferred by a development consent.
 
-- (a) development consent, or
-- (b) a permit granted by the Secretary as the relevant planning authority for the purposes of Division 3.6 of the Act.
+(4) This section does not apply to the clearing of vegetation that is authorised in writing by the relevant council.
 
-(4) This section does not apply to a tree or other vegetation that the relevant council or the Secretary (as the relevant planning authority for the purposes of Division 3.6 of the Act) is satisfied—
-
-- (a) is dying or dead and is not required as the habitat of native fauna, or
-- (b) is a risk to human life or property.
+(4A) A relevant council must not give written authorisation under subsection (4) unless the council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 (5) This section does not apply to or in respect of—
 
-- (a) the clearing of native vegetation that is authorised by a development consent or property vegetation plan under the *Native Vegetation Act 2003* or that is otherwise permitted under Division 2 or 3 of Part 3 of that Act, or
+- (a) clearing vegetation that is authorised by a property vegetation plan within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
+- (a1) clearing vegetation that is authorised by a development consent within the meaning of the *Native Vegetation Act 2003* that is continued in force by the *Biodiversity Conservation (Savings and Transitional) Regulation 2017*, or
 - (b) the clearing of vegetation on State protected land (within the meaning of clause 4 of Schedule 3 to the *Native Vegetation Act 2003*) that is authorised by a development consent under the provisions of the *Native Vegetation Conservation Act 1997* as continued in force by that clause, or
-- (c) trees or other vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
+- (c) vegetation within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
 - (d) action required or authorised to be done by or under the *Electricity Supply Act 1995*, the *Roads Act 1993* or the *Surveying Act 2002*, or
-- (e) plants declared to be noxious weeds under the *Noxious Weeds Act 1993*.
+- (e) clearing vegetation that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2.
+
+(6) In this section—
+
+***clear*** vegetation has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+***vegetation*** has the same meaning as in *State Environmental Planning Policy (Biodiversity and Conservation) 2021*, Chapter 2.
+
+**s 2.31:** Am 2026 (583), Sch 4[1]–[7].
 
 #### 2.32 Infrastructure development and use of existing buildings of the Crown
 

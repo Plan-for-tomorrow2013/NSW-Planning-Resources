@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Housing) 2021"
 document_id: epi-2021-0714
-current_from: 2026-10-09
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Housing) 2021
@@ -65,6 +65,7 @@ current_from: 2026-10-09
 |  | (409) | *State Environmental Planning Policy Amendment (Parramatta North Precinct) 2026*. LW 7.8.2026. Date of commencement, on publication on LW, sec 2. |
 |  | (511) | *Liverpool Local Environmental Plan Amendment (Housing) 2026*. LW 11.9.2026. Date of commencement, on publication on LW, cl 2. |
 |  | (556) | *Woollahra Local Environmental Plan Amendment (Housing) 2026*. LW 9.10.2026. Date of commencement, on publication on LW, cl 2. |
+|  | (583) | *State Environmental Planning Policy Amendment (Vegetation) 2026*. LW 23.10.2026. Date of commencement, on publication on LW, sec 2. |
 
 ### Table of amendments
 
@@ -132,7 +133,7 @@ current_from: 2026-10-09
 | Sec 61 | Am 2022 (349), Sch 1[21]; 2025 (512), Sch 1[3]. |
 | Sec 62 | Rep 2025 (512), Sch 1[4]. |
 | Sec 63 | Am 2022 (349), Sch 1[22] [23]. |
-| Sec 64 | Am 2023 (664), Sch 1[2]; 2025 (512), Sch 1[5] [6]. |
+| Sec 64 | Am 2023 (664), Sch 1[2]; 2025 (512), Sch 1[5] [6]; 2026 (583), Sch 3[1] [2]. |
 | Sec 65 | Am 2023 (609), Sch 2.18[1] [2]. |
 | Sec 66 | Am 2023 (79), Sch 2[2]. |
 | Sec 66A | Ins 2025 (512), Sch 1[7]. |

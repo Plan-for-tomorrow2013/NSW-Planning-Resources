@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021"
 document_id: epi-2021-0726
-current_from: 2026-09-01
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Eastern Harbour City) 2021
@@ -166,4 +166,4 @@ A storey that exceeds 4 metres in height (otherwise than in an entry foyer or a 
 
 ***Zoning Map*** means the map marked “*Sydney Regional Environmental Plan No 33—Cooks Cove—Zoning Map*”.
 
-**Appendix 8:** Ins 2022 (769), Sch 1[3]. Am 2023 (523), Sch 2.4[3]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.34.
+**Appendix 8:** Ins 2022 (769), Sch 1[3]. Am 2023 (523), Sch 2.4[3]; 2023 (524), Sch 1.2[1]; 2023 (554), Sch 2.34; 2026 (583), Sch 6[12].

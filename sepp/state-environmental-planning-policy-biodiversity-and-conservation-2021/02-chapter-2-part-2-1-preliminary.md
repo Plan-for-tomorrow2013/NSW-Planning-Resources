@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -15,7 +15,12 @@ current_from: 2026-08-07
 The aims of this Chapter are—
 
 - (a) to protect the biodiversity values of trees and other vegetation in non-rural areas of the State, and
-- (b) to preserve the amenity of non-rural areas of the State through the preservation of trees and other vegetation.
+- (b) to preserve the amenity of non-rural areas of the State through the preservation of trees and other vegetation,
+- (c) to increase trees and other vegetation in non-rural areas of the State to—
+  - (i) help mitigate urban heat and climate change, and
+  - (ii) to provide local amenity.
+
+**s 2.1:** Am 2026 (583), Sch 1[1].
 
 #### 2.2 Definitions
 
@@ -41,6 +46,8 @@ The aims of this Chapter are—
 - (a) cut down, fell, uproot, kill, poison, ringbark, burn or otherwise destroy the vegetation, or
 - (b) lop or otherwise remove a substantial part of the vegetation.
 
+***habitat*** has the same meaning as in the *Biodiversity Conservation Act 2016*.
+
 ***landholder*** means a person who is the owner of land or who, whether by reason of ownership or otherwise, is in lawful occupation or possession, or has lawful management or control, of land.
 
 ***native vegetation*** has the same meaning as in Part 5A of the *Local Land Services Act 2013*.
@@ -51,24 +58,24 @@ The aims of this Chapter are—
 
 ***permit*** means a permit issued by a council under Part 2.3.
 
-***private land***, for Part 2.4—see section 2.25.
+***private land***, for Part 2.5—see section 2.25.
 
 ***the Act*** means the *Environmental Planning and Assessment Act 1979*.
 
-***vegetation*** means a tree or other vegetation, whether or not it is native vegetation.
+***vegetation*** means a tree or other plant.
 
 > **Note.** The Act and the *Interpretation Act 1987* contain definitions and other provisions that affect the interpretation and application of this Chapter.
 
 (2) Notes included in this Chapter do not form part of this Chapter.
 
-**s 2.2:** Am 2024 No 96, Sch 3[1].
+**s 2.2:** Am 2024 No 96, Sch 3[1]; 2026 (583), Sch 1[2]–[4].
 
 #### 2.3 Land to which Chapter applies
 
 (1) This Chapter applies to the following areas of the State (the non-rural areas of the State)—
 
 - (a) land in the following local government areas—
-  - Bayside, City of Blacktown, Burwood, Camden, City of Campbelltown, Canterbury-Bankstown, Canada Bay, Cumberland, City of Fairfield, Georges River, City of Hawkesbury, Hornsby, Hunter’s Hill, Georges River, Inner West, Ku-ring-gai, Lane Cove, City of Liverpool, Mosman, Newcastle, North Sydney, Northern Beaches, City of Parramatta, City of Penrith, City of Randwick, Rockdale, City of Ryde, Strathfield, Sutherland Shire, City of Sydney, The Hills Shire, Waverley, City of Willoughby, Woollahra.
+  - Bayside, City of Blacktown, Burwood, Camden, City of Campbelltown, Canterbury-Bankstown, Canada Bay, Cumberland, City of Fairfield, Georges River, City of Hawkesbury, Hornsby, Hunter’s Hill, Inner West, Ku-ring-gai, Lane Cove, City of Liverpool, Mosman, Newcastle, North Sydney, Northern Beaches, City of Parramatta, City of Penrith, City of Randwick, City of Ryde, Strathfield, Sutherland Shire, City of Sydney, The Hills Shire, Waverley, City of Willoughby, or Woollahra, or
 - (b) land within the following zones under an environmental planning instrument—
   - Zone RU5 Village, Zone R1 General Residential, Zone R2 Low Density Residential, Zone R3 Medium Density Residential, Zone R4 High Density Residential, Zone R5 Large Lot Residential, Zone B1 Neighbourhood Centre, Zone B2 Local Centre, Zone B3 Commercial Core, Zone B4 Mixed Use, Zone B5 Business Development, Zone B6 Enterprise Corridor, Zone B7 Business Park, Zone B8 Metropolitan Centre, Zone E1 Local Centre, Zone E2 Commercial Centre, Zone E3 Productivity Support, Zone E4 General Industrial, Zone E5 Heavy Industrial, Zone IN1 General Industrial, Zone IN2 Light Industrial, Zone IN3 Heavy Industrial, Zone IN4 Working Waterfront, Zone MU1 Mixed Use, Zone IN4 Working Waterfront, Zone SP1 Special Activities, Zone SP2 Infrastructure, Zone SP3 Tourist, Zone SP4 Enterprise, Zone SP5 Metropolitan Centre, Zone RE1 Public Recreation, Zone RE2 Private Recreation, Zone C2 Environmental Conservation, Zone C3 Environmental Management, Zone C4 Environmental Living, Zone W3 Working Waterways or Zone W4 Working Waterfront.
 
@@ -76,7 +83,7 @@ The aims of this Chapter are—
 
 > **Note.** Part 5A (Land management (native vegetation)) of the *Local Land Services Act 2013* does not apply to non-rural areas to which this Chapter applies.
 
-**s 2.3:** Am 2024 (42), Sch 1.38[1]–[4].
+**s 2.3:** Am 2024 (42), Sch 1.38[1]–[4]; 2026 (583), Sch 1[5]–[7].
 
 #### 2.4 Relationship to other planning instruments
 

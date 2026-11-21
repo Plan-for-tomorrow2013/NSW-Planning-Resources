@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Biodiversity and Conservation) 2021"
 document_id: epi-2021-0722
-current_from: 2026-08-07
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Biodiversity and Conservation) 2021
@@ -137,12 +137,14 @@ The aims of this Chapter are as follows—
 (4) This section does not apply to the following—
 
 - (a) clearing of native vegetation carried out by or on behalf of a public authority,
-- (b) clearing to remove vegetation that the council is satisfied is a risk to human life or property,
+- (b) clearing to remove vegetation authorised in writing by the council,
 - (c) bush fire hazard reduction work carried out in accordance with *State Environmental Planning Policy (Transport and Infrastructure) 2021*, section 2.52(8).
+
+(5) A council must not give written authorisation under subsection (4)(b) unless the council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
 > **Note—** Development consent is not required for clearing for the construction and maintenance of certain fences and farm tracks—see section 13.18.
 
-**s 13.7:** Ins 2022 (461), Sch 1[2].
+**s 13.7:** Ins 2022 (461), Sch 1[2]. Am 2026 (583), Sch 1[18] [19].
 
 #### 13.8 Development on avoided land generally
 
@@ -206,9 +208,7 @@ The aims of this Chapter are as follows—
 
 (3) This section does not apply to a subdivision of land carried out by the National Parks and Wildlife Service.
 
-**s 13.10:** Ins 2022 (461), Sch 1[2].
-
-**s 13.10:** Am 2022 (767), Sch 1[2].
+**s 13.10:** Ins 2022 (461), Sch 1[2]. Am 2022 (767), Sch 1[2].
 
 ### Part 13.4 Development controls—strategic conservation area
 
@@ -237,12 +237,14 @@ The aims of this Chapter are as follows—
 (4) This section does not apply to the following—
 
 - (a) clearing of native vegetation carried out by or on behalf of a public authority,
-- (b) clearing to remove vegetation that the council is satisfied is a risk to human life or property,
+- (b) clearing to remove vegetation authorised in writing by the council,
 - (c) bush fire hazard reduction work carried out in accordance with *State Environmental Planning Policy (Transport and Infrastructure) 2021*, section 2.52(8).
+
+(5) A council must not give written authorisation under subsection (4)(b) unless the council is satisfied the vegetation poses an imminent risk to human life or habitable property.
 
 > **Note—** Development consent is not required for clearing for the construction and maintenance of certain fences and farm tracks—see section 13.18.
 
-**s 13.11:** Ins 2022 (461), Sch 1[2].
+**s 13.11:** Ins 2022 (461), Sch 1[2]. Am 2026 (583), Sch 1[20] [21].
 
 #### 13.12 Development on land in strategic conservation area generally
 

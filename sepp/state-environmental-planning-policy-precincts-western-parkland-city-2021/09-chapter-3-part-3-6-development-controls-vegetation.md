@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Precincts—Western Parkland City) 2021"
 document_id: epi-2021-0728
-current_from: 2026-07-17
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Precincts—Western Parkland City) 2021
@@ -27,19 +27,20 @@ current_from: 2026-07-17
 
 **s 3.28:** Am 2022 (835), Sch 4[20]–[22]; 2023 (458), Sch 3.5[3].
 
-#### 3.29 Vegetation to which Part applies
+#### 3.29 Vegetation to which part applies
 
-(1) This Part applies to native vegetation within the meaning of the *Native Vegetation Act 2003*.
+(1) This part applies to native vegetation within the meaning of the *Local Land Services Act 2013*, Part 5A.
 
-(2) This Part does not apply to any particular native vegetation that the council of the area concerned is satisfied—
+(2) This section does not apply to clearing vegetation that is authorised in writing by the council.
 
-- (a) is dying or dead and is not required as the habitat of native fauna, or
-- (b) is a risk to human life or property.
+(3) The council must not give written authorisation under subsection (2) unless the council is satisfied the vegetation to be cleared poses an imminent risk to human life or habitable property.
 
-(3) This Part does not apply to any native vegetation—
+(4) This part does not apply to native vegetation—
 
-- (a) within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 1916*, or
-- (b) declared to be noxious weeds under the *Noxious Weeds Act 1993*.
+- (a) within a State forest, or land reserved from sale as a timber or forest reserve under the *Forestry Act 2012*, or
+- (b) that is a weed that is or should be prevented, managed, controlled or eradicated as identified in a relevant local strategic plan under the *Local Land Services Act 2013*, Part 4, Division 2.
+
+**s 3.29:** Subst 2026 (583), Sch 8[1].
 
 #### 3.30 Consent for clearing native vegetation
 

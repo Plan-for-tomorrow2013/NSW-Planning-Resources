@@ -1,7 +1,7 @@
 ---
 title: "State Environmental Planning Policy (Housing) 2021"
 document_id: epi-2021-0714
-current_from: 2026-10-09
+current_from: 2026-10-23
 ---
 
 # State Environmental Planning Policy (Housing) 2021
