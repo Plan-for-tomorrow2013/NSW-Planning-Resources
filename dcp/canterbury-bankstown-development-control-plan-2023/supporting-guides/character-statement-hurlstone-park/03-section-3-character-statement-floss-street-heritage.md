@@ -2,7 +2,8 @@
 title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Character Statement - Hurlstone Park"
 document_id: dcp-canterbury-bankstown-2023-guide-character-statement-hurlstone-park
 current_from: 2025-04-17
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
+council_id: NSW-C-CANTERBURY-BANKSTOWN
 source_file: "2025.04.17 - DCP 2023 - AMENDMENT 6 - Character Statement - Hurlstone Park.pdf"
 ---
 

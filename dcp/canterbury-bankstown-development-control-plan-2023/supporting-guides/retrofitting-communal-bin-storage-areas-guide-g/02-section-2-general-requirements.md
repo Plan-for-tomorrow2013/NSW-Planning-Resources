@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Retrofitting Communal Bin Storage Areas - Guide G"
-document_id: dcp-canterbury-bankstown-2023-guide-retrofitting-communal-bin-storage-areas-guide-g
+title: "SECTION 2–GENERAL REQUIREMENTS"
+document_id: canterbury-bankstown-development-control-plan-2023/supporting-guides/retrofitting-communal-bin-storage-areas-guide-g/section-2-general-requirements
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2025-08-01
-council: "Canterbury-Bankstown"
-source_file: "2025.08.01 - DCP 2023 - AMENDMENT 8 - Retrofitting Communal Bin Storage Areas - Guide G.pdf"
+authoritative_url: "https://webdocs.bankstown.nsw.gov.au/api/publish?documentPath=aHR0cDovL2lzaGFyZS9zaXRlcy9QbGFubmluZy9TUC9EQ1AgQW1lbmRtZW50cy9EQ1AgLSBXZWJzaXRlIERvY3VtZW50cyAtIEN1cnJlbnQgdmVyc2lvbnMgb24gQ291bmNpbCdzIHdlYnNpdGUvMjAyNS4wOC4wMSAtIERDUCAyMDIzIC0gQU1FTkRNRU5UIDggLSBSZXRyb2ZpdHRpbmcgQ29tbXVuYWwgQmluIFN0b3JhZ2UgQXJlYXMgLSBHdWlkZSBHLnBkZg==&title=2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Retrofitting%20Communal%20Bin%20Storage%20Areas%20-%20Guide%20G.pdf"
 ---
-
 ## SECTION 2–GENERAL REQUIREMENTS
 
 #### Kerbside collections

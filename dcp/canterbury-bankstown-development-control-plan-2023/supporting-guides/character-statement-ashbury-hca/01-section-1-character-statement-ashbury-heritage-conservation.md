@@ -2,7 +2,8 @@
 title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Character Statement - Ashbury HCA"
 document_id: dcp-canterbury-bankstown-2023-guide-character-statement-ashbury-hca
 current_from: 2024-08-06
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
+council_id: NSW-C-CANTERBURY-BANKSTOWN
 source_file: "2024.08.06 - Character Statement - Ashbury HCA.pdf"
 ---
 

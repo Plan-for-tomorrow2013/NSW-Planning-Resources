@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Retrofitting Communal Bin Storage Areas - Guide G"
-document_id: dcp-canterbury-bankstown-2023-guide-retrofitting-communal-bin-storage-areas-guide-g
+title: "SECTION 3–SPECIFIC REQUIREMENTS"
+document_id: canterbury-bankstown-development-control-plan-2023/supporting-guides/retrofitting-communal-bin-storage-areas-guide-g/section-3-specific-requirements
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2025-08-01
-council: "Canterbury-Bankstown"
-source_file: "2025.08.01 - DCP 2023 - AMENDMENT 8 - Retrofitting Communal Bin Storage Areas - Guide G.pdf"
+authoritative_url: "https://webdocs.bankstown.nsw.gov.au/api/publish?documentPath=aHR0cDovL2lzaGFyZS9zaXRlcy9QbGFubmluZy9TUC9EQ1AgQW1lbmRtZW50cy9EQ1AgLSBXZWJzaXRlIERvY3VtZW50cyAtIEN1cnJlbnQgdmVyc2lvbnMgb24gQ291bmNpbCdzIHdlYnNpdGUvMjAyNS4wOC4wMSAtIERDUCAyMDIzIC0gQU1FTkRNRU5UIDggLSBSZXRyb2ZpdHRpbmcgQ29tbXVuYWwgQmluIFN0b3JhZ2UgQXJlYXMgLSBHdWlkZSBHLnBkZg==&title=2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Retrofitting%20Communal%20Bin%20Storage%20Areas%20-%20Guide%20G.pdf"
 ---
-
 ## SECTION 3–SPECIFIC REQUIREMENTS
 
 #### Communal bin storage area
@@ -42,7 +41,9 @@ Bin bays are to be:
 
 • Located to retain the maximum amount of landscaping and permeable surfaces.
 
-> [Picture on page 11, not reproduced as text; see the original PDF.]
+![Picture on page 11](images/retrofitting-communal-bin-storage-areas-guide-g-page-11-1.gif)
+
+> [Picture on page 11: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-11-1.gif, 150 dpi).]
 
 Figure 1 Bin Bay orientation: symbols red for building, brown is driveway blue is bin bay
 
@@ -156,7 +157,9 @@ The bulky waste storage area is to be separate to the bin storage area(s), howev
 
 Bulky waste rooms are particularly important for developments with high rental turnover where residents may leave between collections.
 
-> [Picture on page 13, not reproduced as text; see the original PDF.]
+![Picture on page 13](images/retrofitting-communal-bin-storage-areas-guide-g-page-13-23.gif)
+
+> [Picture on page 13: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-13-23.gif, 150 dpi).]
 
 Supplementary Recycling Service
 
@@ -214,11 +217,21 @@ Onsite collection is a preferred service system for newly developed residential 
 
 Proposed onsite collections should be discussed early on in the process with Councils Waste Planner. Appendix 1 – accepted materials
 
-| Brick | Pre-coated Steel (Colour Bond) |
-|---|---|
-| Pre-coated Steel (Colour Bond) | Pre-coated Steel (Colour Bond) |
+![Picture on page 15](images/retrofitting-communal-bin-storage-areas-guide-g-page-15-18.gif)
 
-| Wood | Green roof / planted |
-|---|---|
-| Green roof / planted | Green roof / planted |
-| Gabion walls |  |
+> [Picture on page 15: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-15-18.gif, 150 dpi).]
+> Words printed on the picture (title and legend, copied from the PDF):
+> Pre-coated Steel (Colour Bond)
+> Brick
+> Pre-coated Steel (Colour Bond)
+> Pre-coated Steel (Colour Bond)
+
+![Picture on page 16](images/retrofitting-communal-bin-storage-areas-guide-g-page-16-1.gif)
+
+> [Picture on page 16: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-16-1.gif, 150 dpi).]
+> Words printed on the picture (title and legend, copied from the PDF):
+> Green roof / planted
+> Wood
+> Green roof / planted
+> Green roof / planted
+> Gabion walls

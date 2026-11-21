@@ -2,7 +2,8 @@
 title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Waste Design for New Developments - Guide A"
 document_id: dcp-canterbury-bankstown-2023-guide-waste-design-for-new-developments-guide-a
 current_from: 2023-06-23
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
+council_id: NSW-C-CANTERBURY-BANKSTOWN
 source_file: "2023.06.23 - DCP 2023 - CONSOLIDATED - Waste Design for New Developments - Guide A.pdf"
 ---
 

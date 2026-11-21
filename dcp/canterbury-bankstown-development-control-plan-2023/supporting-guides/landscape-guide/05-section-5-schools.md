@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Landscape Guide"
-document_id: dcp-canterbury-bankstown-2023-guide-landscape-guide
+title: "SECTION 5–SCHOOLS"
+document_id: canterbury-bankstown-development-control-plan-2023/supporting-guides/landscape-guide/section-5-schools
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2024-08-06
-council: "Canterbury-Bankstown"
-source_file: "2024.08.06 - Landscape Guide.pdf"
+authoritative_url: "https://webdocs.bankstown.nsw.gov.au/api/publish?documentPath=aHR0cDovL2lzaGFyZS9zaXRlcy9Db21tdW5pY2F0aW9ucy9QdWJsaWNhdGlvbnMvV2Vic2l0ZSBEb2N1bWVudHMvMjAyNC4wOC4wNiAtIExhbmRzY2FwZSBHdWlkZS5wZGY=&title=2024.08.06%20-%20Landscape%20Guide.pdf"
 ---
-
 ## SECTION 5–SCHOOLS
 
 #### Explanation

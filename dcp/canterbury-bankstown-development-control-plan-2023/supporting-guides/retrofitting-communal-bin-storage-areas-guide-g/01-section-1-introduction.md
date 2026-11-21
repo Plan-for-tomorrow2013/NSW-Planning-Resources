@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Retrofitting Communal Bin Storage Areas - Guide G"
-document_id: dcp-canterbury-bankstown-2023-guide-retrofitting-communal-bin-storage-areas-guide-g
+title: "SECTION 1–INTRODUCTION"
+document_id: canterbury-bankstown-development-control-plan-2023/supporting-guides/retrofitting-communal-bin-storage-areas-guide-g/section-1-introduction
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2025-08-01
-council: "Canterbury-Bankstown"
-source_file: "2025.08.01 - DCP 2023 - AMENDMENT 8 - Retrofitting Communal Bin Storage Areas - Guide G.pdf"
+authoritative_url: "https://webdocs.bankstown.nsw.gov.au/api/publish?documentPath=aHR0cDovL2lzaGFyZS9zaXRlcy9QbGFubmluZy9TUC9EQ1AgQW1lbmRtZW50cy9EQ1AgLSBXZWJzaXRlIERvY3VtZW50cyAtIEN1cnJlbnQgdmVyc2lvbnMgb24gQ291bmNpbCdzIHdlYnNpdGUvMjAyNS4wOC4wMSAtIERDUCAyMDIzIC0gQU1FTkRNRU5UIDggLSBSZXRyb2ZpdHRpbmcgQ29tbXVuYWwgQmluIFN0b3JhZ2UgQXJlYXMgLSBHdWlkZSBHLnBkZg==&title=2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Retrofitting%20Communal%20Bin%20Storage%20Areas%20-%20Guide%20G.pdf"
 ---
-
 ## SECTION 1–INTRODUCTION
 
 Prior to the submission of any application for this type of development, it is recommended that you speak with Council’s Waste Planning Officers to confirm your buildings waste and recycling requirements. This is a free service available by contacting the Waste Planning Officer on 9707 9000 or by email Council@cbcity.nsw.gov.au
@@ -106,7 +105,9 @@ Council or its contractors are solely to provide the waste services to all resid
 
 The following generation rates in Table 1 must be used to identify the number of bins needed for the development. Identifying the number, collection frequency, and size of the bins in Tables 2, 3 and 4 will ensure that the waste management facilities designed, meet the development’s ongoing waste needs. When calculating the number of bins needed, it should be noted that bin allocations are rounded up to the next whole number (for example the calculation of 4.1 bins will be rounded to 5 bins).
 
-> [Picture on page 6, not reproduced as text; see the original PDF.]
+![Picture on page 6](images/retrofitting-communal-bin-storage-areas-guide-g-page-6-17.gif)
+
+> [Picture on page 6: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-6-17.gif, 150 dpi).]
 
 #### Standard Waste Service
 
@@ -138,11 +139,14 @@ Bin Sizes for Residential Developments
 
 An adequate bin storage area is to be provided within the development site to store all allocated bins. The following Tables identify the bin types, sizes, and dimensions.
 
-> [Picture on page 7, not reproduced as text; see the original PDF.]
+![Picture on page 7](images/retrofitting-communal-bin-storage-areas-guide-g-page-7-13.gif)
 
-> [Picture on page 7, not reproduced as text; see the original PDF.]
+> [Picture on page 7: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-7-13.gif, 150 dpi).]
 
-> [Picture on page 8, not reproduced as text; see the original PDF.]
+
+![Picture on page 8](images/retrofitting-communal-bin-storage-areas-guide-g-page-8-1.gif)
+
+> [Picture on page 8: a picture, saved as a picture (images/retrofitting-communal-bin-storage-areas-guide-g-page-8-1.gif, 150 dpi).]
 
 #### Waste Management Facilities
 

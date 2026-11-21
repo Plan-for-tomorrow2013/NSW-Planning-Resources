@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Chapter 1.1 Introduction and Administration"
-document_id: dcp-canterbury-bankstown-2023-ch1.1
+title: "SECTION 1–INTRODUCTION"
+document_id: canterbury-bankstown-development-control-plan-2023/ch-01-01-introduction-and-administration/section-1-introduction
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2026-07-17
-council: "Canterbury-Bankstown"
-source_file: "2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 1.1 - Introduction and Administration.pdf"
+authoritative_url: "https://cb.city/DCP1-1"
 ---
-
 ## SECTION 1–INTRODUCTION
 
 #### Explanation
@@ -14,7 +13,9 @@ Canterbury-Bankstown is defined by its variety of centres, suburbs and river sys
 
 Connective City 2036 sets out Council’s vision to create opportunities for growth and improvement, while protecting and enhancing Canterbury-Bankstown’s natural and suburban areas. The vision is for a city that provides a diversity of jobs and housing, supported by great transport connectivity, community infrastructure, and a blue and green web making the city more resilient in this changing climate.
 
-> [Picture on page 4, not reproduced as text; see the original PDF.]
+![Picture on page 4](images/ch-01-01-introduction-and-administration-page-4-14.gif)
+
+> [Picture on page 4: a picture, saved as a picture (images/ch-01-01-introduction-and-administration-page-4-14.gif, 150 dpi).]
 
 Figure 1a: Canterbury-Bankstown Local Government Area
 

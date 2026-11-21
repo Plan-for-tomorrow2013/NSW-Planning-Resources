@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Chapter 1.1 Introduction and Administration"
-document_id: dcp-canterbury-bankstown-2023-ch1.1
+title: "SECTION 3–SAVINGS PROVISION"
+document_id: canterbury-bankstown-development-control-plan-2023/ch-01-01-introduction-and-administration/section-3-savings-provision
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2026-07-17
-council: "Canterbury-Bankstown"
-source_file: "2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 1.1 - Introduction and Administration.pdf"
+authoritative_url: "https://cb.city/DCP1-1"
 ---
-
 ## SECTION 3–SAVINGS PROVISION
 
 Council adopted the Canterbury-Bankstown Development Control Plan 2023 on 25 May

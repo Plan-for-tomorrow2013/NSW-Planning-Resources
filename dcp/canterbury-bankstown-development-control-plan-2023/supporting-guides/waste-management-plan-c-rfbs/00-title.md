@@ -2,7 +2,8 @@
 title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Waste Management Plan C - RFBs"
 document_id: dcp-canterbury-bankstown-2023-guide-waste-management-plan-c-rfbs
 current_from: 2022-06-23
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
+council_id: NSW-C-CANTERBURY-BANKSTOWN
 source_file: "Waste Management Plan C - RFBs - 2022-06-23.pdf"
 ---
 

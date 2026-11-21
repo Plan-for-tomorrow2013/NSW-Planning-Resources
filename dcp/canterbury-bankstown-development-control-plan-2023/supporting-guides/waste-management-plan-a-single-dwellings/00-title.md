@@ -2,7 +2,8 @@
 title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Waste Management Plan A - Single Dwellings"
 document_id: dcp-canterbury-bankstown-2023-guide-waste-management-plan-a-single-dwellings
 current_from: 2022-06-22
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
+council_id: NSW-C-CANTERBURY-BANKSTOWN
 source_file: "Waste Management Plan A - Single Dwellings - 2022-06-22.pdf"
 ---
 

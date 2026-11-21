@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Landscape Guide"
-document_id: dcp-canterbury-bankstown-2023-guide-landscape-guide
+title: "SECTION 6–PLACES OF PUBLIC WORSHIP"
+document_id: canterbury-bankstown-development-control-plan-2023/supporting-guides/landscape-guide/section-6-places-of-public-worship
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2024-08-06
-council: "Canterbury-Bankstown"
-source_file: "2024.08.06 - Landscape Guide.pdf"
+authoritative_url: "https://webdocs.bankstown.nsw.gov.au/api/publish?documentPath=aHR0cDovL2lzaGFyZS9zaXRlcy9Db21tdW5pY2F0aW9ucy9QdWJsaWNhdGlvbnMvV2Vic2l0ZSBEb2N1bWVudHMvMjAyNC4wOC4wNiAtIExhbmRzY2FwZSBHdWlkZS5wZGY=&title=2024.08.06%20-%20Landscape%20Guide.pdf"
 ---
-
 ## SECTION 6–PLACES OF PUBLIC WORSHIP
 
 #### Explanation
@@ -181,7 +180,10 @@ O6 To provide useable open space on the street frontage for canopy trees and dee
 | Syzygium oleosum | Blue Lilli Pilli |  |
 | Tristaniopsis laurina | Water Gum |  |
 | Waterhousia floribunda | Weeping Lilli Pilli |  |
-| * Asterix denotes plant species native to Canterbury-Bankstown. Note: Plants listed will benefit from improved garden soil conditions, irrigation and ongoing maintenance. The above plant list is not exhaustive, additional species may be considered. Planting to be determined with concession to site conditions, aspect, exposure, drainage and surrounding vegetation. |  |  |
+
+\* Asterix denotes plant species native to Canterbury-Bankstown.
+
+Note: Plants listed will benefit from improved garden soil conditions, irrigation and ongoing maintenance. The above plant list is not exhaustive, additional species may be considered. Planting to be determined with concession to site conditions, aspect, exposure, drainage and surrounding vegetation.
 
 | Botanical name | Common name |
 |---|---|
@@ -227,9 +229,11 @@ O6 To provide useable open space on the street frontage for canopy trees and dee
 | Melaleuca nodosa | Ball Honeymyrtle |
 | Melaleuca stypheloides | Prickly-leaved Paperbark |
 
-| Botanical name | Common name |
-|---|---|
-| Syncarpia glomulifera | Turpentine |
+#### Botanical name
+
+Syncarpia glomulifera
+
+Turpentine
 
 | Botanical name | Common name |
 |---|---|
@@ -587,10 +591,11 @@ Appendix 4–Suggested plant species suitable for screening purposes (1–2m in 
 | Zelkova serrata | Japanese Elm, Keyaki |  |
 | * Asterix denotes plant species native to Canterbury-Bankstown. Note: Plants listed will benefit from improved garden soil conditions, irrigation and ongoing maintenance. The above plant list is not exhaustive, additional species may be considered. Planting to be determined with concession to site conditions, aspect, exposure, drainage and surrounding vegetation. |  |  |
 
-> [Picture on page 27, not reproduced as text; see the original PDF.]
+![Picture on page 27](images/landscape-guide-page-27-1.gif)
+
+> [Picture on page 27: a picture, saved as a picture (images/landscape-guide-page-27-1.gif, 150 dpi).]
 
 Illustration: Typical cross-section of setback with single row of trees along the Remembrance Driveway landscape corridor. This setback relates to dwelling houses, dual occupancies, attached dwellings, multi dwelling housing and boarding houses.
 
-> [Picture on page 27, not reproduced as text; see the original PDF.]
 
 Illustration: Typical cross-section of setback with two rows of trees along the Remembrance Driveway landscape corridor. This setback relates to residential flat buildings and landscape buffer zones.

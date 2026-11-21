@@ -2,7 +2,8 @@
 title: "Canterbury-Bankstown Development Control Plan 2023 - Supporting guide: Waste Management Plan E - Mixed Use"
 document_id: dcp-canterbury-bankstown-2023-guide-waste-management-plan-e-mixed-use
 current_from: 2022-06-27
-council: "Canterbury-Bankstown"
+council: "City of Canterbury Bankstown"
+council_id: NSW-C-CANTERBURY-BANKSTOWN
 source_file: "Waste Management Plan E - Mixed Use - 2022-06-27.pdf"
 ---
 

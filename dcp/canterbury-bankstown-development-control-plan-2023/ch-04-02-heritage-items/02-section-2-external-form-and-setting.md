@@ -1,11 +1,10 @@
 ---
-title: "Canterbury-Bankstown Development Control Plan 2023 - Chapter 4.2 Heritage Items"
-document_id: dcp-canterbury-bankstown-2023-ch4.2
+title: "SECTION 2–EXTERNAL FORM AND SETTING"
+document_id: canterbury-bankstown-development-control-plan-2023/ch-04-02-heritage-items/section-2-external-form-and-setting
+register_id: DCP-NSW-CANTERBURY-BANKSTOWN-2023
 current_from: 2024-08-06
-council: "Canterbury-Bankstown"
-source_file: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 4.2 - Heritage Items.pdf"
+authoritative_url: "https://cb.city/DCP4-2"
 ---
-
 ## SECTION 2–EXTERNAL FORM AND SETTING
 
 #### Explanation
