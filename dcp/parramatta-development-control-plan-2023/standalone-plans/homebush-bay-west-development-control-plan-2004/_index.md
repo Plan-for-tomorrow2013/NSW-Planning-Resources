@@ -2,8 +2,10 @@
 title: "Homebush Bay West Development Control Plan 2004"
 document_id: homebush-bay-west-development-control-plan-2004
 register_id: DCP-NSW-PARRAMATTA-HOMEBUSH-BAY-WEST-2004
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
+authoritative_url: "https://www.cityofparramatta.nsw.gov.au/files/assets/public/v/1/development/dcp/homebush-bay-west-dcp-2004-volume-1.pdf"
 current_from: 2013-07-31
 chapters: 3
 status: OK

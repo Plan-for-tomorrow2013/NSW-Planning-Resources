@@ -4,7 +4,8 @@ document_id: parramatta-development-control-plan-2023/part-11-glossary
 register_id: DCP-NSW-PARRAMATTA-2023
 dcp: "Parramatta Development Control Plan 2023"
 chapter_type: definitions
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "dcp-part-11-glossary.pdf"

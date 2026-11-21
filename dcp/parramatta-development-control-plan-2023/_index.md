@@ -2,8 +2,10 @@
 title: "Parramatta Development Control Plan 2023"
 document_id: parramatta-development-control-plan-2023
 register_id: DCP-NSW-PARRAMATTA-2023
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
+authoritative_url: "https://www.cityofparramatta.nsw.gov.au/development/plans-and-strategies/development-control-plans"
 current_from: 2023-12-01
 chapters: 13
 status: OK

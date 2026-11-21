@@ -3,7 +3,8 @@ title: "Homebush Bay West Development Control Plan 2004 - Volume 2 Public Domain
 document_id: homebush-bay-west-development-control-plan-2004/volume-02-public-domain-manual
 register_id: DCP-NSW-PARRAMATTA-HOMEBUSH-BAY-WEST-2004
 dcp: "Homebush Bay West Development Control Plan 2004"
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "homebush-bay-west-dcp-2004-volume-2-public-domain-manual.pdf"
@@ -190,8 +191,8 @@ References to guidelines are provided under specific headings relevant to urban 
 <!-- sections -->
 ## Sections
 
-1. [1 introduction](01-1-introduction.md)
-2. [2 a vision for public domain](02-2-a-vision-for-public-domain.md)
+1. [1 introduction](01-introduction.md)
+2. [2 a vision for public domain](02-a-vision-for-public-domain.md)
 3. [2 a vision for public domain](03-2-a-vision-for-public-domain.md)
 4. [2 a vision for public domain](04-2-a-vision-for-public-domain.md)
 5. [2 a vision for public domain](05-2-a-vision-for-public-domain.md)

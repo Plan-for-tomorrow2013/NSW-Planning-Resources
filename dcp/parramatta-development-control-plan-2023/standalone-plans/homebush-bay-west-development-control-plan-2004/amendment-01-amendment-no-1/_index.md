@@ -4,7 +4,8 @@ document_id: homebush-bay-west-development-control-plan-2004/amendment-01-amendm
 register_id: DCP-NSW-PARRAMATTA-HOMEBUSH-BAY-WEST-2004
 dcp: "Homebush Bay West Development Control Plan 2004"
 current_from: 2013-07-31
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "homebush-bay-west-dcp-amendment-no-1-2013.pdf"

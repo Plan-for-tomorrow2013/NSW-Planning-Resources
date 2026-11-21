@@ -3,7 +3,8 @@ title: "Parramatta Development Control Plan 2023 - Part 7 Heritage & Archaeology
 document_id: parramatta-development-control-plan-2023/part-07-heritage-archaeology
 register_id: DCP-NSW-PARRAMATTA-2023
 dcp: "Parramatta Development Control Plan 2023"
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "dcp-part-7-heritage-and-archaeology.pdf"

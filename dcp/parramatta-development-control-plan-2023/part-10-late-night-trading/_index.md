@@ -3,7 +3,8 @@ title: "Parramatta Development Control Plan 2023 - Part 10 Late Night Trading"
 document_id: parramatta-development-control-plan-2023/part-10-late-night-trading
 register_id: DCP-NSW-PARRAMATTA-2023
 dcp: "Parramatta Development Control Plan 2023"
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "dcp-part-10-late-night-trading.pdf"

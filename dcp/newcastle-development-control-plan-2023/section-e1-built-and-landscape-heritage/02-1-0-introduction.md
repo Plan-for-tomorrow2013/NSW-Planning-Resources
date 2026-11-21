@@ -1,0 +1,10 @@
+---
+title: "1.0 Introduction"
+document_id: newcastle-development-control-plan-2023/section-e1-built-and-landscape-heritage/1-0-introduction
+register_id: DCP-NSW-NEWCASTLE-2023
+current_from: 2024-03-01
+authoritative_url: "https://dcp.newcastle.nsw.gov.au/part-e-place-and-precincts/e1-built-and-landscape-heritage"
+---
+### 1.0 Introduction
+
+Heritage conservation areas and most heritage items identify and seek to conserve significant built and landscape heritage.  They include buildings, monuments, trees, works, streetscapes, and landscapes such as parks and gardens, linking us to our past and helping define our identity. The main aim of identifying heritage items and heritage conservation areas is to ensure we recognise and maintain the heritage significance of items and places. This does not necessarily mean development is limited or cannot occur but that changes respect the identified heritage significance of a place. Objectives and planning controls for the conservation of environmental heritage are set out in clause 5.10 Heritage Conservation of Newcastle Local Environmental Plan 2012 (LEP 2012). Development consent is required for most proposed changes to a heritage item or building, work, relic or tree in a heritage conservation area listed in Schedule 5 of LEP 2012. Heritage items and heritage conservation areas have a statement of heritage significance identifying the elements making it significant in heritage terms.  The NSW Office of Environment and Heritage set the criteria for these statements as outlined in the NSW Heritage Manual, and based on the Burra Charter's principles and processes. Development on land in or within the vicinity of a heritage conservation area is to be designed and based on the site / spatial specific detail provided in Section E2 Heritage conservation areas, to be read with this section for the heritage requirements. The building envelope controls for residential and commercial development do not apply in heritage conservation areas.

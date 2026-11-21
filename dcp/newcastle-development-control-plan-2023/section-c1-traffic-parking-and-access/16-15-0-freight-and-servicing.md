@@ -1,0 +1,36 @@
+---
+title: "15.0 Freight and servicing"
+document_id: newcastle-development-control-plan-2023/section-c1-traffic-parking-and-access/15-0-freight-and-servicing
+register_id: DCP-NSW-NEWCASTLE-2023
+current_from: 2024-03-01
+authoritative_url: "https://dcp.newcastle.nsw.gov.au/part-c-general-development-controls/c1-traffic-parking-and-access"
+---
+### 15.0 Freight and servicing
+
+| Objectives 1. The freight and servicing demand over the lifetime of the development is identified. 2. Development is self-sufficient by catering on-site for the full freight and servicing demands over the lifetime of the development. 3. Design and operate freight and servicing space to be functional, efficient and safe while minimising impact on the environment and public domain. 4. Minimise reliance on kerbside space to service existing development. |  |
+|---|---|
+| Controls (C) | Explanatory notes |
+| C-1.Where a traffic impact assessment is required, this includes a detailed freight and servicing demand profile over the lifetime of the proposed development. For other applications the Statement of Environmental Effects is to outline the freight and servicing demand profile over the lifetime of the proposed development. Refer to Table C1.02. | Development should be self-sufficient by providing a loading dock and other facilities for all freight and servicing activities to be conducted on site rather than on the street. An |
+| C-2.A building or precinct provides a loading dock and/or other facilities for all freight and servicing activities to be conducted on-site which satisfies the servicing demand profile and having regard to: a. intended use of the site b. frequency of deliveries and collections c. size and bulk of goods d. size of vehicles e. ease, efficiency and safety of servicing activities. | On-street Loading Zone cannot be provided for the exclusive use of a particular development but rather are installed to provide the greatest benefit to the commercial centre, specifically existing business in older buildings and heritage buildings that do not have off-street facilities. Applicants are encouraged to consult |
+| C-3.Commercial development – the freight and servicing demand profile is to consider, but may not be limited to: a. courier deliveries and collections b. equipment deliveries and collections c. routine and emergency maintenance services (trade vehicles) d. office fit-out services e. food and beverage deliveries f. waste collection g. removalist services. | with CN prior to lodgement of a DA seeking to rely on an On-street Loading Zone to meet freight and servicing demand in whole or part. The Freight trip generation to high density residential development (Transport for NSW May 2021) (as amended) provides surveyed trip generation rates for high density residential |
+
+Newcastle Development Control Plan 2023
+
+C1 Traffic parking and access
+
+Page 17 of 36
+
+| C-4.Residential development - the freight and servicing demand profile is to consider, but may not be limited to: a. grocery deliveries b. courier deliveries c. food delivery d. maintenance activity (trade vehicles) e. renovation services f. bulky item deliveries g. removalist services h. waste collection i. commercial deliveries if mixed-use j. investigate and encourage the opportunity for residential buildings to provide parking and electric charging stations for light commercial vehicles. k. investigate and encourage the opportunity for residential flat buildings to accommodate drone delivery capabilities by providing an adequate accessible, safe, area (rooftop, podium or ground level) for the operation of drone landing pad/s. | as a best practice guide. The Freight and Servicing Last Mile Toolkit (Transport for NSW May 2020) (as amended) provides best practice for on-site servicing. Section 5.0 Freight Forecasting and Demand Management, explores demand profiling. The Section 6.0 Planning and Managing Off- street Freight and Servicing Activity, toolkit's provides best practice for on-site servicing. It explores typical demand profiles for development, servicing requirements to meet demand and alternative techniques to mitigate the impacts of constrained loading docks, including: |
+|---|---|
+| C-5.Access/egress, manoeuvring areas and loading dock design comply with AS2890.2 Parking Facilities: Off-Street Commercial Vehicle Facilities. | Retime – shift freight and servicing activities outside of peak times to create opportunities for greater efficiency. Remode – Use modes of transport that are more efficient where possible. Reroute – Avoid using the CBD for through traffic, where feasible. Be aware of alternatives that can improve efficiency. Reduce – Consolidate deliveries, improve vehicle utilisation, reduce trip numbers, procure sustainably and develop buildings delivery and servicing plans. Waste collection – Refer to C6 Waste Management for specific waste management |
+| C-6.Freight and servicing facilities are designed so that when in use, they do not interfere with pedestrian, cyclist or vehicular circulation, either on or off-site or otherwise obstruct the public domain area. This is to include sufficient provision for queuing. |  |
+| C-7.All service vehicle movements to and from the site are in a forward direction and manoeuvring and parking is separated from customer parking and areas with high pedestrian activity and bicycle movements. |  |
+| C-8.Locate and operate servicing facilities to minimise impact upon surrounding sensitive land uses, particularly residential. |  |
+| C-9.For a change of use within existing building/s with deficient loading dock infrastructure (without any or constrained), the application must show alternative servicing techniques have been explored to accommodate on-site servicing where possible before seeking reliance on kerbside road space to satisfy servicing demand. Where unable to be fully accommodated on-site, it is demonstrated that servicing (including waste collection) can occur from the kerbside efficiently, safely and without unreasonable impact on the public domain (road and footpath) or amenity of the area. CN may consider new shared kerbside servicing for heritage conservation purposes, where reasonably practicable. |  |
+| C-10.The provision of taxi, pick up and drop off (PUDO) for private vehicle and bus/coach drop off/set down areas may be required, where warranted, by the proposed development. Specifically: a. bus set down facilities are provided, in close proximity to the main pedestrian access, for education establishments, shopping centre developments or commercial premises of more than 10,000m2, convention and exhibition centres, and other development as deemed appropriate b. PUDO and/or taxi zones are provided for larger scale licenced premises (excluding small bars) c. centre-based child care facility provides a set down bay space per 10 childcare places. For centres with less than 10 childcare places, no pick-up / set-down bay is required. | controls. Note: Section C6 Waste management Guidelines provides full design details for CNs waste collection vehicles and requirements. Refer to Section E1 Built and landscape Heritage. |
+
+Newcastle Development Control Plan 2023
+
+C1 Traffic parking and access
+
+Page 18 of 36

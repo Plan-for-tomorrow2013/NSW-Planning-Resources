@@ -3,7 +3,8 @@ title: "Carter Street Precinct Development Framework 2020"
 document_id: carter-street-precinct-development-framework-2020/carter-street-precinct-development-framework-2020
 register_id: DCP-NSW-PARRAMATTA-CARTER-STREET-2020
 dcp: "Carter Street Precinct Development Framework 2020"
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "carter-street-precinct-development-framework-2020.pdf"
@@ -123,16 +124,16 @@ NSW Department of Planning, Industry and Environment | DOC20/966319 | iv
 <!-- sections -->
 ## Sections
 
-1. [1 Introduction](01-1-introduction.md)
-2. [2 Vision](02-2-vision.md)
-3. [3 Carter Street Precinct Master Plan](03-3-carter-street-precinct-master-plan.md)
-4. [4 Structure Plan](04-4-structure-plan.md)
-5. [5 Street Network](05-5-street-network.md)
-6. [6 Public Transport Network](06-6-public-transport-network.md)
-7. [7 Pedestrian and Cycle Network](07-7-pedestrian-and-cycle-network.md)
-8. [8 Public Open Space Network](08-8-public-open-space-network.md)
-9. [9 Building Setbacks](09-9-building-setbacks.md)
-10. [10 Residential and Mixed-Use Development](10-10-residential-and-mixed-use-development.md)
-11. [11 Employment Uses](11-11-employment-uses.md)
-12. [12 Environmental Management](12-12-environmental-management.md)
-13. [13 Site Specific Controls](13-13-site-specific-controls.md)
+1. [1 Introduction](01-introduction.md)
+2. [2 Vision](02-vision.md)
+3. [3 Carter Street Precinct Master Plan](03-carter-street-precinct-master-plan.md)
+4. [4 Structure Plan](04-structure-plan.md)
+5. [5 Street Network](05-street-network.md)
+6. [6 Public Transport Network](06-public-transport-network.md)
+7. [7 Pedestrian and Cycle Network](07-pedestrian-and-cycle-network.md)
+8. [8 Public Open Space Network](08-public-open-space-network.md)
+9. [9 Building Setbacks](09-building-setbacks.md)
+10. [10 Residential and Mixed-Use Development](10-residential-and-mixed-use-development.md)
+11. [11 Employment Uses](11-employment-uses.md)
+12. [12 Environmental Management](12-environmental-management.md)
+13. [13 Site Specific Controls](13-site-specific-controls.md)

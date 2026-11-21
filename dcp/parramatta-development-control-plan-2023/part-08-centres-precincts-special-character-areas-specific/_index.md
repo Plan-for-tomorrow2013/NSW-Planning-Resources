@@ -4,7 +4,8 @@ document_id: parramatta-development-control-plan-2023/part-08-centres-precincts-
 register_id: DCP-NSW-PARRAMATTA-2023
 dcp: "Parramatta Development Control Plan 2023"
 current_from: 2023-12-01
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "dcp-part-08-centres-precincts-special-character-areas-and-specific-sites.pdf"

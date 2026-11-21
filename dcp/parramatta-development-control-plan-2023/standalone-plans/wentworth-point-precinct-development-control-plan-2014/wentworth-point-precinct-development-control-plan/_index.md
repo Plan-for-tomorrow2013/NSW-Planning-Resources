@@ -4,7 +4,8 @@ document_id: wentworth-point-precinct-development-control-plan-2014/wentworth-po
 register_id: DCP-NSW-PARRAMATTA-WENTWORTH-POINT-2014
 dcp: "Wentworth Point Precinct Development Control Plan 2014"
 current_from: 2014-08-07
-council: "Parramatta"
+council: "City of Parramatta Council"
+council_id: NSW-C-PARRAMATTA
 lep: "Parramatta Local Environmental Plan 2023"
 source: pdf
 source_file: "wentworth-point-precinct-development-control-plan-2014.pdf"
