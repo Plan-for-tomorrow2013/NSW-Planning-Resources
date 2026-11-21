@@ -17,7 +17,7 @@ source_pdf: "5.3_Kariong_Mount_Penang_and_Parklands.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.3_Kariong_Mount_Penang_and_Parklands.pdf](5.3_Kariong_Mount_Penang_and_Parklands.pdf)
+Source PDF: [5.3_Kariong_Mount_Penang_and_Parklands.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-03-kariong-mount-penang-parklands/5.3_Kariong_Mount_Penang_and_Parklands.pdf)
 
 <!-- sections -->
 ## Sections

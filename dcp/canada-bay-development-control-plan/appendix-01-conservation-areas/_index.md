@@ -17,7 +17,7 @@ source_pdf: "ECM_7719487_v5_CCB-DCP-14_Appendix-1-Conservation-Areas_v2022-05-16
 
 > This chapter is split into 24 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [ECM_7719487_v5_CCB-DCP-14_Appendix-1-Conservation-Areas_v2022-05-16.pdf](ECM_7719487_v5_CCB-DCP-14_Appendix-1-Conservation-Areas_v2022-05-16.pdf)
+Source PDF: [ECM_7719487_v5_CCB-DCP-14_Appendix-1-Conservation-Areas_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/appendix-01-conservation-areas/ECM_7719487_v5_CCB-DCP-14_Appendix-1-Conservation-Areas_v2022-05-16.pdf)
 
 ![Picture on page 1](images/appendix-01-conservation-areas-page-1-1.gif)
 

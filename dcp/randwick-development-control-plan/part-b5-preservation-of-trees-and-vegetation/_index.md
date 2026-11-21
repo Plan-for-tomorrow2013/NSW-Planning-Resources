@@ -18,7 +18,7 @@ source_pdf: "B5-Preservation-of-trees-and-vegetation-Randwick-DCP-Stage-2_Final.
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [B5-Preservation-of-trees-and-vegetation-Randwick-DCP-Stage-2_Final.pdf](B5-Preservation-of-trees-and-vegetation-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [B5-Preservation-of-trees-and-vegetation-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-b5-preservation-of-trees-and-vegetation/B5-Preservation-of-trees-and-vegetation-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

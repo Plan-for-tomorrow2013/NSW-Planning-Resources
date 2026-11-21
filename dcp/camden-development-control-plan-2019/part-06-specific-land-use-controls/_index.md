@@ -16,7 +16,7 @@ source_pdf: "Part-6-Specific-Land-Use-Controls.pdf"
 
 > This chapter is split into 16 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-6-Specific-Land-Use-Controls.pdf](Part-6-Specific-Land-Use-Controls.pdf)
+Source PDF: [Part-6-Specific-Land-Use-Controls.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/part-06-specific-land-use-controls/Part-6-Specific-Land-Use-Controls.pdf)
 
 
 

@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-a-part-13-tree-and-vegetation-preservation.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-a-part-13-tree-and-vegetation-preservation.pdf](kdcp-section-a-part-13-tree-and-vegetation-preservation.pdf)
+Source PDF: [kdcp-section-a-part-13-tree-and-vegetation-preservation.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-13-tree-vegetation-preservation/kdcp-section-a-part-13-tree-and-vegetation-preservation.pdf)
 
 ### PART
 

@@ -17,7 +17,7 @@ source_pdf: "cumberland-dcp-part-c-development-business-zones-2021.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [cumberland-dcp-part-c-development-business-zones-2021.pdf](cumberland-dcp-part-c-development-business-zones-2021.pdf)
+Source PDF: [cumberland-dcp-part-c-development-business-zones-2021.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/part-c-development-in-business-zones/cumberland-dcp-part-c-development-business-zones-2021.pdf)
 
 ### Part
 

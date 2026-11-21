@@ -18,7 +18,7 @@ source_pdf: "SectionC5-Soil-management.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [SectionC5-Soil-management.pdf](SectionC5-Soil-management.pdf)
+Source PDF: [SectionC5-Soil-management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-c5-soil-management/SectionC5-Soil-management.pdf)
 
 #### PART C: General development controls
 

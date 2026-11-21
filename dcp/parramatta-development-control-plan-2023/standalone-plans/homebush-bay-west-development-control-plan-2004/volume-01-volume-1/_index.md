@@ -17,7 +17,7 @@ source_pdf: "homebush-bay-west-dcp-2004-volume-1.pdf"
 
 > This chapter is split into 120 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [homebush-bay-west-dcp-2004-volume-1.pdf](homebush-bay-west-dcp-2004-volume-1.pdf)
+Source PDF: [homebush-bay-west-dcp-2004-volume-1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/standalone-plans/homebush-bay-west-development-control-plan-2004/volume-01-volume-1/homebush-bay-west-dcp-2004-volume-1.pdf)
 
 ### JUNE 2004
 

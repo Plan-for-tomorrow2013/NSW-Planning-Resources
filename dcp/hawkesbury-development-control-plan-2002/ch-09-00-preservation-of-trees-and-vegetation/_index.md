@@ -17,7 +17,7 @@ source_pdf: "Chapter-9-Post-Expo-HLEP2012-update.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Chapter-9-Post-Expo-HLEP2012-update.pdf](Chapter-9-Post-Expo-HLEP2012-update.pdf)
+Source PDF: [Chapter-9-Post-Expo-HLEP2012-update.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/ch-09-00-preservation-of-trees-and-vegetation/Chapter-9-Post-Expo-HLEP2012-update.pdf)
 
 <!-- sections -->
 ## Sections

@@ -18,7 +18,7 @@ source_pdf: "chapter-e7-signage.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-e7-signage.pdf](chapter-e7-signage.pdf)
+Source PDF: [chapter-e7-signage.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-e7-signage/chapter-e7-signage.pdf)
 
 ![Picture on page 1](images/chapter-e7-signage-page-1-1.gif)
 

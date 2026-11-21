@@ -15,7 +15,7 @@ source_pdf: "kdcp-section-a-part-6.1-multi-dwelling-housing-terraces.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Part 6.1 Multi Dwelling Housing (terraces)
 
-Source PDF: [kdcp-section-a-part-6.1-multi-dwelling-housing-terraces.pdf](kdcp-section-a-part-6.1-multi-dwelling-housing-terraces.pdf)
+Source PDF: [kdcp-section-a-part-6.1-multi-dwelling-housing-terraces.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-06-1-multi-dwelling-housing-terraces/kdcp-section-a-part-6.1-multi-dwelling-housing-terraces.pdf)
 
 ![Picture on page 1](images/part-06-1-multi-dwelling-housing-terraces-page-1-1.gif)
 

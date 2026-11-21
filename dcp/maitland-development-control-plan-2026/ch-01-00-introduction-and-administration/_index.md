@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Chapter 1 Introduction and Administration_0.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Chapter 1 Introduction and Administration_0.pdf](MDCP%202026%20-%20Chapter%201%20Introduction%20and%20Administration_0.pdf)
+Source PDF: [MDCP 2026 - Chapter 1 Introduction and Administration_0.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/ch-01-00-introduction-and-administration/MDCP%202026%20-%20Chapter%201%20Introduction%20and%20Administration_0.pdf)
 
 ![Picture on page 1](images/ch-01-00-introduction-and-administration-page-1-1.gif)
 

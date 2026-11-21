@@ -18,7 +18,7 @@ source_pdf: "DCP-2023-Part-E-Section-E8-Renewal-corridors.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2023-Part-E-Section-E8-Renewal-corridors.pdf](DCP-2023-Part-E-Section-E8-Renewal-corridors.pdf)
+Source PDF: [DCP-2023-Part-E-Section-E8-Renewal-corridors.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e8-renewal-corridors/DCP-2023-Part-E-Section-E8-Renewal-corridors.pdf)
 
 ### PART E: Place and precincts
 

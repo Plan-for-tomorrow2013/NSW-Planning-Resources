@@ -17,7 +17,7 @@ source_pdf: "C8 - Social Impact Assesment and Crime Prevention Through Environme
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [C8 - Social Impact Assesment and Crime Prevention Through Environmental Design.pdf](C8%20-%20Social%20Impact%20Assesment%20and%20Crime%20Prevention%20Through%20Environmental%20Design.pdf)
+Source PDF: [C8 - Social Impact Assesment and Crime Prevention Through Environmental Design.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c8-social-impact-assessment/C8%20-%20Social%20Impact%20Assesment%20and%20Crime%20Prevention%20Through%20Environmental%20Design.pdf)
 
 <!-- sections -->
 ## Sections

@@ -17,7 +17,7 @@ source_pdf: "6DCP_PARTD-Chapters-1-to-7.pdf"
 
 > This chapter is split into 48 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [6DCP_PARTD-Chapters-1-to-7.pdf](6DCP_PARTD-Chapters-1-to-7.pdf)
+Source PDF: [6DCP_PARTD-Chapters-1-to-7.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/part-d-specific-development/6DCP_PARTD-Chapters-1-to-7.pdf)
 
 ### PART D SPECIFIC DEVELOPMENT
 

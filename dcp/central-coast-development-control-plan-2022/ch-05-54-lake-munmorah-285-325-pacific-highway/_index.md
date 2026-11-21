@@ -17,7 +17,7 @@ source_pdf: "5.54_Lake_Munmorah_-_285-325_Pacific_Highway.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.54_Lake_Munmorah_-_285-325_Pacific_Highway.pdf](5.54_Lake_Munmorah_-_285-325_Pacific_Highway.pdf)
+Source PDF: [5.54_Lake_Munmorah_-_285-325_Pacific_Highway.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-54-lake-munmorah-285-325-pacific-highway/5.54_Lake_Munmorah_-_285-325_Pacific_Highway.pdf)
 
 #### Lake Munmorah – 285-335 Pacific Highway
 

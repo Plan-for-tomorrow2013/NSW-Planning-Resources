@@ -18,7 +18,7 @@ source_pdf: "gilgandra-dcp-2011-july-2012-version2.pdf"
 
 > This chapter is split into 27 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [gilgandra-dcp-2011-july-2012-version2.pdf](gilgandra-dcp-2011-july-2012-version2.pdf)
+Source PDF: [gilgandra-dcp-2011-july-2012-version2.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/gilgandra-development-control-plan-2011/gilgandra-development-control-plan-2011/gilgandra-dcp-2011-july-2012-version2.pdf)
 
 ![Picture on page 1](images/gilgandra-development-control-plan-2011-page-1-1.gif)
 

@@ -18,7 +18,7 @@ source_pdf: "C5-Amusement-centres-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C5-Amusement-centres-Randwick-DCP-Stage-2_Final.pdf](C5-Amusement-centres-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [C5-Amusement-centres-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-c5-amusement-centres/C5-Amusement-centres-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

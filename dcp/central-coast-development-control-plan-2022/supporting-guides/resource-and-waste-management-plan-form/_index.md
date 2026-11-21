@@ -18,7 +18,7 @@ source_pdf: "CCC Waste DCP - RWMP form 2023.pdf"
 
 > This chapter is split into 6 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [CCC Waste DCP - RWMP form 2023.pdf](CCC%20Waste%20DCP%20-%20RWMP%20form%202023.pdf)
+Source PDF: [CCC Waste DCP - RWMP form 2023.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/supporting-guides/resource-and-waste-management-plan-form/CCC%20Waste%20DCP%20-%20RWMP%20form%202023.pdf)
 
 <!-- sections -->
 ## Sections

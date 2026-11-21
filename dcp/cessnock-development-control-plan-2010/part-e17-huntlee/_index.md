@@ -18,7 +18,7 @@ source_pdf: "E17 - Huntlee.pdf"
 
 > This chapter is split into 22 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E17 - Huntlee.pdf](E17%20-%20Huntlee.pdf)
+Source PDF: [E17 - Huntlee.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e17-huntlee/E17%20-%20Huntlee.pdf)
 
 CESSNOCK
 

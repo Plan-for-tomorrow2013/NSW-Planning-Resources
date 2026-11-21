@@ -17,7 +17,7 @@ source_pdf: "DCP-2019-Final-Schedule-6-Camden-Lakeside-Current-Version-June-2020
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2019-Final-Schedule-6-Camden-Lakeside-Current-Version-June-2020.pdf](DCP-2019-Final-Schedule-6-Camden-Lakeside-Current-Version-June-2020.pdf)
+Source PDF: [DCP-2019-Final-Schedule-6-Camden-Lakeside-Current-Version-June-2020.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-06-camden-lakeside/DCP-2019-Final-Schedule-6-Camden-Lakeside-Current-Version-June-2020.pdf)
 
 
 ### Contents

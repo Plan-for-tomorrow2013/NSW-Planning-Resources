@@ -19,7 +19,7 @@ source_pdf: "Waste Management Plan E - Mixed Use - 2022-06-27.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Waste Management Plan E - Mixed Use - 2022-06-27.pdf](Waste%20Management%20Plan%20E%20-%20Mixed%20Use%20-%202022-06-27.pdf)
+Source PDF: [Waste Management Plan E - Mixed Use - 2022-06-27.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-management-plan-e-mixed-use-development-form/Waste%20Management%20Plan%20E%20-%20Mixed%20Use%20-%202022-06-27.pdf)
 
 ![Picture on page 1](images/waste-management-plan-e-mixed-use-development-form-page-1-1.gif)
 

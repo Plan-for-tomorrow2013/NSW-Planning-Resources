@@ -17,7 +17,7 @@ source_pdf: "5.37-warnervale-east-wadalba-north-west.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.37-warnervale-east-wadalba-north-west.pdf](5.37-warnervale-east-wadalba-north-west.pdf)
+Source PDF: [5.37-warnervale-east-wadalba-north-west.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-37-warnervale-east-wadalba-north-west-urban-release/5.37-warnervale-east-wadalba-north-west.pdf)
 
 ### CHAPTER 5.37 WARNERVALE EAST / WADALBA
 

@@ -18,7 +18,7 @@ source_pdf: "2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 5.2 - Former Canterb
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 5.2 - Former Canterbury LGA.pdf](2026.03.12%20-%20DCP%202023%20-%20AMENDMENT%2011%20-%20Chapter%205.2%20-%20Former%20Canterbury%20LGA.pdf)
+Source PDF: [2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 5.2 - Former Canterbury LGA.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-05-02-former-canterbury-lga/2026.03.12%20-%20DCP%202023%20-%20AMENDMENT%2011%20-%20Chapter%205.2%20-%20Former%20Canterbury%20LGA.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

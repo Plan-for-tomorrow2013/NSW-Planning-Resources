@@ -17,7 +17,7 @@ source_pdf: "Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 3 Heritage.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 3 Heritage.pdf](Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%203%20Heritage.pdf)
+Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 3 Heritage.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2023/section-03-heritage/Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%203%20Heritage.pdf)
 
 ## CHAPTER 3: Heritage
 

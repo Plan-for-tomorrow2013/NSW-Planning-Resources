@@ -17,7 +17,7 @@ source_pdf: "Part-D-Development-in-the-Business-Zones.pdf"
 
 > This chapter is split into 72 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-D-Development-in-the-Business-Zones.pdf](Part-D-Development-in-the-Business-Zones.pdf)
+Source PDF: [Part-D-Development-in-the-Business-Zones.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-d-development-in-the-business-zones/Part-D-Development-in-the-Business-Zones.pdf)
 
 DEVELOPMENT IN THE BUSINESS ZONES
 

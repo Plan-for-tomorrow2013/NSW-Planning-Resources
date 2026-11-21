@@ -15,7 +15,7 @@ source_pdf: "DCP-Chapter-E3-Vineyards-District-_-CCC-_-website-doc.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part E3 Vineyards District
 
-Source PDF: [DCP-Chapter-E3-Vineyards-District-_-CCC-_-website-doc.pdf](DCP-Chapter-E3-Vineyards-District-_-CCC-_-website-doc.pdf)
+Source PDF: [DCP-Chapter-E3-Vineyards-District-_-CCC-_-website-doc.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e3-vineyards-district/DCP-Chapter-E3-Vineyards-District-_-CCC-_-website-doc.pdf)
 
 #### Table of Contents
 

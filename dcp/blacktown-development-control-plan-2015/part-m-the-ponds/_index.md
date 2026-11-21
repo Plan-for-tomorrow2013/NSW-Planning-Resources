@@ -16,7 +16,7 @@ source_pdf: "Part-M-The-Ponds_Waste.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-M-The-Ponds_Waste.pdf](Part-M-The-Ponds_Waste.pdf)
+Source PDF: [Part-M-The-Ponds_Waste.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-m-the-ponds/Part-M-The-Ponds_Waste.pdf)
 
 ![Picture on page 1](images/part-m-the-ponds-page-1-1.gif)
 

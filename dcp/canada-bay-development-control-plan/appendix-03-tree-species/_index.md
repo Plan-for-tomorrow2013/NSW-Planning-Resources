@@ -16,7 +16,7 @@ source_pdf: "CCB-DCP-16_Appendix-3-Tree-Species.pdf"
 
 > This chapter is split into 3 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [CCB-DCP-16_Appendix-3-Tree-Species.pdf](CCB-DCP-16_Appendix-3-Tree-Species.pdf)
+Source PDF: [CCB-DCP-16_Appendix-3-Tree-Species.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/appendix-03-tree-species/CCB-DCP-16_Appendix-3-Tree-Species.pdf)
 
 ![Picture on page 1](images/appendix-03-tree-species-page-1-1.gif)
 

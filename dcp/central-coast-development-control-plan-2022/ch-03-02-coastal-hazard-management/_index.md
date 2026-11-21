@@ -17,7 +17,7 @@ source_pdf: "3.2_Coastal_Hazard_Management_0.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [3.2_Coastal_Hazard_Management_0.pdf](3.2_Coastal_Hazard_Management_0.pdf)
+Source PDF: [3.2_Coastal_Hazard_Management_0.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-03-02-coastal-hazard-management/3.2_Coastal_Hazard_Management_0.pdf)
 
 ### CHAPTER 3.2 COASTAL HAZARD
 

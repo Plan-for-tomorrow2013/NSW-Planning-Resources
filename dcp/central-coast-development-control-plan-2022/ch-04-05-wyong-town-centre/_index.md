@@ -17,7 +17,7 @@ source_pdf: "4.5_Wyong-Town-Centre.pdf"
 
 > This chapter is split into 27 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [4.5_Wyong-Town-Centre.pdf](4.5_Wyong-Town-Centre.pdf)
+Source PDF: [4.5_Wyong-Town-Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-04-05-wyong-town-centre/4.5_Wyong-Town-Centre.pdf)
 
 ### CHAPTER 4.5 WYONG TOWN CENTRE
 

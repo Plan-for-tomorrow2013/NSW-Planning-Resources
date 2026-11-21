@@ -17,7 +17,7 @@ source_pdf: "DCPAppendix_EPart3.pdf"
 
 > This chapter is split into 45 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCPAppendix_EPart3.pdf](DCPAppendix_EPart3.pdf)
+Source PDF: [DCPAppendix_EPart3.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/part-03-drawings/DCPAppendix_EPart3.pdf)
 
 PARTur
 

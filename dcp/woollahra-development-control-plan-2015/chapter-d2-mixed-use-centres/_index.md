@@ -18,7 +18,7 @@ source_pdf: "chapter-d2-mixed-use-centres.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-d2-mixed-use-centres.pdf](chapter-d2-mixed-use-centres.pdf)
+Source PDF: [chapter-d2-mixed-use-centres.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-d2-mixed-use-centres/chapter-d2-mixed-use-centres.pdf)
 
 ![Picture on page 1](images/chapter-d2-mixed-use-centres-page-1-1.gif)
 

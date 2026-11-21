@@ -16,7 +16,7 @@ source_pdf: "kdcp-section-c-cover-and-contents.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Section C Cover and Contents - Section C
 
-Source PDF: [kdcp-section-c-cover-and-contents.pdf](kdcp-section-c-cover-and-contents.pdf)
+Source PDF: [kdcp-section-c-cover-and-contents.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/section-c-cover-and-contents/kdcp-section-c-cover-and-contents.pdf)
 
 ![Picture on page 1](images/section-c-cover-and-contents-page-1-1.gif)
 

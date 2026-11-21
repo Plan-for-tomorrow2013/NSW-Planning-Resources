@@ -16,7 +16,7 @@ source_pdf: "Part-L-Stonecutters-Ridge_Waste.pdf"
 
 > This chapter is split into 21 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-L-Stonecutters-Ridge_Waste.pdf](Part-L-Stonecutters-Ridge_Waste.pdf)
+Source PDF: [Part-L-Stonecutters-Ridge_Waste.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-l-stonecutters-ridge/Part-L-Stonecutters-Ridge_Waste.pdf)
 
 ![Picture on page 1](images/part-l-stonecutters-ridge-page-1-1.gif)
 

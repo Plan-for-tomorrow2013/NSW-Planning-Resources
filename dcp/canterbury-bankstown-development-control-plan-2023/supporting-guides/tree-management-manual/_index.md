@@ -20,7 +20,7 @@ checked_by_tania: 2026-11-01
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - Tree Management Manual.pdf](2024.08.06%20-%20Tree%20Management%20Manual.pdf)
+Source PDF: [2024.08.06 - Tree Management Manual.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/tree-management-manual/2024.08.06%20-%20Tree%20Management%20Manual.pdf)
 
 ![Page 1 as printed (scanned page)](images/tree-management-manual-page-1.gif)
 

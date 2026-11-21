@@ -18,7 +18,7 @@ source_pdf: "volume2part7figtreehilldevelopmentcontrolplanamendment17april2022.p
 
 > This chapter is split into 21 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [volume2part7figtreehilldevelopmentcontrolplanamendment17april2022.pdf](volume2part7figtreehilldevelopmentcontrolplanamendment17april2022.pdf)
+Source PDF: [volume2part7figtreehilldevelopmentcontrolplanamendment17april2022.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-07-mount-gilead-dcp/volume2part7figtreehilldevelopmentcontrolplanamendment17april2022.pdf)
 
 #### Campbelltown (Sustainable City) Development Control Plan (Amendment No.
 

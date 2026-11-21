@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Chapter 7 Commercial Uses.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Chapter 7 Commercial Uses.pdf](MDCP%202026%20-%20Chapter%207%20Commercial%20Uses.pdf)
+Source PDF: [MDCP 2026 - Chapter 7 Commercial Uses.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/ch-07-00-commercial-uses/MDCP%202026%20-%20Chapter%207%20Commercial%20Uses.pdf)
 
 ![Picture on page 1](images/ch-07-00-commercial-uses-page-1-1.gif)
 

@@ -17,7 +17,7 @@ checked_by_tania: 2026-11-01
 ---
 # Campbelltown Sustainable City Development Control Plan 2015 - Part 3 Campbelltown Link Site
 
-Source PDF: [volume-2-part-3-campbelltown-link-site-dcp-with-cover.pdf](volume-2-part-3-campbelltown-link-site-dcp-with-cover.pdf)
+Source PDF: [volume-2-part-3-campbelltown-link-site-dcp-with-cover.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-03-campbelltown-link-site/volume-2-part-3-campbelltown-link-site-dcp-with-cover.pdf)
 
 ### Campbelltown (Sustainable City) Development Control Plan 2015
 

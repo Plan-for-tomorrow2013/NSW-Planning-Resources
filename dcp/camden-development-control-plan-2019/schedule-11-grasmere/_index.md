@@ -16,7 +16,7 @@ source_pdf: "DCP-2019-Final-Schedule-11-Grasmere.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2019-Final-Schedule-11-Grasmere.pdf](DCP-2019-Final-Schedule-11-Grasmere.pdf)
+Source PDF: [DCP-2019-Final-Schedule-11-Grasmere.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-11-grasmere/DCP-2019-Final-Schedule-11-Grasmere.pdf)
 
 
 ### Contents

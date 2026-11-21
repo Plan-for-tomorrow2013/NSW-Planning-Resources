@@ -16,7 +16,7 @@ source_pdf: "Part-2-General-Land-Use-Controls.pdf"
 
 > This chapter is split into 43 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-2-General-Land-Use-Controls.pdf](Part-2-General-Land-Use-Controls.pdf)
+Source PDF: [Part-2-General-Land-Use-Controls.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/part-02-general-land-use/Part-2-General-Land-Use-Controls.pdf)
 
 
 

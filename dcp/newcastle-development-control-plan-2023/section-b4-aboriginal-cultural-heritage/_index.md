@@ -18,7 +18,7 @@ source_pdf: "B4-Aboriginal-cultural-heritage.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [B4-Aboriginal-cultural-heritage.pdf](B4-Aboriginal-cultural-heritage.pdf)
+Source PDF: [B4-Aboriginal-cultural-heritage.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-b4-aboriginal-cultural-heritage/B4-Aboriginal-cultural-heritage.pdf)
 
 #### PART B: Site planning controls
 

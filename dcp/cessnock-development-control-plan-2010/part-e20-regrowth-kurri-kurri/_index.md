@@ -18,7 +18,7 @@ source_pdf: "E20 - Regrowth Kurri Kurri.pdf"
 
 > This chapter is split into 3 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [E20 - Regrowth Kurri Kurri.pdf](E20%20-%20Regrowth%20Kurri%20Kurri.pdf)
+Source PDF: [E20 - Regrowth Kurri Kurri.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e20-regrowth-kurri-kurri/E20%20-%20Regrowth%20Kurri%20Kurri.pdf)
 
 ### CESSNOCK
 

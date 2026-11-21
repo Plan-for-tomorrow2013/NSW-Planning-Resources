@@ -14,7 +14,7 @@ source_pdf: "DCP 2015_Amendment 8_Part L.pdf"
 ---
 # Blue Mountains Development Control Plan 2015 - Part L Maps
 
-Source PDF: [DCP 2015_Amendment 8_Part L.pdf](DCP%202015_Amendment%208_Part%20L.pdf)
+Source PDF: [DCP 2015_Amendment 8_Part L.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blue-mountains-development-control-plan-2015/part-l-maps/DCP%202015_Amendment%208_Part%20L.pdf)
 
 ### PART L
 

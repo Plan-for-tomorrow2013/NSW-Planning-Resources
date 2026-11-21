@@ -17,7 +17,7 @@ source_pdf: "E2 - The Vintage.pdf"
 
 > This chapter is split into 3 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [E2 - The Vintage.pdf](E2%20-%20The%20Vintage.pdf)
+Source PDF: [E2 - The Vintage.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e2-the-vintage/E2%20-%20The%20Vintage.pdf)
 
 ### CESSNOCK
 

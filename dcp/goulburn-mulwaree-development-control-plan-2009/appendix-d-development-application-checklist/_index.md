@@ -16,7 +16,7 @@ source_pdf: "Appendix-D-Development-Application-Checklist.pdf"
 ---
 # Goulburn Mulwaree Development Control Plan 2009 - Appendix D Development application checklist
 
-Source PDF: [Appendix-D-Development-Application-Checklist.pdf](Appendix-D-Development-Application-Checklist.pdf)
+Source PDF: [Appendix-D-Development-Application-Checklist.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/appendix-d-development-application-checklist/Appendix-D-Development-Application-Checklist.pdf)
 
 Goulburn Mulwaree
 

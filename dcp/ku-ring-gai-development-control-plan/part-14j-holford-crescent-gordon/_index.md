@@ -15,7 +15,7 @@ source_pdf: "kdcp-section-b-part-14j-holford-crescent-gordon.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Part 14J Holford Crescent, Gordon
 
-Source PDF: [kdcp-section-b-part-14j-holford-crescent-gordon.pdf](kdcp-section-b-part-14j-holford-crescent-gordon.pdf)
+Source PDF: [kdcp-section-b-part-14j-holford-crescent-gordon.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14j-holford-crescent-gordon/kdcp-section-b-part-14j-holford-crescent-gordon.pdf)
 
 ### 14J
 

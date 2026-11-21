@@ -17,7 +17,7 @@ source_pdf: "5.4_Kincumber_Avoca_Drive_Manassah_Frost_House.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.4_Kincumber_Avoca_Drive_Manassah_Frost_House.pdf](5.4_Kincumber_Avoca_Drive_Manassah_Frost_House.pdf)
+Source PDF: [5.4_Kincumber_Avoca_Drive_Manassah_Frost_House.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-04-kincumber-avoca-drive-manasseh-frost-house/5.4_Kincumber_Avoca_Drive_Manassah_Frost_House.pdf)
 
 Part 5
 

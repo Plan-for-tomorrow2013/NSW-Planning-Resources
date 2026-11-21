@@ -18,7 +18,7 @@ source_pdf: "Section-C10-Street-awnings-and-balconies.pdf"
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Section-C10-Street-awnings-and-balconies.pdf](Section-C10-Street-awnings-and-balconies.pdf)
+Source PDF: [Section-C10-Street-awnings-and-balconies.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-c10-street-awnings-and-balconies/Section-C10-Street-awnings-and-balconies.pdf)
 
 #### PART C: General development controls
 

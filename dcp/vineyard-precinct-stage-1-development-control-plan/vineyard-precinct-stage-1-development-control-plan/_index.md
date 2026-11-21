@@ -21,7 +21,7 @@ source_pdf: "20171213-Hawkesbury-Vineyard-DCP.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [20171213-Hawkesbury-Vineyard-DCP.pdf](20171213-Hawkesbury-Vineyard-DCP.pdf)
+Source PDF: [20171213-Hawkesbury-Vineyard-DCP.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/vineyard-precinct-stage-1-development-control-plan/vineyard-precinct-stage-1-development-control-plan/20171213-Hawkesbury-Vineyard-DCP.pdf)
 
 ### Hawkesbury City Council Growth Centres Precinct
 

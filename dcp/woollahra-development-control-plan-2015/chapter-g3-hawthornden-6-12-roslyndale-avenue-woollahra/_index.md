@@ -18,7 +18,7 @@ source_pdf: "chapter_g3_hawthornden.pdf"
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_g3_hawthornden.pdf](chapter_g3_hawthornden.pdf)
+Source PDF: [chapter_g3_hawthornden.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g3-hawthornden-6-12-roslyndale-avenue-woollahra/chapter_g3_hawthornden.pdf)
 
 ![Picture on page 1](images/chapter-g3-hawthornden-6-12-roslyndale-avenue-woollahra-page-1-1.gif)
 

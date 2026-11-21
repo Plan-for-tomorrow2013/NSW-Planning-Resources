@@ -16,7 +16,7 @@ source_pdf: "Part-5-Employment-Zones-Development-Controls.pdf"
 
 > This chapter is split into 32 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-5-Employment-Zones-Development-Controls.pdf](Part-5-Employment-Zones-Development-Controls.pdf)
+Source PDF: [Part-5-Employment-Zones-Development-Controls.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/part-05-employment-zones/Part-5-Employment-Zones-Development-Controls.pdf)
 
 > Words printed on the picture (copied from the PDF):
 > Part 5 – Centres Development Controls

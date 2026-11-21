@@ -18,7 +18,7 @@ source_pdf: "part-18-tattoo-parlour-premises-amendment-21-sept2024.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part-18-tattoo-parlour-premises-amendment-21-sept2024.pdf](part-18-tattoo-parlour-premises-amendment-21-sept2024.pdf)
+Source PDF: [part-18-tattoo-parlour-premises-amendment-21-sept2024.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-1-part-18-tattoo-parlour-premises/part-18-tattoo-parlour-premises-amendment-21-sept2024.pdf)
 
 ![Picture on page 1](images/vol-1-part-18-tattoo-parlour-premises-page-1-1.gif)
 

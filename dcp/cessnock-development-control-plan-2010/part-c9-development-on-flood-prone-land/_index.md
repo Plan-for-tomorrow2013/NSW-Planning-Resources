@@ -15,7 +15,7 @@ source_pdf: "C9 - Development on Flood Prone Land.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part C9 Development on Flood Prone Land
 
-Source PDF: [C9 - Development on Flood Prone Land.pdf](C9%20-%20Development%20on%20Flood%20Prone%20Land.pdf)
+Source PDF: [C9 - Development on Flood Prone Land.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c9-development-on-flood-prone-land/C9%20-%20Development%20on%20Flood%20Prone%20Land.pdf)
 
 #### Table of Contents
 

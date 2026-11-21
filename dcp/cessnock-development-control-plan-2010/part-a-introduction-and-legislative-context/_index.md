@@ -16,7 +16,7 @@ source_pdf: "Part A - Introduction and Legislative Context.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part A Introduction and Legislative Context
 
-Source PDF: [Part A - Introduction and Legislative Context.pdf](Part%20A%20-%20Introduction%20and%20Legislative%20Context.pdf)
+Source PDF: [Part A - Introduction and Legislative Context.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-a-introduction-and-legislative-context/Part%20A%20-%20Introduction%20and%20Legislative%20Context.pdf)
 
 ### CESSNOCK
 

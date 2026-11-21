@@ -17,7 +17,7 @@ source_pdf: "D2 - Urban Housing.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D2 - Urban Housing.pdf](D2%20-%20Urban%20Housing.pdf)
+Source PDF: [D2 - Urban Housing.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d2-urban-housing/D2%20-%20Urban%20Housing.pdf)
 
 #### D.2 URBAN HOUSING
 

@@ -18,7 +18,7 @@ source_pdf: "Amd-6-GRDCP-Part-8-2-Hurstville-Strategic-Centre-NEW.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Amd-6-GRDCP-Part-8-2-Hurstville-Strategic-Centre-NEW.pdf](Amd-6-GRDCP-Part-8-2-Hurstville-Strategic-Centre-NEW.pdf)
+Source PDF: [Amd-6-GRDCP-Part-8-2-Hurstville-Strategic-Centre-NEW.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/georges-river-development-control-plan-2021/part-08-2-hurstville-strategic-centre/Amd-6-GRDCP-Part-8-2-Hurstville-Strategic-Centre-NEW.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 

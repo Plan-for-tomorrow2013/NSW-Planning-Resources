@@ -17,7 +17,7 @@ source_pdf: "26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Se
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 5 Residential & Mixed-Use Developments.pdf](26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%205%20Residential%20%26%20Mixed-Use%20Developments.pdf)
+Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 5 Residential & Mixed-Use Developments.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/section-05-residential-mixed-use-developments/26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%205%20Residential%20%26%20Mixed-Use%20Developments.pdf)
 
 ### Residential & Mixed-Use Developments
 

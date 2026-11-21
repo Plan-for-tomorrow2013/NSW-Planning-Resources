@@ -16,7 +16,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Section 2 Site and Environme
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Burwood-development-control-plan-DCP - Section 2 Site and Environmental Planning.pdf](Burwood-development-control-plan-DCP%20-%20Section%202%20Site%20and%20Environmental%20Planning.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Section 2 Site and Environmental Planning.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/section-02-site-and-environmental-planning/Burwood-development-control-plan-DCP%20-%20Section%202%20Site%20and%20Environmental%20Planning.pdf)
 
 <!-- sections -->
 ## Sections

@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Commercial-Premises-Industries-and-Commu
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Commercial Premises Industries and Community Facilities
 
-Source PDF: [Waste-Management-Guideline-Commercial-Premises-Industries-and-Community-Facilities.pdf](Waste-Management-Guideline-Commercial-Premises-Industries-and-Community-Facilities.pdf)
+Source PDF: [Waste-Management-Guideline-Commercial-Premises-Industries-and-Community-Facilities.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-commercial-premises-ind/Waste-Management-Guideline-Commercial-Premises-Industries-and-Community-Facilities.pdf)
 
 ### Cessnock LGA
 

@@ -17,7 +17,7 @@ source_pdf: "Amd-6-GRDCP-Glossary.pdf"
 ---
 # Georges River Development Control Plan 2021 - Glossary
 
-Source PDF: [Amd-6-GRDCP-Glossary.pdf](Amd-6-GRDCP-Glossary.pdf)
+Source PDF: [Amd-6-GRDCP-Glossary.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/georges-river-development-control-plan-2021/glossary/Amd-6-GRDCP-Glossary.pdf)
 
 ![Picture on page 1](images/glossary-page-1-1.gif)
 

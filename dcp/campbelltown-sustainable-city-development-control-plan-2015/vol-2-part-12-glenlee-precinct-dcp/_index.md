@@ -18,7 +18,7 @@ source_pdf: "volume2sitespecificdcps-part12glenleedcp.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [volume2sitespecificdcps-part12glenleedcp.pdf](volume2sitespecificdcps-part12glenleedcp.pdf)
+Source PDF: [volume2sitespecificdcps-part12glenleedcp.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-12-glenlee-precinct-dcp/volume2sitespecificdcps-part12glenleedcp.pdf)
 
 ### Campbelltown (Sustainable City) Development Control Plan 2015
 

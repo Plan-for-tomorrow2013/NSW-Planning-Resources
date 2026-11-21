@@ -17,7 +17,7 @@ source_pdf: "ECM_7719481_v4_CCB-DCP-08_Part-G-Local-Centres_v2022-05-16.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [ECM_7719481_v4_CCB-DCP-08_Part-G-Local-Centres_v2022-05-16.pdf](ECM_7719481_v4_CCB-DCP-08_Part-G-Local-Centres_v2022-05-16.pdf)
+Source PDF: [ECM_7719481_v4_CCB-DCP-08_Part-G-Local-Centres_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-g-local-centres/ECM_7719481_v4_CCB-DCP-08_Part-G-Local-Centres_v2022-05-16.pdf)
 
 ![Picture on page 1](images/part-g-local-centres-page-1-1.gif)
 

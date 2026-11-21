@@ -18,7 +18,7 @@ source_pdf: "D4-Commercial.pdf"
 
 > This chapter is split into 19 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D4-Commercial.pdf](D4-Commercial.pdf)
+Source PDF: [D4-Commercial.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-d4-commercial/D4-Commercial.pdf)
 
 ### PART D: Development controls by land use
 

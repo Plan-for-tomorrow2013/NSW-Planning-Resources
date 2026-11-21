@@ -17,7 +17,7 @@ source_pdf: "ECM_7719488_v5_CCB-DCP-15 - Appendix-2 - Engineering Specifications
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [ECM_7719488_v5_CCB-DCP-15 - Appendix-2 - Engineering Specifications.pdf](ECM_7719488_v5_CCB-DCP-15%20-%20Appendix-2%20-%20Engineering%20Specifications.pdf)
+Source PDF: [ECM_7719488_v5_CCB-DCP-15 - Appendix-2 - Engineering Specifications.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/appendix-02-engineering-specifications/ECM_7719488_v5_CCB-DCP-15%20-%20Appendix-2%20-%20Engineering%20Specifications.pdf)
 
 ![Picture on page 1](images/appendix-02-engineering-specifications-page-1-1.gif)
 

@@ -18,7 +18,7 @@ source_pdf: "D7-Sex-industry-establishments.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D7-Sex-industry-establishments.pdf](D7-Sex-industry-establishments.pdf)
+Source PDF: [D7-Sex-industry-establishments.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-d7-sex-industry-establishments/D7-Sex-industry-establishments.pdf)
 
 ### PART D: Development controls by land use
 

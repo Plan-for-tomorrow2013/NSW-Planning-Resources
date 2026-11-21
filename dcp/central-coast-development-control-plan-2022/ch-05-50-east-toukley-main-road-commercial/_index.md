@@ -17,7 +17,7 @@ source_pdf: "5.50_East_Toukley_Main_Road_Commercial.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.50_East_Toukley_Main_Road_Commercial.pdf](5.50_East_Toukley_Main_Road_Commercial.pdf)
+Source PDF: [5.50_East_Toukley_Main_Road_Commercial.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-50-east-toukley-main-road-commercial/5.50_East_Toukley_Main_Road_Commercial.pdf)
 
 Part 5
 

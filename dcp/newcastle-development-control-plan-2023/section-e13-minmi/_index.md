@@ -18,7 +18,7 @@ source_pdf: "E13-Minmi.pdf"
 
 > This chapter is split into 17 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E13-Minmi.pdf](E13-Minmi.pdf)
+Source PDF: [E13-Minmi.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e13-minmi/E13-Minmi.pdf)
 
 #### PART E: Place and Precincts
 

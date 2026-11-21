@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Appendix B Application Requirements - Minor Development
 
 > This chapter is split into 41 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Appendix B Application Requirements - Minor Development.pdf](MDCP%202026%20-%20Appendix%20B%20Application%20Requirements%20-%20Minor%20Development.pdf)
+Source PDF: [MDCP 2026 - Appendix B Application Requirements - Minor Development.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/appendix-b-application-requirements-minor-development/MDCP%202026%20-%20Appendix%20B%20Application%20Requirements%20-%20Minor%20Development.pdf)
 
 ![Picture on page 1](images/appendix-b-application-requirements-minor-development-page-1-1.gif)
 

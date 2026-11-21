@@ -17,7 +17,7 @@ source_pdf: "Maitland Significant Tree Register.pdf"
 ---
 # Maitland Development Control Plan 2026 - Maitland Significant Tree Register
 
-Source PDF: [Maitland Significant Tree Register.pdf](Maitland%20Significant%20Tree%20Register.pdf)
+Source PDF: [Maitland Significant Tree Register.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/supporting-guides/maitland-significant-tree-register/Maitland%20Significant%20Tree%20Register.pdf)
 
 ### Maitland Significant Tree Register
 

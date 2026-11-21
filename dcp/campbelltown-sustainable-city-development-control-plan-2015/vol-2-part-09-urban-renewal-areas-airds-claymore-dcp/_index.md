@@ -19,7 +19,7 @@ checked_by_tania: 2026-11-01
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [volume2part9urbanrenewalareasairdsclaymoredcp.pdf](volume2part9urbanrenewalareasairdsclaymoredcp.pdf)
+Source PDF: [volume2part9urbanrenewalareasairdsclaymoredcp.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-09-urban-renewal-areas-airds-claymore-dcp/volume2part9urbanrenewalareasairdsclaymoredcp.pdf)
 
 > [Page 1 is a scanned picture of text. The text below was read by OCR (machine reading) and may contain errors; check it against the original PDF.]
 

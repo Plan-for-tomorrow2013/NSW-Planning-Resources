@@ -17,7 +17,7 @@ source_pdf: "5.46_Northern_Wetlands_Management.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.46_Northern_Wetlands_Management.pdf](5.46_Northern_Wetlands_Management.pdf)
+Source PDF: [5.46_Northern_Wetlands_Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-46-northern-wetlands-management/5.46_Northern_Wetlands_Management.pdf)
 
 ### CHAPTER 5.46 NORTHERN WETLANDS
 

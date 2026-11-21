@@ -17,7 +17,7 @@ source_pdf: "Cumberland DCP Part E.pdf"
 
 > This chapter is split into 5 section file(s), one per sub-part heading, in the order they appear in the PDF.
 
-Source PDF: [Cumberland DCP Part E.pdf](Cumberland%20DCP%20Part%20E.pdf)
+Source PDF: [Cumberland DCP Part E.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/part-e-other-land-use-based-development-controls/Cumberland%20DCP%20Part%20E.pdf)
 
 ![Picture on page 1](images/part-e-other-land-use-based-development-controls-page-1-1.gif)
 

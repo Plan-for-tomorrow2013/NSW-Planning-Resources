@@ -17,7 +17,7 @@ source_pdf: "1.2_Notification_of_Development_Proposals.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [1.2_Notification_of_Development_Proposals.pdf](1.2_Notification_of_Development_Proposals.pdf)
+Source PDF: [1.2_Notification_of_Development_Proposals.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-01-02-notification-of-development-proposals/1.2_Notification_of_Development_Proposals.pdf)
 
 ### CH 1.2
 

@@ -17,7 +17,7 @@ source_pdf: "PARTE-Chapter4-PittTownFebruary2009.pdf"
 
 > This chapter is split into 17 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PARTE-Chapter4-PittTownFebruary2009.pdf](PARTE-Chapter4-PittTownFebruary2009.pdf)
+Source PDF: [PARTE-Chapter4-PittTownFebruary2009.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/ch-04-00-pitt-town/PARTE-Chapter4-PittTownFebruary2009.pdf)
 
 ![Picture on page 1](images/ch-04-00-pitt-town-page-1-1.gif)
 

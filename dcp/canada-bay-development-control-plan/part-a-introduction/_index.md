@@ -17,7 +17,7 @@ source_pdf: "ECM_7719475_v3_CCB-DCP-02_Part-A-Introduction_v2022-05-16.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [ECM_7719475_v3_CCB-DCP-02_Part-A-Introduction_v2022-05-16.pdf](ECM_7719475_v3_CCB-DCP-02_Part-A-Introduction_v2022-05-16.pdf)
+Source PDF: [ECM_7719475_v3_CCB-DCP-02_Part-A-Introduction_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-a-introduction/ECM_7719475_v3_CCB-DCP-02_Part-A-Introduction_v2022-05-16.pdf)
 
 ![Picture on page 1](images/part-a-introduction-page-1-1.gif)
 

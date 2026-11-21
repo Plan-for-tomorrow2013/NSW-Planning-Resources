@@ -17,7 +17,7 @@ source_pdf: "D7 - Construction of Dams.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D7 - Construction of Dams.pdf](D7%20-%20Construction%20of%20Dams.pdf)
+Source PDF: [D7 - Construction of Dams.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d7-construction-of-dams/D7%20-%20Construction%20of%20Dams.pdf)
 
 #### D. 7: CONSTRUCTION OF DAMS
 

@@ -15,7 +15,7 @@ source_pdf: "5.11-Terrigal_-Corner-Charles-Kay-Drive-and-Terrigal-Drive.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Chapter 5.11 Terrigal Corner Charles Kay Drive
 
-Source PDF: [5.11-Terrigal_-Corner-Charles-Kay-Drive-and-Terrigal-Drive.pdf](5.11-Terrigal_-Corner-Charles-Kay-Drive-and-Terrigal-Drive.pdf)
+Source PDF: [5.11-Terrigal_-Corner-Charles-Kay-Drive-and-Terrigal-Drive.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-11-terrigal-corner-charles-kay-drive/5.11-Terrigal_-Corner-Charles-Kay-Drive-and-Terrigal-Drive.pdf)
 
 ### CHAPTER 5.11 TERRIGAL, CORNER CHARLES KAY
 

@@ -17,7 +17,7 @@ source_pdf: "Waste Management Plan B - Multi Dwelling - 2022-06-22.pdf"
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Waste Management Plan B – Multi Dwelling Housing Form
 
-Source PDF: [Waste Management Plan B - Multi Dwelling - 2022-06-22.pdf](Waste%20Management%20Plan%20B%20-%20Multi%20Dwelling%20-%202022-06-22.pdf)
+Source PDF: [Waste Management Plan B - Multi Dwelling - 2022-06-22.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-management-plan-b-multi-dwelling-housing-for/Waste%20Management%20Plan%20B%20-%20Multi%20Dwelling%20-%202022-06-22.pdf)
 
 ![Picture on page 1](images/waste-management-plan-b-multi-dwelling-housing-for-page-1-1.gif)
 

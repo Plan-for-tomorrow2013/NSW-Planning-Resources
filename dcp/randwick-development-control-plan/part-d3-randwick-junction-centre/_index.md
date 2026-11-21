@@ -17,7 +17,7 @@ source_pdf: "Randwick-Junction-Centre.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Randwick-Junction-Centre.pdf](Randwick-Junction-Centre.pdf)
+Source PDF: [Randwick-Junction-Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-d3-randwick-junction-centre/Randwick-Junction-Centre.pdf)
 
 ![Picture on page 1](images/part-d3-randwick-junction-centre-page-1-1.gif)
 

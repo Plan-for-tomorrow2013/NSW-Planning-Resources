@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-b-part-18-biodiversity.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-18-biodiversity.pdf](kdcp-section-b-part-18-biodiversity.pdf)
+Source PDF: [kdcp-section-b-part-18-biodiversity.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-18-biodiversity/kdcp-section-b-part-18-biodiversity.pdf)
 
 ### PART
 

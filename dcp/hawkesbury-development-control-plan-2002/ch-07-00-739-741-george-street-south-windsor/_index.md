@@ -17,7 +17,7 @@ source_pdf: "Chapter-7-Post-Expo-HLEP2012-update-with-plan.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Chapter-7-Post-Expo-HLEP2012-update-with-plan.pdf](Chapter-7-Post-Expo-HLEP2012-update-with-plan.pdf)
+Source PDF: [Chapter-7-Post-Expo-HLEP2012-update-with-plan.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/ch-07-00-739-741-george-street-south-windsor/Chapter-7-Post-Expo-HLEP2012-update-with-plan.pdf)
 
 velopment Control Plan
 

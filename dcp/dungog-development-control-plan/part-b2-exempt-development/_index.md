@@ -15,7 +15,7 @@ source_pdf: "ATTACH-3-Part-B.2-Exempt-Development_1.pdf"
 ---
 # Dungog Development Control Plan - Part B2 Exempt Development
 
-Source PDF: [ATTACH-3-Part-B.2-Exempt-Development_1.pdf](ATTACH-3-Part-B.2-Exempt-Development_1.pdf)
+Source PDF: [ATTACH-3-Part-B.2-Exempt-Development_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-b2-exempt-development/ATTACH-3-Part-B.2-Exempt-Development_1.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

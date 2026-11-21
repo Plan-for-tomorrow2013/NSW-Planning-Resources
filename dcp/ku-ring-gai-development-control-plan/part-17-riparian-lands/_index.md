@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-b-part-17-riparian-lands.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-17-riparian-lands.pdf](kdcp-section-b-part-17-riparian-lands.pdf)
+Source PDF: [kdcp-section-b-part-17-riparian-lands.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-17-riparian-lands/kdcp-section-b-part-17-riparian-lands.pdf)
 
 ### PART
 

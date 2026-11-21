@@ -16,7 +16,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Section 5 Other Development 
 
 > This chapter is split into 60 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Burwood-development-control-plan-DCP - Section 5 Other Development Provisions.pdf](Burwood-development-control-plan-DCP%20-%20Section%205%20Other%20Development%20Provisions.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Section 5 Other Development Provisions.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/section-05-other-development-provisions/Burwood-development-control-plan-DCP%20-%20Section%205%20Other%20Development%20Provisions.pdf)
 
 <!-- sections -->
 ## Sections

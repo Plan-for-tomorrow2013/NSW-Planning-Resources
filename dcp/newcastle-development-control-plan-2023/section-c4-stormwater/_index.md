@@ -18,7 +18,7 @@ source_pdf: "Section-C4-Stormwater.pdf"
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Section-C4-Stormwater.pdf](Section-C4-Stormwater.pdf)
+Source PDF: [Section-C4-Stormwater.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-c4-stormwater/Section-C4-Stormwater.pdf)
 
 #### PART C: General development controls
 

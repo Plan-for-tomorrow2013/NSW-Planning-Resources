@@ -16,7 +16,7 @@ source_pdf: "Appendix-G-Landscape-Policy-Site-analysis-Preparing-a-Landscape-Pla
 ---
 # Goulburn Mulwaree Development Control Plan 2009 - Appendix G Landscape Policy, Site Analysis and Preparing a Landscape Plan
 
-Source PDF: [Appendix-G-Landscape-Policy-Site-analysis-Preparing-a-Landscape-Plan.pdf](Appendix-G-Landscape-Policy-Site-analysis-Preparing-a-Landscape-Plan.pdf)
+Source PDF: [Appendix-G-Landscape-Policy-Site-analysis-Preparing-a-Landscape-Plan.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/appendix-g-landscape-policy-site-analysis-and-preparing-a-lan/Appendix-G-Landscape-Policy-Site-analysis-Preparing-a-Landscape-Plan.pdf)
 
 Appendix G: Landscape Policy, Site Analysis and
 

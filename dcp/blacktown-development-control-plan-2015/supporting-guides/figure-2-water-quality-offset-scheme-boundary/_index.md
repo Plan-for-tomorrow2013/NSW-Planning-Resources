@@ -15,7 +15,7 @@ source_pdf: "Figure 2 Water Quality Offset Scheme Boundary.pdf"
 ---
 # Blacktown Development Control Plan 2015 - Figure 2 Water Quality Offset Scheme Boundary
 
-Source PDF: [Figure 2 Water Quality Offset Scheme Boundary.pdf](Figure%202%20Water%20Quality%20Offset%20Scheme%20Boundary.pdf)
+Source PDF: [Figure 2 Water Quality Offset Scheme Boundary.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/supporting-guides/figure-2-water-quality-offset-scheme-boundary/Figure%202%20Water%20Quality%20Offset%20Scheme%20Boundary.pdf)
 
 ![Figure 2 Water Quality Offset Scheme Boundary](images/figure-2-water-quality-offset-scheme-boundary-page-1.gif)
 

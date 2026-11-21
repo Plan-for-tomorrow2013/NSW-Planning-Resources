@@ -17,7 +17,7 @@ source_pdf: "homebush-bay-west-dcp-amendment-no-1-2013.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [homebush-bay-west-dcp-amendment-no-1-2013.pdf](homebush-bay-west-dcp-amendment-no-1-2013.pdf)
+Source PDF: [homebush-bay-west-dcp-amendment-no-1-2013.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/standalone-plans/homebush-bay-west-development-control-plan-2004/amendment-01-amendment-no-1/homebush-bay-west-dcp-amendment-no-1-2013.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 

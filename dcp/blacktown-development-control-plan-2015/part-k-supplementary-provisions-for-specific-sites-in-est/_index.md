@@ -16,7 +16,7 @@ source_pdf: "Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-A
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-Areas.pdf](Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-Areas.pdf)
+Source PDF: [Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-Areas.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-k-supplementary-provisions-for-specific-sites-in-est/Part-K-Supplementary-Provisions-for-Specific-Sites-in-Established-Areas.pdf)
 
 ![Picture on page 1](images/part-k-supplementary-provisions-for-specific-sites-in-est-page-1-1.gif)
 

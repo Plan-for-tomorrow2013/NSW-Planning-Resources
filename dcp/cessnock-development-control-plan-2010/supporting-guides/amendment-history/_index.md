@@ -17,7 +17,7 @@ source_pdf: "Land-Use-Planning-_-Cessnock-DCP-2010-_-Summary-of-Amendments-_-3-C
 ---
 # Cessnock Development Control Plan 2010 - Amendment History
 
-Source PDF: [Land-Use-Planning-_-Cessnock-DCP-2010-_-Summary-of-Amendments-_-3-Column-Table-for-Website.pdf](Land-Use-Planning-_-Cessnock-DCP-2010-_-Summary-of-Amendments-_-3-Column-Table-for-Website.pdf)
+Source PDF: [Land-Use-Planning-_-Cessnock-DCP-2010-_-Summary-of-Amendments-_-3-Column-Table-for-Website.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/amendment-history/Land-Use-Planning-_-Cessnock-DCP-2010-_-Summary-of-Amendments-_-3-Column-Table-for-Website.pdf)
 
 Cessnock Development Control Plan 2010 I Amendment History
 

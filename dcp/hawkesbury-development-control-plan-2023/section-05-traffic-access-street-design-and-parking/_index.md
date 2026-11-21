@@ -17,7 +17,7 @@ source_pdf: "Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 5 Traffic, Acce
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 5 Traffic, Access, Street Design and Parking.pdf](Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%205%20Traffic%2C%20Access%2C%20Street%20Design%20and%20Parking.pdf)
+Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 5 Traffic, Access, Street Design and Parking.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2023/section-05-traffic-access-street-design-and-parking/Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%205%20Traffic%2C%20Access%2C%20Street%20Design%20and%20Parking.pdf)
 
 ## CHAPTER 5: Traffic, Access, Street
 

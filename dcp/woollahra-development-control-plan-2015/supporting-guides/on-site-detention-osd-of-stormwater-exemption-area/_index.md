@@ -16,7 +16,7 @@ source_pdf: "on_site_detention_exemption_area_map.pdf"
 ---
 # Woollahra Development Control Plan 2015 - On site detention (OSD) of stormwater exemption area map
 
-Source PDF: [on_site_detention_exemption_area_map.pdf](on_site_detention_exemption_area_map.pdf)
+Source PDF: [on_site_detention_exemption_area_map.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/supporting-guides/on-site-detention-osd-of-stormwater-exemption-area/on_site_detention_exemption_area_map.pdf)
 
 #### PARK
 

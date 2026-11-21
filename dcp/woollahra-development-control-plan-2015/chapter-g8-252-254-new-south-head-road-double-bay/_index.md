@@ -18,7 +18,7 @@ source_pdf: "chapter-g8-252-254-new-south-head-road-double-bay.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-g8-252-254-new-south-head-road-double-bay.pdf](chapter-g8-252-254-new-south-head-road-double-bay.pdf)
+Source PDF: [chapter-g8-252-254-new-south-head-road-double-bay.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g8-252-254-new-south-head-road-double-bay/chapter-g8-252-254-new-south-head-road-double-bay.pdf)
 
 ![Picture on page 1](images/chapter-g8-252-254-new-south-head-road-double-bay-page-1-1.gif)
 

@@ -17,7 +17,7 @@ source_pdf: "F2-Outdoor-advertising-and-signage-Randwick-DCP-2013.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [F2-Outdoor-advertising-and-signage-Randwick-DCP-2013.pdf](F2-Outdoor-advertising-and-signage-Randwick-DCP-2013.pdf)
+Source PDF: [F2-Outdoor-advertising-and-signage-Randwick-DCP-2013.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-f2-outdoor-advertising-and-signage/F2-Outdoor-advertising-and-signage-Randwick-DCP-2013.pdf)
 
 ### Outdoor Advertising and Signage F2
 

@@ -17,7 +17,7 @@ source_pdf: "5.21_East_Somersby.pdf"
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.21_East_Somersby.pdf](5.21_East_Somersby.pdf)
+Source PDF: [5.21_East_Somersby.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-21-east-somersby/5.21_East_Somersby.pdf)
 
 <!-- sections -->
 ## Sections

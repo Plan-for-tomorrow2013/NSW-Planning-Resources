@@ -17,7 +17,7 @@ source_pdf: "1.1_Introduction.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [1.1_Introduction.pdf](1.1_Introduction.pdf)
+Source PDF: [1.1_Introduction.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-01-01-introduction-and-application/1.1_Introduction.pdf)
 
 Part 1
 

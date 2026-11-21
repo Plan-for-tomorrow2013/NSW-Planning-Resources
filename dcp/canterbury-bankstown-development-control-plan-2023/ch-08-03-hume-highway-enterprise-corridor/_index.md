@@ -18,7 +18,7 @@ source_pdf: "2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 8.3 - Hume Highway.pd
 
 > This chapter is split into 19 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 8.3 - Hume Highway.pdf](2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%208.3%20-%20Hume%20Highway.pdf)
+Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 8.3 - Hume Highway.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-08-03-hume-highway-enterprise-corridor/2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%208.3%20-%20Hume%20Highway.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

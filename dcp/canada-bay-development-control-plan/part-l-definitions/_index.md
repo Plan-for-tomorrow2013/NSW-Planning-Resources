@@ -16,7 +16,7 @@ source_pdf: "ECM_7719486_v3_CCB-DCP-13_Part-L-Definitions_v2022-05-16.pdf"
 ---
 # Canada Bay Development Control Plan - Part L Definitions
 
-Source PDF: [ECM_7719486_v3_CCB-DCP-13_Part-L-Definitions_v2022-05-16.pdf](ECM_7719486_v3_CCB-DCP-13_Part-L-Definitions_v2022-05-16.pdf)
+Source PDF: [ECM_7719486_v3_CCB-DCP-13_Part-L-Definitions_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-l-definitions/ECM_7719486_v3_CCB-DCP-13_Part-L-Definitions_v2022-05-16.pdf)
 
 ![Picture on page 1](images/part-l-definitions-page-1-1.gif)
 

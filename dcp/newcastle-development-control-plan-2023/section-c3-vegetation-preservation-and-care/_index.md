@@ -18,7 +18,7 @@ source_pdf: "Section-C3-Vegetation-preservation-and-care.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Section-C3-Vegetation-preservation-and-care.pdf](Section-C3-Vegetation-preservation-and-care.pdf)
+Source PDF: [Section-C3-Vegetation-preservation-and-care.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-c3-vegetation-preservation-and-care/Section-C3-Vegetation-preservation-and-care.pdf)
 
 ### PART C: General development controls
 

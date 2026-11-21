@@ -16,7 +16,7 @@ source_pdf: "homebush-bay-west-dcp-2004-volume-2-public-domain-manual.pdf"
 
 > This chapter is split into 26 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [homebush-bay-west-dcp-2004-volume-2-public-domain-manual.pdf](homebush-bay-west-dcp-2004-volume-2-public-domain-manual.pdf)
+Source PDF: [homebush-bay-west-dcp-2004-volume-2-public-domain-manual.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/standalone-plans/homebush-bay-west-development-control-plan-2004/volume-02-public-domain-manual/homebush-bay-west-dcp-2004-volume-2-public-domain-manual.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 

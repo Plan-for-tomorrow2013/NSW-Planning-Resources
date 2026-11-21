@@ -19,7 +19,7 @@ source_pdf: "2023.06.23 - DCP 2023 - CONSOLIDATED - Waste Design for New Develop
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2023.06.23 - DCP 2023 - CONSOLIDATED - Waste Design for New Developments - Guide E.pdf](2023.06.23%20-%20DCP%202023%20-%20CONSOLIDATED%20-%20Waste%20Design%20for%20New%20Developments%20-%20Guide%20E.pdf)
+Source PDF: [2023.06.23 - DCP 2023 - CONSOLIDATED - Waste Design for New Developments - Guide E.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-design-for-new-developments-guide-e-mixed-us/2023.06.23%20-%20DCP%202023%20-%20CONSOLIDATED%20-%20Waste%20Design%20for%20New%20Developments%20-%20Guide%20E.pdf)
 
 Waste Design for
 

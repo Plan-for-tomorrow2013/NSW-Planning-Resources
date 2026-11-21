@@ -17,7 +17,7 @@ source_pdf: "C4 - Land Use Conflict and Buffer Zones.pdf"
 
 > This chapter is split into 31 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C4 - Land Use Conflict and Buffer Zones.pdf](C4%20-%20Land%20Use%20Conflict%20and%20Buffer%20Zones.pdf)
+Source PDF: [C4 - Land Use Conflict and Buffer Zones.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c4-land-use-conflict-and-buffer-zones/C4%20-%20Land%20Use%20Conflict%20and%20Buffer%20Zones.pdf)
 
 #### C.4: LAND USE CONFLICT AND BUFFER ZONES
 

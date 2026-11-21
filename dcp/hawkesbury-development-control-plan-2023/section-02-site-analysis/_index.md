@@ -17,7 +17,7 @@ source_pdf: "Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 2 Site Analysis
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 2 Site Analysis.pdf](Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%202%20Site%20Analysis.pdf)
+Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 2 Site Analysis.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2023/section-02-site-analysis/Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%202%20Site%20Analysis.pdf)
 
 ## CHAPTER 2: Site Analysis
 

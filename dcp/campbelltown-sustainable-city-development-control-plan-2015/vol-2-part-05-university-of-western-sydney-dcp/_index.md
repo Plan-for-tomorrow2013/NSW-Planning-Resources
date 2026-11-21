@@ -17,7 +17,7 @@ checked_by_tania: 2026-11-01
 ---
 # Campbelltown Sustainable City Development Control Plan 2015 - Part 5 University of Western Sydney DCP
 
-Source PDF: [volume-2-part-5-university-of-western-sydney-dcp-including-amendment-no-5-effective-25-april-2018-final.pdf](volume-2-part-5-university-of-western-sydney-dcp-including-amendment-no-5-effective-25-april-2018-final.pdf)
+Source PDF: [volume-2-part-5-university-of-western-sydney-dcp-including-amendment-no-5-effective-25-april-2018-final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-05-university-of-western-sydney-dcp/volume-2-part-5-university-of-western-sydney-dcp-including-amendment-no-5-effective-25-april-2018-final.pdf)
 
 > [Page 1 is a scanned picture of text. The text below was read by OCR (machine reading) and may contain errors; check it against the original PDF.]
 

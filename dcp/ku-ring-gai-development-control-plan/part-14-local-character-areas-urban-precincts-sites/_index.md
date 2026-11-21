@@ -15,7 +15,7 @@ source_pdf: "kdcp-section-b-part-14-local-character-areas-urban-precincts-and-si
 ---
 # Ku-ring-gai Development Control Plan - Part 14 Local Character Areas Urban Precincts & Sites
 
-Source PDF: [kdcp-section-b-part-14-local-character-areas-urban-precincts-and-sites.pdf](kdcp-section-b-part-14-local-character-areas-urban-precincts-and-sites.pdf)
+Source PDF: [kdcp-section-b-part-14-local-character-areas-urban-precincts-and-sites.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14-local-character-areas-urban-precincts-sites/kdcp-section-b-part-14-local-character-areas-urban-precincts-and-sites.pdf)
 
 ### PART
 

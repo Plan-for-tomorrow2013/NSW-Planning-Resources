@@ -18,7 +18,7 @@ source_pdf: "Heritage-Conservation-Chapter-December-2013.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Heritage-Conservation-Chapter-December-2013.pdf](Heritage-Conservation-Chapter-December-2013.pdf)
+Source PDF: [Heritage-Conservation-Chapter-December-2013.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/ch-10-00-heritage-conservation/Heritage-Conservation-Chapter-December-2013.pdf)
 
 <!-- sections -->
 ## Sections

@@ -17,7 +17,7 @@ source_pdf: "DCP-03_Part-B-General-Controls_v2022-08-26.pdf"
 
 > This chapter is split into 60 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-03_Part-B-General-Controls_v2022-08-26.pdf](DCP-03_Part-B-General-Controls_v2022-08-26.pdf)
+Source PDF: [DCP-03_Part-B-General-Controls_v2022-08-26.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-b-general-controls/DCP-03_Part-B-General-Controls_v2022-08-26.pdf)
 
 ![Picture on page 1](images/part-b-general-controls-page-1-1.gif)
 

@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Construction.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Construction
 
-Source PDF: [Waste-Management-Guideline-Construction.pdf](Waste-Management-Guideline-Construction.pdf)
+Source PDF: [Waste-Management-Guideline-Construction.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-construction/Waste-Management-Guideline-Construction.pdf)
 
 ### Cessnock LGA
 

@@ -17,7 +17,7 @@ source_pdf: "5.29_Mannering_Park_Residential.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.29_Mannering_Park_Residential.pdf](5.29_Mannering_Park_Residential.pdf)
+Source PDF: [5.29_Mannering_Park_Residential.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-29-mannering-park-residential/5.29_Mannering_Park_Residential.pdf)
 
 Part 5
 

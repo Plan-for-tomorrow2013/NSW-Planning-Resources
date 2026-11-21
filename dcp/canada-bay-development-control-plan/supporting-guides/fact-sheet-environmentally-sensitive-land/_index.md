@@ -15,7 +15,7 @@ source_pdf: "ECM_3736745_v4_Supporting Document Biodiversity Maps - Sheets 001-0
 ---
 # Canada Bay Development Control Plan - Fact Sheet Environmentally Sensitive Land
 
-Source PDF: [ECM_3736745_v4_Supporting Document Biodiversity Maps - Sheets 001-007 - Fact sheet.pdf](ECM_3736745_v4_Supporting%20Document%20Biodiversity%20Maps%20-%20Sheets%20001-007%20-%20Fact%20sheet.pdf)
+Source PDF: [ECM_3736745_v4_Supporting Document Biodiversity Maps - Sheets 001-007 - Fact sheet.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/supporting-guides/fact-sheet-environmentally-sensitive-land/ECM_3736745_v4_Supporting%20Document%20Biodiversity%20Maps%20-%20Sheets%20001-007%20-%20Fact%20sheet.pdf)
 
 ### FACT SHEET
 

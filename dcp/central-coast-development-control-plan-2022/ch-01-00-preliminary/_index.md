@@ -16,7 +16,7 @@ source_pdf: "1.0-Preliminary-19.6.2026.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Chapter 1.0 Preliminary
 
-Source PDF: [1.0-Preliminary-19.6.2026.pdf](1.0-Preliminary-19.6.2026.pdf)
+Source PDF: [1.0-Preliminary-19.6.2026.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-01-00-preliminary/1.0-Preliminary-19.6.2026.pdf)
 
 ### Central Coast
 

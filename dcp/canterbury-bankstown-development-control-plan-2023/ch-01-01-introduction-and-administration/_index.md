@@ -18,7 +18,7 @@ source_pdf: "2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 1.1 - Introduction a
 
 > This chapter is split into 3 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 1.1 - Introduction and Administration.pdf](2026.07.17%20-%20DCP%202023%20-%20AMENDMENT%2015%20-%20Chapter%201.1%20-%20Introduction%20and%20Administration.pdf)
+Source PDF: [2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 1.1 - Introduction and Administration.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-01-01-introduction-and-administration/2026.07.17%20-%20DCP%202023%20-%20AMENDMENT%2015%20-%20Chapter%201.1%20-%20Introduction%20and%20Administration.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

@@ -17,7 +17,7 @@ source_pdf: "F4-West-and-Wyndham-Street-Greta.pdf"
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [F4-West-and-Wyndham-Street-Greta.pdf](F4-West-and-Wyndham-Street-Greta.pdf)
+Source PDF: [F4-West-and-Wyndham-Street-Greta.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-f4-west-wyndham-street-greta/F4-West-and-Wyndham-Street-Greta.pdf)
 
 ### F.4 – West & Wyndham Streets Greta
 

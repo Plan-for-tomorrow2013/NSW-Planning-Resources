@@ -17,7 +17,7 @@ source_pdf: "dcp-june-2023-tree-replacement-planting-tree-species-list.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Ku-ring-gai Council Tree Replacement Planting List
 
-Source PDF: [dcp-june-2023-tree-replacement-planting-tree-species-list.pdf](dcp-june-2023-tree-replacement-planting-tree-species-list.pdf)
+Source PDF: [dcp-june-2023-tree-replacement-planting-tree-species-list.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/supporting-guides/ku-ring-gai-council-tree-replacement-planting-list/dcp-june-2023-tree-replacement-planting-tree-species-list.pdf)
 
 ### Ku-ring-gai Council Tree Replacement Planting List
 

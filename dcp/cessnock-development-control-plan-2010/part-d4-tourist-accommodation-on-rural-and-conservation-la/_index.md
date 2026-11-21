@@ -15,7 +15,7 @@ source_pdf: "D4 - Tourist Accomodation on Rural and Conservation Lands.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part D4 Tourist Accommodation on Rural and Conservation Lands
 
-Source PDF: [D4 - Tourist Accomodation on Rural and Conservation Lands.pdf](D4%20-%20Tourist%20Accomodation%20on%20Rural%20and%20Conservation%20Lands.pdf)
+Source PDF: [D4 - Tourist Accomodation on Rural and Conservation Lands.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d4-tourist-accommodation-on-rural-and-conservation-la/D4%20-%20Tourist%20Accomodation%20on%20Rural%20and%20Conservation%20Lands.pdf)
 
 DEVELOPMENT SPECIFIC PROVISIONS ................................................................................... 1
 

@@ -19,7 +19,7 @@ checked_by_tania: 2026-11-01
 
 > This chapter is split into 39 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 6.2 - Bankstown City Centre.pdf](2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Chapter%206.2%20-%20Bankstown%20City%20Centre.pdf)
+Source PDF: [2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 6.2 - Bankstown City Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-06-02-bankstown-city-centre/2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Chapter%206.2%20-%20Bankstown%20City%20Centre.pdf)
 
 ![Picture on page 1](images/ch-06-02-bankstown-city-centre-page-1-1.gif)
 

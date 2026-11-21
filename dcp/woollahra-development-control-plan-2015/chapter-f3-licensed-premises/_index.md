@@ -18,7 +18,7 @@ source_pdf: "chapter-f3-licensed-premises.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-f3-licensed-premises.pdf](chapter-f3-licensed-premises.pdf)
+Source PDF: [chapter-f3-licensed-premises.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-f3-licensed-premises/chapter-f3-licensed-premises.pdf)
 
 ![Picture on page 1](images/chapter-f3-licensed-premises-page-1-1.gif)
 

@@ -17,7 +17,7 @@ source_pdf: "DCP_PARTC.pdf"
 
 > This chapter is split into 44 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP_PARTC.pdf](DCP_PARTC.pdf)
+Source PDF: [DCP_PARTC.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/part-c-general-guidelines/DCP_PARTC.pdf)
 
 ### PART C GENERAL GUIDELINES
 

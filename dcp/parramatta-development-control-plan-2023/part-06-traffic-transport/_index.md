@@ -16,7 +16,7 @@ source_pdf: "dcp-part-6-traffic-and-transport.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-6-traffic-and-transport.pdf](dcp-part-6-traffic-and-transport.pdf)
+Source PDF: [dcp-part-6-traffic-and-transport.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-06-traffic-transport/dcp-part-6-traffic-and-transport.pdf)
 
 ![Picture on page 1](images/part-06-traffic-transport-page-1-1.gif)
 

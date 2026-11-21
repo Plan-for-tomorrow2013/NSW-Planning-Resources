@@ -14,7 +14,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Section 7 (Repealed).pdf"
 ---
 # Burwood Development Control Plan - Section 7 (Repealed)
 
-Source PDF: [Burwood-development-control-plan-DCP - Section 7 (Repealed).pdf](Burwood-development-control-plan-DCP%20-%20Section%207%20%28Repealed%29.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Section 7 (Repealed).pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/section-07-repealed/Burwood-development-control-plan-DCP%20-%20Section%207%20%28Repealed%29.pdf)
 
 7 (Repealed)
 

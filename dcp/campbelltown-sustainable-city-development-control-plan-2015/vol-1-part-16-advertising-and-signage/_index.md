@@ -18,7 +18,7 @@ source_pdf: "part-16-advertising-and-signage-amendment-21-sept2024.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part-16-advertising-and-signage-amendment-21-sept2024.pdf](part-16-advertising-and-signage-amendment-21-sept2024.pdf)
+Source PDF: [part-16-advertising-and-signage-amendment-21-sept2024.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-1-part-16-advertising-and-signage/part-16-advertising-and-signage-amendment-21-sept2024.pdf)
 
 <!-- sections -->
 ## Sections

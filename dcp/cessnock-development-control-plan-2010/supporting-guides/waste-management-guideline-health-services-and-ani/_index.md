@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Health-Services-and-Animal-Management-Fa
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Health Services and Animal Management Facilities
 
-Source PDF: [Waste-Management-Guideline-Health-Services-and-Animal-Management-Facilities.pdf](Waste-Management-Guideline-Health-Services-and-Animal-Management-Facilities.pdf)
+Source PDF: [Waste-Management-Guideline-Health-Services-and-Animal-Management-Facilities.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-health-services-and-ani/Waste-Management-Guideline-Health-Services-and-Animal-Management-Facilities.pdf)
 
 ### Cessnock LGA
 

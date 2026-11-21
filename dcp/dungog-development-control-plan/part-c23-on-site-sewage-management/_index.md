@@ -17,7 +17,7 @@ source_pdf: "Part-C.23-Onsite-Sewage-Management.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-C.23-Onsite-Sewage-Management.pdf](Part-C.23-Onsite-Sewage-Management.pdf)
+Source PDF: [Part-C.23-Onsite-Sewage-Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c23-on-site-sewage-management/Part-C.23-Onsite-Sewage-Management.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

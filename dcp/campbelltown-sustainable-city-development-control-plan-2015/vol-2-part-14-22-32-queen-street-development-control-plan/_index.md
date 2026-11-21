@@ -18,7 +18,7 @@ source_pdf: "scdcpvolume2part14_2232queenstreetdcp.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [scdcpvolume2part14_2232queenstreetdcp.pdf](scdcpvolume2part14_2232queenstreetdcp.pdf)
+Source PDF: [scdcpvolume2part14_2232queenstreetdcp.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-14-22-32-queen-street-development-control-plan/scdcpvolume2part14_2232queenstreetdcp.pdf)
 
 This version of Volume 2, Part 14 was adopted by
 

@@ -16,7 +16,7 @@ source_pdf: "DA Guidelines Resource and Waste Management Planning.PDF.pdf"
 ---
 # Central Coast Development Control Plan 2022 - DA Guidelines: Resource and Waste Management Planning
 
-Source PDF: [DA Guidelines Resource and Waste Management Planning.PDF.pdf](DA%20Guidelines%20Resource%20and%20Waste%20Management%20Planning.PDF.pdf)
+Source PDF: [DA Guidelines Resource and Waste Management Planning.PDF.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/supporting-guides/da-guidelines-resource-and-waste-management-planni/DA%20Guidelines%20Resource%20and%20Waste%20Management%20Planning.PDF.pdf)
 
 ### DA Guidelines
 

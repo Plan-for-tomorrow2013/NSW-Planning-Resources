@@ -17,7 +17,7 @@ source_pdf: "5.47_Northern_Conservation_Areas.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.47_Northern_Conservation_Areas.pdf](5.47_Northern_Conservation_Areas.pdf)
+Source PDF: [5.47_Northern_Conservation_Areas.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-47-northern-conservation-areas/5.47_Northern_Conservation_Areas.pdf)
 
 ### CHAPTER 5.47 NORTHERN CONSERVATION
 

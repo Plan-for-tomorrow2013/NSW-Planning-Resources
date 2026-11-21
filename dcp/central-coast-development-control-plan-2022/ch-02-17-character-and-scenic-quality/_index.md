@@ -15,7 +15,7 @@ source_pdf: "2.17_Character_and_Scenic_Quality.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Chapter 2.17 Character and Scenic Quality
 
-Source PDF: [2.17_Character_and_Scenic_Quality.pdf](2.17_Character_and_Scenic_Quality.pdf)
+Source PDF: [2.17_Character_and_Scenic_Quality.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-02-17-character-and-scenic-quality/2.17_Character_and_Scenic_Quality.pdf)
 
 Part 2
 

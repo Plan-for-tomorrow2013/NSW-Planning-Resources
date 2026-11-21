@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Appendix F CPTED Guidelines.pdf"
 
 > This chapter is split into 10 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Appendix F CPTED Guidelines.pdf](MDCP%202026%20-%20Appendix%20F%20CPTED%20Guidelines.pdf)
+Source PDF: [MDCP 2026 - Appendix F CPTED Guidelines.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/appendix-f-cpted-guidelines/MDCP%202026%20-%20Appendix%20F%20CPTED%20Guidelines.pdf)
 
 ![Picture on page 1](images/appendix-f-cpted-guidelines-page-1-1.gif)
 

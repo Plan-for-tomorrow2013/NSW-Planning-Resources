@@ -16,7 +16,7 @@ source_pdf: "dcp-part-5-environmental-management.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-5-environmental-management.pdf](dcp-part-5-environmental-management.pdf)
+Source PDF: [dcp-part-5-environmental-management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-05-environmental-management/dcp-part-5-environmental-management.pdf)
 
 ## PART 5 ENVIRONMENTAL
 

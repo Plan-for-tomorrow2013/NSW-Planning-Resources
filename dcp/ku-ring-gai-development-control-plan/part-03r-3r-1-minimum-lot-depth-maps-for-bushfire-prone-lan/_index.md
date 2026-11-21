@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-a-part-3r-minimum-lot-depth-maps-for-bushfire-prone-la
 
 > This chapter is split into 45 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-a-part-3r-minimum-lot-depth-maps-for-bushfire-prone-land.pdf](kdcp-section-a-part-3r-minimum-lot-depth-maps-for-bushfire-prone-land.pdf)
+Source PDF: [kdcp-section-a-part-3r-minimum-lot-depth-maps-for-bushfire-prone-land.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-03r-3r-1-minimum-lot-depth-maps-for-bushfire-prone-lan/kdcp-section-a-part-3r-minimum-lot-depth-maps-for-bushfire-prone-land.pdf)
 
 ### 3R.1
 

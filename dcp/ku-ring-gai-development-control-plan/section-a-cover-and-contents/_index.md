@@ -16,7 +16,7 @@ source_pdf: "cover-and-contents-section-a.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Section A Cover and Contents - Section A
 
-Source PDF: [cover-and-contents-section-a.pdf](cover-and-contents-section-a.pdf)
+Source PDF: [cover-and-contents-section-a.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/section-a-cover-and-contents/cover-and-contents-section-a.pdf)
 
 ![Picture on page 1](images/section-a-cover-and-contents-page-1-1.gif)
 

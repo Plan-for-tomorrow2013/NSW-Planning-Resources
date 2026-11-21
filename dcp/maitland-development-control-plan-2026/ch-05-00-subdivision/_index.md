@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Chapter 5 Subdivision.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Chapter 5 Subdivision.pdf](MDCP%202026%20-%20Chapter%205%20Subdivision.pdf)
+Source PDF: [MDCP 2026 - Chapter 5 Subdivision.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/ch-05-00-subdivision/MDCP%202026%20-%20Chapter%205%20Subdivision.pdf)
 
 ![Picture on page 1](images/ch-05-00-subdivision-page-1-1.gif)
 

@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Subdivision.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Subdivision
 
-Source PDF: [Waste-Management-Guideline-Subdivision.pdf](Waste-Management-Guideline-Subdivision.pdf)
+Source PDF: [Waste-Management-Guideline-Subdivision.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-subdivision/Waste-Management-Guideline-Subdivision.pdf)
 
 ### Cessnock LGA
 

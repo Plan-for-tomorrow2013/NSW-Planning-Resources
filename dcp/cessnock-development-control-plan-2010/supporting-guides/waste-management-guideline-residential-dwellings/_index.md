@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Residential-Dwellings.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Residential Dwellings
 
-Source PDF: [Waste-Management-Guideline-Residential-Dwellings.pdf](Waste-Management-Guideline-Residential-Dwellings.pdf)
+Source PDF: [Waste-Management-Guideline-Residential-Dwellings.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-residential-dwellings/Waste-Management-Guideline-Residential-Dwellings.pdf)
 
 ### Cessnock LGA
 

@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-b-part-14k-45-47-tennyson-avenue-and-105-eastern-road-
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-14k-45-47-tennyson-avenue-and-105-eastern-road-turramurra.pdf](kdcp-section-b-part-14k-45-47-tennyson-avenue-and-105-eastern-road-turramurra.pdf)
+Source PDF: [kdcp-section-b-part-14k-45-47-tennyson-avenue-and-105-eastern-road-turramurra.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14k-45-47-tennyson-avenue-and-105-eastern-road-turramu/kdcp-section-b-part-14k-45-47-tennyson-avenue-and-105-eastern-road-turramurra.pdf)
 
 ### 14A
 

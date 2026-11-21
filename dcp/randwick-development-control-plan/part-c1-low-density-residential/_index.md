@@ -18,7 +18,7 @@ source_pdf: "C1-Low-Density-Residential-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 55 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C1-Low-Density-Residential-Randwick-DCP-Stage-2_Final.pdf](C1-Low-Density-Residential-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [C1-Low-Density-Residential-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-c1-low-density-residential/C1-Low-Density-Residential-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

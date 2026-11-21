@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-c-part-21-general-site-design.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-c-part-21-general-site-design.pdf](kdcp-section-c-part-21-general-site-design.pdf)
+Source PDF: [kdcp-section-c-part-21-general-site-design.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-21-general-site-design/kdcp-section-c-part-21-general-site-design.pdf)
 
 ### GENERAL SITE DESIGN
 

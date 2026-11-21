@@ -19,7 +19,7 @@ source_pdf: "MDCP 2026 - Glossary.pdf"
 
 > This chapter is split into 4 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Glossary.pdf](MDCP%202026%20-%20Glossary.pdf)
+Source PDF: [MDCP 2026 - Glossary.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/glossary/MDCP%202026%20-%20Glossary.pdf)
 
 ![Picture on page 1](images/glossary-page-1-1.gif)
 

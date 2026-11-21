@@ -15,7 +15,7 @@ source_pdf: "E18 - Black Hill Employment Area.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part E18 Black Hill Employment Area
 
-Source PDF: [E18 - Black Hill Employment Area.pdf](E18%20-%20Black%20Hill%20Employment%20Area.pdf)
+Source PDF: [E18 - Black Hill Employment Area.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e18-black-hill-employment-area/E18%20-%20Black%20Hill%20Employment%20Area.pdf)
 
 ### CESSNOCK
 

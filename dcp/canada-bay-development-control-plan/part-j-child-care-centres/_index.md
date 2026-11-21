@@ -17,7 +17,7 @@ source_pdf: "DCP-11_Part-J-Child-Care-Centres_v2022-05-16.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-11_Part-J-Child-Care-Centres_v2022-05-16.pdf](DCP-11_Part-J-Child-Care-Centres_v2022-05-16.pdf)
+Source PDF: [DCP-11_Part-J-Child-Care-Centres_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-j-child-care-centres/DCP-11_Part-J-Child-Care-Centres_v2022-05-16.pdf)
 
 ![Picture on page 1](images/part-j-child-care-centres-page-1-1.gif)
 

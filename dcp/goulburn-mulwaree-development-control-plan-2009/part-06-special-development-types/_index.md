@@ -18,7 +18,7 @@ source_pdf: "Part-6-Special-Development-Types.pdf"
 
 > This chapter is split into 13 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Part-6-Special-Development-Types.pdf](Part-6-Special-Development-Types.pdf)
+Source PDF: [Part-6-Special-Development-Types.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-06-special-development-types/Part-6-Special-Development-Types.pdf)
 
 ## 6 Special development types
 

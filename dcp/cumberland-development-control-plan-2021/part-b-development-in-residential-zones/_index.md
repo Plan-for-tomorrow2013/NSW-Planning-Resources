@@ -17,7 +17,7 @@ source_pdf: "Cumberland DCP Part B.pdf"
 
 > This chapter is split into 5 section file(s), one per sub-part heading, in the order they appear in the PDF.
 
-Source PDF: [Cumberland DCP Part B.pdf](Cumberland%20DCP%20Part%20B.pdf)
+Source PDF: [Cumberland DCP Part B.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/part-b-development-in-residential-zones/Cumberland%20DCP%20Part%20B.pdf)
 
 ![Picture on page 1](images/part-b-development-in-residential-zones-page-1-1.gif)
 

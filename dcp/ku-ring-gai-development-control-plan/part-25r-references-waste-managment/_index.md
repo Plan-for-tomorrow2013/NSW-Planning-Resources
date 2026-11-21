@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-c-part-25r-waste-management-references.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-c-part-25r-waste-management-references.pdf](kdcp-section-c-part-25r-waste-management-references.pdf)
+Source PDF: [kdcp-section-c-part-25r-waste-management-references.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-25r-references-waste-managment/kdcp-section-c-part-25r-waste-management-references.pdf)
 
 ### PART
 

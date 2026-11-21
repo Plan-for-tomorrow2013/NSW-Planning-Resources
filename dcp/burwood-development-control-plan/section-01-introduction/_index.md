@@ -17,7 +17,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Section 1 Introduction.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Burwood-development-control-plan-DCP - Section 1 Introduction.pdf](Burwood-development-control-plan-DCP%20-%20Section%201%20Introduction.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Section 1 Introduction.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/section-01-introduction/Burwood-development-control-plan-DCP%20-%20Section%201%20Introduction.pdf)
 
 Chapter 1 Introduction
 

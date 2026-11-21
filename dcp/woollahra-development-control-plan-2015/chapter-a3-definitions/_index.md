@@ -17,7 +17,7 @@ source_pdf: "chapter-a3-definitions-23may2025.pdf"
 ---
 # Woollahra Development Control Plan 2015 - Chapter A3 Definitions
 
-Source PDF: [chapter-a3-definitions-23may2025.pdf](chapter-a3-definitions-23may2025.pdf)
+Source PDF: [chapter-a3-definitions-23may2025.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-a3-definitions/chapter-a3-definitions-23may2025.pdf)
 
 ![Picture on page 1](images/chapter-a3-definitions-page-1-1.gif)
 

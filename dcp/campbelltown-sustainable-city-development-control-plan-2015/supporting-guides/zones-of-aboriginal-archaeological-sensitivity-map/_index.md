@@ -18,7 +18,7 @@ checked_by_tania: 2026-11-01
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [zonesofaboriginalarchaeologicalsensitivitymap.pdf](zonesofaboriginalarchaeologicalsensitivitymap.pdf)
+Source PDF: [zonesofaboriginalarchaeologicalsensitivitymap.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/supporting-guides/zones-of-aboriginal-archaeological-sensitivity-map/zonesofaboriginalarchaeologicalsensitivitymap.pdf)
 
 ![Page 1 as printed (scanned page)](images/zones-of-aboriginal-archaeological-sensitivity-map-page-1.gif)
 

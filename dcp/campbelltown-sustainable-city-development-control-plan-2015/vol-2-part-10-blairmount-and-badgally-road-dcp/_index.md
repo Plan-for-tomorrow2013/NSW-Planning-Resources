@@ -18,7 +18,7 @@ source_pdf: "volume-2-part-10blairmountandbadgallyroaddcp.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [volume-2-part-10blairmountandbadgallyroaddcp.pdf](volume-2-part-10blairmountandbadgallyroaddcp.pdf)
+Source PDF: [volume-2-part-10blairmountandbadgallyroaddcp.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-10-blairmount-and-badgally-road-dcp/volume-2-part-10blairmountandbadgallyroaddcp.pdf)
 
 ![Picture on page 1](images/vol-2-part-10-blairmount-and-badgally-road-dcp-page-1-1.gif)
 

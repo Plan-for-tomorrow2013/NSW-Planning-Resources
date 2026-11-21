@@ -17,7 +17,7 @@ source_pdf: "5.10-pearl-beach-residential-development.pdf"
 
 > This chapter is split into 21 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.10-pearl-beach-residential-development.pdf](5.10-pearl-beach-residential-development.pdf)
+Source PDF: [5.10-pearl-beach-residential-development.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-10-pearl-beach-residential-development/5.10-pearl-beach-residential-development.pdf)
 
 ### CHAPTER 5.10 PEARL BEACH RESIDENTIAL
 

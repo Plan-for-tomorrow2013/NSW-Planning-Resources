@@ -18,7 +18,7 @@ source_pdf: "chapter_e8_adaptable_housing.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_e8_adaptable_housing.pdf](chapter_e8_adaptable_housing.pdf)
+Source PDF: [chapter_e8_adaptable_housing.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-e8-adaptable-housing/chapter_e8_adaptable_housing.pdf)
 
 ![Picture on page 1](images/chapter-e8-adaptable-housing-page-1-1.gif)
 

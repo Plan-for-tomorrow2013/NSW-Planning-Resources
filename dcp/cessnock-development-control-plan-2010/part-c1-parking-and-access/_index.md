@@ -18,7 +18,7 @@ source_pdf: "C1 - Parking and Access.pdf"
 
 > This chapter is split into 7 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [C1 - Parking and Access.pdf](C1%20-%20Parking%20and%20Access.pdf)
+Source PDF: [C1 - Parking and Access.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c1-parking-and-access/C1%20-%20Parking%20and%20Access.pdf)
 
 ### C1: Parking and Access
 

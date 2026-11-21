@@ -15,7 +15,7 @@ source_pdf: "kdcp-section-a-part-7.1-residential-flat-building-two-storey.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Part 7.1 Residential Flat Buildings (two Storey)
 
-Source PDF: [kdcp-section-a-part-7.1-residential-flat-building-two-storey.pdf](kdcp-section-a-part-7.1-residential-flat-building-two-storey.pdf)
+Source PDF: [kdcp-section-a-part-7.1-residential-flat-building-two-storey.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-07-1-residential-flat-buildings-two-storey/kdcp-section-a-part-7.1-residential-flat-building-two-storey.pdf)
 
 ![Picture on page 1](images/part-07-1-residential-flat-buildings-two-storey-page-1-1.gif)
 

@@ -17,7 +17,7 @@ source_pdf: "2.4_subdivision.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2.4_subdivision.pdf](2.4_subdivision.pdf)
+Source PDF: [2.4_subdivision.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-02-04-subdivision/2.4_subdivision.pdf)
 
 <!-- sections -->
 ## Sections

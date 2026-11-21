@@ -17,7 +17,7 @@ source_pdf: "E15 - Nulkaba.pdf"
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E15 - Nulkaba.pdf](E15%20-%20Nulkaba.pdf)
+Source PDF: [E15 - Nulkaba.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e15-nulkaba-urban-release-areas-bc10/E15%20-%20Nulkaba.pdf)
 
 ### CESSNOCK
 

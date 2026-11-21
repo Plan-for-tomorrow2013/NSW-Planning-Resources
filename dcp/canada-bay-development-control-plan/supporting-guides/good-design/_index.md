@@ -15,7 +15,7 @@ source_pdf: "Good Design Fact Sheet.pdf"
 ---
 # Canada Bay Development Control Plan - Good design
 
-Source PDF: [Good Design Fact Sheet.pdf](Good%20Design%20Fact%20Sheet.pdf)
+Source PDF: [Good Design Fact Sheet.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/supporting-guides/good-design/Good%20Design%20Fact%20Sheet.pdf)
 
 ### Good design
 

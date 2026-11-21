@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-a-part-4-dwelling-houses.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-a-part-4-dwelling-houses.pdf](kdcp-section-a-part-4-dwelling-houses.pdf)
+Source PDF: [kdcp-section-a-part-4-dwelling-houses.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-04-dwelling-houses/kdcp-section-a-part-4-dwelling-houses.pdf)
 
 ### PART
 

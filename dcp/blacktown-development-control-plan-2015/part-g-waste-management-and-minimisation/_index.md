@@ -16,7 +16,7 @@ source_pdf: "Part-G-Site-Waste-Management-and-Minimisation.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-G-Site-Waste-Management-and-Minimisation.pdf](Part-G-Site-Waste-Management-and-Minimisation.pdf)
+Source PDF: [Part-G-Site-Waste-Management-and-Minimisation.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-g-waste-management-and-minimisation/Part-G-Site-Waste-Management-and-Minimisation.pdf)
 
 ![Picture on page 1](images/part-g-waste-management-and-minimisation-page-1-1.gif)
 

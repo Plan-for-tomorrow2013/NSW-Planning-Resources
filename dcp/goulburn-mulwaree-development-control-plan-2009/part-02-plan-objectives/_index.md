@@ -18,7 +18,7 @@ source_pdf: "Part-2-Plan-Objectives.pdf"
 
 > This chapter is split into 5 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Part-2-Plan-Objectives.pdf](Part-2-Plan-Objectives.pdf)
+Source PDF: [Part-2-Plan-Objectives.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-02-plan-objectives/Part-2-Plan-Objectives.pdf)
 
 ## 2 Plan objectives
 

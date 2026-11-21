@@ -18,7 +18,7 @@ source_pdf: "cumberland-dcp-part-a-adopted-050423.pdf"
 
 > This chapter is split into 3 section file(s), one per sub-part heading, in the order they appear in the PDF.
 
-Source PDF: [cumberland-dcp-part-a-adopted-050423.pdf](cumberland-dcp-part-a-adopted-050423.pdf)
+Source PDF: [cumberland-dcp-part-a-adopted-050423.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/part-a-introduction-and-general-controls/cumberland-dcp-part-a-adopted-050423.pdf)
 
 ![Picture on page 1](images/part-a-introduction-and-general-controls-page-1-1.gif)
 

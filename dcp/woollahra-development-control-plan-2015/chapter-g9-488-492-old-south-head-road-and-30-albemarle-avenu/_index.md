@@ -18,7 +18,7 @@ source_pdf: "chapter-g9-488-492-old-south-head-road-30-albemarle-avenue.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-g9-488-492-old-south-head-road-30-albemarle-avenue.pdf](chapter-g9-488-492-old-south-head-road-30-albemarle-avenue.pdf)
+Source PDF: [chapter-g9-488-492-old-south-head-road-30-albemarle-avenue.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g9-488-492-old-south-head-road-and-30-albemarle-avenu/chapter-g9-488-492-old-south-head-road-30-albemarle-avenue.pdf)
 
 ![Picture on page 1](images/chapter-g9-488-492-old-south-head-road-and-30-albemarle-aven-page-1-1.gif)
 

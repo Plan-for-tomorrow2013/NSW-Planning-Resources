@@ -15,7 +15,7 @@ source_pdf: "ATTACH-5-Part-C.5-Bushfire_1.pdf"
 ---
 # Dungog Development Control Plan - Part C5 Bushfire
 
-Source PDF: [ATTACH-5-Part-C.5-Bushfire_1.pdf](ATTACH-5-Part-C.5-Bushfire_1.pdf)
+Source PDF: [ATTACH-5-Part-C.5-Bushfire_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c5-bushfire/ATTACH-5-Part-C.5-Bushfire_1.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

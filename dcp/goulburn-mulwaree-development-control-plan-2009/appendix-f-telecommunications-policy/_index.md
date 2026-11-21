@@ -16,7 +16,7 @@ source_pdf: "Appendix-F-Telecommunications-Policy.pdf"
 ---
 # Goulburn Mulwaree Development Control Plan 2009 - Appendix F Telecommunications policy
 
-Source PDF: [Appendix-F-Telecommunications-Policy.pdf](Appendix-F-Telecommunications-Policy.pdf)
+Source PDF: [Appendix-F-Telecommunications-Policy.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/appendix-f-telecommunications-policy/Appendix-F-Telecommunications-Policy.pdf)
 
 Goulburn Mulwaree
 

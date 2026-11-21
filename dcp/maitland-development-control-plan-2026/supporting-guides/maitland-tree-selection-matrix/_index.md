@@ -16,7 +16,7 @@ source_pdf: "Maitland Tree Selection Matrix.pdf"
 ---
 # Maitland Development Control Plan 2026 - Maitland Tree Selection Matrix
 
-Source PDF: [Maitland Tree Selection Matrix.pdf](Maitland%20Tree%20Selection%20Matrix.pdf)
+Source PDF: [Maitland Tree Selection Matrix.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/supporting-guides/maitland-tree-selection-matrix/Maitland%20Tree%20Selection%20Matrix.pdf)
 
 | Scientific Name Common Name Family Location Type Powerlines Height Width Minimum Soil Volume (m3) Target Soil Volume (m3) |  |  |  |  |  |  |  |  | Predicted Canopy Area (m2) Origin Restrictions |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|

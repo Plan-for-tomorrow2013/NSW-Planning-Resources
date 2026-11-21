@@ -18,7 +18,7 @@ source_pdf: "2026.04.24 - DCP 2023 - AMENDMENT 14 - Chapter 7.3 - City East.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2026.04.24 - DCP 2023 - AMENDMENT 14 - Chapter 7.3 - City East.pdf](2026.04.24%20-%20DCP%202023%20-%20AMENDMENT%2014%20-%20Chapter%207.3%20-%20City%20East.pdf)
+Source PDF: [2026.04.24 - DCP 2023 - AMENDMENT 14 - Chapter 7.3 - City East.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-07-03-city-east-belfield-canterbury/2026.04.24%20-%20DCP%202023%20-%20AMENDMENT%2014%20-%20Chapter%207.3%20-%20City%20East.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

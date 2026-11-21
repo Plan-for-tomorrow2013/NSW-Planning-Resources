@@ -18,7 +18,7 @@ checked_by_tania: 2026-10-31
 
 > This chapter is split into 30 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-19-heritage-items-and-heritage-conservation-areas.pdf](kdcp-section-b-part-19-heritage-items-and-heritage-conservation-areas.pdf)
+Source PDF: [kdcp-section-b-part-19-heritage-items-and-heritage-conservation-areas.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-19-heritage-items-heritage-conservation-areas/kdcp-section-b-part-19-heritage-items-and-heritage-conservation-areas.pdf)
 
 ### PART
 

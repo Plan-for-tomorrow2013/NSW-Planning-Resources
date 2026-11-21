@@ -17,7 +17,7 @@ source_pdf: "5.9_Wadalba_South_-_Urban_Release_Area_.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.9_Wadalba_South_-_Urban_Release_Area_.pdf](5.9_Wadalba_South_-_Urban_Release_Area_.pdf)
+Source PDF: [5.9_Wadalba_South_-_Urban_Release_Area_.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-09-wadalba-south-urban-release-area/5.9_Wadalba_South_-_Urban_Release_Area_.pdf)
 
 ### CHAPTER 5.9 WADALBA SOUTH URBAN RELEASE AREA
 

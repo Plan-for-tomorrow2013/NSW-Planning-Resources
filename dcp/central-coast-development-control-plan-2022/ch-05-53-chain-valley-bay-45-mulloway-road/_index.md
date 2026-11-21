@@ -17,7 +17,7 @@ source_pdf: "5.53_Chain_Valley_Bay_-_45_Mulloway_Road.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.53_Chain_Valley_Bay_-_45_Mulloway_Road.pdf](5.53_Chain_Valley_Bay_-_45_Mulloway_Road.pdf)
+Source PDF: [5.53_Chain_Valley_Bay_-_45_Mulloway_Road.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-53-chain-valley-bay-45-mulloway-road/5.53_Chain_Valley_Bay_-_45_Mulloway_Road.pdf)
 
 ### CHAPTER 5.53 CHAIN VALLEY BAY – 45 MULLOWAY ROAD
 

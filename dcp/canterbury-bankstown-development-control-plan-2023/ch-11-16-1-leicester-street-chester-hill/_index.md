@@ -18,7 +18,7 @@ checked_by_tania: 2026-11-01
 
 > This chapter is split into 18 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 11.16 - Leicester Street.pdf](2026.07.17%20-%20DCP%202023%20-%20AMENDMENT%2015%20-%20Chapter%2011.16%20-%20Leicester%20Street.pdf)
+Source PDF: [2026.07.17 - DCP 2023 - AMENDMENT 15 - Chapter 11.16 - Leicester Street.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-11-16-1-leicester-street-chester-hill/2026.07.17%20-%20DCP%202023%20-%20AMENDMENT%2015%20-%20Chapter%2011.16%20-%20Leicester%20Street.pdf)
 
 ![Page 1 as printed (scanned page)](images/ch-11-16-1-leicester-street-chester-hill-page-1.gif)
 

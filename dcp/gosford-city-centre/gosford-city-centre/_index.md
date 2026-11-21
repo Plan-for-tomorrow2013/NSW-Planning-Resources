@@ -21,7 +21,7 @@ source_pdf: "Gosford+City+Centre+DCP+2018.pdf"
 
 > This chapter is split into 65 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Gosford+City+Centre+DCP+2018.pdf](Gosford%2BCity%2BCentre%2BDCP%2B2018.pdf)
+Source PDF: [Gosford+City+Centre+DCP+2018.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/gosford-city-centre/gosford-city-centre/Gosford%2BCity%2BCentre%2BDCP%2B2018.pdf)
 
 ### 2018
 

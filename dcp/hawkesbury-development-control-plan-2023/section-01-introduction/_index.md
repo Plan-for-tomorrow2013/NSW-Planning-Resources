@@ -18,7 +18,7 @@ source_pdf: "Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 1 INTRODUCTION.
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 1 INTRODUCTION.pdf](Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%201%20INTRODUCTION.pdf)
+Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 1 INTRODUCTION.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2023/section-01-introduction/Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%201%20INTRODUCTION.pdf)
 
 ## CHAPTER 1:
 

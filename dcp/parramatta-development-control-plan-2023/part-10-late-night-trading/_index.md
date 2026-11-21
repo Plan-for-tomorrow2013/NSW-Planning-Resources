@@ -16,7 +16,7 @@ source_pdf: "dcp-part-10-late-night-trading.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-10-late-night-trading.pdf](dcp-part-10-late-night-trading.pdf)
+Source PDF: [dcp-part-10-late-night-trading.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-10-late-night-trading/dcp-part-10-late-night-trading.pdf)
 
 ## PART 10 LATE NIGHT
 

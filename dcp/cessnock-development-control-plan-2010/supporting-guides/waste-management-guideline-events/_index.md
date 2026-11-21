@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Events.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Events
 
-Source PDF: [Waste-Management-Guideline-Events.pdf](Waste-Management-Guideline-Events.pdf)
+Source PDF: [Waste-Management-Guideline-Events.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-events/Waste-Management-Guideline-Events.pdf)
 
 ### Cessnock LGA
 

@@ -17,7 +17,7 @@ source_pdf: "5.32_Ourimbah_Commercial_Area.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.32_Ourimbah_Commercial_Area.pdf](5.32_Ourimbah_Commercial_Area.pdf)
+Source PDF: [5.32_Ourimbah_Commercial_Area.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-32-ourimbah-commercial-area/5.32_Ourimbah_Commercial_Area.pdf)
 
 Part 5
 

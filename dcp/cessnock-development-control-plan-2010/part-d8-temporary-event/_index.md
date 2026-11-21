@@ -16,7 +16,7 @@ source_pdf: "D8 - Temporary Event.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D8 - Temporary Event.pdf](D8%20-%20Temporary%20Event.pdf)
+Source PDF: [D8 - Temporary Event.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d8-temporary-event/D8%20-%20Temporary%20Event.pdf)
 
 #### D.8: TEMPORARY EVENTS
 

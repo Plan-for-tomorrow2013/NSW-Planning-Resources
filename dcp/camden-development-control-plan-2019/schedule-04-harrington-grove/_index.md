@@ -16,7 +16,7 @@ source_pdf: "Schedule-4-Harrington-Grove.pdf"
 
 > This chapter is split into 30 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Schedule-4-Harrington-Grove.pdf](Schedule-4-Harrington-Grove.pdf)
+Source PDF: [Schedule-4-Harrington-Grove.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-04-harrington-grove/Schedule-4-Harrington-Grove.pdf)
 
 
 ### Contents

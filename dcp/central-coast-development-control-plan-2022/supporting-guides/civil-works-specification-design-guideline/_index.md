@@ -18,7 +18,7 @@ source_pdf: "civil-works-specification-design-guideline-2026.pdf"
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [civil-works-specification-design-guideline-2026.pdf](civil-works-specification-design-guideline-2026.pdf)
+Source PDF: [civil-works-specification-design-guideline-2026.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/supporting-guides/civil-works-specification-design-guideline/civil-works-specification-design-guideline-2026.pdf)
 
 ### Civil Works Specification
 

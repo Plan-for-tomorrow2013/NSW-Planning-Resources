@@ -16,7 +16,7 @@ source_pdf: "Part-N-Ashlar-Precinct.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-N-Ashlar-Precinct.pdf](Part-N-Ashlar-Precinct.pdf)
+Source PDF: [Part-N-Ashlar-Precinct.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-n-ashlar-precinct/Part-N-Ashlar-Precinct.pdf)
 
 ![Picture on page 1](images/part-n-ashlar-precinct-page-1-1.gif)
 

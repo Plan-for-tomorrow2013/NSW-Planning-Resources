@@ -18,7 +18,7 @@ source_pdf: "E12-Lingard-Hospital-Precinct.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E12-Lingard-Hospital-Precinct.pdf](E12-Lingard-Hospital-Precinct.pdf)
+Source PDF: [E12-Lingard-Hospital-Precinct.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e12-lingard-hospital-precinct/E12-Lingard-Hospital-Precinct.pdf)
 
 ### PART E: Place and Precincts
 

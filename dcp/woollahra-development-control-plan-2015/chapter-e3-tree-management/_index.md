@@ -18,7 +18,7 @@ source_pdf: "chapter-e3-tree-management.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-e3-tree-management.pdf](chapter-e3-tree-management.pdf)
+Source PDF: [chapter-e3-tree-management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-e3-tree-management/chapter-e3-tree-management.pdf)
 
 ![Picture on page 1](images/chapter-e3-tree-management-page-1-1.gif)
 

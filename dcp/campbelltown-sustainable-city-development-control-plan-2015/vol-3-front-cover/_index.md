@@ -15,7 +15,7 @@ source_pdf: "covervolume3.pdf"
 ---
 # Campbelltown Sustainable City Development Control Plan 2015 - Front Cover
 
-Source PDF: [covervolume3.pdf](covervolume3.pdf)
+Source PDF: [covervolume3.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-3-front-cover/covervolume3.pdf)
 
 ### Campbelltown (Sustainable City) Development Control Plan 2015
 

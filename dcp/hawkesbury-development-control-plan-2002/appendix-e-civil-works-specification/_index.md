@@ -17,7 +17,7 @@ source_pdf: "AppendixE_FrontPage.pdf"
 
 > This chapter is split into 26 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [AppendixE_FrontPage.pdf](AppendixE_FrontPage.pdf)
+Source PDF: [AppendixE_FrontPage.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/appendix-e-civil-works-specification/AppendixE_FrontPage.pdf)
 
 ### HAWKESBURY
 

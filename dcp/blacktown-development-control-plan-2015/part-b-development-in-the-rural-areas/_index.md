@@ -16,7 +16,7 @@ source_pdf: "Part-B-Development-in-the-Rural-Zones.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-B-Development-in-the-Rural-Zones.pdf](Part-B-Development-in-the-Rural-Zones.pdf)
+Source PDF: [Part-B-Development-in-the-Rural-Zones.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-b-development-in-the-rural-areas/Part-B-Development-in-the-Rural-Zones.pdf)
 
 ![Picture on page 1](images/part-b-development-in-the-rural-areas-page-1-1.gif)
 

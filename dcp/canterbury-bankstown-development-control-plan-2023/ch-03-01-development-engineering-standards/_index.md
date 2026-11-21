@@ -18,7 +18,7 @@ source_pdf: "2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 3.1 - Development En
 
 > This chapter is split into 6 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 3.1 - Development Engineering Standards.pdf](2026.03.12%20-%20DCP%202023%20-%20AMENDMENT%2011%20-%20Chapter%203.1%20-%20Development%20Engineering%20Standards.pdf)
+Source PDF: [2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 3.1 - Development Engineering Standards.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-03-01-development-engineering-standards/2026.03.12%20-%20DCP%202023%20-%20AMENDMENT%2011%20-%20Chapter%203.1%20-%20Development%20Engineering%20Standards.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

@@ -17,7 +17,7 @@ source_pdf: "F5-Rosehill-Millfield.pdf"
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [F5-Rosehill-Millfield.pdf](F5-Rosehill-Millfield.pdf)
+Source PDF: [F5-Rosehill-Millfield.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-f5-rosehill-millfield/F5-Rosehill-Millfield.pdf)
 
 ![Picture on page 1](images/part-f5-rosehill-millfield-page-1-1.gif)
 

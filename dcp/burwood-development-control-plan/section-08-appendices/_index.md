@@ -16,7 +16,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Section 8 Appendices.pdf"
 
 > This chapter is split into 16 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Burwood-development-control-plan-DCP - Section 8 Appendices.pdf](Burwood-development-control-plan-DCP%20-%20Section%208%20Appendices.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Section 8 Appendices.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/section-08-appendices/Burwood-development-control-plan-DCP%20-%20Section%208%20Appendices.pdf)
 
 ### 8.1 Waste Management
 

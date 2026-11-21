@@ -17,7 +17,7 @@ source_pdf: "11-touristdevelopment-1.3.12.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [11-touristdevelopment-1.3.12.pdf](11-touristdevelopment-1.3.12.pdf)
+Source PDF: [11-touristdevelopment-1.3.12.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c11-tourist-development/11-touristdevelopment-1.3.12.pdf)
 
 <!-- sections -->
 ## Sections

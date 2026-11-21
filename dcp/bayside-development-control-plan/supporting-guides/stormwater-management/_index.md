@@ -18,7 +18,7 @@ source_pdf: "stormwater_management_technical_specification.pdf"
 
 > This chapter is split into 59 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [stormwater_management_technical_specification.pdf](stormwater_management_technical_specification.pdf)
+Source PDF: [stormwater_management_technical_specification.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/supporting-guides/stormwater-management/stormwater_management_technical_specification.pdf)
 
 ### Bayside
 

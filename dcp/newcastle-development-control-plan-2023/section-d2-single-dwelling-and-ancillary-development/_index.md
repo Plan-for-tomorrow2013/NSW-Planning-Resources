@@ -18,7 +18,7 @@ source_pdf: "DCP-2023-Part-D-Section-D2-Single-dwelling-and-ancillary-developmen
 
 > This chapter is split into 22 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2023-Part-D-Section-D2-Single-dwelling-and-ancillary-development.pdf](DCP-2023-Part-D-Section-D2-Single-dwelling-and-ancillary-development.pdf)
+Source PDF: [DCP-2023-Part-D-Section-D2-Single-dwelling-and-ancillary-development.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-d2-single-dwelling-and-ancillary-development/DCP-2023-Part-D-Section-D2-Single-dwelling-and-ancillary-development.pdf)
 
 ### PART D: Development controls by land use
 

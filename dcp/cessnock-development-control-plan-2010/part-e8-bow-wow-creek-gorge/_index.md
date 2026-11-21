@@ -18,7 +18,7 @@ source_pdf: "E8 - Bow Wow Creek Gorge.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E8 - Bow Wow Creek Gorge.pdf](E8%20-%20Bow%20Wow%20Creek%20Gorge.pdf)
+Source PDF: [E8 - Bow Wow Creek Gorge.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e8-bow-wow-creek-gorge/E8%20-%20Bow%20Wow%20Creek%20Gorge.pdf)
 
 ### CESSNOCK
 

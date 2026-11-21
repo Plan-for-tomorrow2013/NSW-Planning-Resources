@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-b-part-14o-pymble-golf-club.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-14o-pymble-golf-club.pdf](kdcp-section-b-part-14o-pymble-golf-club.pdf)
+Source PDF: [kdcp-section-b-part-14o-pymble-golf-club.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14o-4-12-and-14-cowan-road-st-ives-pymble-golf-club/kdcp-section-b-part-14o-pymble-golf-club.pdf)
 
 #### 4, 12 and 14 Cowan Road, St Ives
 

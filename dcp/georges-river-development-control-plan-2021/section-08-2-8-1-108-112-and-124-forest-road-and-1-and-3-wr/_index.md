@@ -18,7 +18,7 @@ source_pdf: "Amd-6-GRDCP-Part-8-2-Section-8-2-8-1-Bing-Lee-Site.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Amd-6-GRDCP-Part-8-2-Section-8-2-8-1-Bing-Lee-Site.pdf](Amd-6-GRDCP-Part-8-2-Section-8-2-8-1-Bing-Lee-Site.pdf)
+Source PDF: [Amd-6-GRDCP-Part-8-2-Section-8-2-8-1-Bing-Lee-Site.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/georges-river-development-control-plan-2021/section-08-2-8-1-108-112-and-124-forest-road-and-1-and-3-wr/Amd-6-GRDCP-Part-8-2-Section-8-2-8-1-Bing-Lee-Site.pdf)
 
 #### 8.2.8 Controls for specific sites and localities
 

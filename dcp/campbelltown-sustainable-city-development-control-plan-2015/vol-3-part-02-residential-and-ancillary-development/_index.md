@@ -18,7 +18,7 @@ source_pdf: "part2residentialandancillarydevelopment-onurbanlandvolume3.pdf"
 
 > This chapter is split into 29 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part2residentialandancillarydevelopment-onurbanlandvolume3.pdf](part2residentialandancillarydevelopment-onurbanlandvolume3.pdf)
+Source PDF: [part2residentialandancillarydevelopment-onurbanlandvolume3.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-3-part-02-residential-and-ancillary-development/part2residentialandancillarydevelopment-onurbanlandvolume3.pdf)
 
 <!-- sections -->
 ## Sections

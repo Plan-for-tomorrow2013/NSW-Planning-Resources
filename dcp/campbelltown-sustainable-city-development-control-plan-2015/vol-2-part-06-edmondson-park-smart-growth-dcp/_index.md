@@ -18,7 +18,7 @@ source_pdf: "volume-2-part-6-edmondson-park-smart-growth-dcp-with-cover.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [volume-2-part-6-edmondson-park-smart-growth-dcp-with-cover.pdf](volume-2-part-6-edmondson-park-smart-growth-dcp-with-cover.pdf)
+Source PDF: [volume-2-part-6-edmondson-park-smart-growth-dcp-with-cover.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-06-edmondson-park-smart-growth-dcp/volume-2-part-6-edmondson-park-smart-growth-dcp-with-cover.pdf)
 
 ### Campbelltown (Sustainable City) Development Control Plan 2015
 

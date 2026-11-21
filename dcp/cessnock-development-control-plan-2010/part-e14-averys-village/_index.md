@@ -17,7 +17,7 @@ source_pdf: "E14 - Averys Village.pdf"
 
 > This chapter is split into 16 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E14 - Averys Village.pdf](E14%20-%20Averys%20Village.pdf)
+Source PDF: [E14 - Averys Village.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e14-averys-village/E14%20-%20Averys%20Village.pdf)
 
 ### CESSNOCK
 

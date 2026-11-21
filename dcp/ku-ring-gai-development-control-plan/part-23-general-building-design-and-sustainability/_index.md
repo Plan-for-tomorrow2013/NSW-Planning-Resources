@@ -18,7 +18,7 @@ checked_by_tania: 2026-10-31
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-c-part-23-general-building-design-and-sustainability.pdf](kdcp-section-c-part-23-general-building-design-and-sustainability.pdf)
+Source PDF: [kdcp-section-c-part-23-general-building-design-and-sustainability.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-23-general-building-design-and-sustainability/kdcp-section-c-part-23-general-building-design-and-sustainability.pdf)
 
 ### PART
 

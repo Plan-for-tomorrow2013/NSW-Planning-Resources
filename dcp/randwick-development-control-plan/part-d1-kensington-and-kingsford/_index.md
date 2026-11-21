@@ -18,7 +18,7 @@ source_pdf: "D1-Kensington-and-Kingsford-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 32 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D1-Kensington-and-Kingsford-Randwick-DCP-Stage-2_Final.pdf](D1-Kensington-and-Kingsford-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [D1-Kensington-and-Kingsford-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-d1-kensington-and-kingsford/D1-Kensington-and-Kingsford-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

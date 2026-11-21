@@ -18,7 +18,7 @@ source_pdf: "B8-Water-Management-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 18 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [B8-Water-Management-Randwick-DCP-Stage-2_Final.pdf](B8-Water-Management-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [B8-Water-Management-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-b8-water-management/B8-Water-Management-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

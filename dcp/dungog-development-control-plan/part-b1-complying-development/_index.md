@@ -15,7 +15,7 @@ source_pdf: "ATTACH-2-Part-B.1-Complying-Development_1.pdf"
 ---
 # Dungog Development Control Plan - Part B1 Complying Development
 
-Source PDF: [ATTACH-2-Part-B.1-Complying-Development_1.pdf](ATTACH-2-Part-B.1-Complying-Development_1.pdf)
+Source PDF: [ATTACH-2-Part-B.1-Complying-Development_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-b1-complying-development/ATTACH-2-Part-B.1-Complying-Development_1.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

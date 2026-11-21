@@ -18,7 +18,7 @@ source_pdf: "E9-Black-Hill-employment-area.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E9-Black-Hill-employment-area.pdf](E9-Black-Hill-employment-area.pdf)
+Source PDF: [E9-Black-Hill-employment-area.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e9-black-hill-employment-area/E9-Black-Hill-employment-area.pdf)
 
 #### PART E: Place and precincts
 

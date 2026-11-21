@@ -15,7 +15,7 @@ source_pdf: "26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Se
 ---
 # Bayside Development Control Plan 2022 - Section 2 Preliminary Information
 
-Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 2 Preliminary Information.pdf](26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%202%20Preliminary%20Information.pdf)
+Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 2 Preliminary Information.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/section-02-preliminary-information/26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%202%20Preliminary%20Information.pdf)
 
 ### Preliminary Information
 

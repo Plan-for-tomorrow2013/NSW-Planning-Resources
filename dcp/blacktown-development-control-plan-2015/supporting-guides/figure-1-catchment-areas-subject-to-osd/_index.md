@@ -15,7 +15,7 @@ source_pdf: "Figure 1 Catchment areas subject to OSD.pdf"
 ---
 # Blacktown Development Control Plan 2015 - Figure 1 Catchment areas subject to OSD
 
-Source PDF: [Figure 1 Catchment areas subject to OSD.pdf](Figure%201%20Catchment%20areas%20subject%20to%20OSD.pdf)
+Source PDF: [Figure 1 Catchment areas subject to OSD.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/supporting-guides/figure-1-catchment-areas-subject-to-osd/Figure%201%20Catchment%20areas%20subject%20to%20OSD.pdf)
 
 ![Figure 1 Catchment areas subject to OSD](images/figure-1-catchment-areas-subject-to-osd-page-1.gif)
 

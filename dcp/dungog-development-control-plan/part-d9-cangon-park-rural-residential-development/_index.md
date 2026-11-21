@@ -17,7 +17,7 @@ source_pdf: "Amended-Part-D-9-Cangon-Park-Rural-Residential-Estate.pdf"
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Amended-Part-D-9-Cangon-Park-Rural-Residential-Estate.pdf](Amended-Part-D-9-Cangon-Park-Rural-Residential-Estate.pdf)
+Source PDF: [Amended-Part-D-9-Cangon-Park-Rural-Residential-Estate.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-d9-cangon-park-rural-residential-development/Amended-Part-D-9-Cangon-Park-Rural-Residential-Estate.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

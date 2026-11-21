@@ -17,7 +17,7 @@ source_pdf: "PART-D.8-Boatfalls-25.5.20.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PART-D.8-Boatfalls-25.5.20.pdf](PART-D.8-Boatfalls-25.5.20.pdf)
+Source PDF: [PART-D.8-Boatfalls-25.5.20.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-d8-boatfalls-rural-residential-estate/PART-D.8-Boatfalls-25.5.20.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

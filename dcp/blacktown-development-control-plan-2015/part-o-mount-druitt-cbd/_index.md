@@ -16,7 +16,7 @@ source_pdf: "Part-O-Mount-Druitt-CBD.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-O-Mount-Druitt-CBD.pdf](Part-O-Mount-Druitt-CBD.pdf)
+Source PDF: [Part-O-Mount-Druitt-CBD.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-o-mount-druitt-cbd/Part-O-Mount-Druitt-CBD.pdf)
 
 ### BLACKTOWN DCP – PART O
 

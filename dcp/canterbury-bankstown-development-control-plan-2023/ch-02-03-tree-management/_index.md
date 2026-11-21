@@ -18,7 +18,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 2.3 - Tree Management
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 2.3 - Tree Management.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%202.3%20-%20Tree%20Management.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 2.3 - Tree Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-02-03-tree-management/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%202.3%20-%20Tree%20Management.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

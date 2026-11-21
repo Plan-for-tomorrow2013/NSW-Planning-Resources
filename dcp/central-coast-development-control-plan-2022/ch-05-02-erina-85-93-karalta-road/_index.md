@@ -17,7 +17,7 @@ source_pdf: "5.2_Erina_83-95_Karalta_Road.pdf"
 
 > This chapter is split into 16 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.2_Erina_83-95_Karalta_Road.pdf](5.2_Erina_83-95_Karalta_Road.pdf)
+Source PDF: [5.2_Erina_83-95_Karalta_Road.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-02-erina-85-93-karalta-road/5.2_Erina_83-95_Karalta_Road.pdf)
 
 ### CHAPTER 5.2 ERINA, 85-93 KARALTA ROAD
 

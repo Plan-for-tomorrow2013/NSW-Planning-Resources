@@ -18,7 +18,7 @@ source_pdf: "chapter_g2_kilmory.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_g2_kilmory.pdf](chapter_g2_kilmory.pdf)
+Source PDF: [chapter_g2_kilmory.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g2-kilmory-6-wentworth-street-point-piper/chapter_g2_kilmory.pdf)
 
 ![Picture on page 1](images/chapter-g2-kilmory-6-wentworth-street-point-piper-page-1-1.gif)
 

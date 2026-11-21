@@ -18,7 +18,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 4.4 - Vicinity of Pla
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 4.4 - Vicinity of Places of Heritage Significance.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%204.4%20-%20Vicinity%20of%20Places%20of%20Heritage%20Significance.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 4.4 - Vicinity of Places of Heritage Significance.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-04-04-development-in-the-vicinity-of-places-of-heritage/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%204.4%20-%20Vicinity%20of%20Places%20of%20Heritage%20Significance.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

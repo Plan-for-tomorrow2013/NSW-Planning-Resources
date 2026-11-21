@@ -18,7 +18,7 @@ source_pdf: "chapter-g10-136-148-new-south-head-road.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-g10-136-148-new-south-head-road.pdf](chapter-g10-136-148-new-south-head-road.pdf)
+Source PDF: [chapter-g10-136-148-new-south-head-road.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g10-136-148-new-south-head-road-edgecliff/chapter-g10-136-148-new-south-head-road.pdf)
 
 ![Picture on page 1](images/chapter-g10-136-148-new-south-head-road-edgecliff-page-1-1.gif)
 

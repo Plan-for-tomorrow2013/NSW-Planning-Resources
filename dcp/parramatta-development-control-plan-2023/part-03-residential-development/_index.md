@@ -16,7 +16,7 @@ source_pdf: "dcp-part-3-residential-development.pdf"
 
 > This chapter is split into 49 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-3-residential-development.pdf](dcp-part-3-residential-development.pdf)
+Source PDF: [dcp-part-3-residential-development.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-03-residential-development/dcp-part-3-residential-development.pdf)
 
 ![Picture on page 1](images/part-03-residential-development-page-1-1.gif)
 

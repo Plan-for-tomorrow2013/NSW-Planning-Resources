@@ -17,7 +17,7 @@ source_pdf: "ATTACH-7-Part-C.24-Site-Waste-Minimisation-and-Management_1.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [ATTACH-7-Part-C.24-Site-Waste-Minimisation-and-Management_1.pdf](ATTACH-7-Part-C.24-Site-Waste-Minimisation-and-Management_1.pdf)
+Source PDF: [ATTACH-7-Part-C.24-Site-Waste-Minimisation-and-Management_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c24-site-waste-minimisation-and-management/ATTACH-7-Part-C.24-Site-Waste-Minimisation-and-Management_1.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

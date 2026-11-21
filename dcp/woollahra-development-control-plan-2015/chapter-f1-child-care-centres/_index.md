@@ -18,7 +18,7 @@ source_pdf: "chapter_f1_child_care_centres.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_f1_child_care_centres.pdf](chapter_f1_child_care_centres.pdf)
+Source PDF: [chapter_f1_child_care_centres.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-f1-child-care-centres/chapter_f1_child_care_centres.pdf)
 
 ![Picture on page 1](images/chapter-f1-child-care-centres-page-1-1.gif)
 

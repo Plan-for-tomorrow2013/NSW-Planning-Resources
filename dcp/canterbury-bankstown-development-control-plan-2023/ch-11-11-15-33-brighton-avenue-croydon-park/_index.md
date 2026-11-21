@@ -16,7 +16,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.11 - Brighton Aven
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Chapter 11.11 15–33 Brighton Avenue, Croydon Park
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.11 - Brighton Avenue.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2011.11%20-%20Brighton%20Avenue.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.11 - Brighton Avenue.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-11-11-15-33-brighton-avenue-croydon-park/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2011.11%20-%20Brighton%20Avenue.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

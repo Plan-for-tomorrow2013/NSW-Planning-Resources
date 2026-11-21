@@ -17,7 +17,7 @@ source_pdf: "5.36_Warnervale_M1_Pacific_Motorway_Service_Centres.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.36_Warnervale_M1_Pacific_Motorway_Service_Centres.pdf](5.36_Warnervale_M1_Pacific_Motorway_Service_Centres.pdf)
+Source PDF: [5.36_Warnervale_M1_Pacific_Motorway_Service_Centres.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-36-warnervale-m1-pacific-motorway-service-centres/5.36_Warnervale_M1_Pacific_Motorway_Service_Centres.pdf)
 
 ### CHAPTER 5.36 WARNERVALE – M1 PACIFIC
 

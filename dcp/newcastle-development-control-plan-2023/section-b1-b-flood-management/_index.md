@@ -18,7 +18,7 @@ source_pdf: "B1(b)-Flood-management-post-2019-flood-studies.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [B1(b)-Flood-management-post-2019-flood-studies.pdf](B1%28b%29-Flood-management-post-2019-flood-studies.pdf)
+Source PDF: [B1(b)-Flood-management-post-2019-flood-studies.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-b1-b-flood-management/B1%28b%29-Flood-management-post-2019-flood-studies.pdf)
 
 #### PART B: Site planning controls
 

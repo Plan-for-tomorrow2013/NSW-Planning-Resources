@@ -15,7 +15,7 @@ source_pdf: "26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Se
 ---
 # Bayside Development Control Plan 2022 - Section 8 Managing Risk and Environmental Conditions
 
-Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 8 Managing Risk and Environmental Conditions.pdf](26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%208%20Managing%20Risk%20and%20Environmental%20Conditions.pdf)
+Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 8 Managing Risk and Environmental Conditions.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/section-08-managing-risk-and-environmental-conditions/26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%208%20Managing%20Risk%20and%20Environmental%20Conditions.pdf)
 
 ### Managing Risk and Environmental Conditions
 

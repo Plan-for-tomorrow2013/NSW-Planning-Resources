@@ -15,7 +15,7 @@ source_pdf: "dcp-part-11-glossary.pdf"
 ---
 # Parramatta Development Control Plan 2023 - Part 11 Glossary
 
-Source PDF: [dcp-part-11-glossary.pdf](dcp-part-11-glossary.pdf)
+Source PDF: [dcp-part-11-glossary.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-11-glossary/dcp-part-11-glossary.pdf)
 
 ![Picture on page 1](images/part-11-glossary-page-1-1.gif)
 

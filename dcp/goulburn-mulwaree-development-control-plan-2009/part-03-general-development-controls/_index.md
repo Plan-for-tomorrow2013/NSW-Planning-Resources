@@ -18,7 +18,7 @@ source_pdf: "Part-3-General-Development-Controls.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-3-General-Development-Controls.pdf](Part-3-General-Development-Controls.pdf)
+Source PDF: [Part-3-General-Development-Controls.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-03-general-development-controls/Part-3-General-Development-Controls.pdf)
 
 <!-- sections -->
 ## Sections

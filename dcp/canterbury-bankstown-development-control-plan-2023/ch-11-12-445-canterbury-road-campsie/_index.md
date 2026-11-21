@@ -18,7 +18,7 @@ source_pdf: "2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 11.12 - 445 Canterbur
 
 > This chapter is split into 14 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 11.12 - 445 Canterbury Road.pdf](2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%2011.12%20-%20445%20Canterbury%20Road.pdf)
+Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 11.12 - 445 Canterbury Road.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-11-12-445-canterbury-road-campsie/2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%2011.12%20-%20445%20Canterbury%20Road.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

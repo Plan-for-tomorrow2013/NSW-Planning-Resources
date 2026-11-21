@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Multiple-Dwellings-and-Service-Managed-R
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Multiple Dwellings and Service Managed Residential Accommodation
 
-Source PDF: [Waste-Management-Guideline-Multiple-Dwellings-and-Service-Managed-Residential-Accommodation.pdf](Waste-Management-Guideline-Multiple-Dwellings-and-Service-Managed-Residential-Accommodation.pdf)
+Source PDF: [Waste-Management-Guideline-Multiple-Dwellings-and-Service-Managed-Residential-Accommodation.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-multiple-dwellings-and/Waste-Management-Guideline-Multiple-Dwellings-and-Service-Managed-Residential-Accommodation.pdf)
 
 ### Cessnock LGA
 

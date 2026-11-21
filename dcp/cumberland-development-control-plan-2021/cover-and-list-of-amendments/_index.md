@@ -16,7 +16,7 @@ source_pdf: "Cumberland DCP 2021 Cover and List of Amendments - Updated.pdf"
 ---
 # Cumberland Development Control Plan 2021 - Cover and List of Amendments
 
-Source PDF: [Cumberland DCP 2021 Cover and List of Amendments - Updated.pdf](Cumberland%20DCP%202021%20Cover%20and%20List%20of%20Amendments%20-%20Updated.pdf)
+Source PDF: [Cumberland DCP 2021 Cover and List of Amendments - Updated.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/cover-and-list-of-amendments/Cumberland%20DCP%202021%20Cover%20and%20List%20of%20Amendments%20-%20Updated.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 > Words on this picture, read by OCR (may contain errors): Cumberland Development Control Plan 2021

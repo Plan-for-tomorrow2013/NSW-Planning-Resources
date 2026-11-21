@@ -16,7 +16,7 @@ source_pdf: "carter-street-precinct-development-framework-2020.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [carter-street-precinct-development-framework-2020.pdf](carter-street-precinct-development-framework-2020.pdf)
+Source PDF: [carter-street-precinct-development-framework-2020.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/standalone-plans/carter-street-precinct-development-framework-2020/carter-street-precinct-development-framework-2020/carter-street-precinct-development-framework-2020.pdf)
 
 #### ….
 

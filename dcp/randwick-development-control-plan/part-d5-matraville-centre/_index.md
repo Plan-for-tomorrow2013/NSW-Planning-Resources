@@ -17,7 +17,7 @@ source_pdf: "D5-Matraville-Centre-Randwick-DCP-2013.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D5-Matraville-Centre-Randwick-DCP-2013.pdf](D5-Matraville-Centre-Randwick-DCP-2013.pdf)
+Source PDF: [D5-Matraville-Centre-Randwick-DCP-2013.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-d5-matraville-centre/D5-Matraville-Centre-Randwick-DCP-2013.pdf)
 
 ![Picture on page 1](images/part-d5-matraville-centre-page-1-1.gif)
 

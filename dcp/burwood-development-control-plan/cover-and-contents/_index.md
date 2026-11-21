@@ -15,7 +15,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Cover and Contents.pdf"
 ---
 # Burwood Development Control Plan - Cover and Contents
 
-Source PDF: [Burwood-development-control-plan-DCP - Cover and Contents.pdf](Burwood-development-control-plan-DCP%20-%20Cover%20and%20Contents.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Cover and Contents.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/cover-and-contents/Burwood-development-control-plan-DCP%20-%20Cover%20and%20Contents.pdf)
 
 ![Picture on page 1](images/cover-and-contents-page-1-1.gif)
 

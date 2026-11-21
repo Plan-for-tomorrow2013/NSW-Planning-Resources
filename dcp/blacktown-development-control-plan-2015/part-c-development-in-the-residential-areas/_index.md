@@ -17,7 +17,7 @@ source_pdf: "Part-C-Development-in-the-Residential-Areas_01-02-2026.pdf"
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-C-Development-in-the-Residential-Areas_01-02-2026.pdf](Part-C-Development-in-the-Residential-Areas_01-02-2026.pdf)
+Source PDF: [Part-C-Development-in-the-Residential-Areas_01-02-2026.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-c-development-in-the-residential-areas/Part-C-Development-in-the-Residential-Areas_01-02-2026.pdf)
 
 ![Picture on page 1](images/part-c-development-in-the-residential-areas-page-1-1.gif)
 

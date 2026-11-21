@@ -17,7 +17,7 @@ source_pdf: "3.4_Water_Catchment_Areas.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [3.4_Water_Catchment_Areas.pdf](3.4_Water_Catchment_Areas.pdf)
+Source PDF: [3.4_Water_Catchment_Areas.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-03-04-water-catchment-areas/3.4_Water_Catchment_Areas.pdf)
 
 ### CHAPTER 3.4 WATER CATCHMENT AREAS
 

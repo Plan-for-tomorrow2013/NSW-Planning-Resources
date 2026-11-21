@@ -18,7 +18,7 @@ source_pdf: "D4-Local-Centres-general-controls-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D4-Local-Centres-general-controls-Randwick-DCP-Stage-2_Final.pdf](D4-Local-Centres-general-controls-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [D4-Local-Centres-general-controls-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-d4-local-centres/D4-Local-Centres-general-controls-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

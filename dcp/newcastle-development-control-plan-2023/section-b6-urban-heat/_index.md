@@ -18,7 +18,7 @@ source_pdf: "B6-Urban-heat.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [B6-Urban-heat.pdf](B6-Urban-heat.pdf)
+Source PDF: [B6-Urban-heat.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-b6-urban-heat/B6-Urban-heat.pdf)
 
 #### PART B: Site planning controls
 

@@ -18,7 +18,7 @@ checked_by_tania: 2026-10-30
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-14m-47-warrane-road-roseville-chase.pdf](kdcp-section-b-part-14m-47-warrane-road-roseville-chase.pdf)
+Source PDF: [kdcp-section-b-part-14m-47-warrane-road-roseville-chase.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14m-47-warrane-road-roseville-chase/kdcp-section-b-part-14m-47-warrane-road-roseville-chase.pdf)
 
 ### 14M
 

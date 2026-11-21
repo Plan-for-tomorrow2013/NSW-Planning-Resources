@@ -18,7 +18,7 @@ source_pdf: "D12 - Heritage Conservation and Design Guidelines.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D12 - Heritage Conservation and Design Guidelines.pdf](D12%20-%20Heritage%20Conservation%20and%20Design%20Guidelines.pdf)
+Source PDF: [D12 - Heritage Conservation and Design Guidelines.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d12-heritage-conservation-and-design-guidelines/D12%20-%20Heritage%20Conservation%20and%20Design%20Guidelines.pdf)
 
 #### D.12 HERITAGE CONSERVATION AND DESIGN GUIDELINES
 

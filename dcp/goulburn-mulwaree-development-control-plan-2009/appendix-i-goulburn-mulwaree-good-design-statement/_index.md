@@ -18,7 +18,7 @@ source_pdf: "Appendix-I-Goulburn-Mulwaree-Good-Design-Statement-2005.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Appendix-I-Goulburn-Mulwaree-Good-Design-Statement-2005.pdf](Appendix-I-Goulburn-Mulwaree-Good-Design-Statement-2005.pdf)
+Source PDF: [Appendix-I-Goulburn-Mulwaree-Good-Design-Statement-2005.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/appendix-i-goulburn-mulwaree-good-design-statement/Appendix-I-Goulburn-Mulwaree-Good-Design-Statement-2005.pdf)
 
 ### Appendix I Goulburn Mulwaree Good Design Statement 2005
 

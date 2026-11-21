@@ -18,7 +18,7 @@ source_pdf: "57-2020-2-1-_-Comprehensive-DCP-Review-_-Supporting-Information-_-S
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [57-2020-2-1-_-Comprehensive-DCP-Review-_-Supporting-Information-_-Social-Impact-Guidelines-_-FINAL.pdf](57-2020-2-1-_-Comprehensive-DCP-Review-_-Supporting-Information-_-Social-Impact-Guidelines-_-FINAL.pdf)
+Source PDF: [57-2020-2-1-_-Comprehensive-DCP-Review-_-Supporting-Information-_-Social-Impact-Guidelines-_-FINAL.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/guidelines-social-impact-assessment/57-2020-2-1-_-Comprehensive-DCP-Review-_-Supporting-Information-_-Social-Impact-Guidelines-_-FINAL.pdf)
 
 ### Guidelines: Social Impact Assessment
 

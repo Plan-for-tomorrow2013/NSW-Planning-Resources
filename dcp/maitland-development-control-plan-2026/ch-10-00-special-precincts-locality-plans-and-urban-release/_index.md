@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Chapter 10 Special Precincts, Locality Plans, and Urban
 
 > This chapter is split into 203 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Chapter 10 Special Precincts, Locality Plans, and Urban Release Areas.pdf](MDCP%202026%20-%20Chapter%2010%20Special%20Precincts%2C%20Locality%20Plans%2C%20and%20Urban%20Release%20Areas.pdf)
+Source PDF: [MDCP 2026 - Chapter 10 Special Precincts, Locality Plans, and Urban Release Areas.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/ch-10-00-special-precincts-locality-plans-and-urban-release/MDCP%202026%20-%20Chapter%2010%20Special%20Precincts%2C%20Locality%20Plans%2C%20and%20Urban%20Release%20Areas.pdf)
 
 ![Picture on page 1](images/ch-10-00-special-precincts-locality-plans-and-urban-release-page-1-1.gif)
 

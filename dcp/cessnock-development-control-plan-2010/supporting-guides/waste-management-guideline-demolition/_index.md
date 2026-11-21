@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Demolition.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Demolition
 
-Source PDF: [Waste-Management-Guideline-Demolition.pdf](Waste-Management-Guideline-Demolition.pdf)
+Source PDF: [Waste-Management-Guideline-Demolition.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-demolition/Waste-Management-Guideline-Demolition.pdf)
 
 ### Cessnock LGA
 

@@ -16,7 +16,7 @@ source_pdf: "dcp-part-7-heritage-and-archaeology.pdf"
 
 > This chapter is split into 23 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-7-heritage-and-archaeology.pdf](dcp-part-7-heritage-and-archaeology.pdf)
+Source PDF: [dcp-part-7-heritage-and-archaeology.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-07-heritage-archaeology/dcp-part-7-heritage-and-archaeology.pdf)
 
 ![Picture on page 1](images/part-07-heritage-archaeology-page-1-1.gif)
 

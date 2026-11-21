@@ -17,7 +17,7 @@ source_pdf: "D3 - Industrial Development.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D3 - Industrial Development.pdf](D3%20-%20Industrial%20Development.pdf)
+Source PDF: [D3 - Industrial Development.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d3-industrial-development/D3%20-%20Industrial%20Development.pdf)
 
 Part D: Specific Development Chapter 3: Industrial Development
 

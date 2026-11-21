@@ -16,7 +16,7 @@ source_pdf: "cumberland-dcp-definitions_0.pdf"
 ---
 # Cumberland Development Control Plan 2021 - Definitions
 
-Source PDF: [cumberland-dcp-definitions_0.pdf](cumberland-dcp-definitions_0.pdf)
+Source PDF: [cumberland-dcp-definitions_0.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/definitions/cumberland-dcp-definitions_0.pdf)
 
 ### Definitions
 

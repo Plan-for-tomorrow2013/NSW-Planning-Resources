@@ -17,7 +17,7 @@ source_pdf: "5.8 -narara-eco-village.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.8 -narara-eco-village.pdf](5.8%20-narara-eco-village.pdf)
+Source PDF: [5.8 -narara-eco-village.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-08-narara-eco-village/5.8%20-narara-eco-village.pdf)
 
 ### CHAPTER 5.8 NARARA ECO-VILLAGE
 

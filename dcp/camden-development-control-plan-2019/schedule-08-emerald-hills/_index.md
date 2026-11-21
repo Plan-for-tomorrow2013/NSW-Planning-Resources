@@ -17,7 +17,7 @@ source_pdf: "DCP-2019-Final-Schedule-8-Emerald-Hills-Version-4-September-2024.pd
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2019-Final-Schedule-8-Emerald-Hills-Version-4-September-2024.pdf](DCP-2019-Final-Schedule-8-Emerald-Hills-Version-4-September-2024.pdf)
+Source PDF: [DCP-2019-Final-Schedule-8-Emerald-Hills-Version-4-September-2024.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-08-emerald-hills/DCP-2019-Final-Schedule-8-Emerald-Hills-Version-4-September-2024.pdf)
 
 ![Picture on page 1](images/schedule-08-emerald-hills-page-1-1.gif)
 

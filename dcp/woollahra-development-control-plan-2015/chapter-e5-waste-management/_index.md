@@ -18,7 +18,7 @@ source_pdf: "chapter-e5-waste-management.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-e5-waste-management.pdf](chapter-e5-waste-management.pdf)
+Source PDF: [chapter-e5-waste-management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-e5-waste-management/chapter-e5-waste-management.pdf)
 
 ![Picture on page 1](images/chapter-e5-waste-management-page-1-1.gif)
 

@@ -16,7 +16,7 @@ source_pdf: "Burwood-development-control-plan-DCP - Section 6 Environmental Mana
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Burwood-development-control-plan-DCP - Section 6 Environmental Management.pdf](Burwood-development-control-plan-DCP%20-%20Section%206%20Environmental%20Management.pdf)
+Source PDF: [Burwood-development-control-plan-DCP - Section 6 Environmental Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/burwood-development-control-plan/section-06-environmental-management/Burwood-development-control-plan-DCP%20-%20Section%206%20Environmental%20Management.pdf)
 
 <!-- sections -->
 ## Sections

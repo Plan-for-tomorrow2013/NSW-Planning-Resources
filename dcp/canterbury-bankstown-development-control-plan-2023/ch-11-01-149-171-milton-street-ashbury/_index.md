@@ -16,7 +16,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.1 - Milton Street.
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Chapter 11.1 149–171 Milton Street, Ashbury
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.1 - Milton Street.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2011.1%20-%20Milton%20Street.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.1 - Milton Street.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-11-01-149-171-milton-street-ashbury/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2011.1%20-%20Milton%20Street.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

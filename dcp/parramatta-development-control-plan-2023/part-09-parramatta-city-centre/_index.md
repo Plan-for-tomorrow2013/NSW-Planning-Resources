@@ -16,7 +16,7 @@ source_pdf: "dcp-part-9-parramatta-city-centre.pdf"
 
 > This chapter is split into 210 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-9-parramatta-city-centre.pdf](dcp-part-9-parramatta-city-centre.pdf)
+Source PDF: [dcp-part-9-parramatta-city-centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-09-parramatta-city-centre/dcp-part-9-parramatta-city-centre.pdf)
 
 ![Picture on page 1](images/part-09-parramatta-city-centre-page-1-1.gif)
 

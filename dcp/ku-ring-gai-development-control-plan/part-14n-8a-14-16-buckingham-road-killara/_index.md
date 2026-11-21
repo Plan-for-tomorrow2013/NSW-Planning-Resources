@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-b-part-14n-8a-14-16-buckingham-road-killara.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-14n-8a-14-16-buckingham-road-killara.pdf](kdcp-section-b-part-14n-8a-14-16-buckingham-road-killara.pdf)
+Source PDF: [kdcp-section-b-part-14n-8a-14-16-buckingham-road-killara.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14n-8a-14-16-buckingham-road-killara/kdcp-section-b-part-14n-8a-14-16-buckingham-road-killara.pdf)
 
 ### 14N
 

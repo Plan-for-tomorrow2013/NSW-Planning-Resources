@@ -18,7 +18,7 @@ source_pdf: "C8-Social-Impact.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C8-Social-Impact.pdf](C8-Social-Impact.pdf)
+Source PDF: [C8-Social-Impact.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-c8-social-impact/C8-Social-Impact.pdf)
 
 ### PART C: General development controls
 

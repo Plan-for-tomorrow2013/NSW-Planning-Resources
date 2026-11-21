@@ -17,7 +17,7 @@ source_pdf: "4.1_Warnervale-Town-Centre.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [4.1_Warnervale-Town-Centre.pdf](4.1_Warnervale-Town-Centre.pdf)
+Source PDF: [4.1_Warnervale-Town-Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-04-01-warnervale-town-centre/4.1_Warnervale-Town-Centre.pdf)
 
 ### WARNERVALE TOWN CENTRE
 

@@ -18,7 +18,7 @@ checked_by_tania: 2026-10-31
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-14l-62-and-64-66-pacific-highway-roseville.pdf](kdcp-section-b-part-14l-62-and-64-66-pacific-highway-roseville.pdf)
+Source PDF: [kdcp-section-b-part-14l-62-and-64-66-pacific-highway-roseville.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-14l-62-part-64-66-pacific-highway/kdcp-section-b-part-14l-62-and-64-66-pacific-highway-roseville.pdf)
 
 ### PART
 

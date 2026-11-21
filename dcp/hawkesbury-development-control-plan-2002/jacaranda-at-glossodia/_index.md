@@ -17,7 +17,7 @@ source_pdf: "Jacaranda-DCP-2021.pdf"
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Jacaranda-DCP-2021.pdf](Jacaranda-DCP-2021.pdf)
+Source PDF: [Jacaranda-DCP-2021.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/jacaranda-at-glossodia/Jacaranda-DCP-2021.pdf)
 
 ![Picture on page 1](images/jacaranda-at-glossodia-page-1-1.gif)
 

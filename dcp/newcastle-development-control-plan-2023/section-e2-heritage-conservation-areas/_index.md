@@ -18,7 +18,7 @@ source_pdf: "Section-E2-Heritage-Conservation-Areas.pdf"
 
 > This chapter is split into 25 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Section-E2-Heritage-Conservation-Areas.pdf](Section-E2-Heritage-Conservation-Areas.pdf)
+Source PDF: [Section-E2-Heritage-Conservation-Areas.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e2-heritage-conservation-areas/Section-E2-Heritage-Conservation-Areas.pdf)
 
 #### PART E: Place and Precincts
 

@@ -17,7 +17,7 @@ source_pdf: "PART-E-Chapter-8-Redbank-at-North-Richmond.pdf"
 
 > This chapter is split into 27 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PART-E-Chapter-8-Redbank-at-North-Richmond.pdf](PART-E-Chapter-8-Redbank-at-North-Richmond.pdf)
+Source PDF: [PART-E-Chapter-8-Redbank-at-North-Richmond.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/ch-08-00-redbank-at-north-richmond/PART-E-Chapter-8-Redbank-at-North-Richmond.pdf)
 
 ## CHAPTER 8 REDBANK AT NORTH RICHMOND
 

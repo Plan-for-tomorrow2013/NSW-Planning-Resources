@@ -18,7 +18,7 @@ source_pdf: "Amd-6-GRDCP-Part-6-1-Low-Density-Residential-Controls-NEW.pdf"
 
 > This chapter is split into 44 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Amd-6-GRDCP-Part-6-1-Low-Density-Residential-Controls-NEW.pdf](Amd-6-GRDCP-Part-6-1-Low-Density-Residential-Controls-NEW.pdf)
+Source PDF: [Amd-6-GRDCP-Part-6-1-Low-Density-Residential-Controls-NEW.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/georges-river-development-control-plan-2021/part-06-1-low-density-residential-controls/Amd-6-GRDCP-Part-6-1-Low-Density-Residential-Controls-NEW.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 > Words on this picture, read by OCR (may contain errors): PART 6 Residentia trols

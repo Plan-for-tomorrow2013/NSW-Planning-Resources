@@ -16,7 +16,7 @@ source_pdf: "DCP-2019-Final-Schedule-12-121-Raby-Road-Leppington.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2019-Final-Schedule-12-121-Raby-Road-Leppington.pdf](DCP-2019-Final-Schedule-12-121-Raby-Road-Leppington.pdf)
+Source PDF: [DCP-2019-Final-Schedule-12-121-Raby-Road-Leppington.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-12-121-raby-road-leppington/DCP-2019-Final-Schedule-12-121-Raby-Road-Leppington.pdf)
 
 
 ### Contents

@@ -17,7 +17,7 @@ source_pdf: "D6 - Poultry Farms Neighboring Land Uses.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D6 - Poultry Farms Neighboring Land Uses.pdf](D6%20-%20Poultry%20Farms%20Neighboring%20Land%20Uses.pdf)
+Source PDF: [D6 - Poultry Farms Neighboring Land Uses.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d6-poultry-farms-neighbouring-land-uses/D6%20-%20Poultry%20Farms%20Neighboring%20Land%20Uses.pdf)
 
 #### D.6: POULTRY FARMS – NEIGHBOURING LAND USES
 

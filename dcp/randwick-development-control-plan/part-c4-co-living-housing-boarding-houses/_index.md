@@ -18,7 +18,7 @@ source_pdf: "C4-Co-Living-and-Boarding-Houses-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 16 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C4-Co-Living-and-Boarding-Houses-Randwick-DCP-Stage-2_Final.pdf](C4-Co-Living-and-Boarding-Houses-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [C4-Co-Living-and-Boarding-Houses-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-c4-co-living-housing-boarding-houses/C4-Co-Living-and-Boarding-Houses-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

@@ -16,7 +16,7 @@ source_pdf: "Final-Adopted-Schedule-5-Mater-Dei-Kirkham-Rise-DCP-30-July-v2.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Final-Adopted-Schedule-5-Mater-Dei-Kirkham-Rise-DCP-30-July-v2.pdf](Final-Adopted-Schedule-5-Mater-Dei-Kirkham-Rise-DCP-30-July-v2.pdf)
+Source PDF: [Final-Adopted-Schedule-5-Mater-Dei-Kirkham-Rise-DCP-30-July-v2.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-05-mater-dei-and-kirkham-rise/Final-Adopted-Schedule-5-Mater-Dei-Kirkham-Rise-DCP-30-July-v2.pdf)
 
 ### Schedule 5
 

@@ -19,7 +19,7 @@ source_pdf: "pdip_-_double_bay.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [pdip_-_double_bay.pdf](pdip_-_double_bay.pdf)
+Source PDF: [pdip_-_double_bay.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/supporting-guides/double-bay-centre-public-improvements-plan/pdip_-_double_bay.pdf)
 
 WOOLLAHRAMUNICIPALCOUNCIL
 

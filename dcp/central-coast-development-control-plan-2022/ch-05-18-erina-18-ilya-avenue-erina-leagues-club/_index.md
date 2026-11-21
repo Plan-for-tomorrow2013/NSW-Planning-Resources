@@ -17,7 +17,7 @@ source_pdf: "5.18_Erina_18_Ilya_Avenue_Erina_Leagues_Club.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.18_Erina_18_Ilya_Avenue_Erina_Leagues_Club.pdf](5.18_Erina_18_Ilya_Avenue_Erina_Leagues_Club.pdf)
+Source PDF: [5.18_Erina_18_Ilya_Avenue_Erina_Leagues_Club.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-18-erina-18-ilya-avenue-erina-leagues-club/5.18_Erina_18_Ilya_Avenue_Erina_Leagues_Club.pdf)
 
 ### CHAPTER 5.18 ERINA – 18 ILYA AVENUE (ERINA
 

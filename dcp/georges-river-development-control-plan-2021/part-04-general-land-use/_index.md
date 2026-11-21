@@ -18,7 +18,7 @@ source_pdf: "Amd-6-GRDCP-Part-4-General-Land-Use.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Amd-6-GRDCP-Part-4-General-Land-Use.pdf](Amd-6-GRDCP-Part-4-General-Land-Use.pdf)
+Source PDF: [Amd-6-GRDCP-Part-4-General-Land-Use.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/georges-river-development-control-plan-2021/part-04-general-land-use/Amd-6-GRDCP-Part-4-General-Land-Use.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 > Words on this picture, read by OCR (may contain errors): PART 4 General land use

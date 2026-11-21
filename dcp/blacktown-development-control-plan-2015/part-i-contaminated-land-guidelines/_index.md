@@ -17,7 +17,7 @@ source_pdf: "Part-I-Contaminated-Land-Guidelines.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-I-Contaminated-Land-Guidelines.pdf](Part-I-Contaminated-Land-Guidelines.pdf)
+Source PDF: [Part-I-Contaminated-Land-Guidelines.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-i-contaminated-land-guidelines/Part-I-Contaminated-Land-Guidelines.pdf)
 
 ![Picture on page 1](images/part-i-contaminated-land-guidelines-page-1-1.gif)
 

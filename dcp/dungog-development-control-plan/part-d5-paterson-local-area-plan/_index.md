@@ -18,7 +18,7 @@ source_pdf: "5.-paterson-lap-1.3.12.pdf"
 
 > This chapter is split into 26 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.-paterson-lap-1.3.12.pdf](5.-paterson-lap-1.3.12.pdf)
+Source PDF: [5.-paterson-lap-1.3.12.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-d5-paterson-local-area-plan/5.-paterson-lap-1.3.12.pdf)
 
 ![Picture on page 1](images/part-d5-paterson-local-area-plan-page-1-1.gif)
 

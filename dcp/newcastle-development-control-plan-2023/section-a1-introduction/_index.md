@@ -18,7 +18,7 @@ source_pdf: "DCP-2023-Part-A-Section-A1-Introduction.pdf"
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2023-Part-A-Section-A1-Introduction.pdf](DCP-2023-Part-A-Section-A1-Introduction.pdf)
+Source PDF: [DCP-2023-Part-A-Section-A1-Introduction.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-a1-introduction/DCP-2023-Part-A-Section-A1-Introduction.pdf)
 
 ### PART A: Administration
 

@@ -18,7 +18,7 @@ source_pdf: "Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf"
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf](Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf)
+Source PDF: [Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-a-introduction-and-general-guidelines/Part-A-Introduction-and-General-Guidelines-01-02-2026.pdf)
 
 ![Picture on page 1](images/part-a-introduction-and-general-guidelines-page-1-1.gif)
 

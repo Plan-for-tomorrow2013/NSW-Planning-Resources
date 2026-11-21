@@ -17,7 +17,7 @@ source_pdf: "DCP 2015_Amendment 8_Part C.pdf"
 
 > This chapter is split into 66 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP 2015_Amendment 8_Part C.pdf](DCP%202015_Amendment%208_Part%20C.pdf)
+Source PDF: [DCP 2015_Amendment 8_Part C.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blue-mountains-development-control-plan-2015/part-c-environmental-management/DCP%202015_Amendment%208_Part%20C.pdf)
 
 ### PART C
 

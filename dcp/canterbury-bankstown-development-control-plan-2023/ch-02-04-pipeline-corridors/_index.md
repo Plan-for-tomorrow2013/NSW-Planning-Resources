@@ -18,7 +18,7 @@ source_pdf: "2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 2.4 - Pipeline Corrid
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 2.4 - Pipeline Corridors.pdf](2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Chapter%202.4%20-%20Pipeline%20Corridors.pdf)
+Source PDF: [2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 2.4 - Pipeline Corridors.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-02-04-pipeline-corridors/2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Chapter%202.4%20-%20Pipeline%20Corridors.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

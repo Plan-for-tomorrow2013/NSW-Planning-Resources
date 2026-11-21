@@ -17,7 +17,7 @@ source_pdf: "part8amenanglepark.pdf"
 
 > This chapter is split into 72 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part8amenanglepark.pdf](part8amenanglepark.pdf)
+Source PDF: [part8amenanglepark.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-08a-menangle-park/part8amenanglepark.pdf)
 
 ### Campbelltown
 

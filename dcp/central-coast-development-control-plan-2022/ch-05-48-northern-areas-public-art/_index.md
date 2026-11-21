@@ -17,7 +17,7 @@ source_pdf: "5.48_Northern_Areas_Public_Art.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.48_Northern_Areas_Public_Art.pdf](5.48_Northern_Areas_Public_Art.pdf)
+Source PDF: [5.48_Northern_Areas_Public_Art.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-48-northern-areas-public-art/5.48_Northern_Areas_Public_Art.pdf)
 
 ### CHAPTER 5.48  NORTHERN AREAS - PUBLIC ART
 

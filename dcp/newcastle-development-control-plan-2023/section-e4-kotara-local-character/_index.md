@@ -18,7 +18,7 @@ source_pdf: "E4-Kotara-local-character.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E4-Kotara-local-character.pdf](E4-Kotara-local-character.pdf)
+Source PDF: [E4-Kotara-local-character.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e4-kotara-local-character/E4-Kotara-local-character.pdf)
 
 #### PART E: Place and precincts
 

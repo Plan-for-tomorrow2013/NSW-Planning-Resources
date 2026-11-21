@@ -16,7 +16,7 @@ source_pdf: "Part-4-Residential-Dwelling-Controls.pdf"
 
 > This chapter is split into 23 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-4-Residential-Dwelling-Controls.pdf](Part-4-Residential-Dwelling-Controls.pdf)
+Source PDF: [Part-4-Residential-Dwelling-Controls.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/part-04-residential-dwelling-controls/Part-4-Residential-Dwelling-Controls.pdf)
 
 > Words printed on the picture (copied from the PDF):
 > Part 4 – Residential Dwelling Controls

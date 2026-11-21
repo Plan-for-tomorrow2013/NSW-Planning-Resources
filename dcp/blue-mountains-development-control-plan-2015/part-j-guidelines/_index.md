@@ -17,7 +17,7 @@ source_pdf: "DCP 2015_Amendment 8_Part J.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP 2015_Amendment 8_Part J.pdf](DCP%202015_Amendment%208_Part%20J.pdf)
+Source PDF: [DCP 2015_Amendment 8_Part J.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blue-mountains-development-control-plan-2015/part-j-guidelines/DCP%202015_Amendment%208_Part%20J.pdf)
 
 ### PART J
 

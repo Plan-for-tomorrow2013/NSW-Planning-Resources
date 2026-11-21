@@ -18,7 +18,7 @@ checked_by_tania: 2026-10-31
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-a-part-3-land-consolidation-and-subdivision.pdf](kdcp-section-a-part-3-land-consolidation-and-subdivision.pdf)
+Source PDF: [kdcp-section-a-part-3-land-consolidation-and-subdivision.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-03-land-consolidation-and-subdivision/kdcp-section-a-part-3-land-consolidation-and-subdivision.pdf)
 
 ![Picture on page 1](images/part-03-land-consolidation-and-subdivision-page-1-1.gif)
 

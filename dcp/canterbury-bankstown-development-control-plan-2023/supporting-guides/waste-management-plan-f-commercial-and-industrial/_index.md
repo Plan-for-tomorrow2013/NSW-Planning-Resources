@@ -17,7 +17,7 @@ source_pdf: "Waste Management Plan F - Commerical Industrial - 2022-06-27.pdf"
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Waste Management Plan F – Commercial and Industrial Development Form
 
-Source PDF: [Waste Management Plan F - Commerical Industrial - 2022-06-27.pdf](Waste%20Management%20Plan%20F%20-%20Commerical%20Industrial%20-%202022-06-27.pdf)
+Source PDF: [Waste Management Plan F - Commerical Industrial - 2022-06-27.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-management-plan-f-commercial-and-industrial/Waste%20Management%20Plan%20F%20-%20Commerical%20Industrial%20-%202022-06-27.pdf)
 
 ![Picture on page 1](images/waste-management-plan-f-commercial-and-industrial-page-1-1.gif)
 

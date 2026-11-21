@@ -19,7 +19,7 @@ source_pdf: "2024.08.06 - Character Statement - Ashbury HCA.pdf"
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - Character Statement - Ashbury HCA.pdf](2024.08.06%20-%20Character%20Statement%20-%20Ashbury%20HCA.pdf)
+Source PDF: [2024.08.06 - Character Statement - Ashbury HCA.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/character-statement-ashbury-hca-august-2024/2024.08.06%20-%20Character%20Statement%20-%20Ashbury%20HCA.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

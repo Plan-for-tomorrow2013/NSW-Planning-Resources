@@ -18,7 +18,7 @@ source_pdf: "2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 5.1 - Former Banksto
 
 > This chapter is split into 29 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 5.1 - Former Bankstown LGA.pdf](2026.03.12%20-%20DCP%202023%20-%20AMENDMENT%2011%20-%20Chapter%205.1%20-%20Former%20Bankstown%20LGA.pdf)
+Source PDF: [2026.03.12 - DCP 2023 - AMENDMENT 11 - Chapter 5.1 - Former Bankstown LGA.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-05-01-former-bankstown-lga/2026.03.12%20-%20DCP%202023%20-%20AMENDMENT%2011%20-%20Chapter%205.1%20-%20Former%20Bankstown%20LGA.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

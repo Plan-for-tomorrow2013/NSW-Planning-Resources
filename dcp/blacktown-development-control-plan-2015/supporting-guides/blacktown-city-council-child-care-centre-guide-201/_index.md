@@ -17,7 +17,7 @@ source_pdf: "Child-Care-Centre-Guideline_1.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Child-Care-Centre-Guideline_1.pdf](Child-Care-Centre-Guideline_1.pdf)
+Source PDF: [Child-Care-Centre-Guideline_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/supporting-guides/blacktown-city-council-child-care-centre-guide-201/Child-Care-Centre-Guideline_1.pdf)
 
 ### Blacktown City Council child care centre guide
 

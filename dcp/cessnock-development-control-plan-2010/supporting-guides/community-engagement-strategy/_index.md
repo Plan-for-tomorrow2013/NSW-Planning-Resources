@@ -17,7 +17,7 @@ source_pdf: "Community-Engagement-Strategy_adopted-19-March-2025_CCC_website-doc
 ---
 # Cessnock Development Control Plan 2010 - Community Engagement Strategy
 
-Source PDF: [Community-Engagement-Strategy_adopted-19-March-2025_CCC_website-doc.pdf](Community-Engagement-Strategy_adopted-19-March-2025_CCC_website-doc.pdf)
+Source PDF: [Community-Engagement-Strategy_adopted-19-March-2025_CCC_website-doc.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/community-engagement-strategy/Community-Engagement-Strategy_adopted-19-March-2025_CCC_website-doc.pdf)
 
 ### CESSNOCK LGA
 

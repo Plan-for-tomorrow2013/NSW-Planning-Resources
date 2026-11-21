@@ -16,7 +16,7 @@ source_pdf: "schedule-of-amendments-18.8.2026.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Amendments
 
-Source PDF: [schedule-of-amendments-18.8.2026.pdf](schedule-of-amendments-18.8.2026.pdf)
+Source PDF: [schedule-of-amendments-18.8.2026.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/amendments/schedule-of-amendments-18.8.2026.pdf)
 
 OFFICIAL
 

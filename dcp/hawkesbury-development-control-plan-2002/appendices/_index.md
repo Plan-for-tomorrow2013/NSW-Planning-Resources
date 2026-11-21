@@ -17,7 +17,7 @@ source_pdf: "AppendixABCD.pdf"
 
 > This chapter is split into 14 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [AppendixABCD.pdf](AppendixABCD.pdf)
+Source PDF: [AppendixABCD.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/appendices/AppendixABCD.pdf)
 
 > The PDF's contents list (page numbers of the printed document) is not repeated here - see Sections below.
 

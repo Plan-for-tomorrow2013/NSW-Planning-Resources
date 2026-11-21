@@ -17,7 +17,7 @@ source_pdf: "Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 4 Effluent Disp
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 4 Effluent Disposal.pdf](Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%204%20Effluent%20Disposal.pdf)
+Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Chapter 4 Effluent Disposal.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2023/section-04-effluent-disposal/Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Chapter%204%20Effluent%20Disposal.pdf)
 
 ## CHAPTER 4: Effluent Disposal
 

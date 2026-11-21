@@ -16,7 +16,7 @@ source_pdf: "6_-_Dictionary.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Dictionary
 
-Source PDF: [6_-_Dictionary.pdf](6_-_Dictionary.pdf)
+Source PDF: [6_-_Dictionary.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/dictionary/6_-_Dictionary.pdf)
 
 This list of terms and definitions is not exhaustive and is intended to provide a quick guide to terms used in the DCP. Definitions and terms are also defined under the Central Coast LEP 2022 or the EP&AAct 1979.
 

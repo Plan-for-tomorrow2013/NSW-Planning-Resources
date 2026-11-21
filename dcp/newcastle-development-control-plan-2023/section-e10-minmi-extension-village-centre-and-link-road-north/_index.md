@@ -18,7 +18,7 @@ source_pdf: "Section-E10-Minmi-Extension,-Village-Centre-and-Link-Road-North-Pre
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Section-E10-Minmi-Extension,-Village-Centre-and-Link-Road-North-Precinct.pdf](Section-E10-Minmi-Extension%2C-Village-Centre-and-Link-Road-North-Precinct.pdf)
+Source PDF: [Section-E10-Minmi-Extension,-Village-Centre-and-Link-Road-North-Precinct.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e10-minmi-extension-village-centre-and-link-road-north/Section-E10-Minmi-Extension%2C-Village-Centre-and-Link-Road-North-Precinct.pdf)
 
 #### PART E: Place and precincts
 

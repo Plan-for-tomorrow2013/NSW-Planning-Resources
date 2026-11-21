@@ -18,7 +18,7 @@ source_pdf: "part-0-table-of-contents-amendment-26-feb-26.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part-0-table-of-contents-amendment-26-feb-26.pdf](part-0-table-of-contents-amendment-26-feb-26.pdf)
+Source PDF: [part-0-table-of-contents-amendment-26-feb-26.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-1-part-00-list-of-amendments-to-the-plan/part-0-table-of-contents-amendment-26-feb-26.pdf)
 
 ### Volume 1: Development Controls for All
 

@@ -18,7 +18,7 @@ source_pdf: "chapter-d6-rose-bay-centre.pdf"
 
 > This chapter is split into 13 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-d6-rose-bay-centre.pdf](chapter-d6-rose-bay-centre.pdf)
+Source PDF: [chapter-d6-rose-bay-centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-d6-rose-bay-centre/chapter-d6-rose-bay-centre.pdf)
 
 ![Picture on page 1](images/chapter-d6-rose-bay-centre-page-1-1.gif)
 

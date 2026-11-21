@@ -16,7 +16,7 @@ source_pdf: "part0tableofcontentsvolume3.pdf"
 ---
 # Campbelltown Sustainable City Development Control Plan 2015 - Table of Contents
 
-Source PDF: [part0tableofcontentsvolume3.pdf](part0tableofcontentsvolume3.pdf)
+Source PDF: [part0tableofcontentsvolume3.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-3-table-of-contents/part0tableofcontentsvolume3.pdf)
 
 ### Volume 3: Deferred Areas Development Control Plan
 

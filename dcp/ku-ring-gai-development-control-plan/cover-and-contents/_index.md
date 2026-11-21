@@ -16,7 +16,7 @@ source_pdf: "kdcp-cover-contents.pdf"
 ---
 # Ku-ring-gai Development Control Plan - Cover and Contents
 
-Source PDF: [kdcp-cover-contents.pdf](kdcp-cover-contents.pdf)
+Source PDF: [kdcp-cover-contents.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/cover-and-contents/kdcp-cover-contents.pdf)
 
 ![Picture on page 1](images/cover-and-contents-page-1-1.gif)
 

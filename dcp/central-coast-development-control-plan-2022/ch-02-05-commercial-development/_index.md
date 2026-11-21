@@ -17,7 +17,7 @@ source_pdf: "2.5_Commercial_Development.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2.5_Commercial_Development.pdf](2.5_Commercial_Development.pdf)
+Source PDF: [2.5_Commercial_Development.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-02-05-commercial-development/2.5_Commercial_Development.pdf)
 
 ### CHAPTER 2.5 COMMERCIAL DEVELOPMENT
 

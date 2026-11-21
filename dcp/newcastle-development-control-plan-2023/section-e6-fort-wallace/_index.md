@@ -18,7 +18,7 @@ source_pdf: "E6-Fort-Wallace.pdf"
 
 > This chapter is split into 7 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E6-Fort-Wallace.pdf](E6-Fort-Wallace.pdf)
+Source PDF: [E6-Fort-Wallace.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e6-fort-wallace/E6-Fort-Wallace.pdf)
 
 #### PART E: Place and precincts
 

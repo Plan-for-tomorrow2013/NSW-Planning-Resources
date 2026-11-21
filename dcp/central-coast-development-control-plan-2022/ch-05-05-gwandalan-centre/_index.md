@@ -17,7 +17,7 @@ source_pdf: "5.5_Gwandalan_Centre.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.5_Gwandalan_Centre.pdf](5.5_Gwandalan_Centre.pdf)
+Source PDF: [5.5_Gwandalan_Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-05-gwandalan-centre/5.5_Gwandalan_Centre.pdf)
 
 ### CHAPTER 5.5 GWANDALAN CENTRE
 

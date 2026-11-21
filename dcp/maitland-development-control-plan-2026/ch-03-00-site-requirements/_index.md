@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Chapter 3 Site Requirements.pdf"
 
 > This chapter is split into 23 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Chapter 3 Site Requirements.pdf](MDCP%202026%20-%20Chapter%203%20Site%20Requirements.pdf)
+Source PDF: [MDCP 2026 - Chapter 3 Site Requirements.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/ch-03-00-site-requirements/MDCP%202026%20-%20Chapter%203%20Site%20Requirements.pdf)
 
 ![Picture on page 1](images/ch-03-00-site-requirements-page-1-1.gif)
 

@@ -18,7 +18,7 @@ source_pdf: "chapter_f2_educational_establishments.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_f2_educational_establishments.pdf](chapter_f2_educational_establishments.pdf)
+Source PDF: [chapter_f2_educational_establishments.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-f2-educational-establishments/chapter_f2_educational_establishments.pdf)
 
 ![Picture on page 1](images/chapter-f2-educational-establishments-page-1-1.gif)
 

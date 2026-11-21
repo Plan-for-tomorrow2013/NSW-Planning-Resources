@@ -15,7 +15,7 @@ source_pdf: "Hawkesbury-DCP-2023-Parts-A-and-B-secured - Cover and Contents.pdf"
 ---
 # Hawkesbury Development Control Plan 2023 - Cover and Contents
 
-Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Cover and Contents.pdf](Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Cover%20and%20Contents.pdf)
+Source PDF: [Hawkesbury-DCP-2023-Parts-A-and-B-secured - Cover and Contents.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2023/cover-and-contents/Hawkesbury-DCP-2023-Parts-A-and-B-secured%20-%20Cover%20and%20Contents.pdf)
 
 #### HAWKESBURY
 

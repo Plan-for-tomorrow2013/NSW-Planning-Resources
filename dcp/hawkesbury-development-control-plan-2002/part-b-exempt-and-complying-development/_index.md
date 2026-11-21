@@ -16,7 +16,7 @@ source_pdf: "Part-B-Post-Expo-HLEP2012-update.pdf"
 
 > This chapter is split into 17 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-B-Post-Expo-HLEP2012-update.pdf](Part-B-Post-Expo-HLEP2012-update.pdf)
+Source PDF: [Part-B-Post-Expo-HLEP2012-update.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/part-b-exempt-and-complying-development/Part-B-Post-Expo-HLEP2012-update.pdf)
 
 ### Part B
 

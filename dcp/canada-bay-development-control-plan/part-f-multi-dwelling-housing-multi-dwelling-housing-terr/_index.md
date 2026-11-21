@@ -17,7 +17,7 @@ source_pdf: "ECM_7719480_v3_CCB-DCP-07_Part-F-Multi-Dwelling-RFB_v2022-05-16.pdf
 
 > This chapter is split into 18 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [ECM_7719480_v3_CCB-DCP-07_Part-F-Multi-Dwelling-RFB_v2022-05-16.pdf](ECM_7719480_v3_CCB-DCP-07_Part-F-Multi-Dwelling-RFB_v2022-05-16.pdf)
+Source PDF: [ECM_7719480_v3_CCB-DCP-07_Part-F-Multi-Dwelling-RFB_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-f-multi-dwelling-housing-multi-dwelling-housing-terr/ECM_7719480_v3_CCB-DCP-07_Part-F-Multi-Dwelling-RFB_v2022-05-16.pdf)
 
 ![Picture on page 1](images/part-f-multi-dwelling-housing-multi-dwelling-housing-terr-page-1-1.gif)
 

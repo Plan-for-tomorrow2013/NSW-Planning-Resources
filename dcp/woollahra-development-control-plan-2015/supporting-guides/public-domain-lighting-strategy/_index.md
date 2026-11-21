@@ -19,7 +19,7 @@ source_pdf: "double_bay_centre_-_public_domain_lighting_strategy_2016.pdf"
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [double_bay_centre_-_public_domain_lighting_strategy_2016.pdf](double_bay_centre_-_public_domain_lighting_strategy_2016.pdf)
+Source PDF: [double_bay_centre_-_public_domain_lighting_strategy_2016.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/supporting-guides/public-domain-lighting-strategy/double_bay_centre_-_public_domain_lighting_strategy_2016.pdf)
 
 ### Double Bay, Australia
 

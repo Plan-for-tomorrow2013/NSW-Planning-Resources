@@ -17,7 +17,7 @@ source_pdf: "Waste Management Plan - Demolition and Construction - 2022-06-22.pd
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Waste Management Plan - Demolition and Construction Form
 
-Source PDF: [Waste Management Plan - Demolition and Construction - 2022-06-22.pdf](Waste%20Management%20Plan%20-%20Demolition%20and%20Construction%20-%202022-06-22.pdf)
+Source PDF: [Waste Management Plan - Demolition and Construction - 2022-06-22.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-management-plan-demolition-and-construction/Waste%20Management%20Plan%20-%20Demolition%20and%20Construction%20-%202022-06-22.pdf)
 
 ![Picture on page 1](images/waste-management-plan-demolition-and-construction-page-1-1.gif)
 

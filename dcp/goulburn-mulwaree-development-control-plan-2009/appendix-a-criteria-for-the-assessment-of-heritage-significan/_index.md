@@ -18,7 +18,7 @@ source_pdf: "Appendix-A-Criteria-for-the-Assessment-of-Heritage-Significance-of-
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Appendix-A-Criteria-for-the-Assessment-of-Heritage-Significance-of-Aboriginal-Sites.pdf](Appendix-A-Criteria-for-the-Assessment-of-Heritage-Significance-of-Aboriginal-Sites.pdf)
+Source PDF: [Appendix-A-Criteria-for-the-Assessment-of-Heritage-Significance-of-Aboriginal-Sites.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/appendix-a-criteria-for-the-assessment-of-heritage-significan/Appendix-A-Criteria-for-the-Assessment-of-Heritage-Significance-of-Aboriginal-Sites.pdf)
 
 <!-- sections -->
 ## Sections

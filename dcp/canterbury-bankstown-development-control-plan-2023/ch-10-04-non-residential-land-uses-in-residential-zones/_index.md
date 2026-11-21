@@ -18,7 +18,7 @@ source_pdf: "2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 10.4 - Non Residentia
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 10.4 - Non Residential Land Uses.pdf](2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Chapter%2010.4%20-%20Non%20Residential%20Land%20Uses.pdf)
+Source PDF: [2025.08.01 - DCP 2023 - AMENDMENT 8 - Chapter 10.4 - Non Residential Land Uses.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-10-04-non-residential-land-uses-in-residential-zones/2025.08.01%20-%20DCP%202023%20-%20AMENDMENT%208%20-%20Chapter%2010.4%20-%20Non%20Residential%20Land%20Uses.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

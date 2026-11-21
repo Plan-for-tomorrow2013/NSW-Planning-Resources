@@ -18,7 +18,7 @@ source_pdf: "Walgett Shire  Development Control Plan 2016.pdf"
 
 > This chapter is split into 52 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Walgett Shire  Development Control Plan 2016.pdf](Walgett%20Shire%20%20Development%20Control%20Plan%202016.pdf)
+Source PDF: [Walgett Shire  Development Control Plan 2016.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/walgett-shire-development-control-plan-2016/walgett-shire-development-control-plan-2016/Walgett%20Shire%20%20Development%20Control%20Plan%202016.pdf)
 
 ### Walgett Shire
 

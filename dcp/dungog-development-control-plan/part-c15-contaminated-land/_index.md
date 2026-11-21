@@ -17,7 +17,7 @@ source_pdf: "PART-C.15-CONTAMINATED-LAND.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PART-C.15-CONTAMINATED-LAND.pdf](PART-C.15-CONTAMINATED-LAND.pdf)
+Source PDF: [PART-C.15-CONTAMINATED-LAND.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c15-contaminated-land/PART-C.15-CONTAMINATED-LAND.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

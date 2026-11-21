@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Tourist-and-Visitor-Accommodation.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Tourist and Visitor Accommodation
 
-Source PDF: [Waste-Management-Guideline-Tourist-and-Visitor-Accommodation.pdf](Waste-Management-Guideline-Tourist-and-Visitor-Accommodation.pdf)
+Source PDF: [Waste-Management-Guideline-Tourist-and-Visitor-Accommodation.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-tourist-and-visitor-acc/Waste-Management-Guideline-Tourist-and-Visitor-Accommodation.pdf)
 
 ### Cessnock LGA
 

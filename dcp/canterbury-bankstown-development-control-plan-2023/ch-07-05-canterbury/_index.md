@@ -18,7 +18,7 @@ source_pdf: "2026.03.30 - DCP 2023 - AMENDMENT 12 - Chapter 7.5 - Canterbury Loc
 
 > This chapter is split into 55 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2026.03.30 - DCP 2023 - AMENDMENT 12 - Chapter 7.5 - Canterbury Local Centre.pdf](2026.03.30%20-%20DCP%202023%20-%20AMENDMENT%2012%20-%20Chapter%207.5%20-%20Canterbury%20Local%20Centre.pdf)
+Source PDF: [2026.03.30 - DCP 2023 - AMENDMENT 12 - Chapter 7.5 - Canterbury Local Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-07-05-canterbury/2026.03.30%20-%20DCP%202023%20-%20AMENDMENT%2012%20-%20Chapter%207.5%20-%20Canterbury%20Local%20Centre.pdf)
 
 ![Picture on page 1](images/ch-07-05-canterbury-page-1-1.gif)
 

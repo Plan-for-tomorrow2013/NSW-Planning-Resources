@@ -18,7 +18,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 10.6 - Commercial Lan
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 10.6 - Commercial Land Uses.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2010.6%20-%20Commercial%20Land%20Uses.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 10.6 - Commercial Land Uses.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-10-06-commercial-land-uses/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2010.6%20-%20Commercial%20Land%20Uses.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

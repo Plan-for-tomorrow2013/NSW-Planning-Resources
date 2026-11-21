@@ -18,7 +18,7 @@ source_pdf: "chapter-e2-stormwater-flood-and-geotechnical-risk-management.pdf"
 
 > This chapter is split into 25 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-e2-stormwater-flood-and-geotechnical-risk-management.pdf](chapter-e2-stormwater-flood-and-geotechnical-risk-management.pdf)
+Source PDF: [chapter-e2-stormwater-flood-and-geotechnical-risk-management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-e2-stormwater-flood-and-geotechnical-risk-management/chapter-e2-stormwater-flood-and-geotechnical-risk-management.pdf)
 
 ![Picture on page 1](images/chapter-e2-stormwater-flood-and-geotechnical-risk-management-page-1-1.gif)
 

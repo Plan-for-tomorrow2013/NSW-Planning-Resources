@@ -18,7 +18,7 @@ source_pdf: "E5-Newcastle-city-centre.pdf"
 
 > This chapter is split into 30 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E5-Newcastle-city-centre.pdf](E5-Newcastle-city-centre.pdf)
+Source PDF: [E5-Newcastle-city-centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e5-newcastle-city-centre/E5-Newcastle-city-centre.pdf)
 
 ### PART E: Place and precincts
 

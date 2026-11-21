@@ -18,7 +18,7 @@ source_pdf: "Part-8-Site-Specific-Provisions_1.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-8-Site-Specific-Provisions_1.pdf](Part-8-Site-Specific-Provisions_1.pdf)
+Source PDF: [Part-8-Site-Specific-Provisions_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-08-site-specific-provisions/Part-8-Site-Specific-Provisions_1.pdf)
 
 <!-- sections -->
 ## Sections

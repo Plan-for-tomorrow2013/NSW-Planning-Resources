@@ -18,7 +18,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.6 - Potts Hill.pdf
 
 > This chapter is split into 6 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.6 - Potts Hill.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2011.6%20-%20Potts%20Hill.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 11.6 - Potts Hill.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-11-06-former-potts-hill-reservoirs-site/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2011.6%20-%20Potts%20Hill.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

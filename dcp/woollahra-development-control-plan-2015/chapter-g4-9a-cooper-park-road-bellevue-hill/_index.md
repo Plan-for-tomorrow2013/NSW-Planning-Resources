@@ -18,7 +18,7 @@ source_pdf: "chapter-g4-9a-cooper-park-road.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-g4-9a-cooper-park-road.pdf](chapter-g4-9a-cooper-park-road.pdf)
+Source PDF: [chapter-g4-9a-cooper-park-road.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g4-9a-cooper-park-road-bellevue-hill/chapter-g4-9a-cooper-park-road.pdf)
 
 ![Picture on page 1](images/chapter-g4-9a-cooper-park-road-bellevue-hill-page-1-1.gif)
 

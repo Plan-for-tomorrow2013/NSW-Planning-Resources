@@ -18,7 +18,7 @@ source_pdf: "D15-Specific-sites-Randwick-DCP-2025_Final.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D15-Specific-sites-Randwick-DCP-2025_Final.pdf](D15-Specific-sites-Randwick-DCP-2025_Final.pdf)
+Source PDF: [D15-Specific-sites-Randwick-DCP-2025_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-d15-specific-sites/D15-Specific-sites-Randwick-DCP-2025_Final.pdf)
 
 #### STRATEGIC PLANNING
 

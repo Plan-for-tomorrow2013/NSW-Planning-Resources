@@ -19,7 +19,7 @@ source_pdf: "2024.08.06 - Development Engineering Standards Guide.pdf"
 
 > This chapter is split into 11 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2024.08.06 - Development Engineering Standards Guide.pdf](2024.08.06%20-%20Development%20Engineering%20Standards%20Guide.pdf)
+Source PDF: [2024.08.06 - Development Engineering Standards Guide.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/development-engineering-standards-guide/2024.08.06%20-%20Development%20Engineering%20Standards%20Guide.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

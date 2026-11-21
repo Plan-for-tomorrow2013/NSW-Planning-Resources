@@ -17,7 +17,7 @@ source_pdf: "5.38_Warnervale_Business_Park.pdf"
 
 > This chapter is split into 2 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.38_Warnervale_Business_Park.pdf](5.38_Warnervale_Business_Park.pdf)
+Source PDF: [5.38_Warnervale_Business_Park.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-38-warnervale-business-park/5.38_Warnervale_Business_Park.pdf)
 
 <!-- sections -->
 ## Sections

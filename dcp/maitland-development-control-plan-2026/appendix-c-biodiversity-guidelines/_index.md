@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Appendix C Biodiversity Guidelines.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Appendix C Biodiversity Guidelines.pdf](MDCP%202026%20-%20Appendix%20C%20Biodiversity%20Guidelines.pdf)
+Source PDF: [MDCP 2026 - Appendix C Biodiversity Guidelines.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/appendix-c-biodiversity-guidelines/MDCP%202026%20-%20Appendix%20C%20Biodiversity%20Guidelines.pdf)
 
 ![Picture on page 1](images/appendix-c-biodiversity-guidelines-page-1-1.gif)
 

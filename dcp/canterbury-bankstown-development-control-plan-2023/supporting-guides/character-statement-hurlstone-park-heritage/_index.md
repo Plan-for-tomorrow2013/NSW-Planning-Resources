@@ -19,7 +19,7 @@ source_pdf: "2025.04.17 - DCP 2023 - AMENDMENT 6 - Character Statement - Hurlsto
 
 > This chapter is split into 6 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Character Statement - Hurlstone Park.pdf](2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Character%20Statement%20-%20Hurlstone%20Park.pdf)
+Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Character Statement - Hurlstone Park.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/character-statement-hurlstone-park-heritage/2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Character%20Statement%20-%20Hurlstone%20Park.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

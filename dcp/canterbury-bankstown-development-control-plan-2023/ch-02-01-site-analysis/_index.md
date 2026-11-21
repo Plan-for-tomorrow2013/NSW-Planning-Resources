@@ -18,7 +18,7 @@ source_pdf: "2025_08_01_-_DCP_2023_-_AMENDMENT_8_-_Chapter_2_1_-_Site_Analysis_p
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2025_08_01_-_DCP_2023_-_AMENDMENT_8_-_Chapter_2_1_-_Site_Analysis_pdf.pdf](2025_08_01_-_DCP_2023_-_AMENDMENT_8_-_Chapter_2_1_-_Site_Analysis_pdf.pdf)
+Source PDF: [2025_08_01_-_DCP_2023_-_AMENDMENT_8_-_Chapter_2_1_-_Site_Analysis_pdf.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-02-01-site-analysis/2025_08_01_-_DCP_2023_-_AMENDMENT_8_-_Chapter_2_1_-_Site_Analysis_pdf.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

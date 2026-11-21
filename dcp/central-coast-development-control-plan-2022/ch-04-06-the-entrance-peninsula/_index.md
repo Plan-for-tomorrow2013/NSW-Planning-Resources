@@ -17,7 +17,7 @@ source_pdf: "4.6 The-Entrance-Peninsula.pdf"
 
 > This chapter is split into 22 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [4.6 The-Entrance-Peninsula.pdf](4.6%20The-Entrance-Peninsula.pdf)
+Source PDF: [4.6 The-Entrance-Peninsula.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-04-06-the-entrance-peninsula/4.6%20The-Entrance-Peninsula.pdf)
 
 <!-- sections -->
 ## Sections

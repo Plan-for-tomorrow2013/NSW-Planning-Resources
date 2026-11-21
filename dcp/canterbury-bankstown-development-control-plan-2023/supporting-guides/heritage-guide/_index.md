@@ -17,7 +17,7 @@ source_pdf: "2024.08.06 - Heritage Guide.pdf"
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Heritage Guide
 
-Source PDF: [2024.08.06 - Heritage Guide.pdf](2024.08.06%20-%20Heritage%20Guide.pdf)
+Source PDF: [2024.08.06 - Heritage Guide.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/heritage-guide/2024.08.06%20-%20Heritage%20Guide.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

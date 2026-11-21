@@ -18,7 +18,7 @@ source_pdf: "Amd-6-GRDCP-Part-8-1-Kogarah-Strategic-Centre.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Amd-6-GRDCP-Part-8-1-Kogarah-Strategic-Centre.pdf](Amd-6-GRDCP-Part-8-1-Kogarah-Strategic-Centre.pdf)
+Source PDF: [Amd-6-GRDCP-Part-8-1-Kogarah-Strategic-Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/georges-river-development-control-plan-2021/part-08-1-kogarah-strategic-centre/Amd-6-GRDCP-Part-8-1-Kogarah-Strategic-Centre.pdf)
 
 > [Picture on page 1, not reproduced as text; see the original PDF.]
 

@@ -18,7 +18,7 @@ source_pdf: "chapter_g1_babworth_house.pdf"
 
 > This chapter is split into 26 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_g1_babworth_house.pdf](chapter_g1_babworth_house.pdf)
+Source PDF: [chapter_g1_babworth_house.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g1-babworth-house-darling-point/chapter_g1_babworth_house.pdf)
 
 ![Picture on page 1](images/chapter-g1-babworth-house-darling-point-page-1-1.gif)
 

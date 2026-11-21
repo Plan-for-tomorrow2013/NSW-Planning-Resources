@@ -18,7 +18,7 @@ source_pdf: "part1preliminaryvolume3.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part1preliminaryvolume3.pdf](part1preliminaryvolume3.pdf)
+Source PDF: [part1preliminaryvolume3.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-3-part-01-preliminary/part1preliminaryvolume3.pdf)
 
 <!-- sections -->
 ## Sections

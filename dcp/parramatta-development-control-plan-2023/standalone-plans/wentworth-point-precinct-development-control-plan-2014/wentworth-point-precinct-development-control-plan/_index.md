@@ -17,7 +17,7 @@ source_pdf: "wentworth-point-precinct-development-control-plan-2014.pdf"
 
 > This chapter is split into 37 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [wentworth-point-precinct-development-control-plan-2014.pdf](wentworth-point-precinct-development-control-plan-2014.pdf)
+Source PDF: [wentworth-point-precinct-development-control-plan-2014.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/standalone-plans/wentworth-point-precinct-development-control-plan-2014/wentworth-point-precinct-development-control-plan/wentworth-point-precinct-development-control-plan-2014.pdf)
 
 ### Wentworth Point Precinct
 

@@ -18,7 +18,7 @@ source_pdf: "Part-4-Principal-Development-Controls-Urban.pdf"
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Part-4-Principal-Development-Controls-Urban.pdf](Part-4-Principal-Development-Controls-Urban.pdf)
+Source PDF: [Part-4-Principal-Development-Controls-Urban.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-04-principal-development-controls-urban/Part-4-Principal-Development-Controls-Urban.pdf)
 
 ## 4 Principal development controls – urban
 

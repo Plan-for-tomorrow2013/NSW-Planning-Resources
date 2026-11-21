@@ -18,7 +18,7 @@ source_pdf: "chapter-b4-housing-in-accessible-areas_2.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-b4-housing-in-accessible-areas_2.pdf](chapter-b4-housing-in-accessible-areas_2.pdf)
+Source PDF: [chapter-b4-housing-in-accessible-areas_2.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-b4-housing-in-accessible-areas/chapter-b4-housing-in-accessible-areas_2.pdf)
 
 ![Picture on page 1](images/chapter-b4-housing-in-accessible-areas-page-1-1.gif)
 

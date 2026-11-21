@@ -17,7 +17,7 @@ source_pdf: "D10 - Sex Services Premises.pdf"
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D10 - Sex Services Premises.pdf](D10%20-%20Sex%20Services%20Premises.pdf)
+Source PDF: [D10 - Sex Services Premises.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d10-sex-service-premises/D10%20-%20Sex%20Services%20Premises.pdf)
 
 #### D.10: BROTHELS / SEX SERVICE PREMISES
 

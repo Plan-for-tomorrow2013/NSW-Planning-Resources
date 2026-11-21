@@ -18,7 +18,7 @@ source_pdf: "PRCUTS Stage 1 - Infrastructure Strategy (Final) - 13 02 2023.pdf"
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PRCUTS Stage 1 - Infrastructure Strategy (Final) - 13 02 2023.pdf](PRCUTS%20Stage%201%20-%20Infrastructure%20Strategy%20%28Final%29%20-%2013%2002%202023.pdf)
+Source PDF: [PRCUTS Stage 1 - Infrastructure Strategy (Final) - 13 02 2023.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/supporting-guides/prcuts-stage-1-infrastructure-strategy/PRCUTS%20Stage%201%20-%20Infrastructure%20Strategy%20%28Final%29%20-%2013%2002%202023.pdf)
 
 ### Infrastructure Strategy
 

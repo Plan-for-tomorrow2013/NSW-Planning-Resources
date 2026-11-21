@@ -17,7 +17,7 @@ source_pdf: "Cumberland DCP 2021 Part F2 - Updated.pdf"
 
 > This chapter is split into 16 section file(s), one per sub-part heading, in the order they appear in the PDF.
 
-Source PDF: [Cumberland DCP 2021 Part F2 - Updated.pdf](Cumberland%20DCP%202021%20Part%20F2%20-%20Updated.pdf)
+Source PDF: [Cumberland DCP 2021 Part F2 - Updated.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cumberland-development-control-plan-2021/part-f2-business-site-specific/Cumberland%20DCP%202021%20Part%20F2%20-%20Updated.pdf)
 
 ![Picture on page 1](images/part-f2-business-site-specific-page-1-1.gif)
 

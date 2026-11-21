@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-c-part-22-general-access-and-parking.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-c-part-22-general-access-and-parking.pdf](kdcp-section-c-part-22-general-access-and-parking.pdf)
+Source PDF: [kdcp-section-c-part-22-general-access-and-parking.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-22-general-access-and-parking/kdcp-section-c-part-22-general-access-and-parking.pdf)
 
 ### PART
 

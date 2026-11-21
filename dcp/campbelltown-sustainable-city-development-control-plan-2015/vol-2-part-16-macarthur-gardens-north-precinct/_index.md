@@ -18,7 +18,7 @@ source_pdf: "attachment-1-vol-2-part-16-macarthur-gardens-north-dcp-final.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [attachment-1-vol-2-part-16-macarthur-gardens-north-dcp-final.pdf](attachment-1-vol-2-part-16-macarthur-gardens-north-dcp-final.pdf)
+Source PDF: [attachment-1-vol-2-part-16-macarthur-gardens-north-dcp-final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-16-macarthur-gardens-north-precinct/attachment-1-vol-2-part-16-macarthur-gardens-north-dcp-final.pdf)
 
 <!-- sections -->
 ## Sections

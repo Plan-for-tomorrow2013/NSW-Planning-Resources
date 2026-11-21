@@ -17,7 +17,7 @@ source_pdf: "C6 - Access and Mobility.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C6 - Access and Mobility.pdf](C6%20-%20Access%20and%20Mobility.pdf)
+Source PDF: [C6 - Access and Mobility.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c6-access-and-mobility/C6%20-%20Access%20and%20Mobility.pdf)
 
 #### C.6 ACCESS AND MOBILITY
 

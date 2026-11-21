@@ -18,7 +18,7 @@ source_pdf: "part-19-macarthur-grange-development-control-plan-volume-2-final.pd
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part-19-macarthur-grange-development-control-plan-volume-2-final.pdf](part-19-macarthur-grange-development-control-plan-volume-2-final.pdf)
+Source PDF: [part-19-macarthur-grange-development-control-plan-volume-2-final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-19-macarthur-grange-site-specific-development-control/part-19-macarthur-grange-development-control-plan-volume-2-final.pdf)
 
 <!-- sections -->
 ## Sections

@@ -16,7 +16,7 @@ source_pdf: "C13-Recreation-zones-Randwick-DCP-Stage-2_Final.pdf"
 ---
 # Randwick Development Control Plan - Part C13 Recreation zones
 
-Source PDF: [C13-Recreation-zones-Randwick-DCP-Stage-2_Final.pdf](C13-Recreation-zones-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [C13-Recreation-zones-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-c13-recreation-zones/C13-Recreation-zones-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

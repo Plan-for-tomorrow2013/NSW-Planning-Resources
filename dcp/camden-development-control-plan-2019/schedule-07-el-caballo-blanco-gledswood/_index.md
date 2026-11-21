@@ -16,7 +16,7 @@ source_pdf: "DCP-2019-Final-Schedule-7-El-Caballo-Blanco-Gledswood.pdf"
 
 > This chapter is split into 22 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-2019-Final-Schedule-7-El-Caballo-Blanco-Gledswood.pdf](DCP-2019-Final-Schedule-7-El-Caballo-Blanco-Gledswood.pdf)
+Source PDF: [DCP-2019-Final-Schedule-7-El-Caballo-Blanco-Gledswood.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/schedule-07-el-caballo-blanco-gledswood/DCP-2019-Final-Schedule-7-El-Caballo-Blanco-Gledswood.pdf)
 
 
 ### Contents

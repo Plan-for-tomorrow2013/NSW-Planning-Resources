@@ -18,7 +18,7 @@ source_pdf: "E1-Built-and-landscape-heritage.pdf"
 
 > This chapter is split into 18 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E1-Built-and-landscape-heritage.pdf](E1-Built-and-landscape-heritage.pdf)
+Source PDF: [E1-Built-and-landscape-heritage.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e1-built-and-landscape-heritage/E1-Built-and-landscape-heritage.pdf)
 
 _________________________________________________________________________________________
 

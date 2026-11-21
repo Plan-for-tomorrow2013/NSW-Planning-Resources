@@ -18,7 +18,7 @@ source_pdf: "chapter-e1-parking-and-access-23may2025.pdf"
 
 > This chapter is split into 16 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-e1-parking-and-access-23may2025.pdf](chapter-e1-parking-and-access-23may2025.pdf)
+Source PDF: [chapter-e1-parking-and-access-23may2025.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-e1-parking-and-access/chapter-e1-parking-and-access-23may2025.pdf)
 
 ![Picture on page 1](images/chapter-e1-parking-and-access-page-1-1.gif)
 

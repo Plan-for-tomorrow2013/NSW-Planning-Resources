@@ -17,7 +17,7 @@ source_pdf: "D11 - Restricted Premises.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D11 - Restricted Premises.pdf](D11%20-%20Restricted%20Premises.pdf)
+Source PDF: [D11 - Restricted Premises.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d11-restricted-premises/D11%20-%20Restricted%20Premises.pdf)
 
 Part D: Specific Development Chapter 11: Restricted Premises
 

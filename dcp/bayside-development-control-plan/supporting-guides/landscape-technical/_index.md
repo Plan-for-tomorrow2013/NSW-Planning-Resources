@@ -18,7 +18,7 @@ source_pdf: "landscape_technical_specification_0.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [landscape_technical_specification_0.pdf](landscape_technical_specification_0.pdf)
+Source PDF: [landscape_technical_specification_0.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/supporting-guides/landscape-technical/landscape_technical_specification_0.pdf)
 
 ### Landscape Technical
 

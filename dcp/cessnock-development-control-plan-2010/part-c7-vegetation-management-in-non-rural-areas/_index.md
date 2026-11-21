@@ -15,7 +15,7 @@ source_pdf: "C7 - Vegetation Management.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part C7 Vegetation Management in non-rural areas
 
-Source PDF: [C7 - Vegetation Management.pdf](C7%20-%20Vegetation%20Management.pdf)
+Source PDF: [C7 - Vegetation Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c7-vegetation-management-in-non-rural-areas/C7%20-%20Vegetation%20Management.pdf)
 
 ### Vegetation Management in non-rural areas
 

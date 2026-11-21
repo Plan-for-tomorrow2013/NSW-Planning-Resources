@@ -18,7 +18,7 @@ source_pdf: "volume-2-part-15-glenfield-east.pdf"
 
 > This chapter is split into 22 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [volume-2-part-15-glenfield-east.pdf](volume-2-part-15-glenfield-east.pdf)
+Source PDF: [volume-2-part-15-glenfield-east.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-15-glenfield-east-development-control-plan/volume-2-part-15-glenfield-east.pdf)
 
 ### Campbelltown
 

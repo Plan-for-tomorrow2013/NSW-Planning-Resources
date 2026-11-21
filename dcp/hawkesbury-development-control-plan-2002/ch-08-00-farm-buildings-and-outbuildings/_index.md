@@ -18,7 +18,7 @@ source_pdf: "PART-D-Chapter-8-Farm-Buildings-and-Outbuildings-July-2015.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PART-D-Chapter-8-Farm-Buildings-and-Outbuildings-July-2015.pdf](PART-D-Chapter-8-Farm-Buildings-and-Outbuildings-July-2015.pdf)
+Source PDF: [PART-D-Chapter-8-Farm-Buildings-and-Outbuildings-July-2015.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/ch-08-00-farm-buildings-and-outbuildings/PART-D-Chapter-8-Farm-Buildings-and-Outbuildings-July-2015.pdf)
 
 <!-- sections -->
 ## Sections

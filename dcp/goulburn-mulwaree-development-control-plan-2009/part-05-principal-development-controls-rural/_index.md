@@ -18,7 +18,7 @@ source_pdf: "Part-5-Principal-Development-Controls-Rural.pdf"
 
 > This chapter is split into 10 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Part-5-Principal-Development-Controls-Rural.pdf](Part-5-Principal-Development-Controls-Rural.pdf)
+Source PDF: [Part-5-Principal-Development-Controls-Rural.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-05-principal-development-controls-rural/Part-5-Principal-Development-Controls-Rural.pdf)
 
 ## 5 Principal development controls – rural
 

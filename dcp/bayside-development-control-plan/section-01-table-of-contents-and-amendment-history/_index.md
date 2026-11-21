@@ -15,7 +15,7 @@ source_pdf: "26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Se
 ---
 # Bayside Development Control Plan 2022 - Section 1 Table of Contents and Amendment History
 
-Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 1 Table of Contents and Amendment History.pdf](26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%201%20Table%20of%20Contents%20and%20Amendment%20History.pdf)
+Source PDF: [26 102612  Bayside Development Control Plan 2022 - Amendment 2 - Section 1 Table of Contents and Amendment History.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/section-01-table-of-contents-and-amendment-history/26%20102612%20%20Bayside%20Development%20Control%20Plan%202022%20-%20Amendment%202%20-%20Section%201%20Table%20of%20Contents%20and%20Amendment%20History.pdf)
 
 ## 1 Table of Contents and Amendment History
 

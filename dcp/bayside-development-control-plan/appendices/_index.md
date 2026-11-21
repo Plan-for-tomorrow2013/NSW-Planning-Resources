@@ -15,7 +15,7 @@ checked_by_tania: 2026-10-26
 ---
 # Bayside Development Control Plan 2022 - Appendices
 
-Source PDF: [bayside_dcp_2022_appendices.pdf](bayside_dcp_2022_appendices.pdf)
+Source PDF: [bayside_dcp_2022_appendices.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/appendices/bayside_dcp_2022_appendices.pdf)
 
 ### Appendices
 

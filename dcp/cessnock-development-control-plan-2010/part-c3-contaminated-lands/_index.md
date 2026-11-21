@@ -15,7 +15,7 @@ source_pdf: "C3 - Contaminated Lands.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part C3 Contaminated Lands
 
-Source PDF: [C3 - Contaminated Lands.pdf](C3%20-%20Contaminated%20Lands.pdf)
+Source PDF: [C3 - Contaminated Lands.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c3-contaminated-lands/C3%20-%20Contaminated%20Lands.pdf)
 
 Cessnock Comprehensive Development Control Plan | Issue-Based Provisions | Hazards | Contaminated Lands
 

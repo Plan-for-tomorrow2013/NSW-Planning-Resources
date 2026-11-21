@@ -18,7 +18,7 @@ source_pdf: "part-18-80-osullivan-road-development-control-plan-volume-2.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part-18-80-osullivan-road-development-control-plan-volume-2.pdf](part-18-80-osullivan-road-development-control-plan-volume-2.pdf)
+Source PDF: [part-18-80-osullivan-road-development-control-plan-volume-2.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-2-part-18-80-o-sullivan-road-development-control-plan/part-18-80-osullivan-road-development-control-plan-volume-2.pdf)
 
 <!-- sections -->
 ## Sections

@@ -18,7 +18,7 @@ source_pdf: "C5 - Waste Management.pdf"
 
 > This chapter is split into 11 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [C5 - Waste Management.pdf](C5%20-%20Waste%20Management.pdf)
+Source PDF: [C5 - Waste Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-c5-waste-management/C5%20-%20Waste%20Management.pdf)
 
 ### C5: Waste Management
 

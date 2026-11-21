@@ -16,7 +16,7 @@ source_pdf: "Scenic_Quality_and_Character_Statements_0.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Scenic Quality and Character Statements
 
-Source PDF: [Scenic_Quality_and_Character_Statements_0.pdf](Scenic_Quality_and_Character_Statements_0.pdf)
+Source PDF: [Scenic_Quality_and_Character_Statements_0.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/supporting-guides/scenic-quality-and-character-statements/Scenic_Quality_and_Character_Statements_0.pdf)
 
 Note: For Character Statement Links refer to the end of this document.
 

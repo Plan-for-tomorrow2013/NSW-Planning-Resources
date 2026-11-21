@@ -16,7 +16,7 @@ source_pdf: "3.2_Coastal_Hazard_Mapping_Southern_Area_0.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Coastal Hazard Mapping (Southern Area)
 
-Source PDF: [3.2_Coastal_Hazard_Mapping_Southern_Area_0.pdf](3.2_Coastal_Hazard_Mapping_Southern_Area_0.pdf)
+Source PDF: [3.2_Coastal_Hazard_Mapping_Southern_Area_0.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/supporting-guides/coastal-hazard-mapping-southern-area/3.2_Coastal_Hazard_Mapping_Southern_Area_0.pdf)
 
 #### Avoca Beach
 

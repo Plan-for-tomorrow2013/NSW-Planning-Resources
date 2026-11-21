@@ -16,7 +16,7 @@ source_pdf: "3.2_Coastal_Hazard_Mapping_Northern_Area.pdf"
 ---
 # Central Coast Development Control Plan 2022 - Coastal Hazard Mapping (Northern Area)
 
-Source PDF: [3.2_Coastal_Hazard_Mapping_Northern_Area.pdf](3.2_Coastal_Hazard_Mapping_Northern_Area.pdf)
+Source PDF: [3.2_Coastal_Hazard_Mapping_Northern_Area.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/supporting-guides/coastal-hazard-mapping-northern-area/3.2_Coastal_Hazard_Mapping_Northern_Area.pdf)
 
 ![Picture on page 1](images/coastal-hazard-mapping-northern-area-page-1-1.gif)
 

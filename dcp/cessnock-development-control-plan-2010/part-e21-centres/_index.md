@@ -18,7 +18,7 @@ source_pdf: "E21 - Centres.pdf"
 
 > This chapter is split into 6 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [E21 - Centres.pdf](E21%20-%20Centres.pdf)
+Source PDF: [E21 - Centres.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-e21-centres/E21%20-%20Centres.pdf)
 
 Cessnock Comprehensive Development Control Plan |Area-based Provisions| Centres
 

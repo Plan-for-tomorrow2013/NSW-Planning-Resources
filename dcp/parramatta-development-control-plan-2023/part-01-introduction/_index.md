@@ -17,7 +17,7 @@ source_pdf: "dcp-part-1-introduction.pdf"
 
 > This chapter is split into 9 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [dcp-part-1-introduction.pdf](dcp-part-1-introduction.pdf)
+Source PDF: [dcp-part-1-introduction.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/part-01-introduction/dcp-part-1-introduction.pdf)
 
 ![Picture on page 1](images/part-01-introduction-page-1-1.gif)
 

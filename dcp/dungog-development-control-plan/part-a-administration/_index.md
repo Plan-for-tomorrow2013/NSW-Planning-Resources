@@ -18,7 +18,7 @@ source_pdf: "PART-A-ADMINISTRATION-NEW-UPDATE-18.6.25.pdf"
 
 > This chapter is split into 25 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [PART-A-ADMINISTRATION-NEW-UPDATE-18.6.25.pdf](PART-A-ADMINISTRATION-NEW-UPDATE-18.6.25.pdf)
+Source PDF: [PART-A-ADMINISTRATION-NEW-UPDATE-18.6.25.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-a-administration/PART-A-ADMINISTRATION-NEW-UPDATE-18.6.25.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

@@ -17,7 +17,7 @@ source_pdf: "DCP-10_Part-I-Signage-Advertising_v2022-05-16.pdf"
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP-10_Part-I-Signage-Advertising_v2022-05-16.pdf](DCP-10_Part-I-Signage-Advertising_v2022-05-16.pdf)
+Source PDF: [DCP-10_Part-I-Signage-Advertising_v2022-05-16.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canada-bay-development-control-plan/part-i-signage-and-advertising/DCP-10_Part-I-Signage-Advertising_v2022-05-16.pdf)
 
 ![Picture on page 1](images/part-i-signage-and-advertising-page-1-1.gif)
 

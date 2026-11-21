@@ -18,7 +18,7 @@ source_pdf: "E7-Wickham.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [E7-Wickham.pdf](E7-Wickham.pdf)
+Source PDF: [E7-Wickham.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-e7-wickham/E7-Wickham.pdf)
 
 #### PART E: Place and precincts
 

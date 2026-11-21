@@ -18,7 +18,7 @@ source_pdf: "2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 6.3 - Campsie Town Ce
 
 > This chapter is split into 5 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 6.3 - Campsie Town Centre.pdf](2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%206.3%20-%20Campsie%20Town%20Centre.pdf)
+Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 6.3 - Campsie Town Centre.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-06-03-campsie-town-centre/2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%206.3%20-%20Campsie%20Town%20Centre.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

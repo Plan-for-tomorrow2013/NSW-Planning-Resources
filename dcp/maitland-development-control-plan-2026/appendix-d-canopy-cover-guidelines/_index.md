@@ -18,7 +18,7 @@ source_pdf: "MDCP 2026 - Appendix D Canopy Cover Guidelines.pdf"
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [MDCP 2026 - Appendix D Canopy Cover Guidelines.pdf](MDCP%202026%20-%20Appendix%20D%20Canopy%20Cover%20Guidelines.pdf)
+Source PDF: [MDCP 2026 - Appendix D Canopy Cover Guidelines.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/maitland-development-control-plan-2026/appendix-d-canopy-cover-guidelines/MDCP%202026%20-%20Appendix%20D%20Canopy%20Cover%20Guidelines.pdf)
 
 ![Picture on page 1](images/appendix-d-canopy-cover-guidelines-page-1-1.gif)
 

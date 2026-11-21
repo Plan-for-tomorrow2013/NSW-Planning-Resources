@@ -18,7 +18,7 @@ source_pdf: "part-5-residential-flat-buildings-and-mixeduse-development-amendmen
 
 > This chapter is split into 8 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [part-5-residential-flat-buildings-and-mixeduse-development-amendment-21-sept2024.pdf](part-5-residential-flat-buildings-and-mixeduse-development-amendment-21-sept2024.pdf)
+Source PDF: [part-5-residential-flat-buildings-and-mixeduse-development-amendment-21-sept2024.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/vol-1-part-05-residential-flat-buildings-and-mixed-use-developme/part-5-residential-flat-buildings-and-mixeduse-development-amendment-21-sept2024.pdf)
 
 <!-- sections -->
 ## Sections

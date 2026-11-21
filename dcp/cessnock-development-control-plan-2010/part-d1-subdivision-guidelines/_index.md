@@ -19,7 +19,7 @@ source_pdf: "D1 - Subdivision Guidelines.pdf"
 
 > This chapter is split into 23 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D1 - Subdivision Guidelines.pdf](D1%20-%20Subdivision%20Guidelines.pdf)
+Source PDF: [D1 - Subdivision Guidelines.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d1-subdivision-guidelines/D1%20-%20Subdivision%20Guidelines.pdf)
 
 ### D1: Subdivision Guidelines
 

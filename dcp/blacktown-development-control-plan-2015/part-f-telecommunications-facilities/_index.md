@@ -16,7 +16,7 @@ source_pdf: "Part-F-Telecommunications-Facilities.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-F-Telecommunications-Facilities.pdf](Part-F-Telecommunications-Facilities.pdf)
+Source PDF: [Part-F-Telecommunications-Facilities.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-f-telecommunications-facilities/Part-F-Telecommunications-Facilities.pdf)
 
 ![Picture on page 1](images/part-f-telecommunications-facilities-page-1-1.gif)
 

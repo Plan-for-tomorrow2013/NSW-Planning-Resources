@@ -18,7 +18,7 @@ source_pdf: "chapter-d3-general-controls-for-neighbourhood-and.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter-d3-general-controls-for-neighbourhood-and.pdf](chapter-d3-general-controls-for-neighbourhood-and.pdf)
+Source PDF: [chapter-d3-general-controls-for-neighbourhood-and.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-d3-general-controls-for-neighbourhood-and-mixed-use-c/chapter-d3-general-controls-for-neighbourhood-and.pdf)
 
 ![Picture on page 1](images/chapter-d3-general-controls-for-neighbourhood-and-mixed-use-page-1-1.gif)
 

@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-b-part-18r-references-greenweb-maps.pdf"
 
 > This chapter is split into 36 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-b-part-18r-references-greenweb-maps.pdf](kdcp-section-b-part-18r-references-greenweb-maps.pdf)
+Source PDF: [kdcp-section-b-part-18r-references-greenweb-maps.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-18r-18r-references-18r-1-greenweb-maps/kdcp-section-b-part-18r-references-greenweb-maps.pdf)
 
 ### PART
 

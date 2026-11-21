@@ -16,7 +16,7 @@ source_pdf: "2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 10.7 - Sex Services P
 ---
 # Canterbury-Bankstown Development Control Plan 2023 - Chapter 10.7 Sex Services Premises
 
-Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 10.7 - Sex Services Premises.pdf](2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2010.7%20-%20Sex%20Services%20Premises.pdf)
+Source PDF: [2024.08.06 - DCP 2023 - AMENDMENT 4 - Chapter 10.7 - Sex Services Premises.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-10-07-sex-services-premises/2024.08.06%20-%20DCP%202023%20-%20AMENDMENT%204%20-%20Chapter%2010.7%20-%20Sex%20Services%20Premises.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

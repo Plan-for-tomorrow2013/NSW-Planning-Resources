@@ -17,7 +17,7 @@ source_pdf: "DCP_PARTE.pdf"
 
 > This chapter is split into 19 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [DCP_PARTE.pdf](DCP_PARTE.pdf)
+Source PDF: [DCP_PARTE.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/hawkesbury-development-control-plan-2002/part-e-specific-areas/DCP_PARTE.pdf)
 
 ### PART E SPECIFIC AREAS
 

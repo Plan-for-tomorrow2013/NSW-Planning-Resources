@@ -17,7 +17,7 @@ source_pdf: "Land-Use-Planning-_-Cessnock-DCP-2010-_-F1-Heddon-Greta-_-CCC-websi
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Land-Use-Planning-_-Cessnock-DCP-2010-_-F1-Heddon-Greta-_-CCC-website-doc.pdf](Land-Use-Planning-_-Cessnock-DCP-2010-_-F1-Heddon-Greta-_-CCC-website-doc.pdf)
+Source PDF: [Land-Use-Planning-_-Cessnock-DCP-2010-_-F1-Heddon-Greta-_-CCC-website-doc.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-f1-heddon-greta/Land-Use-Planning-_-Cessnock-DCP-2010-_-F1-Heddon-Greta-_-CCC-website-doc.pdf)
 
 ### F.1 - Heddon Greta Urban Release Area
 

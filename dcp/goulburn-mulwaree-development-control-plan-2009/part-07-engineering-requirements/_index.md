@@ -18,7 +18,7 @@ source_pdf: "Part-7-Engineering-Requirements.pdf"
 
 > This chapter is split into 5 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Part-7-Engineering-Requirements.pdf](Part-7-Engineering-Requirements.pdf)
+Source PDF: [Part-7-Engineering-Requirements.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-07-engineering-requirements/Part-7-Engineering-Requirements.pdf)
 
 ## 7 Engineering requirements
 

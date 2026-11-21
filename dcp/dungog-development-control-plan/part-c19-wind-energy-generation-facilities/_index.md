@@ -17,7 +17,7 @@ source_pdf: "19-windenergygenerationfacilities-1.3.12.pdf"
 
 > This chapter is split into 14 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [19-windenergygenerationfacilities-1.3.12.pdf](19-windenergygenerationfacilities-1.3.12.pdf)
+Source PDF: [19-windenergygenerationfacilities-1.3.12.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c19-wind-energy-generation-facilities/19-windenergygenerationfacilities-1.3.12.pdf)
 
 <!-- sections -->
 ## Sections

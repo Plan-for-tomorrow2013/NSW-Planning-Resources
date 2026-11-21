@@ -18,7 +18,7 @@ source_pdf: "2026.04.24 - DCP 2023 - AMENDMENT 14 - Chapter 7.7 - Punchbowl and 
 
 > This chapter is split into 69 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2026.04.24 - DCP 2023 - AMENDMENT 14 - Chapter 7.7 - Punchbowl and Wiley Park - website.pdf](2026.04.24%20-%20DCP%202023%20-%20AMENDMENT%2014%20-%20Chapter%207.7%20-%20Punchbowl%20and%20Wiley%20Park%20-%20website.pdf)
+Source PDF: [2026.04.24 - DCP 2023 - AMENDMENT 14 - Chapter 7.7 - Punchbowl and Wiley Park - website.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-07-07-punchbowl-and-wiley-park/2026.04.24%20-%20DCP%202023%20-%20AMENDMENT%2014%20-%20Chapter%207.7%20-%20Punchbowl%20and%20Wiley%20Park%20-%20website.pdf)
 
 ### Chapter 7.7
 

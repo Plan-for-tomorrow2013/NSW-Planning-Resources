@@ -17,7 +17,7 @@ source_pdf: "2.3_Residential_Flat_Buildings.pdf"
 
 > This chapter is split into 15 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2.3_Residential_Flat_Buildings.pdf](2.3_Residential_Flat_Buildings.pdf)
+Source PDF: [2.3_Residential_Flat_Buildings.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-02-03-residential-flat-buildings/2.3_Residential_Flat_Buildings.pdf)
 
 ### CHAPTER 2.3 RESIDENTIAL FLAT BUILDINGS AND SHOP TOP HOUSING
 

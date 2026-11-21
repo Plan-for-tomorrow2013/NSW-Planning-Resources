@@ -16,7 +16,7 @@ source_pdf: "Part-3-Residential-Subdivision-Controls.pdf"
 
 > This chapter is split into 11 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-3-Residential-Subdivision-Controls.pdf](Part-3-Residential-Subdivision-Controls.pdf)
+Source PDF: [Part-3-Residential-Subdivision-Controls.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/camden-development-control-plan-2019/part-03-residential-subdivision/Part-3-Residential-Subdivision-Controls.pdf)
 
 ![Picture on page 1](images/part-03-residential-subdivision-page-1.gif)
 

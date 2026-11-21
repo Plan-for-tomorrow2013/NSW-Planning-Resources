@@ -16,7 +16,7 @@ checked_by_tania: 2026-11-01
 ---
 # Campbelltown Sustainable City Development Control Plan 2015 - Koala Habitat Planning Map
 
-Source PDF: [koalahabitatplanningmap.pdf](koalahabitatplanningmap.pdf)
+Source PDF: [koalahabitatplanningmap.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/supporting-guides/koala-habitat-planning-map/koalahabitatplanningmap.pdf)
 
 ![Page 1 as printed (scanned page)](images/koala-habitat-planning-map-page-1.gif)
 

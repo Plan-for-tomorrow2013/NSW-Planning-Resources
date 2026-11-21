@@ -18,7 +18,7 @@ source_pdf: "waste_management_technical_specification_2022.pdf"
 
 > This chapter is split into 23 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [waste_management_technical_specification_2022.pdf](waste_management_technical_specification_2022.pdf)
+Source PDF: [waste_management_technical_specification_2022.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/bayside-development-control-plan/supporting-guides/waste-management-technical/waste_management_technical_specification_2022.pdf)
 
 ![Picture on page 1](images/waste-management-technical-page-1-1.gif)
 

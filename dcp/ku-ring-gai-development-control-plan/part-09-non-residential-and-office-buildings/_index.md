@@ -17,7 +17,7 @@ source_pdf: "kdcp-section-a-part-9-non-residential-and-office-buildings.pdf"
 
 > This chapter is split into 25 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [kdcp-section-a-part-9-non-residential-and-office-buildings.pdf](kdcp-section-a-part-9-non-residential-and-office-buildings.pdf)
+Source PDF: [kdcp-section-a-part-9-non-residential-and-office-buildings.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/part-09-non-residential-and-office-buildings/kdcp-section-a-part-9-non-residential-and-office-buildings.pdf)
 
 ### PART
 

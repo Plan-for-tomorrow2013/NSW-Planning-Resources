@@ -18,7 +18,7 @@ source_pdf: "Section-C1-Traffic-parking-and-access.pdf"
 
 > This chapter is split into 21 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Section-C1-Traffic-parking-and-access.pdf](Section-C1-Traffic-parking-and-access.pdf)
+Source PDF: [Section-C1-Traffic-parking-and-access.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-c1-traffic-parking-and-access/Section-C1-Traffic-parking-and-access.pdf)
 
 #### PART C: General development controls
 

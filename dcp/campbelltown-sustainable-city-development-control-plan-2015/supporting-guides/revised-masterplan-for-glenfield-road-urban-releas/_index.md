@@ -17,7 +17,7 @@ source_pdf: "revisedmasterplanglenfieldroadurbanreleasearea.pdf"
 ---
 # Campbelltown Sustainable City Development Control Plan 2015 - Revised Masterplan for Glenfield Road Urban Release Area
 
-Source PDF: [revisedmasterplanglenfieldroadurbanreleasearea.pdf](revisedmasterplanglenfieldroadurbanreleasearea.pdf)
+Source PDF: [revisedmasterplanglenfieldroadurbanreleasearea.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/campbelltown-sustainable-city-development-control-plan-2015/supporting-guides/revised-masterplan-for-glenfield-road-urban-releas/revisedmasterplanglenfieldroadurbanreleasearea.pdf)
 
 Glenfield Urban Release Area (Amendment No. 1)
 

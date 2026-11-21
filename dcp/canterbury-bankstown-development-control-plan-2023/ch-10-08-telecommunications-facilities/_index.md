@@ -18,7 +18,7 @@ source_pdf: "2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 10.8 - Telecommunicat
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 10.8 - Telecommunications Facilities.pdf](2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%2010.8%20-%20Telecommunications%20Facilities.pdf)
+Source PDF: [2025.04.17 - DCP 2023 - AMENDMENT 6 - Chapter 10.8 - Telecommunications Facilities.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-10-08-telecommunications-facilities/2025.04.17%20-%20DCP%202023%20-%20AMENDMENT%206%20-%20Chapter%2010.8%20-%20Telecommunications%20Facilities.pdf)
 
 ### Canterbury-Bankstown Development Control Plan 2023
 

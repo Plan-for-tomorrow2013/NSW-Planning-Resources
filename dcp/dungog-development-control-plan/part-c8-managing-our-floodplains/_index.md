@@ -17,7 +17,7 @@ source_pdf: "C.8-DCP-Managing-our-floodplains.pdf"
 
 > This chapter is split into 10 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C.8-DCP-Managing-our-floodplains.pdf](C.8-DCP-Managing-our-floodplains.pdf)
+Source PDF: [C.8-DCP-Managing-our-floodplains.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c8-managing-our-floodplains/C.8-DCP-Managing-our-floodplains.pdf)
 
 ### DUNGOG DEVELOPMENT CONTROL PLAN No 1
 

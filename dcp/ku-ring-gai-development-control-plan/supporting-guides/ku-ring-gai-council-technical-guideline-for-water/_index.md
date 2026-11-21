@@ -18,7 +18,7 @@ source_pdf: "master-technical-guideline-for-water-management.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [master-technical-guideline-for-water-management.pdf](master-technical-guideline-for-water-management.pdf)
+Source PDF: [master-technical-guideline-for-water-management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/ku-ring-gai-development-control-plan/supporting-guides/ku-ring-gai-council-technical-guideline-for-water/master-technical-guideline-for-water-management.pdf)
 
 ### TECHNICAL GUIDELINE
 

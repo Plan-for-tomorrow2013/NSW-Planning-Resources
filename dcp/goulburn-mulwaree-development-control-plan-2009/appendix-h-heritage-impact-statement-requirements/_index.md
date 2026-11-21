@@ -16,7 +16,7 @@ source_pdf: "Appendix-H-Heritage-Impact-Statement-Requirements.pdf"
 ---
 # Goulburn Mulwaree Development Control Plan 2009 - Appendix H Heritage Impact Statement Requirements
 
-Source PDF: [Appendix-H-Heritage-Impact-Statement-Requirements.pdf](Appendix-H-Heritage-Impact-Statement-Requirements.pdf)
+Source PDF: [Appendix-H-Heritage-Impact-Statement-Requirements.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/appendix-h-heritage-impact-statement-requirements/Appendix-H-Heritage-Impact-Statement-Requirements.pdf)
 
 Goulburn Mulwaree
 

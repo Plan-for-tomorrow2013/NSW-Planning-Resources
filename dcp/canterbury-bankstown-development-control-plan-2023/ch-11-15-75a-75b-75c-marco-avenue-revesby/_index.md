@@ -18,7 +18,7 @@ source_pdf: "2025.12.12 - DCP 2023 - AMENDMENT 10 - Chapter 11.15 - Marco Avenue
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [2025.12.12 - DCP 2023 - AMENDMENT 10 - Chapter 11.15 - Marco Avenue.pdf](2025.12.12%20-%20DCP%202023%20-%20AMENDMENT%2010%20-%20Chapter%2011.15%20-%20Marco%20Avenue.pdf)
+Source PDF: [2025.12.12 - DCP 2023 - AMENDMENT 10 - Chapter 11.15 - Marco Avenue.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/ch-11-15-75a-75b-75c-marco-avenue-revesby/2025.12.12%20-%20DCP%202023%20-%20AMENDMENT%2010%20-%20Chapter%2011.15%20-%20Marco%20Avenue.pdf)
 
 ![Picture on page 1](images/ch-11-15-75a-75b-75c-marco-avenue-revesby-page-1-1.gif)
 

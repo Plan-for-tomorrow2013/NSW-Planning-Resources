@@ -18,7 +18,7 @@ source_pdf: "D9-Education-and-Health-Spec-Centre-Randwick-DCP-Stage-2_Final.pdf"
 
 > This chapter is split into 39 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D9-Education-and-Health-Spec-Centre-Randwick-DCP-Stage-2_Final.pdf](D9-Education-and-Health-Spec-Centre-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [D9-Education-and-Health-Spec-Centre-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-d9-randwick-education-and-health-specialised/D9-Education-and-Health-Spec-Centre-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

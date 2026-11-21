@@ -17,7 +17,7 @@ source_pdf: "3.-Building-Line-Setbacks-Amended-19.6.19.pdf"
 
 > This chapter is split into 6 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [3.-Building-Line-Setbacks-Amended-19.6.19.pdf](3.-Building-Line-Setbacks-Amended-19.6.19.pdf)
+Source PDF: [3.-Building-Line-Setbacks-Amended-19.6.19.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-c3-building-line-setbacks/3.-Building-Line-Setbacks-Amended-19.6.19.pdf)
 
 ### C.3 – BUILDING LINE SETBACKS
 

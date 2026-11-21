@@ -16,7 +16,7 @@ source_pdf: "Part-1-Preliminary.pdf"
 ---
 # Goulburn Mulwaree Development Control Plan 2009 - Part 1 Preliminary
 
-Source PDF: [Part-1-Preliminary.pdf](Part-1-Preliminary.pdf)
+Source PDF: [Part-1-Preliminary.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/goulburn-mulwaree-development-control-plan-2009/part-01-preliminary/Part-1-Preliminary.pdf)
 
 ## 1 Preliminary
 

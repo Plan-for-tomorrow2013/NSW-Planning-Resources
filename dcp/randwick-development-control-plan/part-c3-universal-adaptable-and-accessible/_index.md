@@ -18,7 +18,7 @@ source_pdf: "C3-Universal,-adaptable-and-accessible-housing-Randwick-DCP-Stage-2
 
 > This chapter is split into 3 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [C3-Universal,-adaptable-and-accessible-housing-Randwick-DCP-Stage-2_Final.pdf](C3-Universal%2C-adaptable-and-accessible-housing-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [C3-Universal,-adaptable-and-accessible-housing-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-c3-universal-adaptable-and-accessible/C3-Universal%2C-adaptable-and-accessible-housing-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

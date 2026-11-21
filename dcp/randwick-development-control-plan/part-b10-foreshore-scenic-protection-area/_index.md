@@ -16,7 +16,7 @@ source_pdf: "B10-Foreshore-Scenic-Protection-Area-Randwick-DCP-Stage-2_Final.pdf
 ---
 # Randwick Development Control Plan - Part B10 Foreshore Scenic Protection Area
 
-Source PDF: [B10-Foreshore-Scenic-Protection-Area-Randwick-DCP-Stage-2_Final.pdf](B10-Foreshore-Scenic-Protection-Area-Randwick-DCP-Stage-2_Final.pdf)
+Source PDF: [B10-Foreshore-Scenic-Protection-Area-Randwick-DCP-Stage-2_Final.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/randwick-development-control-plan/part-b10-foreshore-scenic-protection-area/B10-Foreshore-Scenic-Protection-Area-Randwick-DCP-Stage-2_Final.pdf)
 
 #### STRATEGIC PLANNING
 

@@ -19,7 +19,7 @@ source_pdf: "Waste Management Plan A - Single Dwellings - 2022-06-22.pdf"
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Waste Management Plan A - Single Dwellings - 2022-06-22.pdf](Waste%20Management%20Plan%20A%20-%20Single%20Dwellings%20-%202022-06-22.pdf)
+Source PDF: [Waste Management Plan A - Single Dwellings - 2022-06-22.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-management-plan-a-single-dwellings-form/Waste%20Management%20Plan%20A%20-%20Single%20Dwellings%20-%202022-06-22.pdf)
 
 ![Picture on page 1](images/waste-management-plan-a-single-dwellings-form-page-1-1.gif)
 

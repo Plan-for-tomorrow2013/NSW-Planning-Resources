@@ -18,7 +18,7 @@ source_pdf: "chapter_g6_4a_nelson_street_and_118_wallis_street.pdf"
 
 > This chapter is split into 4 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [chapter_g6_4a_nelson_street_and_118_wallis_street.pdf](chapter_g6_4a_nelson_street_and_118_wallis_street.pdf)
+Source PDF: [chapter_g6_4a_nelson_street_and_118_wallis_street.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/woollahra-development-control-plan-2015/chapter-g6-4a-nelson-street-and-118-wallis-street-woollahra/chapter_g6_4a_nelson_street_and_118_wallis_street.pdf)
 
 ![Picture on page 1](images/chapter-g6-4a-nelson-street-and-118-wallis-street-woollahra-page-1-1.gif)
 

@@ -16,7 +16,7 @@ source_pdf: "Part-J-Water-Sensitive-Urban-Design-and-Integrated-Water-Cycle-Mana
 
 > This chapter is split into 5 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [Part-J-Water-Sensitive-Urban-Design-and-Integrated-Water-Cycle-Management.pdf](Part-J-Water-Sensitive-Urban-Design-and-Integrated-Water-Cycle-Management.pdf)
+Source PDF: [Part-J-Water-Sensitive-Urban-Design-and-Integrated-Water-Cycle-Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/blacktown-development-control-plan-2015/part-j-water-sensitive-urban-design-and-integrated-water/Part-J-Water-Sensitive-Urban-Design-and-Integrated-Water-Cycle-Management.pdf)
 
 ![Picture on page 1](images/part-j-water-sensitive-urban-design-and-integrated-water-page-1-1.gif)
 

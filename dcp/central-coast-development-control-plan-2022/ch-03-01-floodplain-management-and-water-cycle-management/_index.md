@@ -17,7 +17,7 @@ source_pdf: "3.1_Floodplain_Management_and_Water_Cycle_Management.pdf"
 
 > This chapter is split into 18 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [3.1_Floodplain_Management_and_Water_Cycle_Management.pdf](3.1_Floodplain_Management_and_Water_Cycle_Management.pdf)
+Source PDF: [3.1_Floodplain_Management_and_Water_Cycle_Management.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-03-01-floodplain-management-and-water-cycle-management/3.1_Floodplain_Management_and_Water_Cycle_Management.pdf)
 
 ### CHAPTER 3.1 FLOODPLAIN MANAGEMENT/WATER CYCLE MANAGEMENT
 

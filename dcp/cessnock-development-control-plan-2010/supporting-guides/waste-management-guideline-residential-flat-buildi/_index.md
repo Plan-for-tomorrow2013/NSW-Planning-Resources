@@ -16,7 +16,7 @@ source_pdf: "Waste-Management-Guideline-Residential-Flat-Buildings_1.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Waste Management Guideline - Residential Flat Buildings
 
-Source PDF: [Waste-Management-Guideline-Residential-Flat-Buildings_1.pdf](Waste-Management-Guideline-Residential-Flat-Buildings_1.pdf)
+Source PDF: [Waste-Management-Guideline-Residential-Flat-Buildings_1.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-residential-flat-buildi/Waste-Management-Guideline-Residential-Flat-Buildings_1.pdf)
 
 ### Cessnock LGA
 

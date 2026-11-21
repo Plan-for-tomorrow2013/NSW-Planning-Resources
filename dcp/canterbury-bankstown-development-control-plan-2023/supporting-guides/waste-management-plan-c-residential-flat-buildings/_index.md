@@ -19,7 +19,7 @@ source_pdf: "Waste Management Plan C - RFBs - 2022-06-23.pdf"
 
 > This chapter is split into 2 section file(s), one per main heading, in the order they appear in the PDF.
 
-Source PDF: [Waste Management Plan C - RFBs - 2022-06-23.pdf](Waste%20Management%20Plan%20C%20-%20RFBs%20-%202022-06-23.pdf)
+Source PDF: [Waste Management Plan C - RFBs - 2022-06-23.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/canterbury-bankstown-development-control-plan-2023/supporting-guides/waste-management-plan-c-residential-flat-buildings/Waste%20Management%20Plan%20C%20-%20RFBs%20-%202022-06-23.pdf)
 
 ![Picture on page 1](images/waste-management-plan-c-residential-flat-buildings-page-1-1.gif)
 

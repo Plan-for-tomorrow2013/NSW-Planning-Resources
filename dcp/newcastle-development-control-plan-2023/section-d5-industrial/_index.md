@@ -18,7 +18,7 @@ source_pdf: "D5-Industrial.pdf"
 
 > This chapter is split into 20 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [D5-Industrial.pdf](D5-Industrial.pdf)
+Source PDF: [D5-Industrial.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/newcastle-development-control-plan-2023/section-d5-industrial/D5-Industrial.pdf)
 
 #### PART D: Development controls by land use
 

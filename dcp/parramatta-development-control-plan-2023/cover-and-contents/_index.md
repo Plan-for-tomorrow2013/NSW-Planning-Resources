@@ -14,7 +14,7 @@ source_pdf: "dcp-cover-and-contents.pdf"
 ---
 # Parramatta Development Control Plan 2023 - Cover and Contents
 
-Source PDF: [dcp-cover-and-contents.pdf](dcp-cover-and-contents.pdf)
+Source PDF: [dcp-cover-and-contents.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/parramatta-development-control-plan-2023/cover-and-contents/dcp-cover-and-contents.pdf)
 
 ### DEVELOPMENT
 

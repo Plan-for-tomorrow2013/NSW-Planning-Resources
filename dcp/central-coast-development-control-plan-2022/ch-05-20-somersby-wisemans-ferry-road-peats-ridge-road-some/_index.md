@@ -17,7 +17,7 @@ source_pdf: "5.20_Somersby_Wisemans_Ferry_Road_Peats_Ridge_Road_Somersby_Fields_
 
 > This chapter is split into 12 section file(s), one per numbered heading, in the order they appear in the PDF.
 
-Source PDF: [5.20_Somersby_Wisemans_Ferry_Road_Peats_Ridge_Road_Somersby_Fields_Site.pdf](5.20_Somersby_Wisemans_Ferry_Road_Peats_Ridge_Road_Somersby_Fields_Site.pdf)
+Source PDF: [5.20_Somersby_Wisemans_Ferry_Road_Peats_Ridge_Road_Somersby_Fields_Site.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/central-coast-development-control-plan-2022/ch-05-20-somersby-wisemans-ferry-road-peats-ridge-road-some/5.20_Somersby_Wisemans_Ferry_Road_Peats_Ridge_Road_Somersby_Fields_Site.pdf)
 
 ### CHAPTER 5.20 SOMERSBY – WISEMANS FERRY
 

@@ -15,7 +15,7 @@ source_pdf: "D5 - Signage and Outdoor Advertising.pdf"
 ---
 # Cessnock Development Control Plan 2010 - Part D5 Signage and Outdoor Advertising
 
-Source PDF: [D5 - Signage and Outdoor Advertising.pdf](D5%20-%20Signage%20and%20Outdoor%20Advertising.pdf)
+Source PDF: [D5 - Signage and Outdoor Advertising.pdf](https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/part-d5-signage-and-outdoor-advertising/D5%20-%20Signage%20and%20Outdoor%20Advertising.pdf)
 
 Table of Contents
 
