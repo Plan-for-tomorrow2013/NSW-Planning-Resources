@@ -1,0 +1,19 @@
+---
+title: "9.2 DUNGOG COMMERCIAL PRECINCT HERITAGE CONSERVATION AREA Statement of significance"
+document_id: dungog-development-control-plan/part-c17-heritage/9-2-dungog-commercial-precinct-heritage
+register_id: DCP-NSW-DUNGOG
+authoritative_url: "https://www.dungog.nsw.gov.au/files/assets/public/v/1/building/part-c/17-heritage-1.3.12.pdf"
+---
+### 9.2 DUNGOG COMMERCIAL PRECINCT HERITAGE CONSERVATION AREA Statement of significance
+
+This area is significant for the Lower Hunter region for a built character which has remained largely intact  since the Second World War and which reflects the long history of development in Dungog as an important country town within the lower Hunter region. This character is derived particularly from the continuity of facades which are mainly single storeyed with high parapets along Dowling Street, and building styles which are mainly from
+
+the first four decades of this century. A lack of pressures for new  development (including renovations) has enable the survival of many interwar buildings with original details such as lead-glass shop fronts and post supported verandahs in the northern section.
+
+#### Generalised description
+
+The built character of Dungog's commercial precinct is one of low density and modest scale. While the precinct has a sense of enclosure it is also one from which there are many views of the surrounding countryside. Because of its elevated nature the rear elevations of buildings can readily be seen from a number of viewing points. The precinct has no real focal point other than the Dowling Street/Hooke Street intersection with its Obelisk but it contains a number of landmark buildings and many more modest buildings that make important contributions to the character of the precinct.
+
+The area is notable for its apparent continuity of facades. Most of the buildings are commercial ones built to the street frontage but there are some residential buildings which are set back slightly. Separations are narrow, often being narrow laneways from Dowling Street to the rear of buildings. Commercial  buildings have restricted and functional rear yards while residential buildings have lightly improved large yards, often backing onto open rough-grassed areas. Commercial buildings are mainly single storeyed shop buildings with high parapets giving the street frontage a 'long and low' appearance that is accentuated by many shop buildings having two or more shop fronts (the shops in these buildings are generally narrow and deep). There are two storeyed commercial buildings, several with attached residences and several imposing two-storeyed house buildings.
+
+Although there are earlier and post World War II buildings in the area most buildings date from the early  twentieth century or between the wars. Some older buildings were significantly altered in the interwar period. There are fine examples of late Victorian through to 1930s residential and commercial buildings and the well-preserved rows of single storeyed shop buildings are especially notable in this regard. Reflecting their era, roofs are medium to high pitched, typically of unpainted (often rusting) galvanised iron, though tiles are common in interwar buildings. Walls are extensively of brick or rendered masonry often painted on the street frontage. Many interwar shop fronts appear to be original and there are examples of early advertising signage on walls. Some early brick paving also remains in footpaths. The maintenance of many building facades, especially to their rear, has been sadly neglected. The unusually  wide post-supported low-pitched skillion awnings on older shop facades and back supported awnings on  interwar facades are special features of this precinct.  The street lighting and illuminated signage both  under shop awnings and above these awnings is somewhat intrusive but most signage is painted and sympathetic to the early to mid twentieth century character of the area.
