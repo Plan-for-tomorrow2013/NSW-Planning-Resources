@@ -1,0 +1,11 @@
+---
+title: "A2 Chain Valley Bay – 1% Flood Event"
+document_id: central-coast-development-control-plan-2022/ch-05-53-chain-valley-bay-45-mulloway-road/a2-chain-valley-bay-1-flood-event
+register_id: DCP-NSW-CENTRAL-COAST-2022
+authoritative_url: "https://cdn.centralcoast.nsw.gov.au/sites/default/files/Plan_and_build/DCP2022/5.53_Chain_Valley_Bay_-_45_Mulloway_Road.pdf"
+---
+### A2 Chain Valley Bay – 1% Flood Event
+
+![Picture on page 6](images/ch-05-53-chain-valley-bay-45-mulloway-road-page-6-2.gif)
+
+> [Picture on page 6: a picture, saved as a picture (images/ch-05-53-chain-valley-bay-45-mulloway-road-page-6-2.gif, 150 dpi).]

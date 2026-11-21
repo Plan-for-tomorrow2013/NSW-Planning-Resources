@@ -1,0 +1,15 @@
+---
+title: "5.7.10 BUSHFIRE PLANNING"
+document_id: central-coast-development-control-plan-2022/ch-05-07-terrigal-beaufort-road/5-7-10-bushfire-planning
+register_id: DCP-NSW-CENTRAL-COAST-2022
+authoritative_url: "https://cdn.centralcoast.nsw.gov.au/sites/default/files/Plan_and_build/DCP2022/5.7_Terrigal_-_Beaufort_Rd.pdf"
+---
+#### 5.7.10 BUSHFIRE PLANNING
+
+#### OBJECTIVE
+
+To ensure development is designed in accordance with Planning for Bush Fire Protection.
+
+#### DEVELOPMENT CONTROLS
+
+a All bushfire Asset Protection Zones are to be located outside of the Riparian Vegetation and Drainage Area (RVDA).
