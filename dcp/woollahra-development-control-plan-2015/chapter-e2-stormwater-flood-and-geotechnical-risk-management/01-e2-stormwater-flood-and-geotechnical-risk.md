@@ -1,0 +1,17 @@
+---
+title: "E2 Stormwater, Flood and Geotechnical Risk Management"
+document_id: woollahra-development-control-plan-2015/chapter-e2-stormwater-flood-and-geotechnical-risk-management/e2-stormwater-flood-and-geotechnical-risk
+register_id: DCP-NSW-WOOLLAHRA-2015
+current_from: 2024-12-02
+authoritative_url: "https://www.woollahra.nsw.gov.au/files/assets/public/v/2/plans-policies-publications/development-control-plans/chapter-e2-stormwater-flood-and-geotechnical-risk-management.pdf"
+---
+### Chapter E2 Stormwater, Flood and Geotechnical Risk Management
+
+### Contents
+
+| E2.1 | INTRODUCTION ........................................................................................ 1 E2.1.1 Land and development to which this chapter applies .................................. 1 E2.1.2 Development types to which this chapter applies ...................................... 1 E2.1.3 Objectives ...................................................................................... 1 E2.1.4 Definitions ...................................................................................... 2 |
+|---|---|
+| E2.2 | STORMWATER DRAINAGE MANAGEMENT CONTROLS ........................................... 3 E2.2.1 Introduction .................................................................................... 3 E2.2.2 Water sensitive urban design ............................................................... 4 E2.2.3 Stormwater treatment ....................................................................... 6 E2.2.4 On site detention (OSD) of stormwater ................................................... 8 E2.2.5 Connection to Council’s drainage systems ............................................... 11 E2.2.6 Diversion of Council’s drainage ............................................................ 14 E2.2.7 Structures over or near drainage lines and easements ................................ 15 E2.2.8 Connection to Council’s parks, reserves, bushland and natural waterways; Sydney Harbour; and Sydney Water channels .................................................... 16 E2.2.9 Low level properties and easements ..................................................... 17 E2.2.10 Groundwater (hydrogeology) and geotechnical impacts ............................. 19 E2.2.11 Absorption systems ......................................................................... 26 E2.2.12 Pump and sump systems ................................................................... 27 E2.2.13 Charged or siphonic systems .............................................................. 29 E2.2.14 Activities on a public road ................................................................ 29 |
+| E2.3 | FLOOD RISK MANAGEMENT CONTROLS ......................................................... 30 E2.3.1 Introduction ................................................................................... 30 E2.3.2 Information available from Council ....................................................... 30 E2.3.3 Flood planning levels ........................................................................ 31 E2.3.4 Flood controls ................................................................................. 34 |
+| APPENDIX 1 – DEFINITIONS ................................................................................. 40 |  |
+| APPENDIX 2 – DESIGN RAINFALL INTENSITIES........................................................... 47 |  |

@@ -1,0 +1,12 @@
+---
+title: "1.5.2 Public domain principles"
+document_id: randwick-development-control-plan/part-d9-randwick-education-and-health-specialised/1-5-2-public-domain-principles
+register_id: DCP-NSW-RANDWICK
+current_from: 2026-07-27
+authoritative_url: "https://www.randwick.nsw.gov.au/__data/assets/pdf_file/0003/442272/D9-Education-and-Health-Spec-Centre-Randwick-DCP-Stage-2_Final.pdf"
+---
+#### 1.5.2. Public domain principles
+
+The following principles apply to all public spaces within the Specialised Centre, including those within the institutional sites.
+
+Public Transport Ensure the public domain and infrastructure in the Centre retains the capacity to accommodate future public transport improvements, including rail-based mass transit Ensure developments/activities that generate high numbers of pedestrians and high demand for public transport incorporate safe waiting/circulation areas within the property boundary. Cycling Provide a network of safe cycle paths within 5km of the Centre, and an interconnected network of cycle-friendly routes within 800m of the Centre to encourage cycling to various local destinations Provide quality end-of trip facilities integrated with cycle routes, destinations and institutions Encourage provision of a publicly accessible cycle hub with lockers, cycle storage and end of trip facilities integrated with public transport connections. Footpaths and public spaces Ensure the footpaths and public spaces in the Centre provide appropriate capacity, safety and amenity to support and encourage walking Use a simple, high quality and durable palette of paving materials and street furniture to unify the Centre’s public domain, while considering variations for specific locations Provide street tree planting and landscaping for the Centre that contributes to a sense of cohesion and improves pedestrian amenity Incorporate opportunities for interpretation in the public domain, such as public art. Environmental sustainability Incorporate sustainable design techniques wherever possible into the design and infrastructure of the public domain, such as water sensitive urban design technologies Explore opportunities to showcase sustainable/experimental options in partnership with UNSW. Lighting and signage Incorporate sustainable design techniques where possible, such as solar powered street lights Provide suitable street lighting levels in key pedestrian areas Coordinate signage design and placement to avoid clutter and visual confusion.
