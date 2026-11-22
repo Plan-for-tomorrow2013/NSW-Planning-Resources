@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.6"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [complying-development, exempt-development, lot-size, secondary-dwellings, strata-title, subdivision]
 defined_terms: ["dwelling", "Lot Size Map", "secondary dwelling", "the Act"]
 ---

@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.3A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["Key Sites Map", "mixed use development", "residential flat building", "shop top housing"]
 ---
 

@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RU5
 zone: "Village"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RU5]
 tags: [land-use-table, rural-zones]
 ---

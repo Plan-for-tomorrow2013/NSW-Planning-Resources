@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.27"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["Bella Vista and Kellyville Transport Oriented Development Precincts Design Guide", "Clause Application Map"]
 ---
 

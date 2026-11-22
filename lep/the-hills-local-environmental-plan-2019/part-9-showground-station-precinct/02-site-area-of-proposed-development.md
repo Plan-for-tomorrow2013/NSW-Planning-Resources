@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [floor-space-ratio]
 defined_terms: ["floor space ratio", "public authority", "Showground Station Precinct", "site area"]
 ---

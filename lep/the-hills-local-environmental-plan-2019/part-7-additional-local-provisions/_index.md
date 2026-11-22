@@ -2,7 +2,7 @@
 title: "Part 7 — Additional local provisions"
 council: "The Hills Shire Council"
 document_type: LEP
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # Part 7 — Additional local provisions
@@ -43,3 +43,5 @@ last_verified: 2026-09-04
 | 7.32 | Additional building height on certain land at Samantha Riley Drive, Kellyville | [28-additional-building-height-on-certain.md](28-additional-building-height-on-certain.md) |
 | 7.33 | Development at Waddell Road and Free Settlers Drive, Bella Vista | [29-development-at-waddell-road-and-free.md](29-development-at-waddell-road-and-free.md) |
 | 7.34 | Non-residential development in Zone R4 | [30-non-residential-development-in-zone-r4.md](30-non-residential-development-in-zone-r4.md) |
+| 7.35 | Development at Middleton Avenue, Castle Hill | [31-development-at-middleton-avenue-castle.md](31-development-at-middleton-avenue-castle.md) |
+| 7.36 | Development at 2 Fishburn Crescent, Castle Hill | [32-development-at-2-fishburn-crescent.md](32-development-at-2-fishburn-crescent.md) |

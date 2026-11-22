@@ -3,7 +3,7 @@ title: "Schedule 6 — Pond-based and tank-based aquaculture"
 council: "The Hills Shire Council"
 document_type: LEP
 clause: "Schedule 6 (Clause 5.19)"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [aquaculture, biodiversity, flood, waterways-and-wetlands]
 defined_terms: ["aquaculture", "biodiversity", "pond-based aquaculture", "tank-based aquaculture", "watercourse", "wetland"]
 ---

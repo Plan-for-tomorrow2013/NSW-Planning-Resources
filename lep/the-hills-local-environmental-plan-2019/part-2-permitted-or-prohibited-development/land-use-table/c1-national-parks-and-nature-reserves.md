@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: C1
 zone: "National Parks and Nature Reserves"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [C1]
 tags: [conservation-zones, land-use-table]
 ---

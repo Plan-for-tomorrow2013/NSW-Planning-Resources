@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.2"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 defined_terms: ["Land Zoning Map"]
 ---
 

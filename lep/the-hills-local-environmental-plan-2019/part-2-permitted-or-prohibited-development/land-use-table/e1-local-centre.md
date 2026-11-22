@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: E1
 zone: "Local Centre"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [E1]
 tags: [employment-zones, land-use-table]
 ---

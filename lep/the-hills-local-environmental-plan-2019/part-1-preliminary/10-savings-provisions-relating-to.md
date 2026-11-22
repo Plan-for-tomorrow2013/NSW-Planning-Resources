@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [savings-and-transitional]
 defined_terms: ["the Act"]
 ---

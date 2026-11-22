@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.4"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [acid-sulfate-soils, biodiversity, flood, heritage, waterways-and-wetlands]
 defined_terms: ["acid sulfate soils", "ecologically sustainable development", "native flora", "Showground Station Precinct", "site area", "watercourse", "wetland"]
 ---

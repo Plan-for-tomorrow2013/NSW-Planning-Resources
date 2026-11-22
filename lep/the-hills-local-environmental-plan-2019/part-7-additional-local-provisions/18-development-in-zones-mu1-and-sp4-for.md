@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.19"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [MU1, SP4]
 tags: [strata-title, subdivision]
 defined_terms: ["dwelling", "gross floor area", "parking space", "residential accommodation", "residential flat building", "serviced apartment"]

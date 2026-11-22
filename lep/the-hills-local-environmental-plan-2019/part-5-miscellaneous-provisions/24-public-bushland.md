@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.23"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RU1, RU2, RU3, RU5]
 tags: [biodiversity, bush-fire, bushland, public-land-classification, waterways-and-wetlands]
 defined_terms: ["biodiversity", "classified road", "community land", "native vegetation", "public authority", "watercourse", "waterway", "wetland"]

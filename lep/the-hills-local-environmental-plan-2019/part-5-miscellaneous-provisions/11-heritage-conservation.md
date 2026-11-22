@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.10"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [archaeological-sites, exempt-development, heritage, heritage-conservation-areas, heritage-items, subdivision]
 defined_terms: ["Aboriginal object", "Aboriginal place of heritage significance", "archaeological site", "cemetery", "heritage conservation area", "heritage conservation management plan", "heritage impact statement", "heritage item", "heritage management document", "Heritage Map", "heritage significance", "relic"]
 ---

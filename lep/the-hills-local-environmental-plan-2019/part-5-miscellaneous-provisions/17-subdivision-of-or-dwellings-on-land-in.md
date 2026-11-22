@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.16"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RU1, RU2, RU3, RU6, C2, C3, C4]
 tags: [existing-use, subdivision]
 defined_terms: ["dwelling"]

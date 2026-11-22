@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.32"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [height-of-buildings, subdivision]
 defined_terms: ["building height", "Incentive Height of Buildings Map", "Key Sites Map"]
 ---

@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: SP4
 zone: "Enterprise"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [SP4]
 tags: [land-use-table, special-purpose-zones]
 ---

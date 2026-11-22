@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.3"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [biodiversity, coastal, complying-development, heritage, waterways-and-wetlands]
 defined_terms: ["biodiversity", "coastal lake", "coastal waters of the State", "wetland"]
 ---

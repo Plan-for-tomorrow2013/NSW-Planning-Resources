@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.11"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [bush-fire]
 defined_terms: ["bush fire hazard reduction work", "bush fire prone land"]
 ---

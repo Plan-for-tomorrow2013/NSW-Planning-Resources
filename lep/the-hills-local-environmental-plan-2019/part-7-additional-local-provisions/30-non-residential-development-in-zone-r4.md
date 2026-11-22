@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.34"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R4]
 defined_terms: ["business premises", "gross floor area", "mixed use development", "restaurant or cafe", "shop top housing"]
 ---

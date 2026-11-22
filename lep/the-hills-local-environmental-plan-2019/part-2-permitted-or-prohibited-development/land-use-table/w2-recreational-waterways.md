@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: W2
 zone: "Recreational Waterways"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [W2]
 tags: [land-use-table, waterway-zones]
 ---

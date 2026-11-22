@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.8"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [R1, R2, R3, RE1]
 defined_terms: ["centre-based child care facility", "classified road", "community facility", "place of public worship", "school", "sex services premises"]
 ---

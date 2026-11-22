@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.20"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # 5.20 Standards that cannot be used to refuse consent—playing and performing music

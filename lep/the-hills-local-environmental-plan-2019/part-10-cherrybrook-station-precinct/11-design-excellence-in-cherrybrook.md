@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "10 — Cherrybrook Station Precinct"
 clause: "10.11"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 tags: [design-excellence]
 defined_terms: ["design review panel", "ecologically sustainable development", "storey"]
 ---

@@ -2,7 +2,7 @@
 title: "Part 6 — Urban release areas"
 council: "The Hills Shire Council"
 document_type: LEP
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # Part 6 — Urban release areas

@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RU3
 zone: "Forestry"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RU3]
 tags: [land-use-table, rural-zones]
 ---

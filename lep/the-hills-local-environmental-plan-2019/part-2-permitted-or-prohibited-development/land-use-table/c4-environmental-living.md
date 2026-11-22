@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: C4
 zone: "Environmental Living"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [C4]
 tags: [conservation-zones, land-use-table]
 ---

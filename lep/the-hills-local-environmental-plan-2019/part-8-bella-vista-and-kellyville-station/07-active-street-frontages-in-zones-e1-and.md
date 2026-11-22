@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.7"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [E1, SP4]
 defined_terms: ["Active Street Frontages Map", "Bella Vista Station Precinct", "Kellyville Station Precinct", "mixed use development"]
 ---

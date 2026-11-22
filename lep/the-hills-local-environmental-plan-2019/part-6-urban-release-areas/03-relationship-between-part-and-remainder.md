@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "6 — Urban release areas"
 clause: "6.4"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 ---
 
 # 6.4 Relationship between Part and remainder of Plan

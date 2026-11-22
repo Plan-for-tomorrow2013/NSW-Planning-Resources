@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1A"
-last_verified: 2026-09-04
+last_verified: 2026-11-06
 zones: [RU1, RU2, RU5, RU6, R1, R2, R3, R4, E1, MU1, C4]
 tags: [complying-development, dual-occupancy, dwelling-houses, height-of-buildings, lot-size]
 defined_terms: ["building height", "dual occupancy (attached)", "dual occupancy (detached)", "dwelling", "dwelling house", "multi dwelling housing", "residential flat building"]
