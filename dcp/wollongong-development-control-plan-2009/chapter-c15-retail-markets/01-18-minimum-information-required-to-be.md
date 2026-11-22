@@ -1,0 +1,88 @@
+---
+title: "18 MINIMUM INFORMATION REQUIRED TO BE LODGED"
+document_id: wollongong-development-control-plan-2009/chapter-c15-retail-markets/18-minimum-information-required-to-be
+register_id: DCP-NSW-WOLLONGONG-2009
+current_from: 2010-03-01
+authoritative_url: "https://wollongong.nsw.gov.au/__data/assets/pdf_file/0029/8948/Wollongong-DCP-2009-Chapter-C15-Retail-Markets.pdf"
+---
+## 1 INTRODUCTION
+
+#### 1
+
+## 2 OBJECTIVES
+
+#### 1
+
+## 3 RELATIONSHIP WITH WOLLONGONG LOCAL
+
+#### ENVIRONMENTAL PLAN 2009
+
+#### 1
+
+## 4 RETAIL IMPACT ASSESSMENT
+
+#### 1
+
+## 5 HOURS OF OPERATION
+
+#### 1
+
+## 6 CAR PARKING REQUIREMENTS
+
+#### 1
+
+## 7 MARKETS HELD ON PUBLIC LAND
+
+#### 2
+
+## 8 SALE OF GOODS
+
+#### 2
+
+## 9 FOOD STALLS /MOBILE FOOD VANS
+
+#### 2
+
+## 10 AMUSEMENT DEVICES
+
+#### 4
+
+## 11 ACCESSIBILITY TO THE EVENT BY PEOPLE WITH A
+
+#### DISABILITY
+
+#### 4
+
+## 12 COPYRIGHT ISSUES – LIVE OR PRE-RECORDED
+
+#### MUSIC
+
+#### 5
+
+## 13 FUNDRAISING MARKET EVENTS
+
+#### 5
+
+## 14 PUBLIC LIABILITY INSURANCE
+
+#### 5
+
+## 15 INCIDENT REPORTING
+
+#### 6
+
+## 16 EMERGENCY RESPONSE PLAN
+
+#### 6
+
+## 17 GROUND MAINTENANCE
+
+#### 7
+
+## 18 MINIMUM INFORMATION REQUIRED TO BE LODGED
+
+#### WITH A DEVELOPMENT APPLICATION FOR A RETAIL MARKET
+
+#### 7
+
+i
