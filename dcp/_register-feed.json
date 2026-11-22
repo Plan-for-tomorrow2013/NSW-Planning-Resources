@@ -1,14 +1,14 @@
 {
  "feed_version": 1,
- "generated": "2026-11-22T18:56:13+13:00",
+ "generated": "2026-11-23T10:27:12+13:00",
  "master_folder": "00 NSW-Planning-Resources/dcp",
  "match_key": "MDPath",
- "entry_count": 820,
+ "entry_count": 853,
  "counts": {
-  "DCP": 28,
+  "DCP": 29,
   "Stand-alone plan": 3,
-  "Chapter": 689,
-  "Supporting guide": 77,
+  "Chapter": 718,
+  "Supporting guide": 80,
   "Retired (replaced)": 23
  },
  "issues": [],
@@ -802,6 +802,72 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan, dungog-development-control-plan"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "RowLevel": "DCP",
+   "ParentMDPath": "",
+   "ParentDCP": "",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "DCP"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024, fairfield-city-wide-development-control-plan-2024"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Appendix A Definitions → appendix-a-definitions/\nAppendix B Notification Policy → appendix-b-notification-policy/\nAppendix C Advice for Designing Advertising Signs → appendix-c-advice-for-designing-advertising-signs/\nAppendix D Preservation of Trees and Vegetation → appendix-d-preservation-of-trees-and-vegetation/\nAppendix E Waste Not Policy to Manage Demolition and Construction Waste → appendix-e-waste-not-policy-to-manage-demolition-and-construc/\nAppendix F Landscape Planning → appendix-f-landscape-planning/\nAppendix G Classified State and Regional Roads and Neighbourhood Centres → appendix-g-classified-state-and-regional-roads-and-neighbourh/\nAppendix H Model Waste Infrastructure → appendix-h-model-waste-infrastructure/\nChapter 1 Introduction → chapter-01-introduction/\nChapter 2 Development Application Process → chapter-02-development-application-process/\nChapter 3A Environmental Management and Constraints → chapter-03a-environmental-management-and-constraints/\nChapter 3B Heritage & Development → chapter-03b-heritage-development/\nChapter 4A Development in Rural Zones → chapter-04a-development-in-rural-zones/\nChapter 4B Secondary Dwelling in Rural Areas → chapter-04b-secondary-dwelling-in-rural-areas/\nChapter 5A Single Dwelling House → chapter-05a-single-dwelling-house/\nChapter 5B Secondary Dwelling → chapter-05b-secondary-dwelling/\nChapter 5C Dwelling Houses on Narrow Lots → chapter-05c-dwelling-houses-on-narrow-lots/\nChapter 6A Multi Dwelling Housing → chapter-06a-multi-dwelling-housing/\nChapter 6B Dual Occupancy → chapter-06b-dual-occupancy/\nChapter 7 Residential Flat Buildings → chapter-07-residential-flat-buildings/\nChapter 8 Neighbourhood and Local Centres → chapter-08-neighbourhood-and-local-centres/\nChapter 9 Industrial Development → chapter-09-industrial-development/\nChapter 10 Miscellaneous Development → chapter-10-miscellaneous-development/\nChapter 11 Flood Risk Management → chapter-11-flood-risk-management/\nChapter 12 Car Parking, Vehicle and Access Management → chapter-12-car-parking-vehicle-and-access-management/\nChapter 13 Child Care Centres → chapter-13-child-care-centres/\nChapter 14 Subdivision → chapter-14-subdivision/\nCover and Contents → cover-and-contents/\nBonnyrigg Living Communities Masterplan → supporting-guides/bonnyrigg-living-communities-masterplan/\nFairfield City Centre Master Plan → supporting-guides/fairfield-city-centre-master-plan/\nPrairiewood Master Plan (December 2005) → supporting-guides/prairiewood-master-plan-december-2005/\nTable of contents → table-of-contents/"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md · master status: OK · 32 chapter(s) published."
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/Planning-and-Building/Developments-and-Buildings/Development-Control-and-Structure-Plans, https://www.fairfieldcity.nsw.gov.au/Planning-and-Building/Developments-and-Buildings/Development-Control-and-Structure-Plans"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024, fairfield-city-wide-development-control-plan-2024"
     }
    ]
   },
@@ -25868,6 +25934,2036 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/dungog-development-control-plan/part-d9-cangon-park-rural-residential-development, part-d9-cangon-park-rural-residential-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-a-definitions",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-A-DEFINITIONS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix A Definitions",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix A Definitions"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-a-definitions, appendix-a-definitions"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-a-definitions"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Fairfield City Wide DCP\nAppendix A Definitions\nTable of Contents\nAppendix A - Definitions\nAppendix A - Definitions\nAppendix A - Definitions\nAppendix A - Definitions\nAppendix A - Definitions\nAppendix A - Definitions"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-a-definitions, appendix-a-definitions"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-b-notification-policy",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-B-NOTIFICATION-POLICY",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix B Notification Policy",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix B Notification Policy"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-b-notification-policy, appendix-b-notification-policy"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-b-notification-policy"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Fairfield CityWide DCP\nAppendix B Notification Policy\nTable of Contents\nNotifications Policy\nAppendix B – Notification Policy"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-b-notification-policy, appendix-b-notification-policy"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-c-advice-for-designing-advertising-signs",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-C-ADVICE-FOR-DESIGNING-ADVERTISING-SIGNS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix C Advice for Designing Advertising Signs",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix C Advice for Designing Advertising Signs"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-c-advice-for-designing-advertising-signs, appendix-c-advice-for-designing-advertising-signs"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-c-advice-for-designing-advertising-signs"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1.0 Types of Signs and Specifications → 01-1-0-types-of-signs-and-specifications.md\n1.0 Types of Signs and Specifications → 02-1-0-types-of-signs-and-specifications.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "signage"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-c-advice-for-designing-advertising-signs, appendix-c-advice-for-designing-advertising-signs"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-d-preservation-of-trees-and-vegetation",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-D-PRESERVATION-OF-TREES-AND-VEGETATION",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix D Preservation of Trees and Vegetation",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix D Preservation of Trees and Vegetation"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-d-preservation-of-trees-and-vegetation, appendix-d-preservation-of-trees-and-vegetation"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-d-preservation-of-trees-and-vegetation"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Fairfield CityWide DCP\nVegetation\nContents\nPreservation of Trees and Vegetation\nAppendix D – Preservations of Trees and Vegetation"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "trees"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-d-preservation-of-trees-and-vegetation, appendix-d-preservation-of-trees-and-vegetation"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-e-waste-not-policy-to-manage-demolition-and-construc",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-E-WASTE-NOT-POLICY-TO-MANAGE-DEMOLITION-AND-CONSTRUC",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix E Waste Not Policy to Manage Demolition and Construction Waste",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix E Waste Not Policy to Manage Demolition and Construction Waste"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-e-waste-not-policy-to-manage-demolition-and-construc, appendix-e-waste-not-policy-to-manage-demolition-and-construc"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-e-waste-not-policy-to-manage-demolition-and-construc"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "2 Council’s requirements for reusing, recycling and disposing of waste 532 → 01-2-council-s-requirements-for-reusing.md\n1 Introduction → 02-1-introduction.md\n2 Council’s requirements for reusing, recycling and disposing of waste → 03-2-council-s-requirements-for-reusing.md\n3 Waste Management Plans → 04-3-waste-management-plans.md\n4 Requirements During Demolition and Construction → 05-4-requirements-during-demolition-and.md\n5 Waste And Dry Recycling Facilities in Developments → 06-5-waste-and-dry-recycling-facilities-in.md\n6 Removal and Disposal of Asbestos Material → 07-6-removal-and-disposal-of-asbestos.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "demolition, waste management"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-e-waste-not-policy-to-manage-demolition-and-construc, appendix-e-waste-not-policy-to-manage-demolition-and-construc"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-f-landscape-planning",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-F-LANDSCAPE-PLANNING",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix F Landscape Planning",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix F Landscape Planning"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-f-landscape-planning, appendix-f-landscape-planning"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-f-landscape-planning"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1.0 Landscaping Requirement Overview → 01-1-0-landscaping-requirement-overview.md\n2.0 Landscape Planning and Plans → 02-2-0-landscape-planning-and-plans.md\n2.1 Landscape Planning Principles → 03-2-1-landscape-planning-principles.md\n2.2 Landscape plans → 04-2-2-landscape-plans.md\n3 Landscape Works → 05-3-landscape-works.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "landscaping"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-f-landscape-planning, appendix-f-landscape-planning"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-g-classified-state-and-regional-roads-and-neighbourh",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-G-CLASSIFIED-STATE-AND-REGIONAL-ROADS-AND-NEIGHBOURH",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix G Classified State and Regional Roads and Neighbourhood Centres",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix G Classified State and Regional Roads and Neighbourhood Centres"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-g-classified-state-and-regional-roads-and-neighbourh, appendix-g-classified-state-and-regional-roads-and-neighbourh"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-g-classified-state-and-regional-roads-and-neighbourh"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Fairfield CityWide DCP\nRegional Roads\nNeighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nTable of Contents\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres\nAppendix G–Classified State/Regional Roads & Neighbourhood Centres"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Appendix G Classified State and Regional Roads and Neighbourhood Centres"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-g-classified-state-and-regional-roads-and-neighbourh, appendix-g-classified-state-and-regional-roads-and-neighbourh"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/appendix-h-model-waste-infrastructure",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--APPENDIX-H-MODEL-WASTE-INFRASTRUCTURE",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Appendix H Model Waste Infrastructure",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Appendix H Model Waste Infrastructure"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-h-model-waste-infrastructure, appendix-h-model-waste-infrastructure"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/appendix-h-model-waste-infrastructure"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1 Dwelling Houses → 01-dwelling-houses.md\n2 Multi Dwelling Housing → 02-multi-dwelling-housing.md\n3 Residential Flat Buildings → 03-residential-flat-buildings.md\n4 Commercial and Industrial Developments → 04-commercial-and-industrial-developments.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "dwelling houses, multi dwelling housing, residential flat buildings, commercial premises, industries, waste management"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/appendix-h-model-waste-infrastructure, appendix-h-model-waste-infrastructure"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-01-introduction",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-01-INTRODUCTION",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 1 Introduction",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 1 Introduction"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-01-introduction, chapter-01-introduction"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-01-introduction"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1 Introduction → 01-introduction.md\n1 - Introduction → 02-1-introduction.md\n1 - Introduction → 03-1-introduction.md\n1 - Introduction → 04-1-introduction.md\n1 - Introduction → 05-1-introduction.md\n1 - Introduction → 06-1-introduction.md\n1 - Introduction → 07-1-introduction.md\n1 - Introduction → 08-1-introduction.md\n1 - Introduction → 09-1-introduction.md\n1 - Introduction → 10-1-introduction.md\n1 - Introduction → 11-1-introduction.md\n1 - Introduction → 12-1-introduction.md\n1 - Introduction → 13-1-introduction.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-01-introduction, chapter-01-introduction"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-02-development-application-process",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-02-DEVELOPMENT-APPLICATION-PROCESS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 2 Development Application Process",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 2 Development Application Process"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-02-development-application-process, chapter-02-development-application-process"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-02-development-application-process"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "2 Development Application Process → 01-2-development-application-process.md\n2.0 Local Context → 02-2-0-local-context.md\n2.1 Development Applications → 03-2-1-development-applications.md\n2 – Development Application Process → 04-2-development-application-process.md\n2 – Development Application Process → 05-2-development-application-process.md\n2 – Development Application Process → 06-2-development-application-process.md\n2 – Development Application Process → 07-2-development-application-process.md\n2.2 Development Application Process Steps → 08-2-2-development-application-process-steps.md\n2.3 Step 1 - Understand Council’s land use and development controls and relevant planning policies → 09-2-3-step-1-understand-council-s-land-use-and.md\n2 – Development Application Process → 10-2-development-application-process.md\n2.4 Step 2 - Prepare Plans and Drawings → 11-2-4-step-2-prepare-plans-and-drawings.md\n2 – Development Application Process → 12-2-development-application-process.md\n2.5 Step 3 - Prepare Statement of Environmental Effects (SEE) and other required plans or reports → 13-2-5-step-3-prepare-statement-of.md\n2 – Development Application Process → 14-2-development-application-process.md\n2 – Development Application Process → 15-2-development-application-process.md\n2 – Development Application Process → 16-2-development-application-process.md\n2 – Development Application Process → 17-2-development-application-process.md\n2 – Development Application Process → 18-2-development-application-process.md\n2 – Development Application Process → 19-2-development-application-process.md\n2 – Development Application Process → 20-2-development-application-process.md\n2 – Development Application Process → 21-2-development-application-process.md\n2.6 Step 4 - Lodging an Application on NSW Planning Portal Website → 22-2-6-step-4-lodging-an-application-on-nsw.md\n2 – Development Application Process → 23-2-development-application-process.md\n2 – Development Application Process → 24-2-development-application-process.md\n2 – Development Application Process → 25-2-development-application-process.md\n2 – Development Application Process → 26-2-development-application-process.md\n2 – Development Application Process → 27-2-development-application-process.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-02-development-application-process, chapter-02-development-application-process"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-03a-environmental-management-and-constraints",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-03A-ENVIRONMENTAL-MANAGEMENT-AND-CONSTRAINTS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 3A Environmental Management and Constraints",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 3A Environmental Management and Constraints"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-03a-environmental-management-and-constraints, chapter-03a-environmental-management-and-constraints"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-03a-environmental-management-and-constraints"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "3.1.1 Fairfield Local → 01-3-1-1-fairfield-local.md\n3A.0 Context and Objectives → 02-3a-0-context-and-objectives.md\n3A.1 Statutory Provisions → 03-3a-1-statutory-provisions.md\n3A – Environmental Management & Constraints → 04-3a-environmental-management-and-constraints.md\n3A.1.2 Fairfield Local Environmental Plan 2013 – Local Clauses → 05-3a-1-2-fairfield-local-environmental-plan-2013.md\n3A.1.3 State and Federal legislation → 06-3a-1-3-state-and-federal-legislation.md\n3A.2 Preservation of Trees or Vegetation → 07-3a-2-preservation-of-trees-or-vegetation.md\n3A.2.1 Tree Work Permits → 08-3a-2-1-tree-work-permits.md\n3A.2.2 Special LEP Provisions in relation to Heritage Items – Trees → 09-3a-2-2-special-lep-provisions-in-relation-to.md\n3A.2.3 Tree Work Permit – Fees → 10-3a-2-3-tree-work-permit-fees.md\n3A.2.4 Tree Work Permits – Inspections → 11-3a-2-4-tree-work-permits-inspections.md\n3A.2.5 Exemptions → 12-3a-2-5-exemptions.md\n3A.2.6 General Assessment Criteria → 13-3a-2-6-general-assessment-criteria.md\n3A.2.8 Refusal and Appeals for Tree Work Permits → 14-3a-2-8-refusal-and-appeals-for-tree-work.md\n3A.2.9 Encroachment and Neighbour Disputes over Trees → 15-3a-2-9-encroachment-and-neighbour-disputes-over.md\n3A.2.10 Conditions of Development Consent and Tree Planting → 16-3a-2-10-conditions-of-development-consent-and.md\n3A.3 Biodiversity Corridors 3A.3.1 Background – Fairfield Biodiversity Strategy → 17-3a-3-biodiversity-corridors-3a-3-1-background.md\n3A.3.2 Fairfield LEP 2013 → 18-3a-3-2-fairfield-lep-2013.md\n3A.3.3 Designing to minimise impact on Biodiversity. → 19-3a-3-3-designing-to-minimise-impact-on.md\n3A.3.4 Assessment Requirements → 20-3a-3-4-assessment-requirements.md\n3A.4.3 Assessment Requirements → 21-3a-4-3-assessment-requirements.md\n3A.4.4 Coastal Wetlands → 22-3a-4-4-coastal-wetlands.md\n3A.5 Flood Risk Assessment → 23-3a-5-flood-risk-assessment.md\n3A.6 Land Contamination 3A.6.1 Overview → 24-3a-6-land-contamination-3a-6-1-overview.md\n3A.6.3.1 General Requirement → 25-3a-6-3-1-general-requirement.md\n3A.6.3.2 Preliminary Site Investigation → 26-3a-6-3-2-preliminary-site-investigation.md\n3A.6.3.3 Detailed Site Investigation → 27-3a-6-3-3-detailed-site-investigation.md\n3A.6.3.5 Assessment Considerations → 28-3a-6-3-5-assessment-considerations.md\n3A.7 Consideration of SEPP (Resilience and Hazards) 2021 → 29-3a-7-consideration-of-sepp-resilience-and.md\n3A.8 Land Affected by Tidal Waters → 30-3a-8-land-affected-by-tidal-waters.md\n3A.9 Acid Sulfate Soils → 31-3a-9-acid-sulfate-soils.md\n3A.10 Bushfire → 32-3a-10-bushfire.md\n3A.11 Landslide Risk → 33-3a-11-landslide-risk.md\n3A.12 Erosion and Sediment Control → 34-3a-12-erosion-and-sediment-control.md\n3A.13 Heritage Items → 35-3a-13-heritage-items.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "heritage items and conservation areas, trees, flood-prone land, bushfire-prone land, contaminated land"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-03a-environmental-management-and-constraints, chapter-03a-environmental-management-and-constraints"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-03b-heritage-development",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-03B-HERITAGE-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 3B Heritage & Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 3B Heritage & Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-03b-heritage-development, chapter-03b-heritage-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-03b-heritage-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "3B Heritage & Development → 01-3b-heritage-and-development.md\n3B.1 Aboriginal Heritage 3B.1 Introduction → 02-3b-1-aboriginal-heritage-3b-1-introduction.md\n3B.2 Built and Landscaped Heritage 3B.2  Introduction → 03-3b-2-built-and-landscaped-heritage-3b-2.md\n3B.3 Subdivision → 04-3b-3-subdivision.md\n3B.4 Development of Heritage Items 3B.4.1 Demolition → 05-3b-4-development-of-heritage-items-3b-4-1.md\n3B.5 Development Within the Vicinity of a Heritage Item 3B.5.0 Introduction → 06-3b-5-development-within-the-vicinity-of-a.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "subdivision, heritage items and conservation areas, demolition, landscaping"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-03b-heritage-development, chapter-03b-heritage-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-04a-development-in-rural-zones",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-04A-DEVELOPMENT-IN-RURAL-ZONES",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 4A Development in Rural Zones",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 4A Development in Rural Zones"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-04a-development-in-rural-zones, chapter-04a-development-in-rural-zones"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-04a-development-in-rural-zones"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "4A Development in Rural Zones → 01-4a-development-in-rural-zones.md\n4A.0 Introduction → 02-4a-0-introduction.md\n4A.1 Existing Character → 03-4a-1-existing-character.md\n4A.2 Road Access and Points → 04-4a-2-road-access-and-points.md\n4A.3 Landscaping → 05-4a-3-landscaping.md\n4A.4 Sewage Management → 06-4a-4-sewage-management.md\n4A.5 Residential Development near Extractive Industries → 07-4a-5-residential-development-near-extractive.md\n4A.6 Aircraft Noise → 08-4a-6-aircraft-noise.md\n4A.7 Criteria for Rural Building Design → 09-4a-7-criteria-for-rural-building-design.md\n4A.8 Horsley Park Village → 10-4a-8-horsley-park-village.md\n4A.9 Agricultural Development → 11-4a-9-agricultural-development.md\n4A.10 Stormwater 4A.10.1 Stormwater Disposal → 12-4a-10-stormwater-4a-10-1-stormwater-disposal.md\n4A.11 Energy Efficiency Measures → 13-4a-11-energy-efficiency-measures.md\n4A.12 Waste and Recycling Service → 14-4a-12-waste-and-recycling-service.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "agriculture, rural land uses, extractive industries, landscaping, waste management, stormwater, noise"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-04a-development-in-rural-zones, chapter-04a-development-in-rural-zones"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-04b-secondary-dwelling-in-rural-areas",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-04B-SECONDARY-DWELLING-IN-RURAL-AREAS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 4B Secondary Dwelling in Rural Areas",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 4B Secondary Dwelling in Rural Areas"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-04b-secondary-dwelling-in-rural-areas, chapter-04b-secondary-dwelling-in-rural-areas"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-04b-secondary-dwelling-in-rural-areas"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "4B Secondary Dwelling in Rural Areas → 01-4b-secondary-dwelling-in-rural-areas.md\n4B.0 Introduction 4B.0.1 Development to which this Chapter applies → 02-4b-0-introduction-4b-0-1-development-to-which.md\n4B.1 Site Requirements → 03-4b-1-site-requirements.md\n4B.2 Built Form and Urban Design → 04-4b-2-built-form-and-urban-design.md\n4B.3 Car Parking and Access → 05-4b-3-car-parking-and-access.md\n4B.4 Open Space and Landscaping 4B.4.1 Private Open Space → 06-4b-4-open-space-and-landscaping-4b-4-1.md\n4B.5 Amenity 4B.5.1 Solar Access → 07-4b-5-amenity-4b-5-1-solar-access.md\n4B.6 Stormwater → 08-4b-6-stormwater.md\n4B.7 Sewage Management → 09-4b-7-sewage-management.md\n4B.8 Residential Development near Extractive Industries → 10-4b-8-residential-development-near-extractive.md\n4B.9 Acoustic Impacts → 11-4b-9-acoustic-impacts.md\n4B.10 Site Servicing → 12-4b-10-site-servicing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "secondary dwellings, car parks, car parking, rural land uses, extractive industries, landscaping, stormwater, noise"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-04b-secondary-dwelling-in-rural-areas, chapter-04b-secondary-dwelling-in-rural-areas"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-05a-single-dwelling-house",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-05A-SINGLE-DWELLING-HOUSE",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 5A Single Dwelling House",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 5A Single Dwelling House"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-05a-single-dwelling-house, chapter-05a-single-dwelling-house"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-05a-single-dwelling-house"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "5A Single Dwelling House → 01-5a-single-dwelling-house.md\n5A.0 Introduction 5A.0.1 Zones → 02-5a-0-introduction-5a-0-1-zones.md\n5A.1 Site Requirements → 03-5a-1-site-requirements.md\n5A.2 Built Form and Urban Design → 04-5a-2-built-form-and-urban-design.md\n5A.3 Car Parking and Access → 05-5a-3-car-parking-and-access.md\n5A.4 Open Space and Landscaping 5A.4.1 Open Space → 06-5a-4-open-space-and-landscaping-5a-4-1-open.md\n5A.5 Amenity 5A.5.1 Solar Access → 07-5a-5-amenity-5a-5-1-solar-access.md\n5A.6 Stormwater → 08-5a-6-stormwater.md\n5A.7 Site Servicing → 09-5a-7-site-servicing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "dwelling houses, car parks, car parking, landscaping, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-05a-single-dwelling-house, chapter-05a-single-dwelling-house"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-05b-secondary-dwelling",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-05B-SECONDARY-DWELLING",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 5B Secondary Dwelling",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 5B Secondary Dwelling"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-05b-secondary-dwelling, chapter-05b-secondary-dwelling"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-05b-secondary-dwelling"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "5B Secondary Dwelling → 01-5b-secondary-dwelling.md\n5B.0 Introduction 5B.0.1 Development to which this Chapter applies → 02-5b-0-introduction-5b-0-1-development-to-which.md\n5B.1 Site Requirements → 03-5b-1-site-requirements.md\n5B.2 Built Form and Urban Design → 04-5b-2-built-form-and-urban-design.md\n5B.3 Car Parking and Access → 05-5b-3-car-parking-and-access.md\n5B.4 Open Space and Landscaping 5B.4.1 Open Space → 06-5b-4-open-space-and-landscaping-5b-4-1-open.md\n5B.5 Amenity 5B.5.1 Solar Access → 07-5b-5-amenity-5b-5-1-solar-access.md\n5B.6 Stormwater Disposal → 08-5b-6-stormwater-disposal.md\n5B.7 Waste and Recycling Service → 09-5b-7-waste-and-recycling-service.md\n5B.8 Site Servicing → 10-5b-8-site-servicing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "secondary dwellings, car parks, car parking, landscaping, waste management, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-05b-secondary-dwelling, chapter-05b-secondary-dwelling"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-05c-dwelling-houses-on-narrow-lots",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-05C-DWELLING-HOUSES-ON-NARROW-LOTS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 5C Dwelling Houses on Narrow Lots",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 5C Dwelling Houses on Narrow Lots"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-05c-dwelling-houses-on-narrow-lots, chapter-05c-dwelling-houses-on-narrow-lots"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-05c-dwelling-houses-on-narrow-lots"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "5C Dwelling Houses on Narrow Lots → 01-5c-dwelling-houses-on-narrow-lots.md\n5C.0 Introduction 5C.0.2 Objectives 5C.0.1 Zones → 02-5c-0-introduction-5c-0-2-objectives-5c-0-1.md\n5C.1 Site Requirements → 03-5c-1-site-requirements.md\n5C.2 Built Form and Urban Design 5C.2.1 Floor Space Ratio (FSR) → 04-5c-2-built-form-and-urban-design-5c-2-1-floor.md\n5C.3 Car Parking and Access → 05-5c-3-car-parking-and-access.md\n5C.4 Open Space and Landscaping 5C.4.1 Open Space → 06-5c-4-open-space-and-landscaping-5c-4-1-open.md\n5C.5 Amenity 5C.5.1 Solar Access → 07-5c-5-amenity-5c-5-1-solar-access.md\n5C.6 Stormwater → 08-5c-6-stormwater.md\n5C.7 Site Servicing → 09-5c-7-site-servicing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "dwelling houses, car parks, car parking, landscaping, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-05c-dwelling-houses-on-narrow-lots, chapter-05c-dwelling-houses-on-narrow-lots"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-06a-multi-dwelling-housing",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-06A-MULTI-DWELLING-HOUSING",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 6A Multi Dwelling Housing",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 6A Multi Dwelling Housing"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-06a-multi-dwelling-housing, chapter-06a-multi-dwelling-housing"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-06a-multi-dwelling-housing"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "6A.0 Local Context → 01-6a-0-local-context.md\n6A – Multi Dwelling Housing → 02-6a-multi-dwelling-housing.md\n6A.1 Site Requirements → 03-6a-1-site-requirements.md\n6A.2 Built Form and Urban Design → 04-6a-2-built-form-and-urban-design.md\n6A.3 Car Parking and Access → 05-6a-3-car-parking-and-access.md\n6A.4 Landscaping and Open Space → 06-6a-4-landscaping-and-open-space.md\n6A.5 Amenity → 07-6a-5-amenity.md\n6A.6 Stormwater → 08-6a-6-stormwater.md\n6A.7 Site Servicing → 09-6a-7-site-servicing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "multi dwelling housing, car parks, car parking, landscaping, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-06a-multi-dwelling-housing, chapter-06a-multi-dwelling-housing"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-06b-dual-occupancy",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-06B-DUAL-OCCUPANCY",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 6B Dual Occupancy",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 6B Dual Occupancy"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-06b-dual-occupancy, chapter-06b-dual-occupancy"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-06b-dual-occupancy"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "6B.0 Introduction 6B.0.1 Zones and development to which this Chapter applies → 01-6b-0-introduction-6b-0-1-zones-and.md\n6B.1 Site Requirements → 02-6b-1-site-requirements.md\n6B.2 Built Form and Urban Design 6B.2.1 Floor Space Ratio (FSR) → 03-6b-2-built-form-and-urban-design-6b-2-1-floor.md\n6B – Dual Occupancy → 04-6b-dual-occupancy.md\n6B.3 Car Parking and Access → 05-6b-3-car-parking-and-access.md\n6B.4 Open Space and Landscaping → 06-6b-4-open-space-and-landscaping.md\n6B.5 Amenity 6B.5.1 Solar Access → 07-6b-5-amenity-6b-5-1-solar-access.md\n6B.6 Stormwater 6B.6.1 Stormwater Disposal → 08-6b-6-stormwater-6b-6-1-stormwater-disposal.md\n6B.7 Site Servicing → 09-6b-7-site-servicing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "dual occupancies, car parks, car parking, landscaping, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-06b-dual-occupancy, chapter-06b-dual-occupancy"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-07-residential-flat-buildings",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-07-RESIDENTIAL-FLAT-BUILDINGS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 7 Residential Flat Buildings",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 7 Residential Flat Buildings"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-07-residential-flat-buildings, chapter-07-residential-flat-buildings"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-07-residential-flat-buildings"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "7 Residential Flat Buildings → 01-7-residential-flat-buildings.md\n7.6 Car parking, Loading and → 02-7-6-car-parking-loading-and.md\n7.7 Site Servicing and Loading ..285 → 03-7-7-site-servicing-and-loading-285.md\n7.0 Local Context → 04-7-0-local-context.md\n7.1 Introduction → 05-7-1-introduction.md\n7 – Residential Flat Buildings → 06-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 07-residential-flat-buildings.md\n7.2 Special considerations → 08-7-2-special-considerations.md\n7 – Residential Flat Buildings → 09-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 10-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 11-7-residential-flat-buildings.md\n7.3 Public Domain → 12-7-3-public-domain.md\n7 – Residential Flat Buildings → 13-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 14-7-residential-flat-buildings.md\n7.4 Built Form → 15-7-4-built-form.md\n7 – Residential Flat Buildings → 16-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 17-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 18-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 19-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 20-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 21-7-residential-flat-buildings.md\n7.5 Amenity → 22-7-5-amenity.md\n7 – Residential Flat Buildings → 23-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 24-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 25-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 26-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 27-7-residential-flat-buildings.md\n7.6 Car parking, Loading and Vehicle Access → 28-7-6-car-parking-loading-and-vehicle-access.md\n7 – Residential Flat Buildings → 29-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 30-7-residential-flat-buildings.md\n7.7 Site Servicing and Loading → 31-7-7-site-servicing-and-loading.md\n7 – Residential Flat Buildings → 32-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 33-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 34-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 35-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 36-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 37-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 38-7-residential-flat-buildings.md\n7.8 Landscaping → 39-7-8-landscaping.md\n7 – Residential Flat Buildings → 40-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 41-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 42-7-residential-flat-buildings.md\n7 – Residential Flat Buildings → 43-7-residential-flat-buildings.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "residential flat buildings, vehicle sales/repair, car parks, car parking, landscaping"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-07-residential-flat-buildings, chapter-07-residential-flat-buildings"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-08-neighbourhood-and-local-centres",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-08-NEIGHBOURHOOD-AND-LOCAL-CENTRES",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 8 Neighbourhood and Local Centres",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 8 Neighbourhood and Local Centres"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-08-neighbourhood-and-local-centres, chapter-08-neighbourhood-and-local-centres"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-08-neighbourhood-and-local-centres"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "8.0 Local Context → 01-8-0-local-context.md\n8 – Neighbourhood and Local Centres → 02-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 03-8-neighbourhood-and-local-centres.md\n8.1 Public Domain → 04-8-1-public-domain.md\n8 – Neighbourhood and Local Centres → 05-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 06-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 07-8-neighbourhood-and-local-centres.md\n8.2 Built Form and Urban Design → 08-8-2-built-form-and-urban-design.md\n8 – Neighbourhood and Local Centres → 09-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 10-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 11-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 12-8-neighbourhood-and-local-centres.md\n8.3 Amenity → 13-8-3-amenity.md\n8 – Neighbourhood and Local Centres → 14-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 15-8-neighbourhood-and-local-centres.md\n8.4 Car Parking and Access → 16-8-4-car-parking-and-access.md\n8 – Neighbourhood and Local Centres → 17-8-neighbourhood-and-local-centres.md\n8.5 Site Servicing and Loading → 18-8-5-site-servicing-and-loading.md\n8 – Neighbourhood and Local Centres → 19-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 20-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 21-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 22-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 23-8-neighbourhood-and-local-centres.md\n8.6 Landscaping, Drainage and Stormwater Detention → 24-8-6-landscaping-drainage-and-stormwater.md\n8 – Neighbourhood and Local Centres → 25-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 26-8-neighbourhood-and-local-centres.md\n8 – Neighbourhood and Local Centres → 27-8-neighbourhood-and-local-centres.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "car parks, car parking, landscaping, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Specific sites/places (see Sections)"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-08-neighbourhood-and-local-centres, chapter-08-neighbourhood-and-local-centres"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-09-industrial-development",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-09-INDUSTRIAL-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 9 Industrial Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 9 Industrial Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-09-industrial-development, chapter-09-industrial-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-09-industrial-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "9.0 Local Context → 01-9-0-local-context.md\n9 - Industrial Development → 02-9-industrial-development.md\n9.1 Site and Built Form → 03-9-1-site-and-built-form.md\n9 - Industrial Development → 04-9-industrial-development.md\n9 - Industrial Development → 05-9-industrial-development.md\n9.2 Car Parking, Vehicle and Access Management → 06-9-2-car-parking-vehicle-and-access.md\n9 - Industrial Development → 07-9-industrial-development.md\n9 - Industrial Development → 08-9-industrial-development.md\n9 - Industrial Development → 09-industrial-development.md\n9 - Industrial Development → 10-9-industrial-development.md\n9 - Industrial Development → 11-9-industrial-development.md\n9.3 Advertising Signage → 12-9-3-advertising-signage.md\n9 - Industrial Development → 13-9-industrial-development.md\n9.4 Streetscape and Amenity → 14-9-4-streetscape-and-amenity.md\n9 - Industrial Development → 15-9-industrial-development.md\n9 - Industrial Development → 16-9-industrial-development.md\n9.5 Stormwater → 17-9-5-stormwater.md\n9 - Industrial Development → 18-9-industrial-development.md\n9.6 Development Guidelines for Specific Activities and Uses → 19-9-6-development-guidelines-for-specific.md\n9 - Industrial Development → 20-9-industrial-development.md\n9 - Industrial Development → 21-9-industrial-development.md\n9 - Industrial Development → 22-9-industrial-development.md\n9 - Industrial Development → 23-9-industrial-development.md\n9 - Industrial Development → 24-9-industrial-development.md\n9 - Industrial Development → 25-9-industrial-development.md\n9 - Industrial Development → 26-9-industrial-development.md\n9 - Industrial Development → 27-9-industrial-development.md\n9.7 Development Guidelines for land in Orchardleigh Street → 28-9-7-development-guidelines-for-land-in.md\n9 - Industrial Development → 29-9-industrial-development.md\n9 - Industrial Development → 30-9-industrial-development.md\n9.8 Development Guidelines for 636-644 Woodville Road Old Guildford (Service Station) → 31-9-8-development-guidelines-for-636-644.md\n9 - Industrial Development → 32-9-industrial-development.md\n9 - Industrial Development → 33-9-industrial-development.md\n9 - Industrial Development → 34-9-industrial-development.md\n9 - Industrial Development → 35-9-industrial-development.md\n9 - Industrial Development → 36-9-industrial-development.md\n9 - Industrial Development → 37-9-industrial-development.md\n9.10 Industrial/Residential Interface → 38-9-10-industrial-residential-interface.md\n9 - Industrial Development → 39-9-industrial-development.md\n9 - Industrial Development → 40-9-industrial-development.md\n9 - Industrial Development → 41-9-industrial-development.md\n9.11 Site Servicing → 42-9-11-site-servicing.md\n9.12 Waste and Recycling Collections → 43-9-12-waste-and-recycling-collections.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "industries, service stations, vehicle sales/repair, car parks, car parking, signage, waste management, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-09-industrial-development, chapter-09-industrial-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-10-miscellaneous-development",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-10-MISCELLANEOUS-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 10 Miscellaneous Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 10 Miscellaneous Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-10-miscellaneous-development, chapter-10-miscellaneous-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-10-miscellaneous-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "10 Miscellaneous Development → 01-10-miscellaneous-development.md\n10 – Miscellaneous Development → 02-10-miscellaneous-development.md\n10 – Miscellaneous Development → 03-10-miscellaneous-development.md\n10 – Miscellaneous Development → 04-10-miscellaneous-development.md\n10 – Miscellaneous Development → 05-10-miscellaneous-development.md\n10 – Miscellaneous Development → 06-10-miscellaneous-development.md\n10 – Miscellaneous Development → 07-10-miscellaneous-development.md\n10 – Miscellaneous Development → 08-10-miscellaneous-development.md\n10 – Miscellaneous Development → 09-10-miscellaneous-development.md\n10 – Miscellaneous Development → 10-miscellaneous-development.md\n10 – Miscellaneous Development → 11-10-miscellaneous-development.md\n10 – Miscellaneous Development → 12-10-miscellaneous-development.md\n10 – Miscellaneous Development → 13-10-miscellaneous-development.md\n10 – Miscellaneous Development → 14-10-miscellaneous-development.md\n10 – Miscellaneous Development → 15-10-miscellaneous-development.md\n10 – Miscellaneous Development → 16-10-miscellaneous-development.md\n10 – Miscellaneous Development → 17-10-miscellaneous-development.md\n10 – Miscellaneous Development → 18-10-miscellaneous-development.md\n10 – Miscellaneous Development → 19-10-miscellaneous-development.md\n10 – Miscellaneous Development → 20-10-miscellaneous-development.md\n10 – Miscellaneous Development → 21-10-miscellaneous-development.md\n10 – Miscellaneous Development → 22-10-miscellaneous-development.md\n10 – Miscellaneous Development → 23-10-miscellaneous-development.md\n10 – Miscellaneous Development → 24-10-miscellaneous-development.md\n10 – Miscellaneous Development → 25-10-miscellaneous-development.md\n10 – Miscellaneous Development → 26-10-miscellaneous-development.md\n10 – Miscellaneous Development → 27-10-miscellaneous-development.md\n10 – Miscellaneous Development → 28-10-miscellaneous-development.md\n10 – Miscellaneous Development → 29-10-miscellaneous-development.md\n10 – Miscellaneous Development → 30-10-miscellaneous-development.md\n10 – Miscellaneous Development → 31-10-miscellaneous-development.md\n10 – Miscellaneous Development → 32-10-miscellaneous-development.md\n10 – Miscellaneous Development → 33-10-miscellaneous-development.md\n10 – Miscellaneous Development → 34-10-miscellaneous-development.md\n10 – Miscellaneous Development → 35-10-miscellaneous-development.md\n10 – Miscellaneous Development → 36-10-miscellaneous-development.md\n10 – Miscellaneous Development → 37-10-miscellaneous-development.md\n10 – Miscellaneous Development → 38-10-miscellaneous-development.md\n10 – Miscellaneous Development → 39-10-miscellaneous-development.md\n10 – Miscellaneous Development → 40-10-miscellaneous-development.md\n10 – Miscellaneous Development → 41-10-miscellaneous-development.md\n10 – Miscellaneous Development → 42-10-miscellaneous-development.md\n10 – Miscellaneous Development → 43-10-miscellaneous-development.md\n10 – Miscellaneous Development → 44-10-miscellaneous-development.md\n10 – Miscellaneous Development → 45-10-miscellaneous-development.md\n10 – Miscellaneous Development → 46-10-miscellaneous-development.md\n10 – Miscellaneous Development → 47-10-miscellaneous-development.md\n10 – Miscellaneous Development → 48-10-miscellaneous-development.md\n10 – Miscellaneous Development → 49-10-miscellaneous-development.md\n10 – Miscellaneous Development → 50-10-miscellaneous-development.md\n10 – Miscellaneous Development → 51-10-miscellaneous-development.md\n10 – Miscellaneous Development → 52-10-miscellaneous-development.md\n10 – Miscellaneous Development → 53-10-miscellaneous-development.md\n10 – Miscellaneous Development → 54-10-miscellaneous-development.md\n10 – Miscellaneous Development → 55-10-miscellaneous-development.md\n10 – Miscellaneous Development → 56-10-miscellaneous-development.md\n10 – Miscellaneous Development → 57-10-miscellaneous-development.md\n10 – Miscellaneous Development → 58-10-miscellaneous-development.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-10-miscellaneous-development, chapter-10-miscellaneous-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-11-flood-risk-management",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-11-FLOOD-RISK-MANAGEMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 11 Flood Risk Management",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 11 Flood Risk Management"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-11-flood-risk-management, chapter-11-flood-risk-management"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-11-flood-risk-management"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-08-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "11 Flood Risk Management → 01-11-flood-risk-management.md\nSchedule 1 - Flood Compatible Materials & Building Components 427 → 02-schedule-1-flood-compatible-materials-and-building.md\nSchedule 3 Diagrams Explaining Main Car Parking Related Controls → 03-schedule-3-diagrams-explaining-main-car-parking.md\n11 – Flood Risk Management → 04-11-flood-risk-management.md\n11 – Flood Risk Management → 05-11-flood-risk-management.md\n11 – Flood Risk Management → 06-11-flood-risk-management.md\n11 – Flood Risk Management → 07-11-flood-risk-management.md\n11 – Flood Risk Management → 08-11-flood-risk-management.md\n11 – Flood Risk Management → 09-11-flood-risk-management.md\n11 – Flood Risk Management → 10-11-flood-risk-management.md\n11 – Flood Risk Management → 11-flood-risk-management.md\n11 – Flood Risk Management → 12-11-flood-risk-management.md\n11 – Flood Risk Management → 13-11-flood-risk-management.md\n11 – Flood Risk Management → 14-11-flood-risk-management.md\n11 – Flood Risk Management → 15-11-flood-risk-management.md\n11 – Flood Risk Management → 16-11-flood-risk-management.md\n11 – Flood Risk Management → 17-11-flood-risk-management.md\nSchedule 1 - Flood Compatible Materials & Building Components → 18-schedule-1-flood-compatible-materials-and-building.md\nSchedule 1 Flood Compatible Materials & Building Components continued. → 19-schedule-1-flood-compatible-materials-and-building.md\n11 – Flood Risk Management → 20-11-flood-risk-management.md\nSchedule 2 Land Use Categories → 21-schedule-2-land-use-categories.md\n11 – Flood Risk Management → 22-11-flood-risk-management.md\n11 – Flood Risk Management → 23-11-flood-risk-management.md\nSchedule 4 – Prescriptive Controls Matrix → 24-schedule-4-prescriptive-controls-matrix.md\n11 – Flood Risk Management → 25-11-flood-risk-management.md\n11 – Flood Risk Management → 26-11-flood-risk-management.md\n11 – Flood Risk Management → 27-11-flood-risk-management.md\n11 – Flood Risk Management → 28-11-flood-risk-management.md\n11 – Flood Risk Management → 29-11-flood-risk-management.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "car parks, car parking, flood-prone land"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-11-flood-risk-management, chapter-11-flood-risk-management"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-12-car-parking-vehicle-and-access-management",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-12-CAR-PARKING-VEHICLE-AND-ACCESS-MANAGEMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 12 Car Parking, Vehicle and Access Management",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 12 Car Parking, Vehicle and Access Management"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-12-car-parking-vehicle-and-access-management, chapter-12-car-parking-vehicle-and-access-management"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-12-car-parking-vehicle-and-access-management"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "12 Car Parking, Vehicle and Access Management → 01-12-car-parking-vehicle-and-access.md\n12.0 Introduction → 02-12-0-introduction.md\n12 – Car Parking, Vehicle and Access Management → 03-12-car-parking-vehicle-and-access.md\n12.1 Car Parking → 04-12-1-car-parking.md\n12 – Car Parking, Vehicle and Access Management → 05-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 06-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 07-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 08-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 09-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 10-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 11-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 12-car-parking-vehicle-and-access.md\n12.2 Design Guidelines → 13-12-2-design-guidelines.md\n12 – Car Parking, Vehicle and Access Management → 14-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 15-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 16-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 17-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 18-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 19-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 20-12-car-parking-vehicle-and-access.md\n12.3 Special Requirements → 21-12-3-special-requirements.md\n12 – Car Parking, Vehicle and Access Management → 22-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 23-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 24-12-car-parking-vehicle-and-access.md\n12.4 Overcoming Problems → 25-12-4-overcoming-problems.md\n12 – Car Parking, Vehicle and Access Management → 26-12-car-parking-vehicle-and-access.md\n12 – Car Parking, Vehicle and Access Management → 27-12-car-parking-vehicle-and-access.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "vehicle sales/repair, car parks, car parking"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-12-car-parking-vehicle-and-access-management, chapter-12-car-parking-vehicle-and-access-management"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-13-child-care-centres",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-13-CHILD-CARE-CENTRES",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 13 Child Care Centres",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 13 Child Care Centres"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-13-child-care-centres, chapter-13-child-care-centres"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-13-child-care-centres"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "13 Child Care Centres → 01-13-child-care-centres.md\n13 – Child Care Centres → 02-13-child-care-centres.md\n13 – Child Care Centres → 03-13-child-care-centres.md\n13 – Child Care Centres → 04-13-child-care-centres.md\n13 – Child Care Centres → 05-13-child-care-centres.md\n13 – Child Care Centres → 06-13-child-care-centres.md\n13 – Child Care Centres → 07-13-child-care-centres.md\n13 – Child Care Centres → 08-13-child-care-centres.md\n13 – Child Care Centres → 09-13-child-care-centres.md\n13 – Child Care Centres → 10-13-child-care-centres.md\n13 – Child Care Centres → 11-13-child-care-centres.md\n13 – Child Care Centres → 12-13-child-care-centres.md\n13 – Child Care Centres → 13-child-care-centres.md\n13 – Child Care Centres → 14-13-child-care-centres.md\n13 – Child Care Centres → 15-13-child-care-centres.md\n13 – Child Care Centres → 16-13-child-care-centres.md\n13 – Child Care Centres → 17-13-child-care-centres.md\n13 – Child Care Centres → 18-13-child-care-centres.md\n13 – Child Care Centres → 19-13-child-care-centres.md\n13 – Child Care Centres → 20-13-child-care-centres.md\n13 – Child Care Centres → 21-13-child-care-centres.md\n13 – Child Care Centres → 22-13-child-care-centres.md\n13 – Child Care Centres → 23-13-child-care-centres.md\n13 – Child Care Centres → 24-13-child-care-centres.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "centre-based child care"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-13-child-care-centres, chapter-13-child-care-centres"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/chapter-14-subdivision",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--CHAPTER-14-SUBDIVISION",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Chapter 14 Subdivision",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Chapter 14 Subdivision"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-14-subdivision, chapter-14-subdivision"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/chapter-14-subdivision"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "14 Subdivision → 01-14-subdivision.md\n14 - Subdivision → 02-14-subdivision.md\n14 - Subdivision → 03-14-subdivision.md\n14 - Subdivision → 04-14-subdivision.md\n14 - Subdivision → 05-14-subdivision.md\n14 - Subdivision → 06-14-subdivision.md\n14 - Subdivision → 07-14-subdivision.md\n14 - Subdivision → 08-14-subdivision.md\n14 - Subdivision → 09-14-subdivision.md\n14 - Subdivision → 10-14-subdivision.md\n14 - Subdivision → 11-14-subdivision.md\n14 - Subdivision → 12-14-subdivision.md\n14 - Subdivision → 13-14-subdivision.md\n14 - Subdivision → 14-subdivision.md\n14 - Subdivision → 15-14-subdivision.md\n14 - Subdivision → 16-14-subdivision.md\n14 - Subdivision → 17-14-subdivision.md\n14 - Subdivision → 18-14-subdivision.md\n14 - Subdivision → 19-14-subdivision.md\n14 - Subdivision → 20-14-subdivision.md\n14 - Subdivision → 21-14-subdivision.md\n14 - Subdivision → 22-14-subdivision.md\n14 - Subdivision → 23-14-subdivision.md\n14 - Subdivision → 24-14-subdivision.md\n14 - Subdivision → 25-14-subdivision.md\n14 - Subdivision → 26-14-subdivision.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "subdivision"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/chapter-14-subdivision, chapter-14-subdivision"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/cover-and-contents",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--COVER-AND-CONTENTS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Cover and Contents",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Cover and Contents"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/cover-and-contents, cover-and-contents"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/cover-and-contents"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Fairfield CityWide\nDevelopment Control Plan\n2024 Amendment No. 2"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/cover-and-contents, cover-and-contents"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/table-of-contents",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--TABLE-OF-CONTENTS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Table of contents",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Table of contents"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/table-of-contents, table-of-contents"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/table-of-contents"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-02-23"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1 Introduction → 01-introduction.md\n2 Development Application → 02-development-application.md\n7 Residential Flat Buildings → 03-7-residential-flat-buildings.md\n8 Local and Neighbourhood → 04-8-local-and-neighbourhood.md\n9 Industrial Development → 05-9-industrial-development.md\n10 Miscellaneous Development → 06-10-miscellaneous-development.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "residential flat buildings, industries"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/6/documents/plan_build/development-control-and-structure-plans/fairfield-city-wide-dcp-2024-amendment-no.2.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/table-of-contents, table-of-contents"
     }
    ]
   },
@@ -54520,6 +56616,216 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/cessnock-development-control-plan-2010/supporting-guides/waste-management-guideline-tourist-and-visitor-acc, waste-management-guideline-tourist-and-visitor-acc"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/supporting-guides/bonnyrigg-living-communities-masterplan",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--SG-BONNYRIGG-LIVING-COMMUNITIES-MASTERPLAN",
+   "RowLevel": "Supporting guide",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Bonnyrigg Living Communities Masterplan",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Supporting guide"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Bonnyrigg Living Communities Masterplan"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/supporting-guides/bonnyrigg-living-communities-masterplan, bonnyrigg-living-communities-masterplan"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/supporting-guides/bonnyrigg-living-communities-masterplan"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "5.1 Introduction → 01-5-1-introduction.md\n5.2 Distribution of Housing → 02-5-2-distribution-of-housing.md\n5.3 Detached and Attached Housing - General Guidelines → 03-5-3-detached-and-attached-housing-general.md\n5.4 Lifted Apartments and Senior Living → 04-5-4-lifted-apartments-and-senior-living.md\n5.5 Garden Apartments → 05-5-5-garden-apartments.md\n5.6 Bonnyrigg Neighbourhood Centre → 06-5-6-bonnyrigg-neighbourhood-centre.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "residential flat buildings"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md · current_from not in master"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/1/documents/plan-build/development-control-and-structure-plans/s75w-2012-approved-bonnyrigg-master-plan-part-5-private-realm-guidelines-mar-2012-low.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/1/documents/plan-build/development-control-and-structure-plans/s75w-2012-approved-bonnyrigg-master-plan-part-5-private-realm-guidelines-mar-2012-low.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/supporting-guides/bonnyrigg-living-communities-masterplan, bonnyrigg-living-communities-masterplan"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/supporting-guides/fairfield-city-centre-master-plan",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--SG-FAIRFIELD-CITY-CENTRE-MASTER-PLAN",
+   "RowLevel": "Supporting guide",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Fairfield City Centre Master Plan",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Supporting guide"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Fairfield City Centre Master Plan"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/supporting-guides/fairfield-city-centre-master-plan, fairfield-city-centre-master-plan"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/supporting-guides/fairfield-city-centre-master-plan"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "FAIRFIELD\nTOWN CENTRE\nMASTER PLANS\nINTRODUCTION AND BACKGROUND\nFAIRFIELD\nTOWN CENTRE\nANALYSIS\nTHE METROPOLITAN STRATEGY\nLOCATION OF MASTER PLAN SITES\nLOCAL LAND USE AND ACTIVE STREET FRONTAGE\nLOCAL BUILDING HEIGHT\nLOCAL PEDESTRIAN ACCESS\nLOCAL TRANSPORT\nTHE\nBARBARA STREET\nMASTER PLAN SITE\nBARBARA STREET MASTER PLAN SITE - PHOTOS\nBARBARA STREET MASTER PLAN SITE - ANALYSIS\nSMART ST\nDALE ST\nANZAC AV\nSMART ST\n?\nTHE CRESCENT\nDALE S\nANZAC AV\nBARBARA STREET MASTER PLAN SITE - MASTER PLAN PRINCIPLES\nBARBARA STREET MASTER PLAN SITE - THE VISION\nBARBARA STREET MASTER PLAN SITE - THE MASTER PLAN\nBARBARA STREET MASTER PLAN SITE - STAGING AND FEASIBILITY\nSMART ST\nTHE CRESCENT\nDALE ST\nANZAC AVE\nHAMILTON ST\nBARBARA STREET MASTER PLAN SITE - TRAFFIC AND PARKING\nTHE CRESCENT\nMASTER PLAN SITE\nTHE CRESCENT MASTER PLAN SITE - PHOTOS\nTHE CRESCENT MASTER PLAN SITE - ANALYSIS"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "car parking"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md · current_from '2006-11' not a full date"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/1/documents/plan_build/fmast_adopted_7_may_2007.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/1/documents/plan_build/fmast_adopted_7_may_2007.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/supporting-guides/fairfield-city-centre-master-plan, fairfield-city-centre-master-plan"
+    }
+   ]
+  },
+  {
+   "MDPath": "fairfield-city-wide-development-control-plan-2024/supporting-guides/prairiewood-master-plan-december-2005",
+   "Title": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024--SG-PRAIRIEWOOD-MASTER-PLAN-DECEMBER-2005",
+   "RowLevel": "Supporting guide",
+   "ParentMDPath": "fairfield-city-wide-development-control-plan-2024",
+   "ParentDCP": "DCP-NSW-FAIRFIELD-CITY-WIDE-2024",
+   "Counci": "NSW-C-FAIRFIELD",
+   "LEP": "LEP-NSW-FAIRFIELD-2013",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Fairfield City Wide Development Control Plan 2024 - Prairiewood Master Plan (December 2005)",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Supporting guide"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Fairfield City Wide Development Control Plan 2024"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Prairiewood Master Plan (December 2005)"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/supporting-guides/prairiewood-master-plan-december-2005, prairiewood-master-plan-december-2005"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "fairfield-city-wide-development-control-plan-2024/supporting-guides/prairiewood-master-plan-december-2005"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2013-05-31"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1 Introduction → 01-introduction.md\n2 Prairiewood Town Centre Site – Planning and Urban Analysis → 02-prairiewood-town-centre-site-planning.md\n3 Prairiewood Masterplan – Urban Structure → 03-prairiewood-masterplan-urban-structure.md\n4 Design Objectives Phase 1 → 04-design-objectives-phase-1.md\n5 Design Objectives Phase 2 → 05-design-objectives-phase-2.md\n6 Design Objectives Phase 3 → 06-design-objectives-phase-3.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/1/documents/plan_build/prairiewood_master_plan_december_2005___2013_version_1___pdf.pdf, https://www.fairfieldcity.nsw.gov.au/files/assets/public/v/1/documents/plan_build/prairiewood_master_plan_december_2005___2013_version_1___pdf.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/fairfield-city-wide-development-control-plan-2024/supporting-guides/prairiewood-master-plan-december-2005, prairiewood-master-plan-december-2005"
     }
    ]
   },
