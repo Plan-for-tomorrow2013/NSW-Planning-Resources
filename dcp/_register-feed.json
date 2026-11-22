@@ -1,13 +1,13 @@
 {
  "feed_version": 1,
- "generated": "2026-11-22T18:16:10+13:00",
+ "generated": "2026-11-22T18:56:13+13:00",
  "master_folder": "00 NSW-Planning-Resources/dcp",
  "match_key": "MDPath",
- "entry_count": 811,
+ "entry_count": 820,
  "counts": {
-  "DCP": 27,
+  "DCP": 28,
   "Stand-alone plan": 3,
-  "Chapter": 681,
+  "Chapter": 689,
   "Supporting guide": 77,
   "Retired (replaced)": 23
  },
@@ -1660,6 +1660,72 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/walgett-shire-development-control-plan-2016, walgett-shire-development-control-plan-2016"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016",
+   "Title": "DCP-NSW-WOLLONDILLY-2016",
+   "RowLevel": "DCP",
+   "ParentMDPath": "",
+   "ParentDCP": "",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "DCP"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016, wollondilly-development-control-plan-2016"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2025-10-31"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Volume 1 General → volume-01-general/\nVolume 2 Urban Release Areas → volume-02-urban-release-areas/\nVolume 3 Subdivision of Land → volume-03-subdivision-of-land/\nVolume 4 Residential Development → volume-04-residential-development/\nVolume 5 Commercial and Community Uses → volume-05-commercial-and-community-uses/\nVolume 6 Tourism and Events → volume-06-tourism-and-events/\nVolume 7 Industry and Infrastructure → volume-07-industry-and-infrastructure/\nVolume 8 Primary agricultural and Rural uses → volume-08-primary-agricultural-and-rural-uses/"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md · master status: OK · 8 chapter(s) published."
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016, wollondilly-development-control-plan-2016"
     }
    ]
   },
@@ -41902,6 +41968,566 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/walgett-shire-development-control-plan-2016/walgett-shire-development-control-plan-2016, walgett-shire-development-control-plan-2016"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-01-general",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-01-GENERAL",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 1 General",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 1 General"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-01-general, volume-01-general"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-01-general"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2025-10-31"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1 Advertising and Signage → 01-advertising-and-signage.md\n2 Additions, Alterations and Ancillary Development → 02-additions-alterations-and-ancillary.md\n3 Demolition of Heritage Items → 03-demolition-of-heritage-items.md\n4 Subdivision of land containing a heritage item and/or land within a heritage conservation area or a Landscape Conservation Area. → 04-subdivision-of-land-containing-a.md\n5 Colours and built form on sites containing heritage items and within heritage conservation areas or a Landscape Conservation Area. → 05-colours-and-built-form-on-sites.md\n13 – Controls for Development within the Metropolitan Rural Area → 06-13-controls-for-development-within-the.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "signage, rural land uses, subdivision, heritage items and conservation areas, demolition, landscaping"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-01-general, volume-01-general"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-02-urban-release-areas",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-02-URBAN-RELEASE-AREAS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 2 Urban Release Areas",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 2 Urban Release Areas"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-02-urban-release-areas, volume-02-urban-release-areas"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-02-urban-release-areas"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2018-01-10"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1.1 Introduction → 01-1-1-introduction.md\n1.2 Objectives → 02-1-2-objectives.md\n1.3 Parts of this Volume → 03-1-3-parts-of-this-volume.md\n2.1 Wilton Park, Wilton (Bingara Gorge) → 04-2-1-wilton-park-wilton-bingara-gorge.md\n2.3 Road Reserve → 05-2-3-road-reserve.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-02-urban-release-areas, volume-02-urban-release-areas"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-03-subdivision-of-land",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-03-SUBDIVISION-OF-LAND",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 3 Subdivision of Land",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 3 Subdivision of Land"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-03-subdivision-of-land, volume-03-subdivision-of-land"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-03-subdivision-of-land"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2019-10-30"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1.1 Introduction → 01-1-1-introduction.md\n1.2 Objectives → 02-1-2-objectives.md\n1.3 Parts of this DCP → 03-1-3-parts-of-this-dcp.md\n2.1 Traffic and Transport Objectives → 04-2-1-traffic-and-transport-objectives.md\n2.2 Wastewater Objectives → 05-2-2-wastewater-objectives.md\n2.3 Stormwater Objectives → 06-2-3-stormwater-objectives.md\n2.4 Lot Size and Shape Objectives → 07-2-4-lot-size-and-shape-objectives.md\n2.5 Landscape and Character Objectives → 08-2-5-landscape-and-character-objectives.md\n2.6 Corner Allotments Objectives → 09-2-6-corner-allotments-objectives.md\n2.7 Building Envelopes Objectives → 10-2-7-building-envelopes-objectives.md\n2.8 Environmental Protection Objectives → 11-2-8-environmental-protection-objectives.md\n2.9 Non-Residential Development Objectives → 12-2-9-non-residential-development-objectives.md\n2.10 Agricultural Subdivision Objectives → 13-2-10-agricultural-subdivision-objectives.md\n2.11 Boundary Adjustment to certain residential, environment protection and rural zones → 14-2-11-boundary-adjustment-to-certain.md\n3.1 Picton West and Star Street Former Road Reserve → 15-3-1-picton-west-and-star-street-former-road.md\n3.2 Thirlmere East → 16-3-2-thirlmere-east.md\n3.3 Thirlmere South → 17-3-3-thirlmere-south.md\n3.4 Tahmoor West → 18-3-4-tahmoor-west.md\n3.5 Tahmoor South Application → 19-3-5-tahmoor-south-application.md\n3.6 Tahmoor East → 20-3-6-tahmoor-east.md\n3.7 Avon Dam and Hawthorne Roads, Bargo → 21-3-7-avon-dam-and-hawthorne-roads-bargo.md\n3.8 Land Between Picton, Tahmoor and Thirlmere (commonly known as PTTAG) → 22-3-8-land-between-picton-tahmoor-and.md\n3.9 Montpelier Drive Residential Land (The Oaks) → 23-3-9-montpelier-drive-residential-land-the.md\n3.10 Queen Victoria Memorial Home Planning Proposal Site → 24-3-10-queen-victoria-memorial-home-planning.md\n3.11 Bulli Appin Road Planning Proposal Site → 25-3-11-bulli-appin-road-planning-proposal-site.md\n3.12 Bronzewing Street Planning Proposal Site Application → 26-3-12-bronzewing-street-planning-proposal-site.md\n3.13 Abbotsford Road Planning Proposal Site Application → 27-3-13-abbotsford-road-planning-proposal-site.md\n3.14 Station Street Planning Proposal Site Application → 28-3-14-station-street-planning-proposal-site.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "agriculture, rural land uses, subdivision, landscaping, waste management, stormwater"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-03-subdivision-of-land, volume-03-subdivision-of-land"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-04-residential-development",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-04-RESIDENTIAL-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 4 Residential Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 4 Residential Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-04-residential-development, volume-04-residential-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-04-residential-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2021-10-06"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1 Visual Character and amenity → 01-visual-character-and-amenity.md\n2 Vehicular Access, Car Parking and Traffic → 02-vehicular-access-car-parking-and-traffic.md\n3 Encouraging Healthier Lifestyles → 03-encouraging-healthier-lifestyles.md\n4 Crime Prevention Through Environmental Design → 04-crime-prevention-through-environmental.md\n5 Privacy → 05-privacy.md\n6 Water Sensitive Urban Design → 06-water-sensitive-urban-design.md\n7 Services → 07-services.md\n8 Waste Management → 08-waste-management.md\n9 Ecologically Sustainable Development → 09-ecologically-sustainable-development.md\n10 Environmental Protection → 10-environmental-protection.md\n11 Social Equity → 11-social-equity.md\n12 Housing Delivery → 12-housing-delivery.md\n13 Economic Development → 13-economic-development.md\n14 Appropriate Integration with State Environmental Planning Policies and Wollondilly Local Environmental Plan, 2011. → 14-appropriate-integration-with-state.md\n15 Swimming Pools → 15-swimming-pools.md\n16 Maintenance → 16-maintenance.md\n17 Landscaping → 17-landscaping.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "car parks, car parking, health services facilities, swimming pools, landscaping, waste management, water sensitive urban design"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-04-residential-development, volume-04-residential-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-05-commercial-and-community-uses",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-05-COMMERCIAL-AND-COMMUNITY-USES",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 5 Commercial and Community Uses",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 5 Commercial and Community Uses"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-05-commercial-and-community-uses, volume-05-commercial-and-community-uses"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-05-commercial-and-community-uses"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2025-10-31"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "2 – General Requirements for all Commercial and Community uses → 01-2-general-requirements-for-all-commercial.md\n3 – Specific Land Use Controls → 02-3-specific-land-use-controls.md\n4 – Controls for Specific Locations: → 03-4-controls-for-specific-locations.md\n1 Character Statement → 04-1-character-statement.md\n2 Public Domain Objectives → 05-2-public-domain-objectives.md\n3 Built Form → 06-3-built-form.md\n4 Landscaping Objectives → 07-4-landscaping-objectives.md\n5 Heritage Objectives → 08-5-heritage-objectives.md\n6 Traffic and Parking Objectives → 09-6-traffic-and-parking-objectives.md\n7 Accessibility Objectives → 10-7-accessibility-objectives.md\n8 Sustainability Objectives → 11-8-sustainability-objectives.md\n9 Safety and Crime Prevention Through Environmental Design Objectives → 12-9-safety-and-crime-prevention-through.md\n10 Flooding Objectives → 13-10-flooding-objectives.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "commercial premises, car parking, heritage items and conservation areas, landscaping, flood-prone land"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-05-commercial-and-community-uses, volume-05-commercial-and-community-uses"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-06-tourism-and-events",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-06-TOURISM-AND-EVENTS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 6 Tourism and Events",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 6 Tourism and Events"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-06-tourism-and-events, volume-06-tourism-and-events"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-06-tourism-and-events"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2018-01-10"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "72 consecutive days. → 01-72-consecutive-days.md\n72 consecutive days. → 02-72-consecutive-days.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-06-tourism-and-events, volume-06-tourism-and-events"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-07-industry-and-infrastructure",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-07-INDUSTRY-AND-INFRASTRUCTURE",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 7 Industry and Infrastructure",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 7 Industry and Infrastructure"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-07-industry-and-infrastructure, volume-07-industry-and-infrastructure"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-07-industry-and-infrastructure"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2025-10-31"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "5 – Maldon Employment Generating Lands - Special Provisions → 01-5-maldon-employment-generating-lands.md\nAppendix 1 Mine Subsidence Design Principles for Industrial Buildings → 02-appendix-1-mine-subsidence-design-principles-for.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "industries"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-07-industry-and-infrastructure, volume-07-industry-and-infrastructure"
+    }
+   ]
+  },
+  {
+   "MDPath": "wollondilly-development-control-plan-2016/volume-08-primary-agricultural-and-rural-uses",
+   "Title": "DCP-NSW-WOLLONDILLY-2016--VOLUME-08-PRIMARY-AGRICULTURAL-AND-RURAL-USES",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "wollondilly-development-control-plan-2016",
+   "ParentDCP": "DCP-NSW-WOLLONDILLY-2016",
+   "Counci": "NSW-C-WOLLONDILLY",
+   "LEP": "LEP-NSW-WOLLONDILLY-2011",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Wollondilly Development Control Plan 2016 - Volume 8 Primary agricultural and Rural uses",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Wollondilly Development Control Plan 2016"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Volume 8 Primary agricultural and Rural uses"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-08-primary-agricultural-and-rural-uses, volume-08-primary-agricultural-and-rural-uses"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "wollondilly-development-control-plan-2016/volume-08-primary-agricultural-and-rural-uses"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2025-10-31"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1.1 Introduction → 01-1-1-introduction.md\n1.2 Objective → 02-1-2-objective.md\n2 – General Requirements for all Development → 03-2-general-requirements-for-all-development.md\n3.1 Animal boarding or training establishments → 04-3-1-animal-boarding-or-training.md\n3.2 Aquaculture Objectives → 05-3-2-aquaculture-objectives.md\n3.3 Intensive livestock agriculture → 06-3-3-intensive-livestock-agriculture.md\n3.4 Intensive plant agriculture → 07-3-4-intensive-plant-agriculture.md\n3.5 Farm buildings → 08-3-5-farm-buildings.md\n3.6 Earth dams Objectives → 09-3-6-earth-dams-objectives.md\n3.7 Commercial Bee Keeping Objectives → 10-3-7-commercial-bee-keeping-objectives.md\n4 – Controls for Specific Locations: → 11-4-controls-for-specific-locations.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "commercial premises, animal boarding or training establishments, agriculture, rural land uses"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan, https://www.wollondilly.nsw.gov.au/planning-and-development/guidelines-and-controls/development-control-plan"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/wollondilly-development-control-plan-2016/volume-08-primary-agricultural-and-rural-uses, volume-08-primary-agricultural-and-rural-uses"
     }
    ]
   },
