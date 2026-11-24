@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RU1
 zone: "Primary Production"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1]
 tags: [land-use-table, rural-zones]
 ---

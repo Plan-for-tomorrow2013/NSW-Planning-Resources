@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.6"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [design-excellence]
 defined_terms: ["Accelerated Transport Oriented Development Precincts Rezoning Areas Map", "Bella Vista Station Precinct", "competitive design process", "design review panel", "ecologically sustainable development", "Kellyville Station Precinct", "mixed use development", "residential accommodation", "storey"]
 ---

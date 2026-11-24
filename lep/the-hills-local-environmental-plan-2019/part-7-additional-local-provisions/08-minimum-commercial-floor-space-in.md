@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.9"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 ---
 
 # 7.9 Minimum commercial floor space in Norwest Town Centre

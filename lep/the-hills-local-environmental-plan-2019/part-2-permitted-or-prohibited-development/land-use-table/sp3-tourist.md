@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: SP3
 zone: "Tourist"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [SP3]
 tags: [land-use-table, special-purpose-zones]
 ---

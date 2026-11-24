@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.19"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1, RU2, RU3, RU5, RU6, R1, R2, R3, R4, E1, E3, E4, MU1, C3, C4, W2]
 tags: [aquaculture, waterways-and-wetlands]
 defined_terms: ["aquaculture", "oyster aquaculture", "pond-based aquaculture", "tank-based aquaculture", "the Act", "waterway"]

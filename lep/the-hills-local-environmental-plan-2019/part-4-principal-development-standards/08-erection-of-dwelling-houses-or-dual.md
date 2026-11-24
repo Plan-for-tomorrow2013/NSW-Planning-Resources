@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2A"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1, RU2, RU6, C3, C4]
 tags: [dual-occupancy, dwelling-houses, lot-size, subdivision]
 defined_terms: ["dual occupancy", "dwelling", "dwelling house", "public reserve"]

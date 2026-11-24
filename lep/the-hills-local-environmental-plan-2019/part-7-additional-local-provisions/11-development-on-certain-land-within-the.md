@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.11A"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [floor-space-ratio, heritage, heritage-items]
 defined_terms: ["basement", "floor space ratio", "Floor Space Ratio Incentive Map", "heritage item", "Key Sites Map", "storey"]
 ---

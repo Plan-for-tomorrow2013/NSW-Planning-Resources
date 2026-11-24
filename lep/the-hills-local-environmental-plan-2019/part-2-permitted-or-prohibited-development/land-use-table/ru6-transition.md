@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RU6
 zone: "Transition"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU6]
 tags: [land-use-table, rural-zones]
 ---

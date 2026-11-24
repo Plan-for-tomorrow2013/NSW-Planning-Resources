@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.4"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [floor-space-ratio]
 defined_terms: ["floor space ratio", "Floor Space Ratio Map"]
 ---

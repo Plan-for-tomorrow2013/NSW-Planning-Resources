@@ -1,7 +1,7 @@
 ---
 title: "The Hills Local Environmental Plan 2019"
 document_id: epi-2019-0596
-current_from: 2026-11-06
+current_from: 2026-11-20
 council: "The Hills Shire Council"
 ---
 
@@ -12,8 +12,8 @@ council: "The Hills Shire Council"
 - Instrument number: [2019-596]
 - Made: 2019-12-06
 - Gazette reference: LW 6 December 2019
-- This version valid from: 2026-11-06
-- Latest amendment included: epi-2026-0623
+- This version valid from: 2026-11-20
+- Latest amendment included: epi-2026-0659
 
 ## Parts
 

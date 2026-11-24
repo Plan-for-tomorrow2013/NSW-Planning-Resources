@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.5"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [acid-sulfate-soils, biodiversity, flood, heritage, waterways-and-wetlands]
 defined_terms: ["acid sulfate soils", "Bella Vista Station Precinct", "ecologically sustainable development", "Kellyville Station Precinct", "native flora", "watercourse", "wetland"]
 ---

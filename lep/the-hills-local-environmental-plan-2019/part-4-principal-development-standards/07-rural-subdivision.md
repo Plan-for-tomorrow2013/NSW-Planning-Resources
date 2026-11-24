@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.2"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1, RU2, RU3, RU6]
 tags: [lot-size, subdivision]
 defined_terms: ["dwelling", "Lot Size Map", "rural worker's dwelling"]

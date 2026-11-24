@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.3"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R1, R2, R3, R4, RE1, C1, C2, C3, C4]
 tags: [zone-boundaries]
 defined_terms: ["coastal zone", "restricted premises", "sex services"]

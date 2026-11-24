@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.24"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [agritourism, bush-fire, dwelling-houses, flood, lot-size]
 defined_terms: ["bush fire prone land", "dwelling", "dwelling house", "farm stay accommodation", "landholding", "manufactured home", "residential accommodation"]
 ---

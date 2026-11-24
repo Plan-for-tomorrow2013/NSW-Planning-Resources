@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.18"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU5, RU6, R1, R2, R3, R4, E3, MU1, C3, C4]
 tags: [complying-development, intensive-livestock]
 defined_terms: ["dairy (restricted)", "dwelling", "feedlot", "intensive livestock agriculture", "pig farm", "poultry farm", "watercourse"]

@@ -3,7 +3,7 @@ title: "Schedule 2 — Exempt development"
 council: "The Hills Shire Council"
 document_type: LEP
 clause: "Schedule 2 (Clause 3.1)"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1, RU2, RU3, RU6, R2, MU1, SP3, SP4, C3, C4]
 tags: [complying-development, exempt-development, heritage, heritage-items, home-business, temporary-uses]
 defined_terms: ["advertisement", "business identification sign", "curtilage", "heritage item", "home business", "home occupation", "signage", "the Act"]

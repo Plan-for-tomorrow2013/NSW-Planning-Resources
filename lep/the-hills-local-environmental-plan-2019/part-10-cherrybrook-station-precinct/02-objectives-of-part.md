@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "10 — Cherrybrook Station Precinct"
 clause: "10.2"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [affordable-housing]
 defined_terms: ["affordable housing"]
 ---

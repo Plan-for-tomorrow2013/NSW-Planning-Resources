@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.9"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1, RU2, RU5, RU6, R2, R3, C3, C4]
 tags: [dwelling-houses, secondary-dwellings]
 defined_terms: ["dwelling house", "secondary dwelling"]

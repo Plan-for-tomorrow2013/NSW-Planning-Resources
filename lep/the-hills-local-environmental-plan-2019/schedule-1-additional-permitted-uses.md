@@ -3,7 +3,7 @@ title: "Schedule 1 — Additional permitted uses"
 council: "The Hills Shire Council"
 document_type: LEP
 clause: "Schedule 1 (Clause 2.5)"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R1, R3, R4, E1, MU1, SP2, SP4, C2]
 tags: [additional-permitted-uses, dwelling-houses, lot-size, seniors-housing]
 defined_terms: ["Additional Permitted Uses Map", "Bella Vista Station Precinct", "building identification sign", "business identification sign", "business premises", "commercial premises", "dwelling", "dwelling house", "environmental facility", "exhibition village", "garden centre", "gross floor area", "Kellyville Station Precinct", "kiosk", "landscaping material supplies", "multi dwelling housing", "neighbourhood supermarket", "recreation area", "recreation facility (outdoor)", "residential care facility", "residential flat building", "restaurant or cafe", "seniors housing", "shop top housing"]

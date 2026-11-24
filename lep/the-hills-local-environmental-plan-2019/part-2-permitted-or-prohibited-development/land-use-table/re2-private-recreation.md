@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RE2
 zone: "Private Recreation"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RE2]
 tags: [land-use-table, recreation-zones]
 ---

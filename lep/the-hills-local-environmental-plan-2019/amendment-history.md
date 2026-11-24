@@ -2,12 +2,12 @@
 title: "Amendment history"
 council: "The Hills Shire Council"
 document_type: LEP
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 ---
 
 # Amendment history
 
-68 instruments have amended this LEP.
+69 instruments have amended this LEP.
 
 ## Table of amending instruments
 
@@ -81,6 +81,7 @@ last_verified: 2026-11-06
 |  | (501) | *The Hills Local Environmental Plan 2019 (Amendment No 37)*. LW 4.9.2026. Date of commencement, on publication on LW, cl 2. |
 |  | (584) | *The Hills Local Environmental Plan 2019 (Amendment No 40)*. LW 23.10.2026. Date of commencement, on publication on LW, cl 2. |
 |  | (623) | *The Hills Local Environmental Plan 2019 (Amendment No 39)*. LW 6.11.2026. Date of commencement, on publication on LW, cl 2. |
+|  | (659) | *The Hills Local Environmental Plan 2019 (Amendment No 38)*. LW 20.11.2026. Date of commencement, on publication on LW, cl 2. |
 
 ## Table of amendments
 
@@ -135,6 +136,7 @@ last_verified: 2026-11-06
 | Cl 7.34 | Ins 2026 (215), Sch 1[4]. |
 | Cl 7.35 | Ins 2026 (584), Sch 1[1]. |
 | Cl 7.36 | Ins 2026 (623), Sch 1[1]. |
+| Cl 7.37 | Ins 2026 (659), Sch 1[1]. |
 | Cl 8.1 | Am 2022 (828), Sch 1.23[10] [11]. |
 | Cl 8.2 | Am 2022 (828), Sch 1.23[7]. |
 | Cl 8.4 | Am 2022 (828), Sch 1.23[7] [10]. |

@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.10"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 defined_terms: ["dwelling", "Key Sites Map", "parking space", "residential flat building"]
 ---
 

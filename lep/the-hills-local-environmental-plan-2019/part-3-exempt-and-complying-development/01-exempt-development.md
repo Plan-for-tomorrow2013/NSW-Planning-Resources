@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "3 — Exempt and complying development"
 clause: "3.1"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [biodiversity, exempt-development, heritage]
 ---
 

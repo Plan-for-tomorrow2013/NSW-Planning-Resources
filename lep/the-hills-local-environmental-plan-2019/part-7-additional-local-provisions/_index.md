@@ -2,7 +2,7 @@
 title: "Part 7 — Additional local provisions"
 council: "The Hills Shire Council"
 document_type: LEP
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 ---
 
 # Part 7 — Additional local provisions
@@ -45,3 +45,4 @@ last_verified: 2026-11-06
 | 7.34 | Non-residential development in Zone R4 | [30-non-residential-development-in-zone-r4.md](30-non-residential-development-in-zone-r4.md) |
 | 7.35 | Development at Middleton Avenue, Castle Hill | [31-development-at-middleton-avenue-castle.md](31-development-at-middleton-avenue-castle.md) |
 | 7.36 | Development at 2 Fishburn Crescent, Castle Hill | [32-development-at-2-fishburn-crescent.md](32-development-at-2-fishburn-crescent.md) |
+| 7.37 | Development on land at 16-20 Old Castle Hill Road, Castle Hill | [33-development-on-land-at-16-20-old-castle.md](33-development-on-land-at-16-20-old-castle.md) |

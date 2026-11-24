@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "8 — Bella Vista and Kellyville Station Precincts"
 clause: "8.2"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R1, R4, E1]
 tags: [height-of-buildings, lot-size]
 defined_terms: ["Bella Vista Station Precinct", "building height", "Kellyville Station Precinct", "residential flat building", "shop top housing"]

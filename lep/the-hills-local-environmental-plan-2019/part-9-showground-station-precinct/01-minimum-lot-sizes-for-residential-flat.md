@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.1"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R1, R4, E1]
 tags: [height-of-buildings, lot-size]
 defined_terms: ["building height", "residential flat building", "shop top housing", "Showground Station Precinct"]

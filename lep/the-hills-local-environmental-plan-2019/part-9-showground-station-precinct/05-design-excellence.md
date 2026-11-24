@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "9 — Showground Station Precinct"
 clause: "9.5"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [design-excellence]
 defined_terms: ["competitive design process", "design review panel", "ecologically sustainable development", "Showground Station Precinct", "storey"]
 ---

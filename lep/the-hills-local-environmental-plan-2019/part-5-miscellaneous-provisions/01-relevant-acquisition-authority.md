@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.1"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R2, SP2, RE1, C1, C2]
 tags: [land-acquisition]
 defined_terms: ["Land Reservation Acquisition Map", "the Act"]

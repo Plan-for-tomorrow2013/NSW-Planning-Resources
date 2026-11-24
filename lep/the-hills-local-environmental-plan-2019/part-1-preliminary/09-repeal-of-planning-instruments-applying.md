@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "1 — Preliminary"
 clause: "1.8"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 ---
 
 # 1.8 Repeal of planning instruments applying to land

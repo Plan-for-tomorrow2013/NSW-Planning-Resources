@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.15"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R3, R4]
 tags: [bushland, dwelling-houses, groundwater, subdivision]
 defined_terms: ["attached dwelling", "dwelling", "dwelling house", "semi-detached dwelling"]

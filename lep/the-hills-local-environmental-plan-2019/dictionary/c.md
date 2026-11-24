@@ -3,7 +3,7 @@ title: "Dictionary — C"
 council: "The Hills Shire Council"
 document_type: LEP
 dictionary_range: "C"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [dictionary]
 ---
 

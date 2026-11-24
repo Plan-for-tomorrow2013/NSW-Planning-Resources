@@ -2,7 +2,7 @@
 title: "Land Use Table"
 council: "The Hills Shire Council"
 document_type: LEP
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 ---
 
 # Land Use Table

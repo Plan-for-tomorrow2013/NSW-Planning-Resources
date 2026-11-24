@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: R4
 zone: "High Density Residential"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [R4]
 tags: [land-use-table, residential-zones]
 ---

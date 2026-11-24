@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "5 — Miscellaneous provisions"
 clause: "5.4"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [E3, E4]
 tags: [agritourism, home-business, secondary-dwellings]
 defined_terms: ["artisan food and drink industry", "bed and breakfast accommodation", "dwelling", "farm stay accommodation", "gross floor area", "home business", "home industry", "industrial retail outlet", "kiosk", "neighbourhood shop", "neighbourhood supermarket", "roadside stall", "rural industry", "secondary dwelling"]

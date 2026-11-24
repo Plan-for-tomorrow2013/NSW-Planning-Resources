@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "2 — Permitted or prohibited development"
 clause: "2.9"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [flood, groundwater, waterways-and-wetlands]
 defined_terms: ["canal estate development", "dwelling", "waterbody", "waterway"]
 ---

@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 zone_code: RU2
 zone: "Rural Landscape"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU2]
 tags: [land-use-table, rural-zones]
 ---

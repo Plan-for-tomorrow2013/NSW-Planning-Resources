@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "4 — Principal development standards"
 clause: "4.1AA"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 zones: [RU1, RU2, RU6, R1, R2, R3, R4, SP3, C3, C4]
 tags: [biodiversity, community-title, lot-size, strata-title, subdivision]
 defined_terms: ["biodiversity", "dwelling", "Lot Size Map", "Terrestrial Biodiversity Map"]

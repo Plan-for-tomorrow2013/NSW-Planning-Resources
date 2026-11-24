@@ -4,7 +4,7 @@ council: "The Hills Shire Council"
 document_type: LEP
 part: "7 — Additional local provisions"
 clause: "7.1"
-last_verified: 2026-11-06
+last_verified: 2026-11-20
 tags: [acid-sulfate-soils]
 defined_terms: ["acid sulfate soils", "Acid Sulfate Soils Manual", "Acid Sulfate Soils Map", "public authority"]
 ---
