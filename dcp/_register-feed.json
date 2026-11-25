@@ -1,13 +1,13 @@
 {
  "feed_version": 1,
- "generated": "2026-11-23T10:27:12+13:00",
+ "generated": "2026-11-26T11:27:35+13:00",
  "master_folder": "00 NSW-Planning-Resources/dcp",
  "match_key": "MDPath",
- "entry_count": 853,
+ "entry_count": 862,
  "counts": {
-  "DCP": 29,
+  "DCP": 30,
   "Stand-alone plan": 3,
-  "Chapter": 718,
+  "Chapter": 726,
   "Supporting guide": 80,
   "Retired (replaced)": 23
  },
@@ -1726,6 +1726,72 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/walgett-shire-development-control-plan-2016, walgett-shire-development-control-plan-2016"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022",
+   "Title": "DCP-NSW-WAVERLEY-2022",
+   "RowLevel": "DCP",
+   "ParentMDPath": "",
+   "ParentDCP": "",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "DCP"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022, waverley-development-control-plan-2022"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-04-18"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Definitions and Abbreviations → definitions-and-abbreviations/\nDocument Information and Table of Contents → document-information-and-table-of-contents/\nPart A Preliminary Information → part-a-preliminary-information/\nPart B General Provisions → part-b-general-provisions/\nPart C Residential Development → part-c-residential-development/\nPart D Commercial Development → part-d-commercial-development/\nPart E Site Specific Development → part-e-site-specific-development/\nPart F Development Specific → part-f-development-specific/"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md · master status: OK · 8 chapter(s) published."
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/planning/development_applications/development_control_plan_2022, https://www.waverley.nsw.gov.au/planning/development_applications/development_control_plan_2022"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022, waverley-development-control-plan-2022"
     }
    ]
   },
@@ -44064,6 +44130,566 @@
     {
      "FieldName": "LocalMDLink",
      "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/walgett-shire-development-control-plan-2016/walgett-shire-development-control-plan-2016, walgett-shire-development-control-plan-2016"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/definitions-and-abbreviations",
+   "Title": "DCP-NSW-WAVERLEY-2022--DEFINITIONS-AND-ABBREVIATIONS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Definitions and Abbreviations",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Definitions and Abbreviations"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/definitions-and-abbreviations, definitions-and-abbreviations"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/definitions-and-abbreviations"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-04-18"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "A\nB\nC\nD\nE\nF\nG\nH\nI\nL\nM\nN\nO\nP\nR\nS\nT\nU\nV\nW\nABBREVIATIONS"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Definitions_and_abbreviations.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Definitions_and_abbreviations.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/definitions-and-abbreviations, definitions-and-abbreviations"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/document-information-and-table-of-contents",
+   "Title": "DCP-NSW-WAVERLEY-2022--DOCUMENT-INFORMATION-AND-TABLE-OF-CONTENTS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Document Information and Table of Contents",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Document Information and Table of Contents"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/document-information-and-table-of-contents, document-information-and-table-of-contents"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/document-information-and-table-of-contents"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-04-18"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "Waverley Council → 01-waverley-council.md\nAMENDMENT HISTORY → 02-amendment-history.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Document_Information_and_Table_of_Contents.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Document_Information_and_Table_of_Contents.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/document-information-and-table-of-contents, document-information-and-table-of-contents"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/part-a-preliminary-information",
+   "Title": "DCP-NSW-WAVERLEY-2022--PART-A-PRELIMINARY-INFORMATION",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Part A Preliminary Information",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Part A Preliminary Information"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-a-preliminary-information, part-a-preliminary-information"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/part-a-preliminary-information"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2022-12-08"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "A1 STATUTORY INFORMATION → 01-a1-statutory-information.md\n1.1 COMMENCEMENT → 02-1-1-commencement.md\n1.2 LAND TO WHICH THIS DCP APPLIES → 03-1-2-land-to-which-this-dcp-applies.md\n1.3 PURPOSE → 04-1-3-purpose.md\n1.4 RELATIONSHIP WITH OTHER PLANS, STANDARDS AND CODES → 05-1-4-relationship-with-other-plans-standards.md\n1.5 COMPLIANCE → 06-1-5-compliance.md\n1.6 SAVINGS PROVISION → 07-1-6-savings-provision.md\n1.7 OFFENCES → 08-1-7-offences.md\n1.8 STRUCTURE → 09-1-8-structure.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": ""
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_A_-_Preliminary_Information.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_A_-_Preliminary_Information.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-a-preliminary-information, part-a-preliminary-information"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/part-b-general-provisions",
+   "Title": "DCP-NSW-WAVERLEY-2022--PART-B-GENERAL-PROVISIONS",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Part B General Provisions",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Part B General Provisions"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-b-general-provisions, part-b-general-provisions"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/part-b-general-provisions"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-04-18"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "B1 WASTE → 01-b1-waste.md\n1.1 DEMOLITION AND CONSTRUCTION → 02-1-1-demolition-and-construction.md\n1.2 ONGOING MANAGEMENT → 03-1-2-ongoing-management.md\n1.3 LOW DENSITY RESIDENTIAL DEVELOPMENT → 04-1-3-low-density-residential-development.md\n1.4 ALL OTHER DEVELOPMENT → 05-1-4-all-other-development.md\nB2 ECOLOGICALLY SUSTAINABLE DEVELOPMENT → 06-b2-ecologically-sustainable-development.md\n2.1 PASSIVE DESIGN AND THERMAL SAFETY → 07-2-1-passive-design-and-thermal-safety.md\n2.2 WATER CONSERVATION → 08-2-2-water-conservation.md\n2.3 INDOOR AIR QUALITY → 09-2-3-indoor-air-quality.md\n2.4 RENEWABLE ENERGY AND ENERGY EFFICIENCY → 10-2-4-renewable-energy-and-energy-efficiency.md\n2.5 ENERGY ASSESSMENT → 11-2-5-energy-assessment.md\n2.6 NABERS COMMITTMENT AGREEMENT → 12-2-6-nabers-committment-agreement.md\nB3 LANDSCAPING, BIODIVERSITY AND VEGETATION PRESERVATION → 13-b3-landscaping-biodiversity-and-vegetation.md\n3.1 GENERAL PROVISIONS → 14-3-1-general-provisions.md\n3.2 LANDSCAPING → 15-3-2-landscaping.md\n3.3 BIODIVERSITY → 16-3-3-biodiversity.md\n3.4 PROTECTING TREES ON DEVELOPMENT SITES → 17-3-4-protecting-trees-on-development-sites.md\n3.5 PENALTIES → 18-3-5-penalties.md\nB4 COASTAL RISK MANAGEMENT → 19-b4-coastal-risk-management.md\nB5 WATER MANAGEMENT → 20-b5-water-management.md\n5.1 STORMWATER MANAGEMENT AND WSUD → 21-5-1-stormwater-management-and-wsud.md\n5.2 FLOOD PLANNING → 22-5-2-flood-planning.md\nB6 ACCESSIBILITY AND ADAPTABILITY → 23-b6-accessibility-and-adaptability.md\n6.1 ACCESSIBILITY → 24-6-1-accessibility.md\n6.2 ADAPTABLE DWELLINGS → 25-6-2-adaptable-dwellings.md\n6.3 UNIVERSAL HOUSING DESIGN → 26-6-3-universal-housing-design.md\n6.4 UNJUSTIFIABLE HARDSHIP → 27-6-4-unjustifiable-hardship.md\nB7 TRANSPORT → 28-b7-transport.md\n7.1 STREETSCAPE → 29-7-1-streetscape.md\n7.2 ON-SITE PARKING → 30-7-2-on-site-parking.md\n7.3 LOADING FACILITIES → 31-7-3-loading-facilities.md\n7.4 PEDESTRIAN/BICYCLE CIRCULATION AND SAFETY → 32-7-4-pedestrian-bicycle-circulation-and.md\n7.5 GREEN TRAVEL PLANS → 33-7-5-green-travel-plans.md\n7.6 TRAFFIC AND TRANSPORT MANAGEMENT PLANS → 34-7-6-traffic-and-transport-management-plans.md\n7.7 CAR SHARE → 35-7-7-car-share.md\n7.8 ELECTRIC VEHICLE CHARGING POINTS → 36-7-8-electric-vehicle-charging-points.md\nB8 HERITAGE → 37-b8-heritage.md\n8.1 DEFINING HERITAGE → 38-8-1-defining-heritage.md\n8.2 DEMOLITION & EXCAVATION → 39-8-2-demolition-and-excavation.md\n8.3 ABORIGINAL SITES → 40-8-3-aboriginal-sites.md\n8.4 HERITAGE CONSERVATION AREAS → 41-8-4-heritage-conservation-areas.md\n8.5 LANDSCAPE CONSERVATION AREAS → 42-8-5-landscape-conservation-areas.md\n8.6 CHARACTER AND STREETSCAPE → 43-8-6-character-and-streetscape.md\n8.7 SITING → 44-8-7-siting.md\n8.8 SCALE AND PROPORTION → 45-8-8-scale-and-proportion.md\n8.9 ARCHITECTURAL STYLE → 46-8-9-architectural-style.md\n8.10 MATERIALS AND COLOUR → 47-8-10-materials-and-colour.md\n8.11 ROOFS AND CHIMNEYS → 48-8-11-roofs-and-chimneys.md\n8.12 VERANDAHS AND BALCONIES → 49-8-12-verandahs-and-balconies.md\n8.13 GARAGES, PARKING AND SITE ACCESS → 50-8-13-garages-parking-and-site-access.md\n8.14 GARDEN ELEMENTS → 51-8-14-garden-elements.md\n8.15 BUILDING FACADES → 52-8-15-building-facades.md\n8.16 DETAILING → 53-8-16-detailing.md\n8.17 FENCING AND GATES → 54-8-17-fencing-and-gates.md\n8.18 LANDSCAPING → 55-8-18-landscaping.md\n8.19 SOLAR PANELS → 56-8-19-solar-panels.md\n8.20 COMMERCIAL PROPERTIES → 57-8-20-commercial-properties.md\nB9 SAFETY → 58-b9-safety.md\n9.1 BUILT FORM → 59-9-1-built-form.md\nB10 PUBLIC ART → 60-b10-public-art.md\n10.1 PUBLIC ART IN THE PRIVATE DOMAIN → 61-10-1-public-art-in-the-private-domain.md\nB11 DESIGN EXCELLENCE → 62-b11-design-excellence.md\n11.1 DESIGN → 63-11-1-design.md\n11.2 CONTEXT ANALYSIS → 64-11-2-context-analysis.md\nB12 SUBDIVISION → 65-b12-subdivision.md\nB13 EXCAVATION → 66-b13-excavation.md\nB14 ADVERTISING AND SIGNAGE → 67-b14-advertising-and-signage.md\n14.1 DESIGN AND LOCATION → 68-14-1-design-and-location.md\n14.2 SITE SPECIFIC CONTROLS → 69-14-2-site-specific-controls.md\n14.3 SIGN SPECIFIC CONTROLS → 70-14-3-sign-specific-controls.md\nB15 PUBLIC DOMAIN → 71-b15-public-domain.md\n15.1 IMPROVING THE PUBLIC DOMAIN → 72-15-1-improving-the-public-domain.md\n15.2 ACTIVE STREET FRONTAGES → 73-15-2-active-street-frontages.md\n15.3 ARCADES AND THROUGH SITE LINKS → 74-15-3-arcades-and-through-site-links.md\n15.4 AWNINGS AND COLONNADES → 75-15-4-awnings-and-colonnades.md\n15.5 REFLECTIVITY → 76-15-5-reflectivity.md\n15.6 SHOPFRONT SECURITY → 77-15-6-shopfront-security.md\n15.7 MINOR ENCROACHMENTS → 78-15-7-minor-encroachments.md\nB16 INTER-WAR BUILDINGS → 79-b16-inter-war-buildings.md\n16.2 Shopfronts → 80-16-2-shopfronts.md\nB17 SOCIAL IMPACT ASSESSMENT → 81-b17-social-impact-assessment.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "shops, commercial premises, vehicle sales/repair, car parking, signage, subdivision, heritage items and conservation areas, demolition, landscaping, trees, waste management, stormwater, flood-prone land"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_B_General_Provisions.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_B_General_Provisions.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-b-general-provisions, part-b-general-provisions"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/part-c-residential-development",
+   "Title": "DCP-NSW-WAVERLEY-2022--PART-C-RESIDENTIAL-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Part C Residential Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Part C Residential Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-c-residential-development, part-c-residential-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/part-c-residential-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2022-12-08"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "C1 LOW DENSITY RESIDENTIAL DEVELOPMENT → 01-c1-low-density-residential-development.md\n1.0 GENERAL OBJECTIVES → 02-1-0-general-objectives.md\n1.1 HEIGHT → 03-1-1-height.md\n1.2 SETBACKS → 04-1-2-setbacks.md\n1.2.1 Front and rear building lines → 05-1-2-1-front-and-rear-building-lines.md\n1.2.2 Side Setbacks Controls → 06-1-2-2-side-setbacks-controls.md\n1.3 STREETSCAPE AND VISUAL IMPACT → 07-1-3-streetscape-and-visual-impact.md\n1.4 FENCES → 08-1-4-fences.md\n1.5 VISUAL AND ACOUSTIC PRIVACY → 09-1-5-visual-and-acoustic-privacy.md\n1.6 SOLAR ACCESS → 10-1-6-solar-access.md\n1.7 VIEWS → 11-1-7-views.md\n1.8 CAR PARKING → 12-1-8-car-parking.md\n1.8.1 Design Approach → 13-1-8-1-design-approach.md\n1.8.2 Parking Rates → 14-1-8-2-parking-rates.md\n1.8.3 Location → 15-1-8-3-location.md\n1.8.4 Design → 16-1-8-4-design.md\n1.8.5 Dimensions → 17-1-8-5-dimensions.md\n1.8.6 Driveways → 18-1-8-6-driveways.md\n1.9 LANDSCAPING AND OPEN SPACE → 19-1-9-landscaping-and-open-space.md\n1.10 SWIMMING POOLS AND SPA POOLS → 20-1-10-swimming-pools-and-spa-pools.md\n1.11 DORMER WINDOWS → 21-1-11-dormer-windows.md\n1.12 BATTLE AXE BLOCKS → 22-1-12-battle-axe-blocks.md\n1.13 SEMI-DETACHED DWELLINGS & TERRACE STYLE DEVELOPMENT → 23-1-13-semi-detached-dwellings-and-terrace.md\n1.13.1 Built Form → 24-1-13-1-built-form.md\n1.13.2 First Floor Additions to Semi-detached Dwellings → 25-1-13-2-first-floor-additions-to-semi-detached.md\n1.13.3 Material Finishes and Detail for Semi-detached Dwellings → 26-1-13-3-material-finishes-and-detail-for-semi.md\n1.13.4 Side setback and courtyard design controls for terraces → 27-1-13-4-side-setback-and-courtyard-design.md\n1.13.5 Streetscape and visual impact controls for terraces → 28-1-13-5-streetscape-and-visual-impact-controls.md\n1.13.6 Common or shared party walls → 29-1-13-6-common-or-shared-party-walls.md\n1.14 DUAL FRONTAGE DEVELOPMENT → 30-1-14-dual-frontage-development.md\n1.14.1 General Controls → 31-1-14-1-general-controls.md\n1.14.2 Laneway design provisions → 32-1-14-2-laneway-design-provisions.md\n1.14.3 Development in Heritage Conservation Areas Garage Articulation → 33-1-14-3-development-in-heritage-conservation.md\n1.15 DUAL OCCUPANCY DEVELOPMENT → 34-1-15-dual-occupancy-development.md\n1.16 SECONDARY DWELLINGS AND ANCILLARY BUILDINGS → 35-1-16-secondary-dwellings-and-ancillary.md\n1.16.1 Secondary Dwellings → 36-1-16-1-secondary-dwellings.md\n1.16.2 Ancillary Development → 37-1-16-2-ancillary-development.md\nC2 OTHER RESIDENTIAL DEVELOPMENT → 38-c2-other-residential-development.md\n2.1 SITE, SCALE AND FRONTAGE → 39-2-1-site-scale-and-frontage.md\n2.2 HEIGHT → 40-2-2-height.md\n2.3.1 Street Setbacks Objectives → 41-2-3-1-street-setbacks-objectives.md\n2.3.2 Side and Rear Setbacks Objectives → 42-2-3-2-side-and-rear-setbacks-objectives.md\n2.4 LENGTH AND DEPTH OF BUILDINGS → 43-2-4-length-and-depth-of-buildings.md\n2.5 BUILDING DESIGN AND STREETSCAPE → 44-2-5-building-design-and-streetscape.md\n2.6 ATTIC AND ROOF DESIGN → 45-2-6-attic-and-roof-design.md\n2.7 FENCES AND WALLS → 46-2-7-fences-and-walls.md\n2.8 PEDESTRIAN ACCESS AND ENTRY → 47-2-8-pedestrian-access-and-entry.md\n2.9 LANDSCAPING → 48-2-9-landscaping.md\n2.10 COMMUNAL SPACE → 49-2-10-communal-space.md\n2.11 PRIVATE OPEN SPACE → 50-2-11-private-open-space.md\n2.11.1 Courtyards → 51-2-11-1-courtyards.md\n2.11.2 Balconies/ Decks → 52-2-11-2-balconies-decks.md\n2.12 VEHICULAR ACCESS AND PARKING → 53-2-12-vehicular-access-and-parking.md\n2.13 SOLAR ACCESS AND OVERSHADOWING → 54-2-13-solar-access-and-overshadowing.md\n2.14 VIEWS AND VIEW SHARING → 55-2-14-views-and-view-sharing.md\n2.15 VISUAL PRIVACY AND SECURITY → 56-2-15-visual-privacy-and-security.md\n2.16 DWELLING SIZE AND LAYOUT → 57-2-16-dwelling-size-and-layout.md\n2.17 CEILING HEIGHTS → 58-2-17-ceiling-heights.md\n2.18 STORAGE → 59-2-18-storage.md\n2.19 ACOUSTIC PRIVACY → 60-2-19-acoustic-privacy.md\n2.20 NATURAL VENTILATION → 61-2-20-natural-ventilation.md\n2.21 BUILDING SERVICES → 62-2-21-building-services.md\n2.22 RETENTION OF AFFORDABLE RENTAL HOUSING → 63-2-22-retention-of-affordable-rental-housing.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "secondary dwellings, dual occupancies, semi-detached dwellings, terraces, car parks, car parking, heritage items and conservation areas, swimming pools, fences, landscaping, noise"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_C_-_Residential_Development.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_C_-_Residential_Development.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-c-residential-development, part-c-residential-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/part-d-commercial-development",
+   "Title": "DCP-NSW-WAVERLEY-2022--PART-D-COMMERCIAL-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Part D Commercial Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Part D Commercial Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-d-commercial-development, part-d-commercial-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/part-d-commercial-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2024-07-22"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "D1 COMMERCIAL AND RETAIL DEVELOPMENT → 01-d1-commercial-and-retail-development.md\n1.1 OTHER POLICIES, STRATEGIES AND STANDARDS → 02-1-1-other-policies-strategies-and-standards.md\n1.2 DESIGN → 03-1-2-design.md\n1.3 HOURS OF OPERATION → 04-1-3-hours-of-operation.md\n1.4 RESTRICTED PREMISES → 05-1-4-restricted-premises.md\nD2 OUTDOOR DINING → 06-d2-outdoor-dining.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "outdoor dining, retail premises, commercial premises"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_D_-_Commercial_Development.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_D_-_Commercial_Development.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-d-commercial-development, part-d-commercial-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/part-e-site-specific-development",
+   "Title": "DCP-NSW-WAVERLEY-2022--PART-E-SITE-SPECIFIC-DEVELOPMENT",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Part E Site Specific Development",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Part E Site Specific Development"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-e-site-specific-development, part-e-site-specific-development"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/part-e-site-specific-development"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2026-04-18"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "1.1 INTRODUCTION → 01-1-1-introduction.md\n1.2 URBAN FORM CONTROLS → 02-1-2-urban-form-controls.md\n1.3 BUILDING USE → 03-1-3-building-use.md\n1.4 ACCESS AND MOVEMENT → 04-1-4-access-and-movement.md\n1.5 SUBDIVISION → 05-1-5-subdivision.md\n1.6 HERITAGE AND BUILDINGS OF HISTORIC CHARACTER → 06-1-6-heritage-and-buildings-of-historic.md\n1.7 ACTIVE STREET FRONTAGES → 07-1-7-active-street-frontages.md\n1.8 BUILDING ORIENTATION → 08-1-8-building-orientation.md\n1.9 STREET ALIGNMENT → 09-1-9-street-alignment.md\n1.10 SEPARATION DISTANCES → 10-1-10-separation-distances.md\n1.11 SIDE AND REAR BOUNDARY SETBACKS → 11-1-11-side-and-rear-boundary-setbacks.md\n1.12 BUILDING FOOTPRINT → 12-1-12-building-footprint.md\n1.13 NUMBER OF STOREYS → 13-1-13-number-of-storeys.md\n1.14 VIEWS, VISTAS AND TREE PRESERVATION → 14-1-14-views-vistas-and-tree-preservation.md\n1.15 OPEN SPACES AT THE STREET FRONTAGE → 15-1-15-open-spaces-at-the-street-frontage.md\n1.16 BUILDING ELEVATIONS → 16-1-16-building-elevations.md\n1.17 DESIGNING BUILDINGS FOR FLEXIBILITY → 17-1-17-designing-buildings-for-flexibility.md\n1.18 CEILING HEIGHTS → 18-1-18-ceiling-heights.md\n1.19 EXTERNAL LIVING AREAS → 19-1-19-external-living-areas.md\n1.20 WIND MITIGATION → 20-1-20-wind-mitigation.md\n1.21 CHARACTER AREAS → 21-1-21-character-areas.md\n1.22 OXFORD STREET MALL PROVISIONS → 22-1-22-oxford-street-mall-provisions.md\nE2 BONDI BEACHFRONT AREA → 23-e2-bondi-beachfront-area.md\n2.1 GENERAL CONTROLS → 24-2-1-general-controls.md\n2.2 CHARACTER AREAS → 25-2-2-character-areas.md\nE3 LOCAL VILLAGE CENTRES → 26-e3-local-village-centres.md\n3.1 VILLAGE CENTRE SPECIFIC CONTROLS → 27-3-1-village-centre-specific-controls.md\n3.2 GENERIC CONTROLS → 28-3-2-generic-controls.md\nE4 SPECIAL CHARACTER AREAS → 29-e4-special-character-areas.md\n4.1 BONDI HEIGHTS → 30-4-1-bondi-heights.md\n4.2 NORTH BONDI → 31-4-2-north-bondi.md\n4.3 BEN BUCKLER → 32-4-3-ben-buckler.md\nE5 113 MACPHERSON STREET, BRONTE → 33-e5-113-macpherson-street-bronte.md\n5.1 PUBLIC DOMAIN → 34-5-1-public-domain.md\n5.2 BUILT FORM → 35-5-2-built-form.md\n5.3 ACTIVE STREET FRONTAGES → 36-5-3-active-street-frontages.md\n5.4 TRANSPORT → 37-5-4-transport.md\nE6 194-214 OXFORD STREET, 2 NELSON STREET AND OSMUND LANE, BONDI JUNCTION → 38-e6-194-214-oxford-street-2-nelson-street.md\n6.1 BUILT FORM → 39-6-1-built-form.md\n6.2 DESIGN EXCELLENCE → 40-6-2-design-excellence.md\n6.3 PUBLIC DOMAIN → 41-6-3-public-domain.md\n6.4 WASTE → 42-6-4-waste.md\n6.5 ACCESS AND PARKING → 43-6-5-access-and-parking.md\n6.6 PEDESTRIAN AND CYCLEWAY CONNECTIONS → 44-6-6-pedestrian-and-cycleway-connections.md\nE7 EDINA ESTATE → 45-e7-edina-estate.md\n7.1 GENERAL → 46-7-1-general.md\n7.2 SITE LAYOUT → 47-7-2-site-layout.md\n7.3 BUILT FORM → 48-7-3-built-form.md\n7.4 HERITAGE → 49-7-4-heritage.md\n7.5 PUBLIC DOMAIN AND OPEN SPACE → 50-7-5-public-domain-and-open-space.md\n7.6 URBAN ECOLOGY → 51-7-6-urban-ecology.md\n7.7 HIGH-PERFORMANCE BUILDINGS AND SITE RESILIENCE → 52-7-7-high-performance-buildings-and-site.md\n7.8 TRANSPORT AND SITE ACCESS → 53-7-8-transport-and-site-access.md\n7.9 WASTE → 54-7-9-waste.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "car parking, subdivision, heritage items and conservation areas, trees, waste management"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_-_Part_E_-_Site_Specific_Development.pdf, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_-_Part_E_-_Site_Specific_Development.pdf"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-e-site-specific-development, part-e-site-specific-development"
+    }
+   ]
+  },
+  {
+   "MDPath": "waverley-development-control-plan-2022/part-f-development-specific",
+   "Title": "DCP-NSW-WAVERLEY-2022--PART-F-DEVELOPMENT-SPECIFIC",
+   "RowLevel": "Chapter",
+   "ParentMDPath": "waverley-development-control-plan-2022",
+   "ParentDCP": "DCP-NSW-WAVERLEY-2022",
+   "Counci": "NSW-C-WAVERLEY",
+   "LEP": "LEP-NSW-WAVERLEY-2012",
+   "instrument_type": "LEP",
+   "SEPPPrecinct": "",
+   "index_file": "_index.md",
+   "format": "new",
+   "master_title": "Waverley Development Control Plan 2022 - Part F Development Specific",
+   "set": [
+    {
+     "FieldName": "RowLevel",
+     "FieldValue": "Chapter"
+    },
+    {
+     "FieldName": "DCPName",
+     "FieldValue": "Waverley Development Control Plan 2022"
+    },
+    {
+     "FieldName": "ChapterTitle",
+     "FieldValue": "Part F Development Specific"
+    },
+    {
+     "FieldName": "Master_x0020_MD_x0020_Link",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-f-development-specific, part-f-development-specific"
+    },
+    {
+     "FieldName": "MDPath",
+     "FieldValue": "waverley-development-control-plan-2022/part-f-development-specific"
+    },
+    {
+     "FieldName": "Current_x0020_From",
+     "FieldValue": "2022-12-08"
+    },
+    {
+     "FieldName": "Sections",
+     "FieldValue": "F1 SHARED RESIDENTIAL ACCOMMODATION → 01-f1-shared-residential-accommodation.md\nF2 TOURIST AND VISITOR ACCOMMODATION → 02-f2-tourist-and-visitor-accommodation.md\nF3 CHILD CARE CENTRES → 03-f3-child-care-centres.md\nF4 PLACES OF PUBLIC WORSHIP → 04-f4-places-of-public-worship.md\nF5 HORTICULTURE → 05-f5-horticulture.md"
+    },
+    {
+     "FieldName": "LandUses",
+     "FieldValue": "centre-based child care, tourist and visitor accommodation, places of public worship"
+    },
+    {
+     "FieldName": "Flow_x0020_Note",
+     "FieldValue": "from _index.md"
+    }
+   ],
+   "fill_if_blank": [
+    {
+     "FieldName": "AuthoritativeURL",
+     "FieldValue": "https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_F_-_Development_Specific.pdf/_nocache, https://www.waverley.nsw.gov.au/media/documents/building_and_development/dcp/dcp_2022/Waverley_DCP_2022_Part_F_-_Development_Specific.pdf/_nocache"
+    },
+    {
+     "FieldName": "Appliesto",
+     "FieldValue": "Whole LGA"
+    },
+    {
+     "FieldName": "Status",
+     "FieldValue": "In-force"
+    },
+    {
+     "FieldName": "LocalMDLink",
+     "FieldValue": "https://planfortomorrow.sharepoint.com/sites/Planfortomorrow/Shared%20Documents/00%20NSW-Planning-Resources/dcp/waverley-development-control-plan-2022/part-f-development-specific, part-f-development-specific"
     }
    ]
   },
